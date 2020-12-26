@@ -53,38 +53,46 @@ $this->db->order_by("id_menu","ASC");
 $menu=$this->db->get_where("main_menu",array());
 
 foreach($menu->result() as $level1)
-{ ?>
+{ 
+	
+$aktif=""; 
+$sa="";
+$sb="";
+?>
 	<?php
 	$id_main1=$level1->id_main;
 	$id_menu1=$level1->id_menu;
 	?>
-	<?php 
-		if($level1->link==$uri1 || $level1->link==$uri){ 
-			$aktif="active"; 
-			$sa="submenu";
-			$sb="show";
-		}else{
-			$aktif="";
-			$sa="";
-			$sb="";
-		}	
-		?>
-	<?php if($level1->level==1 && $level1->dropdown=='no'){?>
 		
-		<li class='nav-item <?php echo $aktif; ?>' >
+	<?php 
+	$aktif="";
+	$sa="";
+	$sb=""; 
+	/*if($level1->link==$uri1 || $level1->link==$uri){ 
+		$aktif="active";
+		$sa="submenu";
+		$sb="show"; 
+	}*/
+	?>
+	<?php if($level1->level==1 && $level1->dropdown=='no'){?>	
+		
+		<li class='nav-item <?php echo $level1->link ?> <?php echo $aktif; ?>' >
 			<a class="menuclick" href="<?php echo base_url().$level1->link;?>" <?php if($level1->target=='newtab'){ echo "target='_blank'";}?> >
       		<i class="<?php echo $level1->icon;?>"></i>
 			<p><?php echo $level1->nama;?></p>
 			</a>
 		</li>
-	<?php }elseif($level1->level==1 && $level1->dropdown=='yes'){ ?>
-		<li class='nav-item <?php echo $sa; ?> <?php echo $aktif; ?>'>
+	<?php } ?>
+	
+	<?php if($level1->level==1 && $level1->dropdown=='yes'){ ?>
+		
+		<li class='nav-item <?php echo $level1->link ?> <?php echo $sa; ?> <?php echo $aktif; ?>'>
 			<a data-toggle="collapse" href="#nu<?php echo $id_menu1?>">
 			<i class="<?php echo $level1->icon;?>"></i>
 			<p><?php echo $level1->nama;?></p>
 			<span class="caret"></span>
 			</a>
-			<div class="collapse <?php echo $sb; ?>" id="nu<?php echo $id_menu1?>">
+			<div class="collapse <?php echo $level1->link ?> <?php echo $sb; ?>" id="nu<?php echo $id_menu1?>">
 				<ul class="nav nav-collapse">
 				<?php
 				$this->db->where("hak_akses",$this->m_konfig->getIdUG($this->session->userdata("level")));
@@ -92,7 +100,7 @@ foreach($menu->result() as $level1)
 				$menu2=$this->db->get_where("main_menu",array("level"=>2,"id_main"=>$id_menu1));
 				foreach($menu2->result() as $level2){
 				?>
-				<li class="nav-sub <?php echo $sa; ?> <?php echo $aktif; ?>">
+				<li class="nav-sub <?php echo $level2->link ?> <?php echo $sa; ?> <?php echo $aktif; ?>">
 				<a style="padding-left:48px" class="menuclick" href="<?php echo base_url().$level2->link;?>" <?php if($level1->target=='newtab'){ echo "target='_blank'";}?>>
 				<span class="sub-item"><?php echo $level2->nama;?></span>
 				</a>

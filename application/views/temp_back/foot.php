@@ -84,14 +84,17 @@
 	})
 </script> 
 		
-<!--script>
-jQuery(document).ready(function(){ 
-   
-});
-$(window).on('load', function(){
+<script>
+jQuery(document).ready(function(){ });
 
+
+var uri_1='<?php echo $this->uri->segment(1) ?>';
+var uri_2='<?php echo $this->uri->segment(2) ?>';
+var uri_='<?php echo $this->uri->segment(1) ?>/<?php echo $this->uri->segment(2) ?>';
+$(window).on('load', function(){
+	if(uri_1){$('.'+uri_1+'').addClass('submenu active'); }
 });
-</script-->
+</script>
 <script>
   $(function () {
 	activemenu();
