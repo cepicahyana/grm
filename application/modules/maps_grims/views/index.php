@@ -45,6 +45,20 @@
     right:10px;
 }
 
+#m_info_position{
+    position: absolute;
+    z-index: 1;
+    bottom:20px;
+    left:40%;
+    background:#fff;
+    opacity: 0.8;
+    color:#000;
+    font-size: 11px;
+    padding:4px;
+    border-radius: 3px;
+}
+
+
 .btnmaps{
     background-color: rgb(255, 255, 255); border: 2px solid rgb(255, 255, 255); border-radius: 3px; box-shadow: rgba(0, 0, 0, 0.2) 0px 1px 3px;
 }
@@ -168,6 +182,9 @@ $img_1='';
     </button>
 </div>
 
+<div id="m_info_position">
+    LatLong: <span id="latlong"><?php echo $this->m_konfig->konfigmaps(2)?>, <?php echo $this->m_konfig->konfigmaps(3)?></span>
+</div>
 
 <div id="map_canvas"></div>
 
@@ -509,7 +526,8 @@ $(document).ready(function(){
                 removeLine();
                 showPline(markersOnMap);
                 }else{
-                    alert('No history');
+                    //alert('No history');
+                    toastr['info']("No History this day");
                 }
             }
         });
@@ -532,7 +550,8 @@ $(document).ready(function(){
                 removeLine();
                 showPline(markersOnMap);
                 }else{
-                    alert('No history');
+                    //alert('No history');
+                    toastr['info']("No History this day");
                 }
             }
         });
@@ -610,6 +629,9 @@ $(document).ready(function(){
         map.controls[google.maps.ControlPosition.TOP_RIGHT].push(centerControlDiv);
 
         //addMarkerInfo();
+        google.maps.event.addListener(map,'mousemove',function(event) {
+            document.getElementById('latlong').innerHTML = event.latLng.lat() + ', ' + event.latLng.lng()
+        });	
     }
 
 
@@ -901,7 +923,7 @@ function update_tracking_kri(){
             if(data["table"]==true){
                 toastr['success']("Successfully update");
             }else{
-                notif("<b>Proscess Failed!!</b>");
+                toastr['danger']("Successfully update");
             }
         }		
     });
