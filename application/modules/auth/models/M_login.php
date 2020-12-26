@@ -42,7 +42,7 @@ class M_login extends CI_Model  {
 			$level=$this->m_konfig->goField("data_kri","level",$this->db->where("id",$login->id));
 			$profilename=$this->m_konfig->goField("data_kri","profilename",$this->db->where("id",$login->id));
 			$this->saveSessionLog($login->id,$profilename,$level,$pass,'data_kri');
-			$this->updateLoginTable("data_kri",$login->id);
+			$this->updateLoginTableMember("data_kri",$login->id);
 			$var["validasi"]=true; 
 			$var["direct"]=$this->direct($level);
 		}else{
@@ -77,6 +77,13 @@ class M_login extends CI_Model  {
 	{	
 		$this->db->set("last_login",date("Y-m-d H:i:s"));
 		$this->db->where("id_admin",$id);
+		return	$this->db->update($tbl);
+	}
+
+	function updateLoginTableMember($tbl,$id)
+	{	
+		$this->db->set("last_login",date("Y-m-d H:i:s"));
+		$this->db->where("id",$id);
 		return	$this->db->update($tbl);
 	}
 	 
