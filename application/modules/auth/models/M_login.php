@@ -41,8 +41,8 @@ class M_login extends CI_Model  {
 			$login=$loginMember->row();
 			$level=$this->m_konfig->goField("data_kri","level",$this->db->where("id",$login->id));
 			$profilename=$this->m_konfig->goField("data_kri","profilename",$this->db->where("id",$login->id));
-			$this->saveSessionLog($login->id_admin,$profilename,$level,$pass,'data_kri');
-			$this->updateLoginTable("data_kri",$login->id_admin);
+			$this->saveSessionLog($login->id,$profilename,$level,$pass,'data_kri');
+			$this->updateLoginTable("data_kri",$login->id);
 			$var["validasi"]=true; 
 			$var["direct"]=$this->direct($level);
 		}else{
