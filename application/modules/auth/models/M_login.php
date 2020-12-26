@@ -39,10 +39,10 @@ class M_login extends CI_Model  {
 		elseif($loginMember->num_rows()==1)
 		{
 			$login=$loginMember->row();
-			$level=$this->m_konfig->goField("data_member","level",$this->db->where("id_admin",$login->id_admin));
-			$profilename=$this->m_konfig->goField("data_member","profilename",$this->db->where("id_admin",$login->id_admin));
-			$this->saveSessionLog($login->id_admin,$profilename,$level,$pass,'data_member');
-			$this->updateLoginTable("data_member",$login->id_admin);
+			$level=$this->m_konfig->goField("data_kri","level",$this->db->where("id",$login->id));
+			$profilename=$this->m_konfig->goField("data_kri","profilename",$this->db->where("id",$login->id));
+			$this->saveSessionLog($login->id_admin,$profilename,$level,$pass,'data_kri');
+			$this->updateLoginTable("data_kri",$login->id_admin);
 			$var["validasi"]=true; 
 			$var["direct"]=$this->direct($level);
 		}else{
