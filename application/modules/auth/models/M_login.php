@@ -79,10 +79,6 @@ class M_login extends CI_Model  {
 		$this->db->where("id_admin",$id);
 		return	$this->db->update($tbl);
 	}
-	
-
-
+	 
 }
-
-?>
  

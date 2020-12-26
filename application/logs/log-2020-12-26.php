@@ -1851,3 +1851,276 @@ DEBUG - 2020-12-26 04:21:12 --> Maps_grims MX_Controller Initialized
 DEBUG - 2020-12-26 04:21:12 --> File loaded: D:\xampp72\htdocs\app_grims\application\modules/maps_grims/models/Model.php
 INFO - 2020-12-26 10:21:12 --> Final output sent to browser
 DEBUG - 2020-12-26 10:21:12 --> Total execution time: 0.7384
+INFO - 2020-12-26 06:13:36 --> Config Class Initialized
+INFO - 2020-12-26 06:13:36 --> Hooks Class Initialized
+DEBUG - 2020-12-26 06:13:36 --> UTF-8 Support Enabled
+INFO - 2020-12-26 06:13:36 --> Utf8 Class Initialized
+INFO - 2020-12-26 06:13:36 --> URI Class Initialized
+DEBUG - 2020-12-26 06:13:37 --> No URI present. Default controller set.
+INFO - 2020-12-26 06:13:37 --> Router Class Initialized
+INFO - 2020-12-26 06:13:37 --> Output Class Initialized
+INFO - 2020-12-26 06:13:37 --> Security Class Initialized
+DEBUG - 2020-12-26 06:13:37 --> Global POST, GET and COOKIE data sanitized
+INFO - 2020-12-26 06:13:37 --> Input Class Initialized
+INFO - 2020-12-26 06:13:37 --> Language Class Initialized
+INFO - 2020-12-26 06:13:37 --> Language Class Initialized
+INFO - 2020-12-26 06:13:37 --> Config Class Initialized
+INFO - 2020-12-26 06:13:37 --> Loader Class Initialized
+INFO - 2020-12-26 06:13:37 --> Helper loaded: url_helper
+INFO - 2020-12-26 06:13:37 --> Helper loaded: html_helper
+INFO - 2020-12-26 06:13:37 --> Helper loaded: file_helper
+INFO - 2020-12-26 06:13:37 --> Helper loaded: form_helper
+INFO - 2020-12-26 06:13:37 --> Helper loaded: security_helper
+INFO - 2020-12-26 06:13:37 --> Helper loaded: xss_helper
+INFO - 2020-12-26 06:13:37 --> Helper loaded: slug_helper
+INFO - 2020-12-26 06:13:37 --> Database Driver Class Initialized
+ERROR - 2020-12-26 06:13:37 --> Severity: Warning --> mysqli::real_connect(): (HY000/1045): Access denied for user 'idweb1'@'localhost' (using password: YES) F:\XAMPP\htdocs\grm\system\database\drivers\mysqli\mysqli_driver.php 203
+ERROR - 2020-12-26 06:13:37 --> Unable to connect to the database
+INFO - 2020-12-26 06:13:37 --> Language file loaded: language/english/db_lang.php
+INFO - 2020-12-26 06:17:57 --> Config Class Initialized
+INFO - 2020-12-26 06:17:57 --> Hooks Class Initialized
+DEBUG - 2020-12-26 06:17:57 --> UTF-8 Support Enabled
+INFO - 2020-12-26 06:17:57 --> Utf8 Class Initialized
+INFO - 2020-12-26 06:17:57 --> URI Class Initialized
+DEBUG - 2020-12-26 06:17:57 --> No URI present. Default controller set.
+INFO - 2020-12-26 06:17:57 --> Router Class Initialized
+INFO - 2020-12-26 06:17:57 --> Output Class Initialized
+INFO - 2020-12-26 06:17:57 --> Security Class Initialized
+DEBUG - 2020-12-26 06:17:57 --> Global POST, GET and COOKIE data sanitized
+INFO - 2020-12-26 06:17:57 --> Input Class Initialized
+INFO - 2020-12-26 06:17:57 --> Language Class Initialized
+INFO - 2020-12-26 06:17:57 --> Language Class Initialized
+INFO - 2020-12-26 06:17:57 --> Config Class Initialized
+INFO - 2020-12-26 06:17:57 --> Loader Class Initialized
+INFO - 2020-12-26 06:17:57 --> Helper loaded: url_helper
+INFO - 2020-12-26 06:17:57 --> Helper loaded: html_helper
+INFO - 2020-12-26 06:17:57 --> Helper loaded: file_helper
+INFO - 2020-12-26 06:17:57 --> Helper loaded: form_helper
+INFO - 2020-12-26 06:17:57 --> Helper loaded: security_helper
+INFO - 2020-12-26 06:17:57 --> Helper loaded: xss_helper
+INFO - 2020-12-26 06:17:57 --> Helper loaded: slug_helper
+INFO - 2020-12-26 06:17:57 --> Database Driver Class Initialized
+ERROR - 2020-12-26 06:17:57 --> Severity: Warning --> mysqli::real_connect(): (HY000/1045): Access denied for user 'idweb1'@'localhost' (using password: YES) F:\XAMPP\htdocs\grm\system\database\drivers\mysqli\mysqli_driver.php 203
+ERROR - 2020-12-26 06:17:57 --> Unable to connect to the database
+INFO - 2020-12-26 06:17:57 --> Language file loaded: language/english/db_lang.php
+INFO - 2020-12-26 06:17:59 --> Config Class Initialized
+INFO - 2020-12-26 06:17:59 --> Hooks Class Initialized
+DEBUG - 2020-12-26 06:17:59 --> UTF-8 Support Enabled
+INFO - 2020-12-26 06:17:59 --> Utf8 Class Initialized
+INFO - 2020-12-26 06:17:59 --> URI Class Initialized
+DEBUG - 2020-12-26 06:17:59 --> No URI present. Default controller set.
+INFO - 2020-12-26 06:17:59 --> Router Class Initialized
+INFO - 2020-12-26 06:17:59 --> Output Class Initialized
+INFO - 2020-12-26 06:17:59 --> Security Class Initialized
+DEBUG - 2020-12-26 06:17:59 --> Global POST, GET and COOKIE data sanitized
+INFO - 2020-12-26 06:17:59 --> Input Class Initialized
+INFO - 2020-12-26 06:17:59 --> Language Class Initialized
+INFO - 2020-12-26 06:17:59 --> Language Class Initialized
+INFO - 2020-12-26 06:17:59 --> Config Class Initialized
+INFO - 2020-12-26 06:17:59 --> Loader Class Initialized
+INFO - 2020-12-26 06:17:59 --> Helper loaded: url_helper
+INFO - 2020-12-26 06:17:59 --> Helper loaded: html_helper
+INFO - 2020-12-26 06:17:59 --> Helper loaded: file_helper
+INFO - 2020-12-26 06:17:59 --> Helper loaded: form_helper
+INFO - 2020-12-26 06:17:59 --> Helper loaded: security_helper
+INFO - 2020-12-26 06:18:00 --> Helper loaded: xss_helper
+INFO - 2020-12-26 06:18:00 --> Helper loaded: slug_helper
+INFO - 2020-12-26 06:18:00 --> Database Driver Class Initialized
+ERROR - 2020-12-26 06:18:00 --> Severity: Warning --> mysqli::real_connect(): (HY000/1045): Access denied for user 'idweb1'@'localhost' (using password: YES) F:\XAMPP\htdocs\grm\system\database\drivers\mysqli\mysqli_driver.php 203
+ERROR - 2020-12-26 06:18:00 --> Unable to connect to the database
+INFO - 2020-12-26 06:18:00 --> Language file loaded: language/english/db_lang.php
+INFO - 2020-12-26 06:18:06 --> Config Class Initialized
+INFO - 2020-12-26 06:18:06 --> Hooks Class Initialized
+DEBUG - 2020-12-26 06:18:06 --> UTF-8 Support Enabled
+INFO - 2020-12-26 06:18:06 --> Utf8 Class Initialized
+INFO - 2020-12-26 06:18:06 --> URI Class Initialized
+DEBUG - 2020-12-26 06:18:06 --> No URI present. Default controller set.
+INFO - 2020-12-26 06:18:06 --> Router Class Initialized
+INFO - 2020-12-26 06:18:06 --> Output Class Initialized
+INFO - 2020-12-26 06:18:06 --> Security Class Initialized
+DEBUG - 2020-12-26 06:18:06 --> Global POST, GET and COOKIE data sanitized
+INFO - 2020-12-26 06:18:06 --> Input Class Initialized
+INFO - 2020-12-26 06:18:06 --> Language Class Initialized
+INFO - 2020-12-26 06:18:06 --> Language Class Initialized
+INFO - 2020-12-26 06:18:07 --> Config Class Initialized
+INFO - 2020-12-26 06:18:07 --> Loader Class Initialized
+INFO - 2020-12-26 06:18:07 --> Helper loaded: url_helper
+INFO - 2020-12-26 06:18:07 --> Helper loaded: html_helper
+INFO - 2020-12-26 06:18:07 --> Helper loaded: file_helper
+INFO - 2020-12-26 06:18:07 --> Helper loaded: form_helper
+INFO - 2020-12-26 06:18:07 --> Helper loaded: security_helper
+INFO - 2020-12-26 06:18:07 --> Helper loaded: xss_helper
+INFO - 2020-12-26 06:18:07 --> Helper loaded: slug_helper
+INFO - 2020-12-26 06:18:07 --> Database Driver Class Initialized
+ERROR - 2020-12-26 06:18:07 --> Severity: Warning --> mysqli::real_connect(): (HY000/1045): Access denied for user 'idweb1'@'localhost' (using password: YES) F:\XAMPP\htdocs\grm\system\database\drivers\mysqli\mysqli_driver.php 203
+ERROR - 2020-12-26 06:18:07 --> Unable to connect to the database
+INFO - 2020-12-26 06:18:07 --> Language file loaded: language/english/db_lang.php
+INFO - 2020-12-26 06:18:18 --> Config Class Initialized
+INFO - 2020-12-26 06:18:18 --> Hooks Class Initialized
+DEBUG - 2020-12-26 06:18:18 --> UTF-8 Support Enabled
+INFO - 2020-12-26 06:18:18 --> Utf8 Class Initialized
+INFO - 2020-12-26 06:18:18 --> URI Class Initialized
+DEBUG - 2020-12-26 06:18:18 --> No URI present. Default controller set.
+INFO - 2020-12-26 06:18:18 --> Config Class Initialized
+INFO - 2020-12-26 06:18:18 --> Hooks Class Initialized
+DEBUG - 2020-12-26 06:18:18 --> UTF-8 Support Enabled
+INFO - 2020-12-26 06:18:18 --> Utf8 Class Initialized
+INFO - 2020-12-26 06:18:18 --> URI Class Initialized
+DEBUG - 2020-12-26 06:18:18 --> No URI present. Default controller set.
+INFO - 2020-12-26 06:18:18 --> Router Class Initialized
+INFO - 2020-12-26 06:18:18 --> Router Class Initialized
+INFO - 2020-12-26 06:18:18 --> Output Class Initialized
+INFO - 2020-12-26 06:18:18 --> Security Class Initialized
+DEBUG - 2020-12-26 06:18:18 --> Global POST, GET and COOKIE data sanitized
+INFO - 2020-12-26 06:18:18 --> Input Class Initialized
+INFO - 2020-12-26 06:18:18 --> Language Class Initialized
+INFO - 2020-12-26 06:18:18 --> Language Class Initialized
+INFO - 2020-12-26 06:18:18 --> Config Class Initialized
+INFO - 2020-12-26 06:18:18 --> Loader Class Initialized
+INFO - 2020-12-26 06:18:18 --> Helper loaded: url_helper
+INFO - 2020-12-26 06:18:18 --> Helper loaded: html_helper
+INFO - 2020-12-26 06:18:18 --> Output Class Initialized
+INFO - 2020-12-26 06:18:18 --> Security Class Initialized
+DEBUG - 2020-12-26 06:18:18 --> Global POST, GET and COOKIE data sanitized
+INFO - 2020-12-26 06:18:18 --> Input Class Initialized
+INFO - 2020-12-26 06:18:18 --> Language Class Initialized
+INFO - 2020-12-26 06:18:18 --> Language Class Initialized
+INFO - 2020-12-26 06:18:18 --> Config Class Initialized
+INFO - 2020-12-26 06:18:18 --> Loader Class Initialized
+INFO - 2020-12-26 06:18:18 --> Helper loaded: url_helper
+INFO - 2020-12-26 06:18:18 --> Helper loaded: file_helper
+INFO - 2020-12-26 06:18:18 --> Helper loaded: form_helper
+INFO - 2020-12-26 06:18:18 --> Helper loaded: security_helper
+INFO - 2020-12-26 06:18:18 --> Helper loaded: xss_helper
+INFO - 2020-12-26 06:18:18 --> Helper loaded: slug_helper
+INFO - 2020-12-26 06:18:18 --> Database Driver Class Initialized
+ERROR - 2020-12-26 06:18:18 --> Severity: Warning --> mysqli::real_connect(): (HY000/1045): Access denied for user 'idweb1'@'localhost' (using password: YES) F:\XAMPP\htdocs\grm\system\database\drivers\mysqli\mysqli_driver.php 203
+INFO - 2020-12-26 06:18:18 --> Helper loaded: html_helper
+INFO - 2020-12-26 06:18:18 --> Helper loaded: file_helper
+INFO - 2020-12-26 06:18:18 --> Helper loaded: form_helper
+INFO - 2020-12-26 06:18:18 --> Helper loaded: security_helper
+INFO - 2020-12-26 06:18:18 --> Helper loaded: xss_helper
+INFO - 2020-12-26 06:18:18 --> Helper loaded: slug_helper
+INFO - 2020-12-26 06:18:18 --> Database Driver Class Initialized
+ERROR - 2020-12-26 06:18:18 --> Unable to connect to the database
+ERROR - 2020-12-26 06:18:18 --> Severity: Warning --> mysqli::real_connect(): (HY000/1045): Access denied for user 'idweb1'@'localhost' (using password: YES) F:\XAMPP\htdocs\grm\system\database\drivers\mysqli\mysqli_driver.php 203
+ERROR - 2020-12-26 06:18:18 --> Unable to connect to the database
+INFO - 2020-12-26 06:18:18 --> Language file loaded: language/english/db_lang.php
+INFO - 2020-12-26 06:18:18 --> Language file loaded: language/english/db_lang.php
+INFO - 2020-12-26 06:18:54 --> Config Class Initialized
+INFO - 2020-12-26 06:18:54 --> Hooks Class Initialized
+DEBUG - 2020-12-26 06:18:54 --> UTF-8 Support Enabled
+INFO - 2020-12-26 06:18:54 --> Utf8 Class Initialized
+INFO - 2020-12-26 06:18:54 --> URI Class Initialized
+DEBUG - 2020-12-26 06:18:54 --> No URI present. Default controller set.
+INFO - 2020-12-26 06:18:54 --> Router Class Initialized
+INFO - 2020-12-26 06:18:54 --> Output Class Initialized
+INFO - 2020-12-26 06:18:54 --> Security Class Initialized
+DEBUG - 2020-12-26 06:18:54 --> Global POST, GET and COOKIE data sanitized
+INFO - 2020-12-26 06:18:54 --> Input Class Initialized
+INFO - 2020-12-26 06:18:54 --> Language Class Initialized
+INFO - 2020-12-26 06:18:54 --> Language Class Initialized
+INFO - 2020-12-26 06:18:54 --> Config Class Initialized
+INFO - 2020-12-26 06:18:54 --> Loader Class Initialized
+INFO - 2020-12-26 06:18:54 --> Helper loaded: url_helper
+INFO - 2020-12-26 06:18:54 --> Helper loaded: html_helper
+INFO - 2020-12-26 06:18:54 --> Helper loaded: file_helper
+INFO - 2020-12-26 06:18:54 --> Helper loaded: form_helper
+INFO - 2020-12-26 06:18:54 --> Helper loaded: security_helper
+INFO - 2020-12-26 06:18:54 --> Helper loaded: xss_helper
+INFO - 2020-12-26 06:18:54 --> Helper loaded: slug_helper
+INFO - 2020-12-26 06:18:54 --> Database Driver Class Initialized
+DEBUG - 2020-12-26 06:18:54 --> Session: "sess_save_path" is empty; using "session.save_path" value from php.ini.
+INFO - 2020-12-26 06:18:54 --> Session: Class initialized using 'files' driver.
+INFO - 2020-12-26 06:18:54 --> Language file loaded: language/english/pagination_lang.php
+INFO - 2020-12-26 06:18:54 --> Pagination Class Initialized
+INFO - 2020-12-26 06:18:54 --> Email Class Initialized
+INFO - 2020-12-26 06:18:54 --> Model "M_konfig" initialized
+INFO - 2020-12-26 06:18:54 --> Model "M_reff" initialized
+INFO - 2020-12-26 06:18:54 --> Model "M_total" initialized
+INFO - 2020-12-26 06:18:54 --> Controller Class Initialized
+DEBUG - 2020-12-26 06:18:54 --> File loaded: F:\XAMPP\htdocs\grm\application\modules/auth/models/M_login.php
+DEBUG - 2020-12-26 12:18:54 --> File loaded: F:\XAMPP\htdocs\grm\application\views\temp_login/head.php
+DEBUG - 2020-12-26 12:18:54 --> File loaded: F:\XAMPP\htdocs\grm\application\modules/auth/views/index.php
+DEBUG - 2020-12-26 12:18:54 --> File loaded: F:\XAMPP\htdocs\grm\application\views\temp_login/konten.php
+DEBUG - 2020-12-26 12:18:55 --> File loaded: F:\XAMPP\htdocs\grm\application\views\temp_login/footer.php
+DEBUG - 2020-12-26 12:18:55 --> File loaded: F:\XAMPP\htdocs\grm\application\views\temp_login/main.php
+INFO - 2020-12-26 12:18:55 --> Final output sent to browser
+DEBUG - 2020-12-26 12:18:55 --> Total execution time: 0.9081
+INFO - 2020-12-26 06:19:01 --> Config Class Initialized
+INFO - 2020-12-26 06:19:01 --> Hooks Class Initialized
+DEBUG - 2020-12-26 06:19:01 --> UTF-8 Support Enabled
+INFO - 2020-12-26 06:19:01 --> Utf8 Class Initialized
+INFO - 2020-12-26 06:19:01 --> URI Class Initialized
+INFO - 2020-12-26 06:19:01 --> Router Class Initialized
+INFO - 2020-12-26 06:19:01 --> Output Class Initialized
+INFO - 2020-12-26 06:19:01 --> Security Class Initialized
+DEBUG - 2020-12-26 06:19:01 --> Global POST, GET and COOKIE data sanitized
+INFO - 2020-12-26 06:19:01 --> Input Class Initialized
+INFO - 2020-12-26 06:19:01 --> Language Class Initialized
+INFO - 2020-12-26 06:19:01 --> Language Class Initialized
+INFO - 2020-12-26 06:19:01 --> Config Class Initialized
+INFO - 2020-12-26 06:19:01 --> Loader Class Initialized
+INFO - 2020-12-26 06:19:01 --> Helper loaded: url_helper
+INFO - 2020-12-26 06:19:01 --> Helper loaded: html_helper
+INFO - 2020-12-26 06:19:01 --> Helper loaded: file_helper
+INFO - 2020-12-26 06:19:01 --> Helper loaded: form_helper
+INFO - 2020-12-26 06:19:01 --> Helper loaded: security_helper
+INFO - 2020-12-26 06:19:01 --> Helper loaded: xss_helper
+INFO - 2020-12-26 06:19:01 --> Helper loaded: slug_helper
+INFO - 2020-12-26 06:19:01 --> Database Driver Class Initialized
+DEBUG - 2020-12-26 06:19:01 --> Session: "sess_save_path" is empty; using "session.save_path" value from php.ini.
+INFO - 2020-12-26 06:19:01 --> Session: Class initialized using 'files' driver.
+INFO - 2020-12-26 06:19:01 --> Language file loaded: language/english/pagination_lang.php
+INFO - 2020-12-26 06:19:01 --> Pagination Class Initialized
+INFO - 2020-12-26 06:19:01 --> Email Class Initialized
+INFO - 2020-12-26 06:19:01 --> Model "M_konfig" initialized
+INFO - 2020-12-26 06:19:01 --> Model "M_reff" initialized
+INFO - 2020-12-26 06:19:01 --> Model "M_total" initialized
+INFO - 2020-12-26 06:19:01 --> Controller Class Initialized
+DEBUG - 2020-12-26 06:19:01 --> File loaded: F:\XAMPP\htdocs\grm\application\modules/auth/models/M_login.php
+INFO - 2020-12-26 12:19:01 --> Final output sent to browser
+DEBUG - 2020-12-26 12:19:01 --> Total execution time: 0.4466
+INFO - 2020-12-26 06:19:01 --> Config Class Initialized
+INFO - 2020-12-26 06:19:01 --> Hooks Class Initialized
+DEBUG - 2020-12-26 06:19:01 --> UTF-8 Support Enabled
+INFO - 2020-12-26 06:19:01 --> Utf8 Class Initialized
+INFO - 2020-12-26 06:19:01 --> URI Class Initialized
+INFO - 2020-12-26 06:19:01 --> Router Class Initialized
+INFO - 2020-12-26 06:19:01 --> Output Class Initialized
+INFO - 2020-12-26 06:19:01 --> Security Class Initialized
+DEBUG - 2020-12-26 06:19:01 --> Global POST, GET and COOKIE data sanitized
+INFO - 2020-12-26 06:19:01 --> Input Class Initialized
+INFO - 2020-12-26 06:19:01 --> Language Class Initialized
+INFO - 2020-12-26 06:19:01 --> Language Class Initialized
+INFO - 2020-12-26 06:19:01 --> Config Class Initialized
+INFO - 2020-12-26 06:19:01 --> Loader Class Initialized
+INFO - 2020-12-26 06:19:01 --> Helper loaded: url_helper
+INFO - 2020-12-26 06:19:01 --> Helper loaded: html_helper
+INFO - 2020-12-26 06:19:01 --> Helper loaded: file_helper
+INFO - 2020-12-26 06:19:01 --> Helper loaded: form_helper
+INFO - 2020-12-26 06:19:01 --> Helper loaded: security_helper
+INFO - 2020-12-26 06:19:01 --> Helper loaded: xss_helper
+INFO - 2020-12-26 06:19:02 --> Helper loaded: slug_helper
+INFO - 2020-12-26 06:19:02 --> Database Driver Class Initialized
+DEBUG - 2020-12-26 06:19:02 --> Session: "sess_save_path" is empty; using "session.save_path" value from php.ini.
+INFO - 2020-12-26 06:19:02 --> Session: Class initialized using 'files' driver.
+INFO - 2020-12-26 06:19:02 --> Language file loaded: language/english/pagination_lang.php
+INFO - 2020-12-26 06:19:02 --> Pagination Class Initialized
+INFO - 2020-12-26 06:19:02 --> Email Class Initialized
+INFO - 2020-12-26 06:19:02 --> Model "M_konfig" initialized
+INFO - 2020-12-26 06:19:02 --> Model "M_reff" initialized
+INFO - 2020-12-26 06:19:02 --> Model "M_total" initialized
+INFO - 2020-12-26 06:19:02 --> Controller Class Initialized
+DEBUG - 2020-12-26 06:19:02 --> Maps_grims MX_Controller Initialized
+DEBUG - 2020-12-26 06:19:02 --> File loaded: F:\XAMPP\htdocs\grm\application\modules/maps_grims/models/Model.php
+DEBUG - 2020-12-26 12:19:02 --> File loaded: F:\XAMPP\htdocs\grm\application\views\temp_maps/head.php
+DEBUG - 2020-12-26 12:19:02 --> File loaded: F:\XAMPP\htdocs\grm\application\views\temp_maps/sidebar_right.php
+DEBUG - 2020-12-26 12:19:02 --> File loaded: F:\XAMPP\htdocs\grm\application\modules/maps_grims/views/index.php
+DEBUG - 2020-12-26 12:19:02 --> File loaded: F:\XAMPP\htdocs\grm\application\views\temp_maps/quick_bar.php
+DEBUG - 2020-12-26 12:19:02 --> File loaded: F:\XAMPP\htdocs\grm\application\views\temp_maps/toggle.php
+DEBUG - 2020-12-26 12:19:02 --> File loaded: F:\XAMPP\htdocs\grm\application\views\temp_maps/konten.php
+DEBUG - 2020-12-26 12:19:02 --> File loaded: F:\XAMPP\htdocs\grm\application\views\temp_maps/foot.php
+DEBUG - 2020-12-26 12:19:02 --> File loaded: F:\XAMPP\htdocs\grm\application\views\temp_maps/main.php
+INFO - 2020-12-26 12:19:02 --> Final output sent to browser
+DEBUG - 2020-12-26 12:19:02 --> Total execution time: 0.8860
