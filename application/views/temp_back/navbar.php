@@ -157,7 +157,7 @@ $headername=$this->m_konfig->konfigurasi(14);
 							</ul>
 						</li>
 						
-						<li class="nav-item dropdown hidden-caret">
+						<!--li class="nav-item dropdown hidden-caret">
 							<a class="nav-link" data-toggle="dropdown" href="#" aria-expanded="false">
 								<i class="fas fa-layer-group"></i>
 							</a>
@@ -221,7 +221,7 @@ $headername=$this->m_konfig->konfigurasi(14);
 									</div>
 								</div>
 							</div>
-						</li>
+						</li-->
 						<li class="nav-item dropdown hidden-caret">
 							<?php $img2=$profileimg;
 							if($img2!=''){
