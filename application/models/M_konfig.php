@@ -51,9 +51,24 @@ class M_konfig extends CI_Model  {
 	}
 	
 	//PROFILE-----------------------------------------------
-	function dataProfile($id)
+	function dataProfile($id,$level)
 	{
-		return $this->db->get_where("admin",array("id_admin"=>$id))->row();
+		if($level<=2){
+			return $this->db->get_where("admin",array("id_admin"=>$id))->row();
+		}elseif($level==3){
+			return $this->db->get_where("data_kri",array("id"=>$id))->row();
+		}elseif($level==4){
+			return $this->db->get_where("data_lantamal",array("id"=>$id))->row();
+		}elseif($level==5){
+			return $this->db->get_where("data_lanal",array("id"=>$id))->row();
+		}elseif($level==6){
+			return $this->db->get_where("data_brigif",array("id"=>$id))->row();
+		}elseif($level==7){
+			return $this->db->get_where("data_posal",array("id"=>$id))->row();
+		}elseif($level==8){
+			return $this->db->get_where("data_satrad",array("id"=>$id))->row();
+		}
+		
 	}
 	function dataLevel($id)
 	{

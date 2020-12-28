@@ -2,7 +2,7 @@
 <?php
 $levelsession = $this->session->userdata("level");
 $idsession = $this->session->userdata("id");
-$dprofile = $this->m_konfig->dataProfile($idsession);
+$dprofile = $this->m_konfig->dataProfile($idsession,$levelsession);
 $dlevel = $this->m_konfig->dataLevel($levelsession);
 if ($levelsession == '1' || $levelsession == '2') {
 	$profilename = isset($dprofile->profilename) ? ($dprofile->profilename) : '';
