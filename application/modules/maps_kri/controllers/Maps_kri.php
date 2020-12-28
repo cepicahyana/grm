@@ -76,9 +76,15 @@ class Maps_kri extends MX_Controller
 				$img_1=''.base_url().'theme/images/no-image.png';
 			} 
 			$infomarker='';
+
 			if($dbicon->nama=='kri'){
 				$idsession=$this->session->userdata('id');
 				if($id==$idsession){
+					if($icon!=''){
+						$icon_1=''.base_url().'theme/images/marker/blue.png';
+					}else{
+						$icon_1=''.base_url().'theme/images/marker/default.png';
+					}
 				$infomarker.="<div style='min-height:200px;'><h3 class='text-white'>".strval($namadata)."</h3>
 				<table style='width:100%;'>
 				<tr>

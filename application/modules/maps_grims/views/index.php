@@ -805,7 +805,7 @@ $(document).ready(function(){
                         map: map
                     });
                     const infowindow = new google.maps.InfoWindow({
-                        content: "<div style='height:auto;'><h3>"+placeName+"</h3><div class='tborder_2'><table style='font-size:10px'><tbody><tr style='font-size:11px'><td class='text-left'>Lat</td><td class='text-left'>"+aa+"</td></tr><tr style='font-size:11px'><td class='text-left'>Long</td><td class='text-left'>"+bb+"</td></tr><tr style='font-size:11px'><td class='text-left'>Date</td><td class='text-left'>"+tgin+"</td></tr><tr style='font-size:11px'><td class='text-left'>Time</td><td class='text-left'>"+tm_in+"</td></tr></tbody></table></div></div>",
+                        content: "<div style='height:auto;'><h3 class='text-white'>"+placeName+"</h3><div class='tborder_2'><table style='font-size:10px'><tbody><tr style='font-size:11px'><td class='text-left'>Lat</td><td class='text-left'>"+aa+"</td></tr><tr style='font-size:11px'><td class='text-left'>Long</td><td class='text-left'>"+bb+"</td></tr><tr style='font-size:11px'><td class='text-left'>Date</td><td class='text-left'>"+tgin+"</td></tr><tr style='font-size:11px'><td class='text-left'>Time</td><td class='text-left'>"+tm_in+"</td></tr></tbody></table></div></div>",
                         maxWidth: 400
                     });
                     marker.addListener('click', function () {
