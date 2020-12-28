@@ -69,6 +69,14 @@
     font-size:10px;
     margin-top:-5px;
 }
+
+.gm-style .gm-style-iw-c{
+    background-color: rgba(255, 255, 255, 0.4);
+}
+
+.gm-style .gm-style-iw-t::after{
+    opacity:0.6;
+}
 </style>
 <!--div id="top_canvas"></div-->
 

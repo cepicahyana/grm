@@ -133,4 +133,93 @@ filter: progid:DXImageTransform.Microsoft.gradient(startColorstr='#6893b3',endCo
 							</div>
 						</div>
 					</div>
+
+					<div class="row mt--2">
+						<div class="col-xs-12 col-sm-12 col-md-12">
+							<div class="card card-stats card-round">
+								<div class="card-header">
+									<div class="card-title">Status</div>
+								</div>
+								<div class="card-body ">
+									<div id="area_lod">
+										<div class="table-responsive">
+										<table id='table' class="tabel black table-bordered  table-hover dataTable" style="font-size:12px;width:100%">
+											<thead  class='sadow bg-default'>	
+												<th class='thead' style="width:2px">&nbsp;NO</th>
+												<th class='thead' style="min-width:70px">NAMA KRI</th>
+												<th class='thead' style="min-width:60px">KONLOG </th>
+												<th class='thead' style="min-width:60px">KONIS </th>
+												<th class='thead' style="min-width:60px">KONPERS</th>
+											</thead>
+										</table>
+										</div>
+									</div>
+								</div>
+							</div>
+						</div>
+					</div>
+
 				</div>
+
+<script type="text/javascript">
+
+var  dataTable = $('#table').DataTable({ 
+	"paging": true,
+	"processing": false, //Feature control the processing indicator.
+	"language": {
+	"sSearch": "Search",
+	"processing": ' <span class="sr-only dataTables_processing">Loading...</span> <br><b style="color:black;background:white">Process of displaying data<br> Please wait..</b>',
+		  "oPaginate": {
+			"sFirst": "Page First",
+			"sLast": "Page Last",
+			 "sNext": "Next",
+			 "sPrevious": "Previous"
+			 },
+		"sInfo": "Total :  _TOTAL_ , Row (_START_ - _END_)",
+		 "sInfoEmpty": "No data displayed",
+		   "sZeroRecords": "Data not available",
+		  "lengthMenu": "&nbsp;Show _MENU_ entries",  
+	}, 
+	"serverSide": true, //Feature control DataTables' server-side processing mode.
+	 "responsive": true,
+	 "searching": true,
+	 "order": [[ 2, "desc" ]],
+	 "lengthMenu":
+	 [[10 , 30,50,100,200,300,400,500], 
+	 [10 , 30,50,100,200,300,400,500]], 
+	dom: 'Blfrtip',
+	buttons: [],
+	
+	// Load data for the table's content from an Ajax source
+	"ajax": {
+		"url": "<?php echo site_url('dashboard/data_tables_statuskri');?>",
+		"type": "POST",
+		"data": function ( data ) {
+			//data.f1 = $('#f1').val();
+			//data.f2 = $('#f2').val();
+	 },
+	   beforeSend: function() {
+			$('#area_lod').addClass('loading_area');
+		},
+		complete: function() {
+			$('#area_lod').removeClass('loading_area');
+		},
+		
+	},
+
+	//Set column definition initialisation properties.
+	"columnDefs": [
+	{ 
+	  "targets": [ 0,1,-1,-2,-3,-4 ], //last column
+	  "orderable": false, //set not orderable
+	},
+	],
+
+});
+
+
+function reload_table()
+{
+	dataTable.ajax.reload(null,false);
+};
+</script>
