@@ -13,19 +13,15 @@ class Model extends ci_Model
 	var $tm_iconmarker="tm_iconmarker";
 
 	var $tracking_kri="tracking_kri";
+
+	var $data_konlog="data_konlog";
+	var $data_konis="data_konis";
 	public function __construct() {
         parent::__construct();
     }
 	
 	
 	/*===================================*/
-	public function get_fm()
-	{
-		$idsession=$this->session->userdata("id");
-		$this->db->where('id',$idsession);
-		$this->db->from($this->data_kri);
-	 	return $this->db->get()->result();
-	}
 	public function get_fm1()
 	{
 		$this->db->from($this->data_kri);
@@ -101,7 +97,7 @@ class Model extends ci_Model
 		return $var;
 	}
 
-	function history_track_kri()
+	function history_range_kri()
 	{
 		$id=$this->session->userdata("id");
 		$datenow=date('Y-m-d');
@@ -115,6 +111,87 @@ class Model extends ci_Model
 		$this->db->where('(tanggal>="'.$dateFisrt.'" and tanggal<="'.$dateLast.'")');
 		$query = $this->db->get();
 		return $query;
+	}
+	function history_track_kri()
+	{
+		$id=$this->input->post("id");
+		//$datenow=date('2020-12-16');
+		$datenow=date('Y-m-d');
+		$this->db->from($this->tracking_kri);
+		$this->db->where('idkri',$id);
+		$this->db->where('tanggal',$datenow);
+		$query = $this->db->get();
+		return $query;
+	}
+
+
+
+
+	/*===================================*/
+	public function get_data_konlog()
+	{
+		$this->_get_datatables_konlog();
+		if($this->input->post("length") != -1) 
+		$this->db->limit($this->input->post("length"),$this->input->post("start"));
+	 	return $this->db->get()->result();
+	}
+	private function _get_datatables_konlog()
+	{	
+		 //$this->db->where("level","3"); 
+		 /*if(isset($_POST['search']['value'])){
+			$searchkey=$_POST['search']['value'];
+				  
+				$query=array(
+				"namadata"=>$searchkey
+				);
+				$this->db->group_start()
+                        ->or_like($query)
+                ->group_end();
+				  
+			}*/
+		$this->db->order_by("id","asc"); 
+		$query=$this->db->from($this->data_konlog);
+		return $query;
+	
+	}	
+	public function count_data_konlog()
+	{		
+		$this->_get_datatables_konlog();
+		return $this->db->get()->num_rows();
+	}
+
+
+	/*===================================*/
+	public function get_data_konis()
+	{
+		$this->_get_datatables_konis();
+		if($this->input->post("length") != -1) 
+		$this->db->limit($this->input->post("length"),$this->input->post("start"));
+	 	return $this->db->get()->result();
+	}
+	private function _get_datatables_konis()
+	{	
+		 //$this->db->where("level","3"); 
+		 /*if(isset($_POST['search']['value'])){
+			$searchkey=$_POST['search']['value'];
+				  
+				$query=array(
+				"namadata"=>$searchkey
+				);
+				$this->db->group_start()
+                        ->or_like($query)
+                ->group_end();
+				  
+			}*/
+		$this->db->order_by("id","asc"); 
+		$query=$this->db->from($this->data_konis);
+		return $query;
+	
+	}	
+	public function count_data_konis()
+	{		
+		$this->_get_datatables_konis();
+		return $this->db->get()->num_rows();
 	}
 	
 

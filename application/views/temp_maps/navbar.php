@@ -154,7 +154,7 @@ $headername=$this->m_konfig->konfigurasi(14);
 							</a>
 						</li>
 						<li class="nav-item">
-							<a href="javascript:sidebar_right()" class="nav-link" title="History KRI">
+							<a href="#" onclick="sidebar_right()" class="nav-link" title="History KRI">
 								<i class="fa fa-calendar"></i>
 							</a>
 						</li>

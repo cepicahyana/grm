@@ -1,6 +1,6 @@
 /*
 SQLyog Community v13.1.6 (64 bit)
-MySQL - 10.4.14-MariaDB : Database - app_grims
+MySQL - 10.4.14-MariaDB : Database - grims
 *********************************************************************
 */
 
@@ -42,11 +42,8 @@ CREATE TABLE `admin` (
 /*Data for the table `admin` */
 
 insert  into `admin`(`id_admin`,`username`,`password`,`level`,`profilename`,`gender`,`profileimg`,`wa`,`email`,`profileaddress`,`ip`,`sts_aktif`,`last_login`,`_cid`,`_ctime`,`_uid`,`_utime`,`lat`,`lng`) values 
-(2,'super','1b3231655cebb7a1f783eddf27d254ca',1,'IRONMAN','Male','fileadmin_31082020130633.png','0852 3334 1122','robot@mail.net','USA',NULL,1,'2020-12-25 16:59:53',NULL,NULL,NULL,NULL,NULL,NULL),
-(14,'admin','21232f297a57a5a743894a0e4a801fc3',2,'Mr.Cepi','Male','11203014.png','0852 2096 9224','cs@gmail.com','Indonesia',NULL,1,'2020-12-26 13:08:12',NULL,NULL,NULL,NULL,NULL,NULL),
-(128,'USH359','827ccb0eea8a706c4c34a16891f84e7b',3,'USH-359','Male','filekri_09122020101431.jpg','','359@mail.com',NULL,NULL,1,'2020-12-25 20:40:29',14,'2020-12-09 10:15:42',14,'2020-12-09 15:09:09',NULL,NULL),
-(129,'SIM367','827ccb0eea8a706c4c34a16891f84e7b',3,'SIM-367',NULL,'filekri_09122020101431.jpg',NULL,'367@mail.com',NULL,NULL,1,'2020-12-18 17:00:29',14,'2020-12-09 10:14:31',14,'2020-12-09 10:53:39',NULL,NULL),
-(131,'STM220','827ccb0eea8a706c4c34a16891f84e7b',3,'STM-220',NULL,NULL,NULL,'stma@gmail.com',NULL,NULL,1,NULL,14,'2020-12-09 19:20:19',NULL,NULL,NULL,NULL);
+(2,'super','1b3231655cebb7a1f783eddf27d254ca',1,'IRONMAN','Male','fileadmin_31082020130633.png','0852 3334 1122','robot@mail.net','USA',NULL,1,'2020-12-28 13:34:44',NULL,NULL,NULL,NULL,NULL,NULL),
+(14,'admin','21232f297a57a5a743894a0e4a801fc3',2,'Mr.Cepi','Male','11203014.png','0852 2096 9224','cs@gmail.com','Indonesia',NULL,1,'2020-12-28 13:33:50',NULL,NULL,NULL,NULL,NULL,NULL);
 
 /*Table structure for table `data_brigif` */
 
@@ -92,6 +89,7 @@ DROP TABLE IF EXISTS `data_konis`;
 
 CREATE TABLE `data_konis` (
   `id` int(10) unsigned NOT NULL AUTO_INCREMENT,
+  `id_kri` int(10) DEFAULT NULL,
   `tanggal` date DEFAULT NULL,
   `data` text DEFAULT NULL,
   `kondisi` varchar(15) DEFAULT NULL COMMENT '1=aktif 2=blokir',
@@ -161,7 +159,7 @@ CREATE TABLE `data_kri` (
 /*Data for the table `data_kri` */
 
 insert  into `data_kri`(`id`,`username`,`password`,`level`,`profilename`,`profileimg`,`gender`,`wa`,`email`,`profileaddress`,`ip`,`sts_aktif`,`last_login`,`_cid`,`_ctime`,`_uid`,`_utime`,`namadata`,`descdata`,`imgdata`,`lat`,`lng`) values 
-(128,'USH359','827ccb0eea8a706c4c34a16891f84e7b',3,'USH-359','filekri_09122020101431.jpg','Male','0000 8000 0000','359@mail.com','#',NULL,1,NULL,14,'2020-12-09 10:15:42',14,'2020-12-09 15:09:09','USH-359','Google seems to be actively working on the font loading issue (described below) and functionality has changed very recently so you may or may not see the Roboto font load.','filekri_09122020211152.jpg','-5.005893238065995','111.79301164548704'),
+(128,'USH359','827ccb0eea8a706c4c34a16891f84e7b',3,'USH-359','filekri_09122020101431.jpg','Male','0000 8000 0000','359@mail.com','#',NULL,1,'2020-12-28 14:40:39',14,'2020-12-09 10:15:42',14,'2020-12-09 15:09:09','USH-359','Google seems to be actively working on the font loading issue (described below) and functionality has changed very recently so you may or may not see the Roboto font load.','filekri_09122020211152.jpg','-5.005893238065995','111.79301164548704'),
 (129,'SIM367','827ccb0eea8a706c4c34a16891f84e7b',3,'SIM-367','filekri_09122020101431.jpg',NULL,NULL,'367@mail.com',NULL,NULL,1,NULL,14,'2020-12-09 10:14:31',14,'2020-12-09 10:53:39','SIM-367',NULL,'filekri_09122020211152.jpg','-0.972603696782272','107.34942591413224'),
 (131,'AHP355','827ccb0eea8a706c4c34a16891f84e7b',3,'AHP-355',NULL,NULL,NULL,'stma@gmail.com',NULL,NULL,1,NULL,14,'2020-12-09 19:20:19',NULL,NULL,'AHP-355',NULL,'filekri_09122020211152.jpg','-4.913020128812676','100.48206584186191'),
 (133,'REM331','827ccb0eea8a706c4c34a16891f84e7b',3,'REM-331','fileuser_09122020211152.jpg',NULL,NULL,'220@gmail.com',NULL,NULL,1,NULL,14,'2020-12-09 21:11:52',NULL,NULL,'REM-331','5555555555','filekri_09122020211152.jpg','-6.860264928616977','121.89207077305767');
@@ -243,7 +241,7 @@ insert  into `data_lantamal`(`id`,`username`,`password`,`level`,`profilename`,`p
 (128,NULL,NULL,4,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,14,'2020-12-09 10:15:42',14,'2020-12-23 20:44:36','LANTAMAL 1','Pangkalan TNI Angkatan Laut (disingkat Lanal) adalah komando pembinaan dan operasional TNI Angkatan Laut di bawah Lantama',NULL,'-6.121435','106.774124','-2.981621,106.823562;-5.041878,102.516922;-9.14024,107.702469;-5.391983,110.69075',NULL,NULL),
 (129,NULL,NULL,4,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,14,'2020-12-09 10:14:31',14,'2020-12-21 22:18:58','LANTAMAL 2','Pangkalan TNI Angkatan Laut (disingkat Lanal) adalah komando pembinaan dan operasional TNI Angkatan Laut di bawah Lantama',NULL,'4.695135','96.749397',NULL,NULL,NULL),
 (131,NULL,NULL,4,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,14,'2020-12-09 19:20:19',14,'2020-12-10 15:30:08','LANTAMAL 3','Pangkalan TNI Angkatan Laut (disingkat Lanal) adalah komando pembinaan dan operasional TNI Angkatan Laut di bawah Lantama',NULL,'-2.6063130905031584','106.2499812419408',NULL,NULL,NULL),
-(133,NULL,NULL,4,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,14,'2020-12-09 21:11:52',14,'2020-12-22 23:40:41','LANTAMAL 4','Pangkalan TNI Angkatan Laut (disingkat Lanal) adalah komando pembinaan dan operasional TNI Angkatan Laut di bawah Lantama',NULL,'-2.2514374297713524','111.21288910232444','-1.4473522859592813,111.7178535700199;-3.5107369849644354,109.70735558744248;-5.111959172753594,111.65461445152383;-3.900691328369087,113.40532701845108;-1.3493719941744606,113.29427435562361;-1.4473522859592813,111.7178535700199\r\n','1200 Ha','Barat : Aceh\r\nSelatan : asfasdf\r\nTImur : asf fasdf\r\nUtara : adsfasdf');
+(133,NULL,NULL,4,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,14,'2020-12-09 21:11:52',14,'2020-12-26 17:12:53','LANTAMAL 4','Pangkalan TNI Angkatan Laut (disingkat Lanal) adalah komando pembinaan dan operasional TNI Angkatan Laut di bawah Lantama',NULL,'-2.2514374297713524','111.21288910232444','-1.4473522859592813,111.7178535700199;-3.5107369849644354,109.70735558744248;-5.111959172753594,111.65461445152383;-3.900691328369087,113.40532701845108;-1.3493719941744606,113.29427435562361;-1.4473522859592813,111.7178535700199\r\n','1200 Ha','Barat : Aceh\r\nSelatan : asfasdf\r\nTImur : asf fasdf\r\nUtara : adsfasdf');
 
 /*Table structure for table `data_posal` */
 
@@ -391,7 +389,7 @@ CREATE TABLE `main_log` (
   `aksi` text NOT NULL,
   `tgl` datetime DEFAULT NULL,
   PRIMARY KEY (`id_log`)
-) ENGINE=MyISAM AUTO_INCREMENT=22 DEFAULT CHARSET=latin1;
+) ENGINE=MyISAM AUTO_INCREMENT=38 DEFAULT CHARSET=latin1;
 
 /*Data for the table `main_log` */
 
@@ -416,7 +414,23 @@ insert  into `main_log`(`id_log`,`id_admin`,`nama_user`,`table_updated`,`aksi`,`
 (18,14,'Mr.Cepi','admin','Login','2020-12-25 20:47:43'),
 (19,14,'Mr.Cepi','admin','Login','2020-12-26 10:00:18'),
 (20,14,'Mr.Cepi','admin','Login','2020-12-26 10:11:48'),
-(21,14,'Mr.Cepi','admin','Login','2020-12-26 13:08:12');
+(21,14,'Mr.Cepi','admin','Login','2020-12-26 13:08:12'),
+(22,14,'Mr.Cepi','admin','Login','2020-12-26 14:54:58'),
+(23,14,'Mr.Cepi','admin','Login','2020-12-26 16:50:34'),
+(24,128,'USH-359','admin','Login','2020-12-26 17:06:13'),
+(25,14,'Mr.Cepi','admin','Login','2020-12-26 17:08:42'),
+(26,128,'USH-359','admin','Login','2020-12-26 20:43:42'),
+(27,14,'Mr.Cepi','admin','Login','2020-12-26 21:37:44'),
+(28,14,'Mr.Cepi','admin','Login','2020-12-28 10:00:13'),
+(29,14,'Mr.Cepi','admin','Login','2020-12-28 10:33:41'),
+(30,128,'USH-359','admin','Login','2020-12-28 10:43:06'),
+(31,14,'Mr.Cepi','admin','Login','2020-12-28 10:49:15'),
+(32,128,'USH-359','admin','Login','2020-12-28 13:10:40'),
+(33,14,'Mr.Cepi','admin','Login','2020-12-28 13:17:59'),
+(34,128,'USH-359','admin','Login','2020-12-28 13:24:26'),
+(35,14,'Mr.Cepi','admin','Login','2020-12-28 13:33:50'),
+(36,2,'IRONMAN','admin','Login','2020-12-28 13:34:44'),
+(37,128,'USH-359','data_kri','Login','2020-12-28 14:40:39');
 
 /*Table structure for table `main_menu` */
 

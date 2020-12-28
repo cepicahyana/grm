@@ -15352,3 +15352,6631 @@ DEBUG - 2020-12-28 13:35:24 --> File loaded: D:\xampp72\htdocs\app_grm\applicati
 DEBUG - 2020-12-28 13:35:24 --> File loaded: D:\xampp72\htdocs\app_grm\application\views\temp_login/main.php
 INFO - 2020-12-28 13:35:24 --> Final output sent to browser
 DEBUG - 2020-12-28 13:35:24 --> Total execution time: 1.0625
+INFO - 2020-12-28 08:40:38 --> Config Class Initialized
+INFO - 2020-12-28 08:40:38 --> Hooks Class Initialized
+DEBUG - 2020-12-28 08:40:38 --> UTF-8 Support Enabled
+INFO - 2020-12-28 08:40:38 --> Utf8 Class Initialized
+INFO - 2020-12-28 08:40:38 --> URI Class Initialized
+INFO - 2020-12-28 08:40:39 --> Router Class Initialized
+INFO - 2020-12-28 08:40:39 --> Output Class Initialized
+INFO - 2020-12-28 08:40:39 --> Security Class Initialized
+DEBUG - 2020-12-28 08:40:39 --> Global POST, GET and COOKIE data sanitized
+INFO - 2020-12-28 08:40:39 --> Input Class Initialized
+INFO - 2020-12-28 08:40:39 --> Language Class Initialized
+INFO - 2020-12-28 08:40:39 --> Language Class Initialized
+INFO - 2020-12-28 08:40:39 --> Config Class Initialized
+INFO - 2020-12-28 08:40:39 --> Loader Class Initialized
+INFO - 2020-12-28 08:40:39 --> Helper loaded: url_helper
+INFO - 2020-12-28 08:40:39 --> Helper loaded: html_helper
+INFO - 2020-12-28 08:40:39 --> Helper loaded: file_helper
+INFO - 2020-12-28 08:40:39 --> Helper loaded: form_helper
+INFO - 2020-12-28 08:40:39 --> Helper loaded: security_helper
+INFO - 2020-12-28 08:40:39 --> Helper loaded: xss_helper
+INFO - 2020-12-28 08:40:39 --> Helper loaded: slug_helper
+INFO - 2020-12-28 08:40:39 --> Database Driver Class Initialized
+DEBUG - 2020-12-28 08:40:39 --> Session: "sess_save_path" is empty; using "session.save_path" value from php.ini.
+INFO - 2020-12-28 08:40:39 --> Session: Class initialized using 'files' driver.
+INFO - 2020-12-28 08:40:39 --> Language file loaded: language/english/pagination_lang.php
+INFO - 2020-12-28 08:40:39 --> Pagination Class Initialized
+INFO - 2020-12-28 08:40:39 --> Email Class Initialized
+INFO - 2020-12-28 08:40:39 --> Model "M_konfig" initialized
+INFO - 2020-12-28 08:40:39 --> Model "M_reff" initialized
+INFO - 2020-12-28 08:40:39 --> Model "M_total" initialized
+INFO - 2020-12-28 08:40:39 --> Controller Class Initialized
+DEBUG - 2020-12-28 08:40:39 --> File loaded: D:\xampp72\htdocs\app_grm\application\modules/auth/models/M_login.php
+INFO - 2020-12-28 14:40:39 --> Final output sent to browser
+DEBUG - 2020-12-28 14:40:39 --> Total execution time: 0.9549
+INFO - 2020-12-28 08:40:39 --> Config Class Initialized
+INFO - 2020-12-28 08:40:39 --> Hooks Class Initialized
+DEBUG - 2020-12-28 08:40:39 --> UTF-8 Support Enabled
+INFO - 2020-12-28 08:40:39 --> Utf8 Class Initialized
+INFO - 2020-12-28 08:40:40 --> URI Class Initialized
+INFO - 2020-12-28 08:40:40 --> Router Class Initialized
+INFO - 2020-12-28 08:40:40 --> Output Class Initialized
+INFO - 2020-12-28 08:40:40 --> Security Class Initialized
+DEBUG - 2020-12-28 08:40:40 --> Global POST, GET and COOKIE data sanitized
+INFO - 2020-12-28 08:40:40 --> Input Class Initialized
+INFO - 2020-12-28 08:40:40 --> Language Class Initialized
+INFO - 2020-12-28 08:40:40 --> Language Class Initialized
+INFO - 2020-12-28 08:40:40 --> Config Class Initialized
+INFO - 2020-12-28 08:40:40 --> Loader Class Initialized
+INFO - 2020-12-28 08:40:40 --> Helper loaded: url_helper
+INFO - 2020-12-28 08:40:40 --> Helper loaded: html_helper
+INFO - 2020-12-28 08:40:40 --> Helper loaded: file_helper
+INFO - 2020-12-28 08:40:40 --> Helper loaded: form_helper
+INFO - 2020-12-28 08:40:40 --> Helper loaded: security_helper
+INFO - 2020-12-28 08:40:40 --> Helper loaded: xss_helper
+INFO - 2020-12-28 08:40:40 --> Helper loaded: slug_helper
+INFO - 2020-12-28 08:40:40 --> Database Driver Class Initialized
+DEBUG - 2020-12-28 08:40:40 --> Session: "sess_save_path" is empty; using "session.save_path" value from php.ini.
+INFO - 2020-12-28 08:40:40 --> Session: Class initialized using 'files' driver.
+INFO - 2020-12-28 08:40:40 --> Language file loaded: language/english/pagination_lang.php
+INFO - 2020-12-28 08:40:40 --> Pagination Class Initialized
+INFO - 2020-12-28 08:40:40 --> Email Class Initialized
+INFO - 2020-12-28 08:40:40 --> Model "M_konfig" initialized
+INFO - 2020-12-28 08:40:40 --> Model "M_reff" initialized
+INFO - 2020-12-28 08:40:40 --> Model "M_total" initialized
+INFO - 2020-12-28 08:40:40 --> Controller Class Initialized
+DEBUG - 2020-12-28 08:40:40 --> Maps_kri MX_Controller Initialized
+DEBUG - 2020-12-28 08:40:40 --> File loaded: D:\xampp72\htdocs\app_grm\application\modules/maps_kri/models/Model.php
+DEBUG - 2020-12-28 14:40:40 --> File loaded: D:\xampp72\htdocs\app_grm\application\views\temp_maps_kri/head.php
+DEBUG - 2020-12-28 14:40:40 --> File loaded: D:\xampp72\htdocs\app_grm\application\views\temp_maps_kri/navbar.php
+DEBUG - 2020-12-28 14:40:41 --> File loaded: D:\xampp72\htdocs\app_grm\application\views\temp_maps_kri/sidebar_left.php
+DEBUG - 2020-12-28 14:40:41 --> File loaded: D:\xampp72\htdocs\app_grm\application\views\temp_maps_kri/sidebar_right.php
+DEBUG - 2020-12-28 14:40:41 --> File loaded: D:\xampp72\htdocs\app_grm\application\modules/maps_kri/views/index.php
+DEBUG - 2020-12-28 14:40:41 --> File loaded: D:\xampp72\htdocs\app_grm\application\views\temp_maps_kri/quick_bar.php
+DEBUG - 2020-12-28 14:40:41 --> File loaded: D:\xampp72\htdocs\app_grm\application\views\temp_maps_kri/toggle.php
+DEBUG - 2020-12-28 14:40:41 --> File loaded: D:\xampp72\htdocs\app_grm\application\views\temp_maps_kri/konten.php
+DEBUG - 2020-12-28 14:40:41 --> File loaded: D:\xampp72\htdocs\app_grm\application\views\temp_maps_kri/foot.php
+DEBUG - 2020-12-28 14:40:41 --> File loaded: D:\xampp72\htdocs\app_grm\application\views\temp_maps_kri/main.php
+INFO - 2020-12-28 14:40:41 --> Final output sent to browser
+DEBUG - 2020-12-28 14:40:41 --> Total execution time: 1.3535
+INFO - 2020-12-28 08:40:41 --> Config Class Initialized
+INFO - 2020-12-28 08:40:41 --> Hooks Class Initialized
+DEBUG - 2020-12-28 08:40:41 --> UTF-8 Support Enabled
+INFO - 2020-12-28 08:40:41 --> Utf8 Class Initialized
+INFO - 2020-12-28 08:40:41 --> URI Class Initialized
+INFO - 2020-12-28 08:40:41 --> Router Class Initialized
+INFO - 2020-12-28 08:40:41 --> Output Class Initialized
+INFO - 2020-12-28 08:40:41 --> Security Class Initialized
+DEBUG - 2020-12-28 08:40:41 --> Global POST, GET and COOKIE data sanitized
+INFO - 2020-12-28 08:40:41 --> Input Class Initialized
+INFO - 2020-12-28 08:40:41 --> Language Class Initialized
+ERROR - 2020-12-28 08:40:41 --> 404 Page Not Found: /index
+INFO - 2020-12-28 08:41:17 --> Config Class Initialized
+INFO - 2020-12-28 08:41:17 --> Hooks Class Initialized
+DEBUG - 2020-12-28 08:41:17 --> UTF-8 Support Enabled
+INFO - 2020-12-28 08:41:17 --> Utf8 Class Initialized
+INFO - 2020-12-28 08:41:17 --> URI Class Initialized
+INFO - 2020-12-28 08:41:17 --> Router Class Initialized
+INFO - 2020-12-28 08:41:17 --> Output Class Initialized
+INFO - 2020-12-28 08:41:17 --> Security Class Initialized
+DEBUG - 2020-12-28 08:41:17 --> Global POST, GET and COOKIE data sanitized
+INFO - 2020-12-28 08:41:17 --> Input Class Initialized
+INFO - 2020-12-28 08:41:17 --> Language Class Initialized
+INFO - 2020-12-28 08:41:17 --> Language Class Initialized
+INFO - 2020-12-28 08:41:17 --> Config Class Initialized
+INFO - 2020-12-28 08:41:17 --> Loader Class Initialized
+INFO - 2020-12-28 08:41:17 --> Helper loaded: url_helper
+INFO - 2020-12-28 08:41:17 --> Helper loaded: html_helper
+INFO - 2020-12-28 08:41:17 --> Helper loaded: file_helper
+INFO - 2020-12-28 08:41:17 --> Helper loaded: form_helper
+INFO - 2020-12-28 08:41:17 --> Helper loaded: security_helper
+INFO - 2020-12-28 08:41:17 --> Helper loaded: xss_helper
+INFO - 2020-12-28 08:41:17 --> Helper loaded: slug_helper
+INFO - 2020-12-28 08:41:17 --> Database Driver Class Initialized
+DEBUG - 2020-12-28 08:41:18 --> Session: "sess_save_path" is empty; using "session.save_path" value from php.ini.
+INFO - 2020-12-28 08:41:18 --> Session: Class initialized using 'files' driver.
+INFO - 2020-12-28 08:41:18 --> Language file loaded: language/english/pagination_lang.php
+INFO - 2020-12-28 08:41:18 --> Pagination Class Initialized
+INFO - 2020-12-28 08:41:18 --> Email Class Initialized
+INFO - 2020-12-28 08:41:18 --> Model "M_konfig" initialized
+INFO - 2020-12-28 08:41:18 --> Model "M_reff" initialized
+INFO - 2020-12-28 08:41:18 --> Model "M_total" initialized
+INFO - 2020-12-28 08:41:18 --> Controller Class Initialized
+DEBUG - 2020-12-28 08:41:18 --> Maps_kri MX_Controller Initialized
+DEBUG - 2020-12-28 08:41:18 --> File loaded: D:\xampp72\htdocs\app_grm\application\modules/maps_kri/models/Model.php
+DEBUG - 2020-12-28 14:41:18 --> File loaded: D:\xampp72\htdocs\app_grm\application\views\temp_maps_kri/head.php
+DEBUG - 2020-12-28 14:41:18 --> File loaded: D:\xampp72\htdocs\app_grm\application\views\temp_maps_kri/navbar.php
+DEBUG - 2020-12-28 14:41:18 --> File loaded: D:\xampp72\htdocs\app_grm\application\views\temp_maps_kri/sidebar_left.php
+DEBUG - 2020-12-28 14:41:18 --> File loaded: D:\xampp72\htdocs\app_grm\application\views\temp_maps_kri/sidebar_right.php
+DEBUG - 2020-12-28 14:41:18 --> File loaded: D:\xampp72\htdocs\app_grm\application\modules/maps_kri/views/index.php
+DEBUG - 2020-12-28 14:41:18 --> File loaded: D:\xampp72\htdocs\app_grm\application\views\temp_maps_kri/quick_bar.php
+DEBUG - 2020-12-28 14:41:18 --> File loaded: D:\xampp72\htdocs\app_grm\application\views\temp_maps_kri/toggle.php
+DEBUG - 2020-12-28 14:41:18 --> File loaded: D:\xampp72\htdocs\app_grm\application\views\temp_maps_kri/konten.php
+DEBUG - 2020-12-28 14:41:18 --> File loaded: D:\xampp72\htdocs\app_grm\application\views\temp_maps_kri/foot.php
+DEBUG - 2020-12-28 14:41:18 --> File loaded: D:\xampp72\htdocs\app_grm\application\views\temp_maps_kri/main.php
+INFO - 2020-12-28 14:41:18 --> Final output sent to browser
+DEBUG - 2020-12-28 14:41:18 --> Total execution time: 1.2821
+INFO - 2020-12-28 08:41:18 --> Config Class Initialized
+INFO - 2020-12-28 08:41:18 --> Hooks Class Initialized
+DEBUG - 2020-12-28 08:41:18 --> UTF-8 Support Enabled
+INFO - 2020-12-28 08:41:18 --> Utf8 Class Initialized
+INFO - 2020-12-28 08:41:18 --> URI Class Initialized
+INFO - 2020-12-28 08:41:18 --> Router Class Initialized
+INFO - 2020-12-28 08:41:18 --> Output Class Initialized
+INFO - 2020-12-28 08:41:18 --> Security Class Initialized
+DEBUG - 2020-12-28 08:41:18 --> Global POST, GET and COOKIE data sanitized
+INFO - 2020-12-28 08:41:18 --> Input Class Initialized
+INFO - 2020-12-28 08:41:18 --> Language Class Initialized
+ERROR - 2020-12-28 08:41:18 --> 404 Page Not Found: /index
+INFO - 2020-12-28 08:41:19 --> Config Class Initialized
+INFO - 2020-12-28 08:41:19 --> Hooks Class Initialized
+DEBUG - 2020-12-28 08:41:19 --> UTF-8 Support Enabled
+INFO - 2020-12-28 08:41:19 --> Utf8 Class Initialized
+INFO - 2020-12-28 08:41:19 --> URI Class Initialized
+INFO - 2020-12-28 08:41:19 --> Router Class Initialized
+INFO - 2020-12-28 08:41:19 --> Output Class Initialized
+INFO - 2020-12-28 08:41:19 --> Security Class Initialized
+DEBUG - 2020-12-28 08:41:19 --> Global POST, GET and COOKIE data sanitized
+INFO - 2020-12-28 08:41:19 --> Input Class Initialized
+INFO - 2020-12-28 08:41:19 --> Language Class Initialized
+ERROR - 2020-12-28 08:41:19 --> 404 Page Not Found: /index
+INFO - 2020-12-28 08:41:51 --> Config Class Initialized
+INFO - 2020-12-28 08:41:51 --> Hooks Class Initialized
+DEBUG - 2020-12-28 08:41:51 --> UTF-8 Support Enabled
+INFO - 2020-12-28 08:41:51 --> Utf8 Class Initialized
+INFO - 2020-12-28 08:41:51 --> URI Class Initialized
+INFO - 2020-12-28 08:41:51 --> Router Class Initialized
+INFO - 2020-12-28 08:41:51 --> Output Class Initialized
+INFO - 2020-12-28 08:41:51 --> Security Class Initialized
+DEBUG - 2020-12-28 08:41:51 --> Global POST, GET and COOKIE data sanitized
+INFO - 2020-12-28 08:41:51 --> Input Class Initialized
+INFO - 2020-12-28 08:41:51 --> Language Class Initialized
+INFO - 2020-12-28 08:41:51 --> Language Class Initialized
+INFO - 2020-12-28 08:41:51 --> Config Class Initialized
+INFO - 2020-12-28 08:41:51 --> Loader Class Initialized
+INFO - 2020-12-28 08:41:52 --> Helper loaded: url_helper
+INFO - 2020-12-28 08:41:52 --> Helper loaded: html_helper
+INFO - 2020-12-28 08:41:52 --> Helper loaded: file_helper
+INFO - 2020-12-28 08:41:52 --> Helper loaded: form_helper
+INFO - 2020-12-28 08:41:52 --> Helper loaded: security_helper
+INFO - 2020-12-28 08:41:52 --> Helper loaded: xss_helper
+INFO - 2020-12-28 08:41:52 --> Helper loaded: slug_helper
+INFO - 2020-12-28 08:41:52 --> Database Driver Class Initialized
+DEBUG - 2020-12-28 08:41:52 --> Session: "sess_save_path" is empty; using "session.save_path" value from php.ini.
+INFO - 2020-12-28 08:41:52 --> Session: Class initialized using 'files' driver.
+INFO - 2020-12-28 08:41:52 --> Language file loaded: language/english/pagination_lang.php
+INFO - 2020-12-28 08:41:52 --> Pagination Class Initialized
+INFO - 2020-12-28 08:41:52 --> Email Class Initialized
+INFO - 2020-12-28 08:41:52 --> Model "M_konfig" initialized
+INFO - 2020-12-28 08:41:52 --> Model "M_reff" initialized
+INFO - 2020-12-28 08:41:52 --> Model "M_total" initialized
+INFO - 2020-12-28 08:41:52 --> Controller Class Initialized
+DEBUG - 2020-12-28 08:41:52 --> Maps_kri MX_Controller Initialized
+DEBUG - 2020-12-28 08:41:52 --> File loaded: D:\xampp72\htdocs\app_grm\application\modules/maps_kri/models/Model.php
+DEBUG - 2020-12-28 14:41:52 --> File loaded: D:\xampp72\htdocs\app_grm\application\views\temp_maps_kri/head.php
+DEBUG - 2020-12-28 14:41:52 --> File loaded: D:\xampp72\htdocs\app_grm\application\views\temp_maps_kri/navbar.php
+DEBUG - 2020-12-28 14:41:52 --> File loaded: D:\xampp72\htdocs\app_grm\application\views\temp_maps_kri/sidebar_left.php
+DEBUG - 2020-12-28 14:41:52 --> File loaded: D:\xampp72\htdocs\app_grm\application\views\temp_maps_kri/sidebar_right.php
+DEBUG - 2020-12-28 14:41:52 --> File loaded: D:\xampp72\htdocs\app_grm\application\modules/maps_kri/views/index.php
+DEBUG - 2020-12-28 14:41:52 --> File loaded: D:\xampp72\htdocs\app_grm\application\views\temp_maps_kri/quick_bar.php
+DEBUG - 2020-12-28 14:41:52 --> File loaded: D:\xampp72\htdocs\app_grm\application\views\temp_maps_kri/toggle.php
+DEBUG - 2020-12-28 14:41:52 --> File loaded: D:\xampp72\htdocs\app_grm\application\views\temp_maps_kri/konten.php
+DEBUG - 2020-12-28 14:41:52 --> File loaded: D:\xampp72\htdocs\app_grm\application\views\temp_maps_kri/foot.php
+DEBUG - 2020-12-28 14:41:52 --> File loaded: D:\xampp72\htdocs\app_grm\application\views\temp_maps_kri/main.php
+INFO - 2020-12-28 14:41:52 --> Final output sent to browser
+DEBUG - 2020-12-28 14:41:52 --> Total execution time: 1.2230
+INFO - 2020-12-28 08:41:52 --> Config Class Initialized
+INFO - 2020-12-28 08:41:52 --> Hooks Class Initialized
+DEBUG - 2020-12-28 08:41:52 --> UTF-8 Support Enabled
+INFO - 2020-12-28 08:41:52 --> Utf8 Class Initialized
+INFO - 2020-12-28 08:41:52 --> URI Class Initialized
+INFO - 2020-12-28 08:41:52 --> Router Class Initialized
+INFO - 2020-12-28 08:41:52 --> Output Class Initialized
+INFO - 2020-12-28 08:41:52 --> Security Class Initialized
+DEBUG - 2020-12-28 08:41:52 --> Global POST, GET and COOKIE data sanitized
+INFO - 2020-12-28 08:41:52 --> Input Class Initialized
+INFO - 2020-12-28 08:41:52 --> Language Class Initialized
+ERROR - 2020-12-28 08:41:52 --> 404 Page Not Found: /index
+INFO - 2020-12-28 08:41:53 --> Config Class Initialized
+INFO - 2020-12-28 08:41:53 --> Hooks Class Initialized
+DEBUG - 2020-12-28 08:41:53 --> UTF-8 Support Enabled
+INFO - 2020-12-28 08:41:53 --> Utf8 Class Initialized
+INFO - 2020-12-28 08:41:53 --> URI Class Initialized
+INFO - 2020-12-28 08:41:53 --> Router Class Initialized
+INFO - 2020-12-28 08:41:53 --> Output Class Initialized
+INFO - 2020-12-28 08:41:53 --> Security Class Initialized
+DEBUG - 2020-12-28 08:41:53 --> Global POST, GET and COOKIE data sanitized
+INFO - 2020-12-28 08:41:53 --> Input Class Initialized
+INFO - 2020-12-28 08:41:53 --> Language Class Initialized
+ERROR - 2020-12-28 08:41:53 --> 404 Page Not Found: /index
+INFO - 2020-12-28 08:42:42 --> Config Class Initialized
+INFO - 2020-12-28 08:42:42 --> Hooks Class Initialized
+DEBUG - 2020-12-28 08:42:42 --> UTF-8 Support Enabled
+INFO - 2020-12-28 08:42:42 --> Utf8 Class Initialized
+INFO - 2020-12-28 08:42:42 --> URI Class Initialized
+INFO - 2020-12-28 08:42:42 --> Router Class Initialized
+INFO - 2020-12-28 08:42:42 --> Output Class Initialized
+INFO - 2020-12-28 08:42:42 --> Security Class Initialized
+DEBUG - 2020-12-28 08:42:42 --> Global POST, GET and COOKIE data sanitized
+INFO - 2020-12-28 08:42:42 --> Input Class Initialized
+INFO - 2020-12-28 08:42:42 --> Language Class Initialized
+INFO - 2020-12-28 08:42:42 --> Language Class Initialized
+INFO - 2020-12-28 08:42:42 --> Config Class Initialized
+INFO - 2020-12-28 08:42:42 --> Loader Class Initialized
+INFO - 2020-12-28 08:42:42 --> Helper loaded: url_helper
+INFO - 2020-12-28 08:42:42 --> Helper loaded: html_helper
+INFO - 2020-12-28 08:42:42 --> Helper loaded: file_helper
+INFO - 2020-12-28 08:42:43 --> Helper loaded: form_helper
+INFO - 2020-12-28 08:42:43 --> Helper loaded: security_helper
+INFO - 2020-12-28 08:42:43 --> Helper loaded: xss_helper
+INFO - 2020-12-28 08:42:43 --> Helper loaded: slug_helper
+INFO - 2020-12-28 08:42:43 --> Database Driver Class Initialized
+DEBUG - 2020-12-28 08:42:43 --> Session: "sess_save_path" is empty; using "session.save_path" value from php.ini.
+INFO - 2020-12-28 08:42:43 --> Session: Class initialized using 'files' driver.
+INFO - 2020-12-28 08:42:43 --> Language file loaded: language/english/pagination_lang.php
+INFO - 2020-12-28 08:42:43 --> Pagination Class Initialized
+INFO - 2020-12-28 08:42:43 --> Email Class Initialized
+INFO - 2020-12-28 08:42:43 --> Model "M_konfig" initialized
+INFO - 2020-12-28 08:42:43 --> Model "M_reff" initialized
+INFO - 2020-12-28 08:42:43 --> Model "M_total" initialized
+INFO - 2020-12-28 08:42:43 --> Controller Class Initialized
+DEBUG - 2020-12-28 08:42:43 --> Maps_kri MX_Controller Initialized
+DEBUG - 2020-12-28 08:42:43 --> File loaded: D:\xampp72\htdocs\app_grm\application\modules/maps_kri/models/Model.php
+DEBUG - 2020-12-28 14:42:43 --> File loaded: D:\xampp72\htdocs\app_grm\application\views\temp_maps_kri/head.php
+DEBUG - 2020-12-28 14:42:43 --> File loaded: D:\xampp72\htdocs\app_grm\application\views\temp_maps_kri/navbar.php
+DEBUG - 2020-12-28 14:42:43 --> File loaded: D:\xampp72\htdocs\app_grm\application\views\temp_maps_kri/sidebar_left.php
+DEBUG - 2020-12-28 14:42:43 --> File loaded: D:\xampp72\htdocs\app_grm\application\views\temp_maps_kri/sidebar_right.php
+DEBUG - 2020-12-28 14:42:43 --> File loaded: D:\xampp72\htdocs\app_grm\application\modules/maps_kri/views/index.php
+DEBUG - 2020-12-28 14:42:43 --> File loaded: D:\xampp72\htdocs\app_grm\application\views\temp_maps_kri/quick_bar.php
+DEBUG - 2020-12-28 14:42:43 --> File loaded: D:\xampp72\htdocs\app_grm\application\views\temp_maps_kri/toggle.php
+DEBUG - 2020-12-28 14:42:43 --> File loaded: D:\xampp72\htdocs\app_grm\application\views\temp_maps_kri/konten.php
+DEBUG - 2020-12-28 14:42:43 --> File loaded: D:\xampp72\htdocs\app_grm\application\views\temp_maps_kri/foot.php
+DEBUG - 2020-12-28 14:42:43 --> File loaded: D:\xampp72\htdocs\app_grm\application\views\temp_maps_kri/main.php
+INFO - 2020-12-28 14:42:43 --> Final output sent to browser
+INFO - 2020-12-28 08:42:43 --> Config Class Initialized
+INFO - 2020-12-28 08:42:43 --> Hooks Class Initialized
+DEBUG - 2020-12-28 08:42:43 --> UTF-8 Support Enabled
+INFO - 2020-12-28 08:42:43 --> Utf8 Class Initialized
+INFO - 2020-12-28 08:42:43 --> URI Class Initialized
+INFO - 2020-12-28 08:42:43 --> Router Class Initialized
+INFO - 2020-12-28 08:42:43 --> Output Class Initialized
+INFO - 2020-12-28 08:42:43 --> Security Class Initialized
+DEBUG - 2020-12-28 08:42:43 --> Global POST, GET and COOKIE data sanitized
+INFO - 2020-12-28 08:42:43 --> Input Class Initialized
+INFO - 2020-12-28 08:42:43 --> Language Class Initialized
+ERROR - 2020-12-28 08:42:43 --> 404 Page Not Found: /index
+DEBUG - 2020-12-28 14:42:43 --> Total execution time: 1.3032
+INFO - 2020-12-28 08:42:44 --> Config Class Initialized
+INFO - 2020-12-28 08:42:44 --> Hooks Class Initialized
+DEBUG - 2020-12-28 08:42:44 --> UTF-8 Support Enabled
+INFO - 2020-12-28 08:42:44 --> Utf8 Class Initialized
+INFO - 2020-12-28 08:42:44 --> URI Class Initialized
+INFO - 2020-12-28 08:42:44 --> Router Class Initialized
+INFO - 2020-12-28 08:42:44 --> Output Class Initialized
+INFO - 2020-12-28 08:42:44 --> Security Class Initialized
+DEBUG - 2020-12-28 08:42:44 --> Global POST, GET and COOKIE data sanitized
+INFO - 2020-12-28 08:42:44 --> Input Class Initialized
+INFO - 2020-12-28 08:42:44 --> Language Class Initialized
+ERROR - 2020-12-28 08:42:44 --> 404 Page Not Found: /index
+INFO - 2020-12-28 08:42:46 --> Config Class Initialized
+INFO - 2020-12-28 08:42:46 --> Hooks Class Initialized
+DEBUG - 2020-12-28 08:42:46 --> UTF-8 Support Enabled
+INFO - 2020-12-28 08:42:46 --> Utf8 Class Initialized
+INFO - 2020-12-28 08:42:46 --> URI Class Initialized
+INFO - 2020-12-28 08:42:46 --> Router Class Initialized
+INFO - 2020-12-28 08:42:46 --> Output Class Initialized
+INFO - 2020-12-28 08:42:46 --> Security Class Initialized
+DEBUG - 2020-12-28 08:42:46 --> Global POST, GET and COOKIE data sanitized
+INFO - 2020-12-28 08:42:46 --> Input Class Initialized
+INFO - 2020-12-28 08:42:47 --> Language Class Initialized
+INFO - 2020-12-28 08:42:47 --> Language Class Initialized
+INFO - 2020-12-28 08:42:47 --> Config Class Initialized
+INFO - 2020-12-28 08:42:47 --> Loader Class Initialized
+INFO - 2020-12-28 08:42:47 --> Helper loaded: url_helper
+INFO - 2020-12-28 08:42:47 --> Helper loaded: html_helper
+INFO - 2020-12-28 08:42:47 --> Helper loaded: file_helper
+INFO - 2020-12-28 08:42:47 --> Helper loaded: form_helper
+INFO - 2020-12-28 08:42:47 --> Helper loaded: security_helper
+INFO - 2020-12-28 08:42:47 --> Helper loaded: xss_helper
+INFO - 2020-12-28 08:42:47 --> Helper loaded: slug_helper
+INFO - 2020-12-28 08:42:47 --> Database Driver Class Initialized
+DEBUG - 2020-12-28 08:42:48 --> Session: "sess_save_path" is empty; using "session.save_path" value from php.ini.
+INFO - 2020-12-28 08:42:48 --> Session: Class initialized using 'files' driver.
+INFO - 2020-12-28 08:42:48 --> Language file loaded: language/english/pagination_lang.php
+INFO - 2020-12-28 08:42:48 --> Pagination Class Initialized
+INFO - 2020-12-28 08:42:48 --> Email Class Initialized
+INFO - 2020-12-28 08:42:48 --> Model "M_konfig" initialized
+INFO - 2020-12-28 08:42:48 --> Model "M_reff" initialized
+INFO - 2020-12-28 08:42:48 --> Model "M_total" initialized
+INFO - 2020-12-28 08:42:48 --> Controller Class Initialized
+DEBUG - 2020-12-28 08:42:48 --> Maps_kri MX_Controller Initialized
+DEBUG - 2020-12-28 08:42:48 --> File loaded: D:\xampp72\htdocs\app_grm\application\modules/maps_kri/models/Model.php
+INFO - 2020-12-28 14:42:48 --> Final output sent to browser
+DEBUG - 2020-12-28 14:42:48 --> Total execution time: 2.1062
+INFO - 2020-12-28 08:45:18 --> Config Class Initialized
+INFO - 2020-12-28 08:45:18 --> Hooks Class Initialized
+DEBUG - 2020-12-28 08:45:18 --> UTF-8 Support Enabled
+INFO - 2020-12-28 08:45:19 --> Utf8 Class Initialized
+INFO - 2020-12-28 08:45:19 --> URI Class Initialized
+INFO - 2020-12-28 08:45:19 --> Router Class Initialized
+INFO - 2020-12-28 08:45:19 --> Output Class Initialized
+INFO - 2020-12-28 08:45:19 --> Security Class Initialized
+DEBUG - 2020-12-28 08:45:19 --> Global POST, GET and COOKIE data sanitized
+INFO - 2020-12-28 08:45:19 --> Input Class Initialized
+INFO - 2020-12-28 08:45:19 --> Language Class Initialized
+INFO - 2020-12-28 08:45:19 --> Language Class Initialized
+INFO - 2020-12-28 08:45:19 --> Config Class Initialized
+INFO - 2020-12-28 08:45:19 --> Loader Class Initialized
+INFO - 2020-12-28 08:45:19 --> Helper loaded: url_helper
+INFO - 2020-12-28 08:45:19 --> Helper loaded: html_helper
+INFO - 2020-12-28 08:45:19 --> Helper loaded: file_helper
+INFO - 2020-12-28 08:45:19 --> Helper loaded: form_helper
+INFO - 2020-12-28 08:45:19 --> Helper loaded: security_helper
+INFO - 2020-12-28 08:45:19 --> Helper loaded: xss_helper
+INFO - 2020-12-28 08:45:19 --> Helper loaded: slug_helper
+INFO - 2020-12-28 08:45:19 --> Database Driver Class Initialized
+DEBUG - 2020-12-28 08:45:19 --> Session: "sess_save_path" is empty; using "session.save_path" value from php.ini.
+INFO - 2020-12-28 08:45:19 --> Session: Class initialized using 'files' driver.
+INFO - 2020-12-28 08:45:19 --> Language file loaded: language/english/pagination_lang.php
+INFO - 2020-12-28 08:45:19 --> Pagination Class Initialized
+INFO - 2020-12-28 08:45:19 --> Email Class Initialized
+INFO - 2020-12-28 08:45:19 --> Model "M_konfig" initialized
+INFO - 2020-12-28 08:45:19 --> Model "M_reff" initialized
+INFO - 2020-12-28 08:45:19 --> Model "M_total" initialized
+INFO - 2020-12-28 08:45:19 --> Controller Class Initialized
+DEBUG - 2020-12-28 08:45:19 --> Maps_kri MX_Controller Initialized
+DEBUG - 2020-12-28 08:45:19 --> File loaded: D:\xampp72\htdocs\app_grm\application\modules/maps_kri/models/Model.php
+DEBUG - 2020-12-28 14:45:19 --> File loaded: D:\xampp72\htdocs\app_grm\application\views\temp_maps_kri/head.php
+DEBUG - 2020-12-28 14:45:19 --> File loaded: D:\xampp72\htdocs\app_grm\application\views\temp_maps_kri/navbar.php
+DEBUG - 2020-12-28 14:45:19 --> File loaded: D:\xampp72\htdocs\app_grm\application\views\temp_maps_kri/sidebar_left.php
+DEBUG - 2020-12-28 14:45:20 --> File loaded: D:\xampp72\htdocs\app_grm\application\views\temp_maps_kri/sidebar_right.php
+DEBUG - 2020-12-28 14:45:20 --> File loaded: D:\xampp72\htdocs\app_grm\application\modules/maps_kri/views/index.php
+DEBUG - 2020-12-28 14:45:20 --> File loaded: D:\xampp72\htdocs\app_grm\application\views\temp_maps_kri/quick_bar.php
+DEBUG - 2020-12-28 14:45:20 --> File loaded: D:\xampp72\htdocs\app_grm\application\views\temp_maps_kri/toggle.php
+DEBUG - 2020-12-28 14:45:20 --> File loaded: D:\xampp72\htdocs\app_grm\application\views\temp_maps_kri/konten.php
+DEBUG - 2020-12-28 14:45:20 --> File loaded: D:\xampp72\htdocs\app_grm\application\views\temp_maps_kri/foot.php
+DEBUG - 2020-12-28 14:45:20 --> File loaded: D:\xampp72\htdocs\app_grm\application\views\temp_maps_kri/main.php
+INFO - 2020-12-28 14:45:20 --> Final output sent to browser
+INFO - 2020-12-28 08:45:20 --> Config Class Initialized
+INFO - 2020-12-28 08:45:20 --> Hooks Class Initialized
+DEBUG - 2020-12-28 08:45:20 --> UTF-8 Support Enabled
+INFO - 2020-12-28 08:45:20 --> Utf8 Class Initialized
+INFO - 2020-12-28 08:45:20 --> URI Class Initialized
+INFO - 2020-12-28 08:45:20 --> Router Class Initialized
+INFO - 2020-12-28 08:45:20 --> Output Class Initialized
+INFO - 2020-12-28 08:45:20 --> Security Class Initialized
+DEBUG - 2020-12-28 08:45:20 --> Global POST, GET and COOKIE data sanitized
+INFO - 2020-12-28 08:45:20 --> Input Class Initialized
+INFO - 2020-12-28 08:45:20 --> Language Class Initialized
+ERROR - 2020-12-28 08:45:20 --> 404 Page Not Found: /index
+DEBUG - 2020-12-28 14:45:20 --> Total execution time: 1.3274
+INFO - 2020-12-28 08:45:20 --> Config Class Initialized
+INFO - 2020-12-28 08:45:20 --> Hooks Class Initialized
+DEBUG - 2020-12-28 08:45:20 --> UTF-8 Support Enabled
+INFO - 2020-12-28 08:45:20 --> Utf8 Class Initialized
+INFO - 2020-12-28 08:45:20 --> URI Class Initialized
+INFO - 2020-12-28 08:45:20 --> Router Class Initialized
+INFO - 2020-12-28 08:45:20 --> Output Class Initialized
+INFO - 2020-12-28 08:45:20 --> Security Class Initialized
+DEBUG - 2020-12-28 08:45:20 --> Global POST, GET and COOKIE data sanitized
+INFO - 2020-12-28 08:45:20 --> Input Class Initialized
+INFO - 2020-12-28 08:45:21 --> Language Class Initialized
+ERROR - 2020-12-28 08:45:21 --> 404 Page Not Found: /index
+INFO - 2020-12-28 08:45:22 --> Config Class Initialized
+INFO - 2020-12-28 08:45:22 --> Hooks Class Initialized
+DEBUG - 2020-12-28 08:45:22 --> UTF-8 Support Enabled
+INFO - 2020-12-28 08:45:22 --> Utf8 Class Initialized
+INFO - 2020-12-28 08:45:22 --> URI Class Initialized
+INFO - 2020-12-28 08:45:23 --> Router Class Initialized
+INFO - 2020-12-28 08:45:23 --> Output Class Initialized
+INFO - 2020-12-28 08:45:23 --> Security Class Initialized
+DEBUG - 2020-12-28 08:45:23 --> Global POST, GET and COOKIE data sanitized
+INFO - 2020-12-28 08:45:23 --> Input Class Initialized
+INFO - 2020-12-28 08:45:23 --> Language Class Initialized
+INFO - 2020-12-28 08:45:23 --> Language Class Initialized
+INFO - 2020-12-28 08:45:23 --> Config Class Initialized
+INFO - 2020-12-28 08:45:23 --> Loader Class Initialized
+INFO - 2020-12-28 08:45:23 --> Helper loaded: url_helper
+INFO - 2020-12-28 08:45:23 --> Helper loaded: html_helper
+INFO - 2020-12-28 08:45:23 --> Helper loaded: file_helper
+INFO - 2020-12-28 08:45:23 --> Helper loaded: form_helper
+INFO - 2020-12-28 08:45:23 --> Helper loaded: security_helper
+INFO - 2020-12-28 08:45:23 --> Helper loaded: xss_helper
+INFO - 2020-12-28 08:45:23 --> Helper loaded: slug_helper
+INFO - 2020-12-28 08:45:23 --> Database Driver Class Initialized
+DEBUG - 2020-12-28 08:45:23 --> Session: "sess_save_path" is empty; using "session.save_path" value from php.ini.
+INFO - 2020-12-28 08:45:23 --> Session: Class initialized using 'files' driver.
+INFO - 2020-12-28 08:45:23 --> Language file loaded: language/english/pagination_lang.php
+INFO - 2020-12-28 08:45:23 --> Pagination Class Initialized
+INFO - 2020-12-28 08:45:23 --> Email Class Initialized
+INFO - 2020-12-28 08:45:24 --> Model "M_konfig" initialized
+INFO - 2020-12-28 08:45:24 --> Model "M_reff" initialized
+INFO - 2020-12-28 08:45:24 --> Model "M_total" initialized
+INFO - 2020-12-28 08:45:24 --> Controller Class Initialized
+DEBUG - 2020-12-28 08:45:24 --> Maps_kri MX_Controller Initialized
+DEBUG - 2020-12-28 08:45:24 --> File loaded: D:\xampp72\htdocs\app_grm\application\modules/maps_kri/models/Model.php
+INFO - 2020-12-28 14:45:24 --> Final output sent to browser
+DEBUG - 2020-12-28 14:45:24 --> Total execution time: 1.4142
+INFO - 2020-12-28 08:47:36 --> Config Class Initialized
+INFO - 2020-12-28 08:47:36 --> Hooks Class Initialized
+DEBUG - 2020-12-28 08:47:36 --> UTF-8 Support Enabled
+INFO - 2020-12-28 08:47:36 --> Utf8 Class Initialized
+INFO - 2020-12-28 08:47:36 --> URI Class Initialized
+INFO - 2020-12-28 08:47:36 --> Router Class Initialized
+INFO - 2020-12-28 08:47:36 --> Output Class Initialized
+INFO - 2020-12-28 08:47:36 --> Security Class Initialized
+DEBUG - 2020-12-28 08:47:36 --> Global POST, GET and COOKIE data sanitized
+INFO - 2020-12-28 08:47:36 --> Input Class Initialized
+INFO - 2020-12-28 08:47:36 --> Language Class Initialized
+INFO - 2020-12-28 08:47:36 --> Language Class Initialized
+INFO - 2020-12-28 08:47:37 --> Config Class Initialized
+INFO - 2020-12-28 08:47:37 --> Loader Class Initialized
+INFO - 2020-12-28 08:47:37 --> Helper loaded: url_helper
+INFO - 2020-12-28 08:47:37 --> Helper loaded: html_helper
+INFO - 2020-12-28 08:47:37 --> Helper loaded: file_helper
+INFO - 2020-12-28 08:47:37 --> Helper loaded: form_helper
+INFO - 2020-12-28 08:47:37 --> Helper loaded: security_helper
+INFO - 2020-12-28 08:47:37 --> Helper loaded: xss_helper
+INFO - 2020-12-28 08:47:37 --> Helper loaded: slug_helper
+INFO - 2020-12-28 08:47:37 --> Database Driver Class Initialized
+DEBUG - 2020-12-28 08:47:37 --> Session: "sess_save_path" is empty; using "session.save_path" value from php.ini.
+INFO - 2020-12-28 08:47:37 --> Session: Class initialized using 'files' driver.
+INFO - 2020-12-28 08:47:37 --> Language file loaded: language/english/pagination_lang.php
+INFO - 2020-12-28 08:47:37 --> Pagination Class Initialized
+INFO - 2020-12-28 08:47:37 --> Email Class Initialized
+INFO - 2020-12-28 08:47:37 --> Model "M_konfig" initialized
+INFO - 2020-12-28 08:47:37 --> Model "M_reff" initialized
+INFO - 2020-12-28 08:47:37 --> Model "M_total" initialized
+INFO - 2020-12-28 08:47:37 --> Controller Class Initialized
+DEBUG - 2020-12-28 08:47:37 --> Maps_kri MX_Controller Initialized
+DEBUG - 2020-12-28 08:47:37 --> File loaded: D:\xampp72\htdocs\app_grm\application\modules/maps_kri/models/Model.php
+DEBUG - 2020-12-28 14:47:37 --> File loaded: D:\xampp72\htdocs\app_grm\application\views\temp_maps_kri/head.php
+DEBUG - 2020-12-28 14:47:37 --> File loaded: D:\xampp72\htdocs\app_grm\application\views\temp_maps_kri/navbar.php
+DEBUG - 2020-12-28 14:47:37 --> File loaded: D:\xampp72\htdocs\app_grm\application\views\temp_maps_kri/sidebar_left.php
+DEBUG - 2020-12-28 14:47:37 --> File loaded: D:\xampp72\htdocs\app_grm\application\views\temp_maps_kri/sidebar_right.php
+DEBUG - 2020-12-28 14:47:37 --> File loaded: D:\xampp72\htdocs\app_grm\application\modules/maps_kri/views/index.php
+DEBUG - 2020-12-28 14:47:37 --> File loaded: D:\xampp72\htdocs\app_grm\application\views\temp_maps_kri/quick_bar.php
+DEBUG - 2020-12-28 14:47:37 --> File loaded: D:\xampp72\htdocs\app_grm\application\views\temp_maps_kri/toggle.php
+DEBUG - 2020-12-28 14:47:37 --> File loaded: D:\xampp72\htdocs\app_grm\application\views\temp_maps_kri/konten.php
+DEBUG - 2020-12-28 14:47:37 --> File loaded: D:\xampp72\htdocs\app_grm\application\views\temp_maps_kri/foot.php
+DEBUG - 2020-12-28 14:47:37 --> File loaded: D:\xampp72\htdocs\app_grm\application\views\temp_maps_kri/main.php
+INFO - 2020-12-28 14:47:38 --> Final output sent to browser
+INFO - 2020-12-28 08:47:38 --> Config Class Initialized
+DEBUG - 2020-12-28 14:47:38 --> Total execution time: 1.3721
+INFO - 2020-12-28 08:47:38 --> Hooks Class Initialized
+DEBUG - 2020-12-28 08:47:38 --> UTF-8 Support Enabled
+INFO - 2020-12-28 08:47:38 --> Utf8 Class Initialized
+INFO - 2020-12-28 08:47:38 --> URI Class Initialized
+INFO - 2020-12-28 08:47:38 --> Router Class Initialized
+INFO - 2020-12-28 08:47:38 --> Output Class Initialized
+INFO - 2020-12-28 08:47:38 --> Security Class Initialized
+DEBUG - 2020-12-28 08:47:38 --> Global POST, GET and COOKIE data sanitized
+INFO - 2020-12-28 08:47:38 --> Input Class Initialized
+INFO - 2020-12-28 08:47:38 --> Language Class Initialized
+ERROR - 2020-12-28 08:47:38 --> 404 Page Not Found: /index
+INFO - 2020-12-28 08:47:39 --> Config Class Initialized
+INFO - 2020-12-28 08:47:39 --> Hooks Class Initialized
+DEBUG - 2020-12-28 08:47:39 --> UTF-8 Support Enabled
+INFO - 2020-12-28 08:47:39 --> Utf8 Class Initialized
+INFO - 2020-12-28 08:47:39 --> URI Class Initialized
+INFO - 2020-12-28 08:47:39 --> Router Class Initialized
+INFO - 2020-12-28 08:47:39 --> Output Class Initialized
+INFO - 2020-12-28 08:47:39 --> Security Class Initialized
+DEBUG - 2020-12-28 08:47:39 --> Global POST, GET and COOKIE data sanitized
+INFO - 2020-12-28 08:47:39 --> Input Class Initialized
+INFO - 2020-12-28 08:47:39 --> Language Class Initialized
+INFO - 2020-12-28 08:47:39 --> Language Class Initialized
+INFO - 2020-12-28 08:47:39 --> Config Class Initialized
+INFO - 2020-12-28 08:47:39 --> Loader Class Initialized
+INFO - 2020-12-28 08:47:39 --> Helper loaded: url_helper
+INFO - 2020-12-28 08:47:40 --> Helper loaded: html_helper
+INFO - 2020-12-28 08:47:40 --> Helper loaded: file_helper
+INFO - 2020-12-28 08:47:40 --> Helper loaded: form_helper
+INFO - 2020-12-28 08:47:40 --> Helper loaded: security_helper
+INFO - 2020-12-28 08:47:40 --> Helper loaded: xss_helper
+INFO - 2020-12-28 08:47:40 --> Helper loaded: slug_helper
+INFO - 2020-12-28 08:47:40 --> Database Driver Class Initialized
+DEBUG - 2020-12-28 08:47:40 --> Session: "sess_save_path" is empty; using "session.save_path" value from php.ini.
+INFO - 2020-12-28 08:47:40 --> Session: Class initialized using 'files' driver.
+INFO - 2020-12-28 08:47:40 --> Language file loaded: language/english/pagination_lang.php
+INFO - 2020-12-28 08:47:40 --> Pagination Class Initialized
+INFO - 2020-12-28 08:47:40 --> Email Class Initialized
+INFO - 2020-12-28 08:47:40 --> Model "M_konfig" initialized
+INFO - 2020-12-28 08:47:40 --> Model "M_reff" initialized
+INFO - 2020-12-28 08:47:40 --> Model "M_total" initialized
+INFO - 2020-12-28 08:47:40 --> Controller Class Initialized
+DEBUG - 2020-12-28 08:47:40 --> Maps_kri MX_Controller Initialized
+DEBUG - 2020-12-28 08:47:40 --> File loaded: D:\xampp72\htdocs\app_grm\application\modules/maps_kri/models/Model.php
+INFO - 2020-12-28 14:47:40 --> Final output sent to browser
+DEBUG - 2020-12-28 14:47:40 --> Total execution time: 1.4682
+INFO - 2020-12-28 08:48:47 --> Config Class Initialized
+INFO - 2020-12-28 08:48:47 --> Hooks Class Initialized
+DEBUG - 2020-12-28 08:48:48 --> UTF-8 Support Enabled
+INFO - 2020-12-28 08:48:48 --> Utf8 Class Initialized
+INFO - 2020-12-28 08:48:48 --> URI Class Initialized
+INFO - 2020-12-28 08:48:48 --> Router Class Initialized
+INFO - 2020-12-28 08:48:48 --> Output Class Initialized
+INFO - 2020-12-28 08:48:48 --> Security Class Initialized
+DEBUG - 2020-12-28 08:48:48 --> Global POST, GET and COOKIE data sanitized
+INFO - 2020-12-28 08:48:48 --> Input Class Initialized
+INFO - 2020-12-28 08:48:48 --> Language Class Initialized
+INFO - 2020-12-28 08:48:48 --> Language Class Initialized
+INFO - 2020-12-28 08:48:48 --> Config Class Initialized
+INFO - 2020-12-28 08:48:48 --> Loader Class Initialized
+INFO - 2020-12-28 08:48:48 --> Helper loaded: url_helper
+INFO - 2020-12-28 08:48:48 --> Helper loaded: html_helper
+INFO - 2020-12-28 08:48:48 --> Helper loaded: file_helper
+INFO - 2020-12-28 08:48:48 --> Helper loaded: form_helper
+INFO - 2020-12-28 08:48:48 --> Helper loaded: security_helper
+INFO - 2020-12-28 08:48:48 --> Helper loaded: xss_helper
+INFO - 2020-12-28 08:48:48 --> Helper loaded: slug_helper
+INFO - 2020-12-28 08:48:48 --> Database Driver Class Initialized
+DEBUG - 2020-12-28 08:48:48 --> Session: "sess_save_path" is empty; using "session.save_path" value from php.ini.
+INFO - 2020-12-28 08:48:48 --> Session: Class initialized using 'files' driver.
+INFO - 2020-12-28 08:48:48 --> Language file loaded: language/english/pagination_lang.php
+INFO - 2020-12-28 08:48:48 --> Pagination Class Initialized
+INFO - 2020-12-28 08:48:48 --> Email Class Initialized
+INFO - 2020-12-28 08:48:48 --> Model "M_konfig" initialized
+INFO - 2020-12-28 08:48:48 --> Model "M_reff" initialized
+INFO - 2020-12-28 08:48:48 --> Model "M_total" initialized
+INFO - 2020-12-28 08:48:48 --> Controller Class Initialized
+DEBUG - 2020-12-28 08:48:48 --> Maps_kri MX_Controller Initialized
+DEBUG - 2020-12-28 08:48:48 --> File loaded: D:\xampp72\htdocs\app_grm\application\modules/maps_kri/models/Model.php
+DEBUG - 2020-12-28 14:48:49 --> File loaded: D:\xampp72\htdocs\app_grm\application\views\temp_maps_kri/head.php
+DEBUG - 2020-12-28 14:48:49 --> File loaded: D:\xampp72\htdocs\app_grm\application\views\temp_maps_kri/navbar.php
+DEBUG - 2020-12-28 14:48:49 --> File loaded: D:\xampp72\htdocs\app_grm\application\views\temp_maps_kri/sidebar_left.php
+DEBUG - 2020-12-28 14:48:49 --> File loaded: D:\xampp72\htdocs\app_grm\application\views\temp_maps_kri/sidebar_right.php
+DEBUG - 2020-12-28 14:48:49 --> File loaded: D:\xampp72\htdocs\app_grm\application\modules/maps_kri/views/index.php
+DEBUG - 2020-12-28 14:48:49 --> File loaded: D:\xampp72\htdocs\app_grm\application\views\temp_maps_kri/quick_bar.php
+DEBUG - 2020-12-28 14:48:49 --> File loaded: D:\xampp72\htdocs\app_grm\application\views\temp_maps_kri/toggle.php
+DEBUG - 2020-12-28 14:48:49 --> File loaded: D:\xampp72\htdocs\app_grm\application\views\temp_maps_kri/konten.php
+DEBUG - 2020-12-28 14:48:49 --> File loaded: D:\xampp72\htdocs\app_grm\application\views\temp_maps_kri/foot.php
+DEBUG - 2020-12-28 14:48:49 --> File loaded: D:\xampp72\htdocs\app_grm\application\views\temp_maps_kri/main.php
+INFO - 2020-12-28 14:48:49 --> Final output sent to browser
+INFO - 2020-12-28 08:48:49 --> Config Class Initialized
+INFO - 2020-12-28 08:48:49 --> Hooks Class Initialized
+DEBUG - 2020-12-28 08:48:49 --> UTF-8 Support Enabled
+INFO - 2020-12-28 08:48:49 --> Utf8 Class Initialized
+INFO - 2020-12-28 08:48:49 --> URI Class Initialized
+INFO - 2020-12-28 08:48:49 --> Router Class Initialized
+INFO - 2020-12-28 08:48:49 --> Output Class Initialized
+INFO - 2020-12-28 08:48:49 --> Security Class Initialized
+DEBUG - 2020-12-28 08:48:49 --> Global POST, GET and COOKIE data sanitized
+INFO - 2020-12-28 08:48:49 --> Input Class Initialized
+INFO - 2020-12-28 08:48:49 --> Language Class Initialized
+ERROR - 2020-12-28 08:48:49 --> 404 Page Not Found: /index
+DEBUG - 2020-12-28 14:48:49 --> Total execution time: 1.3382
+INFO - 2020-12-28 08:48:49 --> Config Class Initialized
+INFO - 2020-12-28 08:48:49 --> Hooks Class Initialized
+DEBUG - 2020-12-28 08:48:49 --> UTF-8 Support Enabled
+INFO - 2020-12-28 08:48:49 --> Utf8 Class Initialized
+INFO - 2020-12-28 08:48:49 --> URI Class Initialized
+INFO - 2020-12-28 08:48:49 --> Router Class Initialized
+INFO - 2020-12-28 08:48:49 --> Output Class Initialized
+INFO - 2020-12-28 08:48:50 --> Security Class Initialized
+DEBUG - 2020-12-28 08:48:50 --> Global POST, GET and COOKIE data sanitized
+INFO - 2020-12-28 08:48:50 --> Input Class Initialized
+INFO - 2020-12-28 08:48:50 --> Language Class Initialized
+ERROR - 2020-12-28 08:48:50 --> 404 Page Not Found: /index
+INFO - 2020-12-28 08:48:51 --> Config Class Initialized
+INFO - 2020-12-28 08:48:51 --> Hooks Class Initialized
+DEBUG - 2020-12-28 08:48:51 --> UTF-8 Support Enabled
+INFO - 2020-12-28 08:48:51 --> Utf8 Class Initialized
+INFO - 2020-12-28 08:48:51 --> URI Class Initialized
+INFO - 2020-12-28 08:48:51 --> Router Class Initialized
+INFO - 2020-12-28 08:48:51 --> Output Class Initialized
+INFO - 2020-12-28 08:48:51 --> Security Class Initialized
+DEBUG - 2020-12-28 08:48:51 --> Global POST, GET and COOKIE data sanitized
+INFO - 2020-12-28 08:48:51 --> Input Class Initialized
+INFO - 2020-12-28 08:48:51 --> Language Class Initialized
+INFO - 2020-12-28 08:48:51 --> Language Class Initialized
+INFO - 2020-12-28 08:48:51 --> Config Class Initialized
+INFO - 2020-12-28 08:48:51 --> Loader Class Initialized
+INFO - 2020-12-28 08:48:51 --> Helper loaded: url_helper
+INFO - 2020-12-28 08:48:51 --> Helper loaded: html_helper
+INFO - 2020-12-28 08:48:51 --> Helper loaded: file_helper
+INFO - 2020-12-28 08:48:52 --> Helper loaded: form_helper
+INFO - 2020-12-28 08:48:52 --> Helper loaded: security_helper
+INFO - 2020-12-28 08:48:52 --> Helper loaded: xss_helper
+INFO - 2020-12-28 08:48:52 --> Helper loaded: slug_helper
+INFO - 2020-12-28 08:48:52 --> Database Driver Class Initialized
+DEBUG - 2020-12-28 08:48:52 --> Session: "sess_save_path" is empty; using "session.save_path" value from php.ini.
+INFO - 2020-12-28 08:48:52 --> Session: Class initialized using 'files' driver.
+INFO - 2020-12-28 08:48:52 --> Language file loaded: language/english/pagination_lang.php
+INFO - 2020-12-28 08:48:52 --> Pagination Class Initialized
+INFO - 2020-12-28 08:48:52 --> Email Class Initialized
+INFO - 2020-12-28 08:48:52 --> Model "M_konfig" initialized
+INFO - 2020-12-28 08:48:52 --> Model "M_reff" initialized
+INFO - 2020-12-28 08:48:52 --> Model "M_total" initialized
+INFO - 2020-12-28 08:48:52 --> Controller Class Initialized
+DEBUG - 2020-12-28 08:48:52 --> Maps_kri MX_Controller Initialized
+DEBUG - 2020-12-28 08:48:52 --> File loaded: D:\xampp72\htdocs\app_grm\application\modules/maps_kri/models/Model.php
+INFO - 2020-12-28 14:48:52 --> Final output sent to browser
+DEBUG - 2020-12-28 14:48:52 --> Total execution time: 1.5465
+INFO - 2020-12-28 08:49:58 --> Config Class Initialized
+INFO - 2020-12-28 08:49:58 --> Hooks Class Initialized
+DEBUG - 2020-12-28 08:49:58 --> UTF-8 Support Enabled
+INFO - 2020-12-28 08:49:58 --> Utf8 Class Initialized
+INFO - 2020-12-28 08:49:58 --> URI Class Initialized
+INFO - 2020-12-28 08:49:58 --> Router Class Initialized
+INFO - 2020-12-28 08:49:58 --> Output Class Initialized
+INFO - 2020-12-28 08:49:58 --> Security Class Initialized
+DEBUG - 2020-12-28 08:49:58 --> Global POST, GET and COOKIE data sanitized
+INFO - 2020-12-28 08:49:58 --> Input Class Initialized
+INFO - 2020-12-28 08:49:58 --> Language Class Initialized
+INFO - 2020-12-28 08:49:58 --> Language Class Initialized
+INFO - 2020-12-28 08:49:58 --> Config Class Initialized
+INFO - 2020-12-28 08:49:58 --> Loader Class Initialized
+INFO - 2020-12-28 08:49:58 --> Helper loaded: url_helper
+INFO - 2020-12-28 08:49:58 --> Helper loaded: html_helper
+INFO - 2020-12-28 08:49:58 --> Helper loaded: file_helper
+INFO - 2020-12-28 08:49:58 --> Helper loaded: form_helper
+INFO - 2020-12-28 08:49:58 --> Helper loaded: security_helper
+INFO - 2020-12-28 08:49:58 --> Helper loaded: xss_helper
+INFO - 2020-12-28 08:49:58 --> Helper loaded: slug_helper
+INFO - 2020-12-28 08:49:58 --> Database Driver Class Initialized
+DEBUG - 2020-12-28 08:49:58 --> Session: "sess_save_path" is empty; using "session.save_path" value from php.ini.
+INFO - 2020-12-28 08:49:58 --> Session: Class initialized using 'files' driver.
+INFO - 2020-12-28 08:49:58 --> Language file loaded: language/english/pagination_lang.php
+INFO - 2020-12-28 08:49:58 --> Pagination Class Initialized
+INFO - 2020-12-28 08:49:58 --> Email Class Initialized
+INFO - 2020-12-28 08:49:58 --> Model "M_konfig" initialized
+INFO - 2020-12-28 08:49:58 --> Model "M_reff" initialized
+INFO - 2020-12-28 08:49:58 --> Model "M_total" initialized
+INFO - 2020-12-28 08:49:58 --> Controller Class Initialized
+DEBUG - 2020-12-28 08:49:58 --> Maps_kri MX_Controller Initialized
+DEBUG - 2020-12-28 08:49:59 --> File loaded: D:\xampp72\htdocs\app_grm\application\modules/maps_kri/models/Model.php
+DEBUG - 2020-12-28 14:49:59 --> File loaded: D:\xampp72\htdocs\app_grm\application\views\temp_maps_kri/head.php
+DEBUG - 2020-12-28 14:49:59 --> File loaded: D:\xampp72\htdocs\app_grm\application\views\temp_maps_kri/navbar.php
+DEBUG - 2020-12-28 14:49:59 --> File loaded: D:\xampp72\htdocs\app_grm\application\views\temp_maps_kri/sidebar_left.php
+DEBUG - 2020-12-28 14:49:59 --> File loaded: D:\xampp72\htdocs\app_grm\application\views\temp_maps_kri/sidebar_right.php
+DEBUG - 2020-12-28 14:49:59 --> File loaded: D:\xampp72\htdocs\app_grm\application\modules/maps_kri/views/index.php
+DEBUG - 2020-12-28 14:49:59 --> File loaded: D:\xampp72\htdocs\app_grm\application\views\temp_maps_kri/quick_bar.php
+DEBUG - 2020-12-28 14:49:59 --> File loaded: D:\xampp72\htdocs\app_grm\application\views\temp_maps_kri/toggle.php
+DEBUG - 2020-12-28 14:49:59 --> File loaded: D:\xampp72\htdocs\app_grm\application\views\temp_maps_kri/konten.php
+DEBUG - 2020-12-28 14:49:59 --> File loaded: D:\xampp72\htdocs\app_grm\application\views\temp_maps_kri/foot.php
+DEBUG - 2020-12-28 14:49:59 --> File loaded: D:\xampp72\htdocs\app_grm\application\views\temp_maps_kri/main.php
+INFO - 2020-12-28 14:49:59 --> Final output sent to browser
+INFO - 2020-12-28 08:49:59 --> Config Class Initialized
+INFO - 2020-12-28 08:49:59 --> Hooks Class Initialized
+DEBUG - 2020-12-28 08:49:59 --> UTF-8 Support Enabled
+INFO - 2020-12-28 08:49:59 --> Utf8 Class Initialized
+INFO - 2020-12-28 08:49:59 --> URI Class Initialized
+INFO - 2020-12-28 08:49:59 --> Router Class Initialized
+INFO - 2020-12-28 08:49:59 --> Output Class Initialized
+INFO - 2020-12-28 08:49:59 --> Security Class Initialized
+DEBUG - 2020-12-28 08:49:59 --> Global POST, GET and COOKIE data sanitized
+INFO - 2020-12-28 08:49:59 --> Input Class Initialized
+INFO - 2020-12-28 08:49:59 --> Language Class Initialized
+ERROR - 2020-12-28 08:49:59 --> 404 Page Not Found: /index
+DEBUG - 2020-12-28 14:49:59 --> Total execution time: 1.2999
+INFO - 2020-12-28 08:49:59 --> Config Class Initialized
+INFO - 2020-12-28 08:49:59 --> Hooks Class Initialized
+DEBUG - 2020-12-28 08:49:59 --> UTF-8 Support Enabled
+INFO - 2020-12-28 08:49:59 --> Utf8 Class Initialized
+INFO - 2020-12-28 08:49:59 --> URI Class Initialized
+INFO - 2020-12-28 08:49:59 --> Router Class Initialized
+INFO - 2020-12-28 08:49:59 --> Output Class Initialized
+INFO - 2020-12-28 08:49:59 --> Security Class Initialized
+DEBUG - 2020-12-28 08:49:59 --> Global POST, GET and COOKIE data sanitized
+INFO - 2020-12-28 08:50:00 --> Input Class Initialized
+INFO - 2020-12-28 08:50:00 --> Language Class Initialized
+ERROR - 2020-12-28 08:50:00 --> 404 Page Not Found: /index
+INFO - 2020-12-28 08:50:01 --> Config Class Initialized
+INFO - 2020-12-28 08:50:01 --> Hooks Class Initialized
+DEBUG - 2020-12-28 08:50:01 --> UTF-8 Support Enabled
+INFO - 2020-12-28 08:50:01 --> Utf8 Class Initialized
+INFO - 2020-12-28 08:50:01 --> URI Class Initialized
+INFO - 2020-12-28 08:50:01 --> Router Class Initialized
+INFO - 2020-12-28 08:50:01 --> Output Class Initialized
+INFO - 2020-12-28 08:50:01 --> Security Class Initialized
+DEBUG - 2020-12-28 08:50:01 --> Global POST, GET and COOKIE data sanitized
+INFO - 2020-12-28 08:50:01 --> Input Class Initialized
+INFO - 2020-12-28 08:50:02 --> Language Class Initialized
+INFO - 2020-12-28 08:50:02 --> Language Class Initialized
+INFO - 2020-12-28 08:50:02 --> Config Class Initialized
+INFO - 2020-12-28 08:50:02 --> Loader Class Initialized
+INFO - 2020-12-28 08:50:02 --> Helper loaded: url_helper
+INFO - 2020-12-28 08:50:02 --> Helper loaded: html_helper
+INFO - 2020-12-28 08:50:02 --> Helper loaded: file_helper
+INFO - 2020-12-28 08:50:02 --> Helper loaded: form_helper
+INFO - 2020-12-28 08:50:02 --> Helper loaded: security_helper
+INFO - 2020-12-28 08:50:02 --> Helper loaded: xss_helper
+INFO - 2020-12-28 08:50:02 --> Helper loaded: slug_helper
+INFO - 2020-12-28 08:50:02 --> Database Driver Class Initialized
+DEBUG - 2020-12-28 08:50:02 --> Session: "sess_save_path" is empty; using "session.save_path" value from php.ini.
+INFO - 2020-12-28 08:50:02 --> Session: Class initialized using 'files' driver.
+INFO - 2020-12-28 08:50:02 --> Language file loaded: language/english/pagination_lang.php
+INFO - 2020-12-28 08:50:02 --> Pagination Class Initialized
+INFO - 2020-12-28 08:50:02 --> Email Class Initialized
+INFO - 2020-12-28 08:50:02 --> Model "M_konfig" initialized
+INFO - 2020-12-28 08:50:02 --> Model "M_reff" initialized
+INFO - 2020-12-28 08:50:02 --> Model "M_total" initialized
+INFO - 2020-12-28 08:50:02 --> Controller Class Initialized
+DEBUG - 2020-12-28 08:50:02 --> Maps_kri MX_Controller Initialized
+DEBUG - 2020-12-28 08:50:02 --> File loaded: D:\xampp72\htdocs\app_grm\application\modules/maps_kri/models/Model.php
+INFO - 2020-12-28 14:50:02 --> Final output sent to browser
+DEBUG - 2020-12-28 14:50:02 --> Total execution time: 1.5134
+INFO - 2020-12-28 08:50:36 --> Config Class Initialized
+INFO - 2020-12-28 08:50:36 --> Hooks Class Initialized
+DEBUG - 2020-12-28 08:50:36 --> UTF-8 Support Enabled
+INFO - 2020-12-28 08:50:36 --> Utf8 Class Initialized
+INFO - 2020-12-28 08:50:36 --> URI Class Initialized
+INFO - 2020-12-28 08:50:36 --> Router Class Initialized
+INFO - 2020-12-28 08:50:36 --> Output Class Initialized
+INFO - 2020-12-28 08:50:36 --> Security Class Initialized
+DEBUG - 2020-12-28 08:50:36 --> Global POST, GET and COOKIE data sanitized
+INFO - 2020-12-28 08:50:36 --> Input Class Initialized
+INFO - 2020-12-28 08:50:36 --> Language Class Initialized
+INFO - 2020-12-28 08:50:36 --> Language Class Initialized
+INFO - 2020-12-28 08:50:36 --> Config Class Initialized
+INFO - 2020-12-28 08:50:36 --> Loader Class Initialized
+INFO - 2020-12-28 08:50:36 --> Helper loaded: url_helper
+INFO - 2020-12-28 08:50:36 --> Helper loaded: html_helper
+INFO - 2020-12-28 08:50:36 --> Helper loaded: file_helper
+INFO - 2020-12-28 08:50:36 --> Helper loaded: form_helper
+INFO - 2020-12-28 08:50:36 --> Helper loaded: security_helper
+INFO - 2020-12-28 08:50:36 --> Helper loaded: xss_helper
+INFO - 2020-12-28 08:50:36 --> Helper loaded: slug_helper
+INFO - 2020-12-28 08:50:37 --> Database Driver Class Initialized
+DEBUG - 2020-12-28 08:50:37 --> Session: "sess_save_path" is empty; using "session.save_path" value from php.ini.
+INFO - 2020-12-28 08:50:37 --> Session: Class initialized using 'files' driver.
+INFO - 2020-12-28 08:50:37 --> Language file loaded: language/english/pagination_lang.php
+INFO - 2020-12-28 08:50:37 --> Pagination Class Initialized
+INFO - 2020-12-28 08:50:37 --> Email Class Initialized
+INFO - 2020-12-28 08:50:37 --> Model "M_konfig" initialized
+INFO - 2020-12-28 08:50:37 --> Model "M_reff" initialized
+INFO - 2020-12-28 08:50:37 --> Model "M_total" initialized
+INFO - 2020-12-28 08:50:37 --> Controller Class Initialized
+DEBUG - 2020-12-28 08:50:37 --> Maps_kri MX_Controller Initialized
+DEBUG - 2020-12-28 08:50:37 --> File loaded: D:\xampp72\htdocs\app_grm\application\modules/maps_kri/models/Model.php
+DEBUG - 2020-12-28 14:50:37 --> File loaded: D:\xampp72\htdocs\app_grm\application\views\temp_maps_kri/head.php
+DEBUG - 2020-12-28 14:50:37 --> File loaded: D:\xampp72\htdocs\app_grm\application\views\temp_maps_kri/navbar.php
+DEBUG - 2020-12-28 14:50:37 --> File loaded: D:\xampp72\htdocs\app_grm\application\views\temp_maps_kri/sidebar_left.php
+DEBUG - 2020-12-28 14:50:37 --> File loaded: D:\xampp72\htdocs\app_grm\application\views\temp_maps_kri/sidebar_right.php
+DEBUG - 2020-12-28 14:50:37 --> File loaded: D:\xampp72\htdocs\app_grm\application\modules/maps_kri/views/index.php
+DEBUG - 2020-12-28 14:50:37 --> File loaded: D:\xampp72\htdocs\app_grm\application\views\temp_maps_kri/quick_bar.php
+DEBUG - 2020-12-28 14:50:37 --> File loaded: D:\xampp72\htdocs\app_grm\application\views\temp_maps_kri/toggle.php
+DEBUG - 2020-12-28 14:50:37 --> File loaded: D:\xampp72\htdocs\app_grm\application\views\temp_maps_kri/konten.php
+DEBUG - 2020-12-28 14:50:37 --> File loaded: D:\xampp72\htdocs\app_grm\application\views\temp_maps_kri/foot.php
+DEBUG - 2020-12-28 14:50:37 --> File loaded: D:\xampp72\htdocs\app_grm\application\views\temp_maps_kri/main.php
+INFO - 2020-12-28 14:50:37 --> Final output sent to browser
+INFO - 2020-12-28 08:50:37 --> Config Class Initialized
+INFO - 2020-12-28 08:50:37 --> Hooks Class Initialized
+DEBUG - 2020-12-28 08:50:37 --> UTF-8 Support Enabled
+INFO - 2020-12-28 08:50:37 --> Utf8 Class Initialized
+INFO - 2020-12-28 08:50:37 --> URI Class Initialized
+INFO - 2020-12-28 08:50:37 --> Router Class Initialized
+INFO - 2020-12-28 08:50:37 --> Output Class Initialized
+INFO - 2020-12-28 08:50:37 --> Security Class Initialized
+DEBUG - 2020-12-28 08:50:37 --> Global POST, GET and COOKIE data sanitized
+INFO - 2020-12-28 08:50:37 --> Input Class Initialized
+INFO - 2020-12-28 08:50:37 --> Language Class Initialized
+ERROR - 2020-12-28 08:50:37 --> 404 Page Not Found: /index
+DEBUG - 2020-12-28 14:50:37 --> Total execution time: 1.5037
+INFO - 2020-12-28 08:50:38 --> Config Class Initialized
+INFO - 2020-12-28 08:50:38 --> Hooks Class Initialized
+DEBUG - 2020-12-28 08:50:38 --> UTF-8 Support Enabled
+INFO - 2020-12-28 08:50:38 --> Utf8 Class Initialized
+INFO - 2020-12-28 08:50:38 --> URI Class Initialized
+INFO - 2020-12-28 08:50:38 --> Router Class Initialized
+INFO - 2020-12-28 08:50:38 --> Output Class Initialized
+INFO - 2020-12-28 08:50:38 --> Security Class Initialized
+DEBUG - 2020-12-28 08:50:38 --> Global POST, GET and COOKIE data sanitized
+INFO - 2020-12-28 08:50:38 --> Input Class Initialized
+INFO - 2020-12-28 08:50:38 --> Language Class Initialized
+ERROR - 2020-12-28 08:50:38 --> 404 Page Not Found: /index
+INFO - 2020-12-28 08:50:39 --> Config Class Initialized
+INFO - 2020-12-28 08:50:39 --> Hooks Class Initialized
+DEBUG - 2020-12-28 08:50:39 --> UTF-8 Support Enabled
+INFO - 2020-12-28 08:50:39 --> Utf8 Class Initialized
+INFO - 2020-12-28 08:50:40 --> URI Class Initialized
+INFO - 2020-12-28 08:50:40 --> Router Class Initialized
+INFO - 2020-12-28 08:50:40 --> Output Class Initialized
+INFO - 2020-12-28 08:50:40 --> Security Class Initialized
+DEBUG - 2020-12-28 08:50:40 --> Global POST, GET and COOKIE data sanitized
+INFO - 2020-12-28 08:50:40 --> Input Class Initialized
+INFO - 2020-12-28 08:50:40 --> Language Class Initialized
+INFO - 2020-12-28 08:50:40 --> Language Class Initialized
+INFO - 2020-12-28 08:50:40 --> Config Class Initialized
+INFO - 2020-12-28 08:50:40 --> Loader Class Initialized
+INFO - 2020-12-28 08:50:40 --> Helper loaded: url_helper
+INFO - 2020-12-28 08:50:40 --> Helper loaded: html_helper
+INFO - 2020-12-28 08:50:40 --> Helper loaded: file_helper
+INFO - 2020-12-28 08:50:40 --> Helper loaded: form_helper
+INFO - 2020-12-28 08:50:40 --> Helper loaded: security_helper
+INFO - 2020-12-28 08:50:40 --> Helper loaded: xss_helper
+INFO - 2020-12-28 08:50:40 --> Helper loaded: slug_helper
+INFO - 2020-12-28 08:50:40 --> Database Driver Class Initialized
+DEBUG - 2020-12-28 08:50:40 --> Session: "sess_save_path" is empty; using "session.save_path" value from php.ini.
+INFO - 2020-12-28 08:50:40 --> Session: Class initialized using 'files' driver.
+INFO - 2020-12-28 08:50:40 --> Language file loaded: language/english/pagination_lang.php
+INFO - 2020-12-28 08:50:40 --> Pagination Class Initialized
+INFO - 2020-12-28 08:50:40 --> Email Class Initialized
+INFO - 2020-12-28 08:50:41 --> Model "M_konfig" initialized
+INFO - 2020-12-28 08:50:41 --> Model "M_reff" initialized
+INFO - 2020-12-28 08:50:41 --> Model "M_total" initialized
+INFO - 2020-12-28 08:50:41 --> Controller Class Initialized
+DEBUG - 2020-12-28 08:50:41 --> Maps_kri MX_Controller Initialized
+DEBUG - 2020-12-28 08:50:41 --> File loaded: D:\xampp72\htdocs\app_grm\application\modules/maps_kri/models/Model.php
+INFO - 2020-12-28 14:50:41 --> Final output sent to browser
+DEBUG - 2020-12-28 14:50:41 --> Total execution time: 1.3159
+INFO - 2020-12-28 08:58:41 --> Config Class Initialized
+INFO - 2020-12-28 08:58:41 --> Hooks Class Initialized
+DEBUG - 2020-12-28 08:58:41 --> UTF-8 Support Enabled
+INFO - 2020-12-28 08:58:41 --> Utf8 Class Initialized
+INFO - 2020-12-28 08:58:41 --> URI Class Initialized
+INFO - 2020-12-28 08:58:41 --> Router Class Initialized
+INFO - 2020-12-28 08:58:41 --> Output Class Initialized
+INFO - 2020-12-28 08:58:41 --> Security Class Initialized
+DEBUG - 2020-12-28 08:58:41 --> Global POST, GET and COOKIE data sanitized
+INFO - 2020-12-28 08:58:41 --> Input Class Initialized
+INFO - 2020-12-28 08:58:41 --> Language Class Initialized
+INFO - 2020-12-28 08:58:41 --> Language Class Initialized
+INFO - 2020-12-28 08:58:41 --> Config Class Initialized
+INFO - 2020-12-28 08:58:41 --> Loader Class Initialized
+INFO - 2020-12-28 08:58:41 --> Helper loaded: url_helper
+INFO - 2020-12-28 08:58:41 --> Helper loaded: html_helper
+INFO - 2020-12-28 08:58:41 --> Helper loaded: file_helper
+INFO - 2020-12-28 08:58:41 --> Helper loaded: form_helper
+INFO - 2020-12-28 08:58:41 --> Helper loaded: security_helper
+INFO - 2020-12-28 08:58:41 --> Helper loaded: xss_helper
+INFO - 2020-12-28 08:58:41 --> Helper loaded: slug_helper
+INFO - 2020-12-28 08:58:42 --> Database Driver Class Initialized
+DEBUG - 2020-12-28 08:58:42 --> Session: "sess_save_path" is empty; using "session.save_path" value from php.ini.
+INFO - 2020-12-28 08:58:42 --> Session: Class initialized using 'files' driver.
+INFO - 2020-12-28 08:58:42 --> Language file loaded: language/english/pagination_lang.php
+INFO - 2020-12-28 08:58:42 --> Pagination Class Initialized
+INFO - 2020-12-28 08:58:42 --> Email Class Initialized
+INFO - 2020-12-28 08:58:42 --> Model "M_konfig" initialized
+INFO - 2020-12-28 08:58:42 --> Model "M_reff" initialized
+INFO - 2020-12-28 08:58:42 --> Model "M_total" initialized
+INFO - 2020-12-28 08:58:42 --> Controller Class Initialized
+DEBUG - 2020-12-28 08:58:42 --> Maps_kri MX_Controller Initialized
+DEBUG - 2020-12-28 08:58:42 --> File loaded: D:\xampp72\htdocs\app_grm\application\modules/maps_kri/models/Model.php
+DEBUG - 2020-12-28 14:58:42 --> File loaded: D:\xampp72\htdocs\app_grm\application\views\temp_maps_kri/head.php
+DEBUG - 2020-12-28 14:58:42 --> File loaded: D:\xampp72\htdocs\app_grm\application\views\temp_maps_kri/navbar.php
+DEBUG - 2020-12-28 14:58:42 --> File loaded: D:\xampp72\htdocs\app_grm\application\views\temp_maps_kri/sidebar_left.php
+DEBUG - 2020-12-28 14:58:42 --> File loaded: D:\xampp72\htdocs\app_grm\application\views\temp_maps_kri/sidebar_right.php
+DEBUG - 2020-12-28 14:58:42 --> File loaded: D:\xampp72\htdocs\app_grm\application\modules/maps_kri/views/index.php
+DEBUG - 2020-12-28 14:58:42 --> File loaded: D:\xampp72\htdocs\app_grm\application\views\temp_maps_kri/quick_bar.php
+DEBUG - 2020-12-28 14:58:42 --> File loaded: D:\xampp72\htdocs\app_grm\application\views\temp_maps_kri/toggle.php
+DEBUG - 2020-12-28 14:58:42 --> File loaded: D:\xampp72\htdocs\app_grm\application\views\temp_maps_kri/konten.php
+DEBUG - 2020-12-28 14:58:42 --> File loaded: D:\xampp72\htdocs\app_grm\application\views\temp_maps_kri/foot.php
+DEBUG - 2020-12-28 14:58:42 --> File loaded: D:\xampp72\htdocs\app_grm\application\views\temp_maps_kri/main.php
+INFO - 2020-12-28 14:58:42 --> Final output sent to browser
+INFO - 2020-12-28 08:58:42 --> Config Class Initialized
+INFO - 2020-12-28 08:58:42 --> Hooks Class Initialized
+DEBUG - 2020-12-28 08:58:42 --> UTF-8 Support Enabled
+DEBUG - 2020-12-28 14:58:42 --> Total execution time: 1.4058
+INFO - 2020-12-28 08:58:42 --> Utf8 Class Initialized
+INFO - 2020-12-28 08:58:42 --> URI Class Initialized
+INFO - 2020-12-28 08:58:43 --> Router Class Initialized
+INFO - 2020-12-28 08:58:43 --> Output Class Initialized
+INFO - 2020-12-28 08:58:43 --> Security Class Initialized
+DEBUG - 2020-12-28 08:58:43 --> Global POST, GET and COOKIE data sanitized
+INFO - 2020-12-28 08:58:43 --> Input Class Initialized
+INFO - 2020-12-28 08:58:43 --> Language Class Initialized
+ERROR - 2020-12-28 08:58:43 --> 404 Page Not Found: /index
+INFO - 2020-12-28 08:58:45 --> Config Class Initialized
+INFO - 2020-12-28 08:58:45 --> Hooks Class Initialized
+DEBUG - 2020-12-28 08:58:45 --> UTF-8 Support Enabled
+INFO - 2020-12-28 08:58:45 --> Utf8 Class Initialized
+INFO - 2020-12-28 08:58:46 --> URI Class Initialized
+INFO - 2020-12-28 08:58:46 --> Router Class Initialized
+INFO - 2020-12-28 08:58:46 --> Output Class Initialized
+INFO - 2020-12-28 08:58:46 --> Security Class Initialized
+DEBUG - 2020-12-28 08:58:46 --> Global POST, GET and COOKIE data sanitized
+INFO - 2020-12-28 08:58:46 --> Input Class Initialized
+INFO - 2020-12-28 08:58:46 --> Language Class Initialized
+INFO - 2020-12-28 08:58:46 --> Language Class Initialized
+INFO - 2020-12-28 08:58:46 --> Config Class Initialized
+INFO - 2020-12-28 08:58:46 --> Loader Class Initialized
+INFO - 2020-12-28 08:58:46 --> Helper loaded: url_helper
+INFO - 2020-12-28 08:58:46 --> Helper loaded: html_helper
+INFO - 2020-12-28 08:58:46 --> Helper loaded: file_helper
+INFO - 2020-12-28 08:58:46 --> Helper loaded: form_helper
+INFO - 2020-12-28 08:58:46 --> Helper loaded: security_helper
+INFO - 2020-12-28 08:58:46 --> Helper loaded: xss_helper
+INFO - 2020-12-28 08:58:46 --> Helper loaded: slug_helper
+INFO - 2020-12-28 08:58:46 --> Database Driver Class Initialized
+DEBUG - 2020-12-28 08:58:46 --> Session: "sess_save_path" is empty; using "session.save_path" value from php.ini.
+INFO - 2020-12-28 08:58:46 --> Session: Class initialized using 'files' driver.
+INFO - 2020-12-28 08:58:46 --> Language file loaded: language/english/pagination_lang.php
+INFO - 2020-12-28 08:58:46 --> Pagination Class Initialized
+INFO - 2020-12-28 08:58:46 --> Email Class Initialized
+INFO - 2020-12-28 08:58:46 --> Model "M_konfig" initialized
+INFO - 2020-12-28 08:58:46 --> Model "M_reff" initialized
+INFO - 2020-12-28 08:58:46 --> Model "M_total" initialized
+INFO - 2020-12-28 08:58:46 --> Controller Class Initialized
+DEBUG - 2020-12-28 08:58:46 --> Maps_kri MX_Controller Initialized
+DEBUG - 2020-12-28 08:58:46 --> File loaded: D:\xampp72\htdocs\app_grm\application\modules/maps_kri/models/Model.php
+INFO - 2020-12-28 14:58:47 --> Final output sent to browser
+DEBUG - 2020-12-28 14:58:47 --> Total execution time: 1.1986
+INFO - 2020-12-28 08:59:06 --> Config Class Initialized
+INFO - 2020-12-28 08:59:06 --> Hooks Class Initialized
+DEBUG - 2020-12-28 08:59:06 --> UTF-8 Support Enabled
+INFO - 2020-12-28 08:59:06 --> Utf8 Class Initialized
+INFO - 2020-12-28 08:59:06 --> URI Class Initialized
+INFO - 2020-12-28 08:59:06 --> Router Class Initialized
+INFO - 2020-12-28 08:59:06 --> Output Class Initialized
+INFO - 2020-12-28 08:59:06 --> Security Class Initialized
+DEBUG - 2020-12-28 08:59:06 --> Global POST, GET and COOKIE data sanitized
+INFO - 2020-12-28 08:59:06 --> Input Class Initialized
+INFO - 2020-12-28 08:59:06 --> Language Class Initialized
+ERROR - 2020-12-28 08:59:06 --> 404 Page Not Found: /index
+INFO - 2020-12-28 09:01:29 --> Config Class Initialized
+INFO - 2020-12-28 09:01:29 --> Hooks Class Initialized
+DEBUG - 2020-12-28 09:01:30 --> UTF-8 Support Enabled
+INFO - 2020-12-28 09:01:30 --> Utf8 Class Initialized
+INFO - 2020-12-28 09:01:30 --> URI Class Initialized
+INFO - 2020-12-28 09:01:30 --> Router Class Initialized
+INFO - 2020-12-28 09:01:30 --> Output Class Initialized
+INFO - 2020-12-28 09:01:30 --> Security Class Initialized
+DEBUG - 2020-12-28 09:01:30 --> Global POST, GET and COOKIE data sanitized
+INFO - 2020-12-28 09:01:30 --> Input Class Initialized
+INFO - 2020-12-28 09:01:30 --> Language Class Initialized
+INFO - 2020-12-28 09:01:30 --> Language Class Initialized
+INFO - 2020-12-28 09:01:30 --> Config Class Initialized
+INFO - 2020-12-28 09:01:30 --> Loader Class Initialized
+INFO - 2020-12-28 09:01:30 --> Helper loaded: url_helper
+INFO - 2020-12-28 09:01:30 --> Helper loaded: html_helper
+INFO - 2020-12-28 09:01:30 --> Helper loaded: file_helper
+INFO - 2020-12-28 09:01:30 --> Helper loaded: form_helper
+INFO - 2020-12-28 09:01:30 --> Helper loaded: security_helper
+INFO - 2020-12-28 09:01:30 --> Helper loaded: xss_helper
+INFO - 2020-12-28 09:01:30 --> Helper loaded: slug_helper
+INFO - 2020-12-28 09:01:30 --> Database Driver Class Initialized
+DEBUG - 2020-12-28 09:01:30 --> Session: "sess_save_path" is empty; using "session.save_path" value from php.ini.
+INFO - 2020-12-28 09:01:30 --> Session: Class initialized using 'files' driver.
+INFO - 2020-12-28 09:01:30 --> Language file loaded: language/english/pagination_lang.php
+INFO - 2020-12-28 09:01:30 --> Pagination Class Initialized
+INFO - 2020-12-28 09:01:30 --> Email Class Initialized
+INFO - 2020-12-28 09:01:30 --> Model "M_konfig" initialized
+INFO - 2020-12-28 09:01:30 --> Model "M_reff" initialized
+INFO - 2020-12-28 09:01:30 --> Model "M_total" initialized
+INFO - 2020-12-28 09:01:30 --> Controller Class Initialized
+DEBUG - 2020-12-28 09:01:30 --> Maps_kri MX_Controller Initialized
+DEBUG - 2020-12-28 09:01:30 --> File loaded: D:\xampp72\htdocs\app_grm\application\modules/maps_kri/models/Model.php
+DEBUG - 2020-12-28 15:01:30 --> File loaded: D:\xampp72\htdocs\app_grm\application\views\temp_maps_kri/head.php
+DEBUG - 2020-12-28 15:01:30 --> File loaded: D:\xampp72\htdocs\app_grm\application\views\temp_maps_kri/navbar.php
+DEBUG - 2020-12-28 15:01:30 --> File loaded: D:\xampp72\htdocs\app_grm\application\views\temp_maps_kri/sidebar_left.php
+DEBUG - 2020-12-28 15:01:31 --> File loaded: D:\xampp72\htdocs\app_grm\application\views\temp_maps_kri/sidebar_right.php
+DEBUG - 2020-12-28 15:01:31 --> File loaded: D:\xampp72\htdocs\app_grm\application\modules/maps_kri/views/index.php
+DEBUG - 2020-12-28 15:01:31 --> File loaded: D:\xampp72\htdocs\app_grm\application\views\temp_maps_kri/quick_bar.php
+DEBUG - 2020-12-28 15:01:31 --> File loaded: D:\xampp72\htdocs\app_grm\application\views\temp_maps_kri/toggle.php
+DEBUG - 2020-12-28 15:01:31 --> File loaded: D:\xampp72\htdocs\app_grm\application\views\temp_maps_kri/konten.php
+DEBUG - 2020-12-28 15:01:31 --> File loaded: D:\xampp72\htdocs\app_grm\application\views\temp_maps_kri/foot.php
+DEBUG - 2020-12-28 15:01:31 --> File loaded: D:\xampp72\htdocs\app_grm\application\views\temp_maps_kri/main.php
+INFO - 2020-12-28 15:01:31 --> Final output sent to browser
+DEBUG - 2020-12-28 15:01:31 --> Total execution time: 1.2598
+INFO - 2020-12-28 09:01:31 --> Config Class Initialized
+INFO - 2020-12-28 09:01:31 --> Hooks Class Initialized
+DEBUG - 2020-12-28 09:01:31 --> UTF-8 Support Enabled
+INFO - 2020-12-28 09:01:31 --> Utf8 Class Initialized
+INFO - 2020-12-28 09:01:31 --> URI Class Initialized
+INFO - 2020-12-28 09:01:31 --> Router Class Initialized
+INFO - 2020-12-28 09:01:31 --> Output Class Initialized
+INFO - 2020-12-28 09:01:31 --> Security Class Initialized
+DEBUG - 2020-12-28 09:01:31 --> Global POST, GET and COOKIE data sanitized
+INFO - 2020-12-28 09:01:31 --> Input Class Initialized
+INFO - 2020-12-28 09:01:31 --> Language Class Initialized
+ERROR - 2020-12-28 09:01:31 --> 404 Page Not Found: /index
+INFO - 2020-12-28 09:01:31 --> Config Class Initialized
+INFO - 2020-12-28 09:01:31 --> Hooks Class Initialized
+DEBUG - 2020-12-28 09:01:31 --> UTF-8 Support Enabled
+INFO - 2020-12-28 09:01:31 --> Utf8 Class Initialized
+INFO - 2020-12-28 09:01:31 --> URI Class Initialized
+INFO - 2020-12-28 09:01:31 --> Router Class Initialized
+INFO - 2020-12-28 09:01:31 --> Output Class Initialized
+INFO - 2020-12-28 09:01:31 --> Security Class Initialized
+DEBUG - 2020-12-28 09:01:31 --> Global POST, GET and COOKIE data sanitized
+INFO - 2020-12-28 09:01:31 --> Input Class Initialized
+INFO - 2020-12-28 09:01:32 --> Language Class Initialized
+ERROR - 2020-12-28 09:01:32 --> 404 Page Not Found: /index
+INFO - 2020-12-28 09:01:33 --> Config Class Initialized
+INFO - 2020-12-28 09:01:33 --> Hooks Class Initialized
+DEBUG - 2020-12-28 09:01:33 --> UTF-8 Support Enabled
+INFO - 2020-12-28 09:01:33 --> Utf8 Class Initialized
+INFO - 2020-12-28 09:01:33 --> URI Class Initialized
+INFO - 2020-12-28 09:01:33 --> Router Class Initialized
+INFO - 2020-12-28 09:01:33 --> Output Class Initialized
+INFO - 2020-12-28 09:01:33 --> Security Class Initialized
+DEBUG - 2020-12-28 09:01:33 --> Global POST, GET and COOKIE data sanitized
+INFO - 2020-12-28 09:01:33 --> Input Class Initialized
+INFO - 2020-12-28 09:01:33 --> Language Class Initialized
+INFO - 2020-12-28 09:01:34 --> Language Class Initialized
+INFO - 2020-12-28 09:01:34 --> Config Class Initialized
+INFO - 2020-12-28 09:01:34 --> Loader Class Initialized
+INFO - 2020-12-28 09:01:34 --> Helper loaded: url_helper
+INFO - 2020-12-28 09:01:34 --> Helper loaded: html_helper
+INFO - 2020-12-28 09:01:34 --> Helper loaded: file_helper
+INFO - 2020-12-28 09:01:34 --> Helper loaded: form_helper
+INFO - 2020-12-28 09:01:34 --> Helper loaded: security_helper
+INFO - 2020-12-28 09:01:34 --> Helper loaded: xss_helper
+INFO - 2020-12-28 09:01:34 --> Helper loaded: slug_helper
+INFO - 2020-12-28 09:01:34 --> Database Driver Class Initialized
+DEBUG - 2020-12-28 09:01:34 --> Session: "sess_save_path" is empty; using "session.save_path" value from php.ini.
+INFO - 2020-12-28 09:01:34 --> Session: Class initialized using 'files' driver.
+INFO - 2020-12-28 09:01:34 --> Language file loaded: language/english/pagination_lang.php
+INFO - 2020-12-28 09:01:34 --> Pagination Class Initialized
+INFO - 2020-12-28 09:01:34 --> Email Class Initialized
+INFO - 2020-12-28 09:01:35 --> Model "M_konfig" initialized
+INFO - 2020-12-28 09:01:35 --> Model "M_reff" initialized
+INFO - 2020-12-28 09:01:35 --> Model "M_total" initialized
+INFO - 2020-12-28 09:01:35 --> Controller Class Initialized
+DEBUG - 2020-12-28 09:01:35 --> Maps_grims MX_Controller Initialized
+INFO - 2020-12-28 09:01:35 --> Config Class Initialized
+INFO - 2020-12-28 09:01:35 --> Hooks Class Initialized
+DEBUG - 2020-12-28 09:01:35 --> UTF-8 Support Enabled
+INFO - 2020-12-28 09:01:35 --> Utf8 Class Initialized
+INFO - 2020-12-28 09:01:35 --> URI Class Initialized
+INFO - 2020-12-28 09:01:35 --> Router Class Initialized
+INFO - 2020-12-28 09:01:35 --> Output Class Initialized
+INFO - 2020-12-28 09:01:35 --> Security Class Initialized
+DEBUG - 2020-12-28 09:01:35 --> Global POST, GET and COOKIE data sanitized
+INFO - 2020-12-28 09:01:35 --> Input Class Initialized
+INFO - 2020-12-28 09:01:35 --> Language Class Initialized
+INFO - 2020-12-28 09:01:35 --> Language Class Initialized
+INFO - 2020-12-28 09:01:35 --> Config Class Initialized
+INFO - 2020-12-28 09:01:35 --> Loader Class Initialized
+INFO - 2020-12-28 09:01:35 --> Helper loaded: url_helper
+INFO - 2020-12-28 09:01:35 --> Helper loaded: html_helper
+INFO - 2020-12-28 09:01:35 --> Helper loaded: file_helper
+INFO - 2020-12-28 09:01:35 --> Helper loaded: form_helper
+INFO - 2020-12-28 09:01:35 --> Helper loaded: security_helper
+INFO - 2020-12-28 09:01:35 --> Helper loaded: xss_helper
+INFO - 2020-12-28 09:01:35 --> Helper loaded: slug_helper
+INFO - 2020-12-28 09:01:35 --> Database Driver Class Initialized
+DEBUG - 2020-12-28 09:01:35 --> Session: "sess_save_path" is empty; using "session.save_path" value from php.ini.
+INFO - 2020-12-28 09:01:35 --> Session: Class initialized using 'files' driver.
+INFO - 2020-12-28 09:01:35 --> Language file loaded: language/english/pagination_lang.php
+INFO - 2020-12-28 09:01:36 --> Pagination Class Initialized
+INFO - 2020-12-28 09:01:36 --> Email Class Initialized
+INFO - 2020-12-28 09:01:36 --> Model "M_konfig" initialized
+INFO - 2020-12-28 09:01:36 --> Model "M_reff" initialized
+INFO - 2020-12-28 09:01:36 --> Model "M_total" initialized
+INFO - 2020-12-28 09:01:36 --> Controller Class Initialized
+DEBUG - 2020-12-28 09:01:36 --> Maps_kri MX_Controller Initialized
+DEBUG - 2020-12-28 09:01:36 --> File loaded: D:\xampp72\htdocs\app_grm\application\modules/maps_kri/models/Model.php
+DEBUG - 2020-12-28 15:01:36 --> File loaded: D:\xampp72\htdocs\app_grm\application\views\temp_maps_kri/head.php
+DEBUG - 2020-12-28 15:01:36 --> File loaded: D:\xampp72\htdocs\app_grm\application\views\temp_maps_kri/navbar.php
+DEBUG - 2020-12-28 15:01:36 --> File loaded: D:\xampp72\htdocs\app_grm\application\views\temp_maps_kri/sidebar_left.php
+DEBUG - 2020-12-28 15:01:36 --> File loaded: D:\xampp72\htdocs\app_grm\application\views\temp_maps_kri/sidebar_right.php
+DEBUG - 2020-12-28 15:01:36 --> File loaded: D:\xampp72\htdocs\app_grm\application\modules/maps_kri/views/index.php
+DEBUG - 2020-12-28 15:01:36 --> File loaded: D:\xampp72\htdocs\app_grm\application\views\temp_maps_kri/quick_bar.php
+DEBUG - 2020-12-28 15:01:36 --> File loaded: D:\xampp72\htdocs\app_grm\application\views\temp_maps_kri/toggle.php
+DEBUG - 2020-12-28 15:01:36 --> File loaded: D:\xampp72\htdocs\app_grm\application\views\temp_maps_kri/konten.php
+DEBUG - 2020-12-28 15:01:36 --> File loaded: D:\xampp72\htdocs\app_grm\application\views\temp_maps_kri/foot.php
+DEBUG - 2020-12-28 15:01:36 --> File loaded: D:\xampp72\htdocs\app_grm\application\views\temp_maps_kri/main.php
+INFO - 2020-12-28 15:01:36 --> Final output sent to browser
+DEBUG - 2020-12-28 15:01:36 --> Total execution time: 1.3691
+INFO - 2020-12-28 09:03:12 --> Config Class Initialized
+INFO - 2020-12-28 09:03:12 --> Hooks Class Initialized
+DEBUG - 2020-12-28 09:03:12 --> UTF-8 Support Enabled
+INFO - 2020-12-28 09:03:12 --> Utf8 Class Initialized
+INFO - 2020-12-28 09:03:12 --> URI Class Initialized
+INFO - 2020-12-28 09:03:12 --> Router Class Initialized
+INFO - 2020-12-28 09:03:12 --> Output Class Initialized
+INFO - 2020-12-28 09:03:12 --> Security Class Initialized
+DEBUG - 2020-12-28 09:03:12 --> Global POST, GET and COOKIE data sanitized
+INFO - 2020-12-28 09:03:12 --> Input Class Initialized
+INFO - 2020-12-28 09:03:13 --> Language Class Initialized
+INFO - 2020-12-28 09:03:13 --> Language Class Initialized
+INFO - 2020-12-28 09:03:13 --> Config Class Initialized
+INFO - 2020-12-28 09:03:13 --> Loader Class Initialized
+INFO - 2020-12-28 09:03:13 --> Helper loaded: url_helper
+INFO - 2020-12-28 09:03:13 --> Helper loaded: html_helper
+INFO - 2020-12-28 09:03:13 --> Helper loaded: file_helper
+INFO - 2020-12-28 09:03:13 --> Helper loaded: form_helper
+INFO - 2020-12-28 09:03:13 --> Helper loaded: security_helper
+INFO - 2020-12-28 09:03:13 --> Helper loaded: xss_helper
+INFO - 2020-12-28 09:03:13 --> Helper loaded: slug_helper
+INFO - 2020-12-28 09:03:13 --> Database Driver Class Initialized
+DEBUG - 2020-12-28 09:03:13 --> Session: "sess_save_path" is empty; using "session.save_path" value from php.ini.
+INFO - 2020-12-28 09:03:13 --> Session: Class initialized using 'files' driver.
+INFO - 2020-12-28 09:03:13 --> Language file loaded: language/english/pagination_lang.php
+INFO - 2020-12-28 09:03:13 --> Pagination Class Initialized
+INFO - 2020-12-28 09:03:13 --> Email Class Initialized
+INFO - 2020-12-28 09:03:13 --> Model "M_konfig" initialized
+INFO - 2020-12-28 09:03:13 --> Model "M_reff" initialized
+INFO - 2020-12-28 09:03:13 --> Model "M_total" initialized
+INFO - 2020-12-28 09:03:13 --> Controller Class Initialized
+DEBUG - 2020-12-28 09:03:13 --> Maps_kri MX_Controller Initialized
+DEBUG - 2020-12-28 09:03:13 --> File loaded: D:\xampp72\htdocs\app_grm\application\modules/maps_kri/models/Model.php
+DEBUG - 2020-12-28 15:03:13 --> File loaded: D:\xampp72\htdocs\app_grm\application\views\temp_maps/head.php
+DEBUG - 2020-12-28 15:03:13 --> File loaded: D:\xampp72\htdocs\app_grm\application\views\temp_maps/sidebar_right.php
+DEBUG - 2020-12-28 15:03:13 --> File loaded: D:\xampp72\htdocs\app_grm\application\modules/maps_kri/views/index.php
+DEBUG - 2020-12-28 15:03:13 --> File loaded: D:\xampp72\htdocs\app_grm\application\views\temp_maps/quick_bar.php
+DEBUG - 2020-12-28 15:03:13 --> File loaded: D:\xampp72\htdocs\app_grm\application\views\temp_maps/toggle.php
+DEBUG - 2020-12-28 15:03:13 --> File loaded: D:\xampp72\htdocs\app_grm\application\views\temp_maps/konten.php
+DEBUG - 2020-12-28 15:03:13 --> File loaded: D:\xampp72\htdocs\app_grm\application\views\temp_maps/foot.php
+DEBUG - 2020-12-28 15:03:13 --> File loaded: D:\xampp72\htdocs\app_grm\application\views\temp_maps/main.php
+INFO - 2020-12-28 15:03:13 --> Final output sent to browser
+INFO - 2020-12-28 09:03:13 --> Config Class Initialized
+INFO - 2020-12-28 09:03:13 --> Hooks Class Initialized
+DEBUG - 2020-12-28 09:03:14 --> UTF-8 Support Enabled
+INFO - 2020-12-28 09:03:14 --> Utf8 Class Initialized
+INFO - 2020-12-28 09:03:14 --> URI Class Initialized
+INFO - 2020-12-28 09:03:14 --> Router Class Initialized
+INFO - 2020-12-28 09:03:14 --> Output Class Initialized
+INFO - 2020-12-28 09:03:14 --> Security Class Initialized
+DEBUG - 2020-12-28 09:03:14 --> Global POST, GET and COOKIE data sanitized
+INFO - 2020-12-28 09:03:14 --> Input Class Initialized
+DEBUG - 2020-12-28 15:03:14 --> Total execution time: 1.2048
+INFO - 2020-12-28 09:03:14 --> Language Class Initialized
+ERROR - 2020-12-28 09:03:14 --> 404 Page Not Found: /index
+INFO - 2020-12-28 09:03:15 --> Config Class Initialized
+INFO - 2020-12-28 09:03:15 --> Hooks Class Initialized
+DEBUG - 2020-12-28 09:03:15 --> UTF-8 Support Enabled
+INFO - 2020-12-28 09:03:15 --> Utf8 Class Initialized
+INFO - 2020-12-28 09:03:15 --> URI Class Initialized
+INFO - 2020-12-28 09:03:15 --> Router Class Initialized
+INFO - 2020-12-28 09:03:15 --> Output Class Initialized
+INFO - 2020-12-28 09:03:15 --> Security Class Initialized
+DEBUG - 2020-12-28 09:03:16 --> Global POST, GET and COOKIE data sanitized
+INFO - 2020-12-28 09:03:16 --> Input Class Initialized
+INFO - 2020-12-28 09:03:16 --> Language Class Initialized
+INFO - 2020-12-28 09:03:16 --> Language Class Initialized
+INFO - 2020-12-28 09:03:16 --> Config Class Initialized
+INFO - 2020-12-28 09:03:16 --> Loader Class Initialized
+INFO - 2020-12-28 09:03:16 --> Helper loaded: url_helper
+INFO - 2020-12-28 09:03:16 --> Helper loaded: html_helper
+INFO - 2020-12-28 09:03:16 --> Helper loaded: file_helper
+INFO - 2020-12-28 09:03:16 --> Helper loaded: form_helper
+INFO - 2020-12-28 09:03:16 --> Helper loaded: security_helper
+INFO - 2020-12-28 09:03:16 --> Helper loaded: xss_helper
+INFO - 2020-12-28 09:03:16 --> Helper loaded: slug_helper
+INFO - 2020-12-28 09:03:16 --> Database Driver Class Initialized
+DEBUG - 2020-12-28 09:03:16 --> Session: "sess_save_path" is empty; using "session.save_path" value from php.ini.
+INFO - 2020-12-28 09:03:16 --> Session: Class initialized using 'files' driver.
+INFO - 2020-12-28 09:03:16 --> Language file loaded: language/english/pagination_lang.php
+INFO - 2020-12-28 09:03:16 --> Pagination Class Initialized
+INFO - 2020-12-28 09:03:16 --> Email Class Initialized
+INFO - 2020-12-28 09:03:16 --> Model "M_konfig" initialized
+INFO - 2020-12-28 09:03:16 --> Model "M_reff" initialized
+INFO - 2020-12-28 09:03:16 --> Model "M_total" initialized
+INFO - 2020-12-28 09:03:16 --> Controller Class Initialized
+DEBUG - 2020-12-28 09:03:16 --> Maps_grims MX_Controller Initialized
+INFO - 2020-12-28 09:03:17 --> Config Class Initialized
+INFO - 2020-12-28 09:03:17 --> Hooks Class Initialized
+DEBUG - 2020-12-28 09:03:17 --> UTF-8 Support Enabled
+INFO - 2020-12-28 09:03:17 --> Utf8 Class Initialized
+INFO - 2020-12-28 09:03:17 --> URI Class Initialized
+INFO - 2020-12-28 09:03:17 --> Router Class Initialized
+INFO - 2020-12-28 09:03:17 --> Output Class Initialized
+INFO - 2020-12-28 09:03:17 --> Security Class Initialized
+DEBUG - 2020-12-28 09:03:17 --> Global POST, GET and COOKIE data sanitized
+INFO - 2020-12-28 09:03:17 --> Input Class Initialized
+INFO - 2020-12-28 09:03:17 --> Language Class Initialized
+INFO - 2020-12-28 09:03:17 --> Language Class Initialized
+INFO - 2020-12-28 09:03:17 --> Config Class Initialized
+INFO - 2020-12-28 09:03:17 --> Loader Class Initialized
+INFO - 2020-12-28 09:03:17 --> Helper loaded: url_helper
+INFO - 2020-12-28 09:03:17 --> Helper loaded: html_helper
+INFO - 2020-12-28 09:03:17 --> Helper loaded: file_helper
+INFO - 2020-12-28 09:03:17 --> Helper loaded: form_helper
+INFO - 2020-12-28 09:03:17 --> Helper loaded: security_helper
+INFO - 2020-12-28 09:03:17 --> Helper loaded: xss_helper
+INFO - 2020-12-28 09:03:17 --> Helper loaded: slug_helper
+INFO - 2020-12-28 09:03:17 --> Database Driver Class Initialized
+DEBUG - 2020-12-28 09:03:17 --> Session: "sess_save_path" is empty; using "session.save_path" value from php.ini.
+INFO - 2020-12-28 09:03:17 --> Session: Class initialized using 'files' driver.
+INFO - 2020-12-28 09:03:17 --> Language file loaded: language/english/pagination_lang.php
+INFO - 2020-12-28 09:03:17 --> Pagination Class Initialized
+INFO - 2020-12-28 09:03:17 --> Email Class Initialized
+INFO - 2020-12-28 09:03:17 --> Model "M_konfig" initialized
+INFO - 2020-12-28 09:03:17 --> Model "M_reff" initialized
+INFO - 2020-12-28 09:03:17 --> Model "M_total" initialized
+INFO - 2020-12-28 09:03:17 --> Controller Class Initialized
+DEBUG - 2020-12-28 09:03:17 --> Maps_kri MX_Controller Initialized
+DEBUG - 2020-12-28 09:03:17 --> File loaded: D:\xampp72\htdocs\app_grm\application\modules/maps_kri/models/Model.php
+DEBUG - 2020-12-28 15:03:17 --> File loaded: D:\xampp72\htdocs\app_grm\application\views\temp_maps/head.php
+DEBUG - 2020-12-28 15:03:18 --> File loaded: D:\xampp72\htdocs\app_grm\application\views\temp_maps/sidebar_right.php
+DEBUG - 2020-12-28 15:03:18 --> File loaded: D:\xampp72\htdocs\app_grm\application\modules/maps_kri/views/index.php
+DEBUG - 2020-12-28 15:03:18 --> File loaded: D:\xampp72\htdocs\app_grm\application\views\temp_maps/quick_bar.php
+DEBUG - 2020-12-28 15:03:18 --> File loaded: D:\xampp72\htdocs\app_grm\application\views\temp_maps/toggle.php
+DEBUG - 2020-12-28 15:03:18 --> File loaded: D:\xampp72\htdocs\app_grm\application\views\temp_maps/konten.php
+DEBUG - 2020-12-28 15:03:18 --> File loaded: D:\xampp72\htdocs\app_grm\application\views\temp_maps/foot.php
+DEBUG - 2020-12-28 15:03:18 --> File loaded: D:\xampp72\htdocs\app_grm\application\views\temp_maps/main.php
+INFO - 2020-12-28 15:03:18 --> Final output sent to browser
+DEBUG - 2020-12-28 15:03:18 --> Total execution time: 1.2052
+INFO - 2020-12-28 09:10:21 --> Config Class Initialized
+INFO - 2020-12-28 09:10:21 --> Hooks Class Initialized
+DEBUG - 2020-12-28 09:10:21 --> UTF-8 Support Enabled
+INFO - 2020-12-28 09:10:21 --> Utf8 Class Initialized
+INFO - 2020-12-28 09:10:21 --> URI Class Initialized
+INFO - 2020-12-28 09:10:21 --> Router Class Initialized
+INFO - 2020-12-28 09:10:21 --> Output Class Initialized
+INFO - 2020-12-28 09:10:21 --> Security Class Initialized
+DEBUG - 2020-12-28 09:10:21 --> Global POST, GET and COOKIE data sanitized
+INFO - 2020-12-28 09:10:21 --> Input Class Initialized
+INFO - 2020-12-28 09:10:21 --> Language Class Initialized
+INFO - 2020-12-28 09:10:21 --> Language Class Initialized
+INFO - 2020-12-28 09:10:21 --> Config Class Initialized
+INFO - 2020-12-28 09:10:21 --> Loader Class Initialized
+INFO - 2020-12-28 09:10:21 --> Helper loaded: url_helper
+INFO - 2020-12-28 09:10:21 --> Helper loaded: html_helper
+INFO - 2020-12-28 09:10:21 --> Helper loaded: file_helper
+INFO - 2020-12-28 09:10:21 --> Helper loaded: form_helper
+INFO - 2020-12-28 09:10:21 --> Helper loaded: security_helper
+INFO - 2020-12-28 09:10:21 --> Helper loaded: xss_helper
+INFO - 2020-12-28 09:10:21 --> Helper loaded: slug_helper
+INFO - 2020-12-28 09:10:21 --> Database Driver Class Initialized
+DEBUG - 2020-12-28 09:10:21 --> Session: "sess_save_path" is empty; using "session.save_path" value from php.ini.
+INFO - 2020-12-28 09:10:21 --> Session: Class initialized using 'files' driver.
+INFO - 2020-12-28 09:10:21 --> Language file loaded: language/english/pagination_lang.php
+INFO - 2020-12-28 09:10:21 --> Pagination Class Initialized
+INFO - 2020-12-28 09:10:21 --> Email Class Initialized
+INFO - 2020-12-28 09:10:21 --> Model "M_konfig" initialized
+INFO - 2020-12-28 09:10:21 --> Model "M_reff" initialized
+INFO - 2020-12-28 09:10:21 --> Model "M_total" initialized
+INFO - 2020-12-28 09:10:21 --> Controller Class Initialized
+DEBUG - 2020-12-28 09:10:21 --> Maps_kri MX_Controller Initialized
+DEBUG - 2020-12-28 09:10:21 --> File loaded: D:\xampp72\htdocs\app_grm\application\modules/maps_kri/models/Model.php
+DEBUG - 2020-12-28 15:10:21 --> File loaded: D:\xampp72\htdocs\app_grm\application\views\temp_maps_kri/head.php
+DEBUG - 2020-12-28 15:10:22 --> File loaded: D:\xampp72\htdocs\app_grm\application\views\temp_maps_kri/navbar.php
+DEBUG - 2020-12-28 15:10:22 --> File loaded: D:\xampp72\htdocs\app_grm\application\views\temp_maps_kri/sidebar_left.php
+DEBUG - 2020-12-28 15:10:22 --> File loaded: D:\xampp72\htdocs\app_grm\application\views\temp_maps_kri/sidebar_right.php
+DEBUG - 2020-12-28 15:10:22 --> File loaded: D:\xampp72\htdocs\app_grm\application\modules/maps_kri/views/index.php
+DEBUG - 2020-12-28 15:10:22 --> File loaded: D:\xampp72\htdocs\app_grm\application\views\temp_maps_kri/quick_bar.php
+DEBUG - 2020-12-28 15:10:22 --> File loaded: D:\xampp72\htdocs\app_grm\application\views\temp_maps_kri/toggle.php
+DEBUG - 2020-12-28 15:10:22 --> File loaded: D:\xampp72\htdocs\app_grm\application\views\temp_maps_kri/konten.php
+DEBUG - 2020-12-28 15:10:22 --> File loaded: D:\xampp72\htdocs\app_grm\application\views\temp_maps_kri/foot.php
+DEBUG - 2020-12-28 15:10:22 --> File loaded: D:\xampp72\htdocs\app_grm\application\views\temp_maps_kri/main.php
+INFO - 2020-12-28 15:10:22 --> Final output sent to browser
+DEBUG - 2020-12-28 15:10:22 --> Total execution time: 1.2541
+INFO - 2020-12-28 09:10:22 --> Config Class Initialized
+INFO - 2020-12-28 09:10:22 --> Hooks Class Initialized
+DEBUG - 2020-12-28 09:10:22 --> UTF-8 Support Enabled
+INFO - 2020-12-28 09:10:22 --> Utf8 Class Initialized
+INFO - 2020-12-28 09:10:22 --> URI Class Initialized
+INFO - 2020-12-28 09:10:22 --> Router Class Initialized
+INFO - 2020-12-28 09:10:22 --> Output Class Initialized
+INFO - 2020-12-28 09:10:22 --> Security Class Initialized
+DEBUG - 2020-12-28 09:10:22 --> Global POST, GET and COOKIE data sanitized
+INFO - 2020-12-28 09:10:22 --> Input Class Initialized
+INFO - 2020-12-28 09:10:22 --> Language Class Initialized
+ERROR - 2020-12-28 09:10:22 --> 404 Page Not Found: /index
+INFO - 2020-12-28 09:10:22 --> Config Class Initialized
+INFO - 2020-12-28 09:10:22 --> Hooks Class Initialized
+DEBUG - 2020-12-28 09:10:22 --> UTF-8 Support Enabled
+INFO - 2020-12-28 09:10:22 --> Utf8 Class Initialized
+INFO - 2020-12-28 09:10:22 --> URI Class Initialized
+INFO - 2020-12-28 09:10:22 --> Router Class Initialized
+INFO - 2020-12-28 09:10:22 --> Output Class Initialized
+INFO - 2020-12-28 09:10:22 --> Security Class Initialized
+DEBUG - 2020-12-28 09:10:22 --> Global POST, GET and COOKIE data sanitized
+INFO - 2020-12-28 09:10:23 --> Input Class Initialized
+INFO - 2020-12-28 09:10:23 --> Language Class Initialized
+ERROR - 2020-12-28 09:10:23 --> 404 Page Not Found: /index
+INFO - 2020-12-28 09:10:24 --> Config Class Initialized
+INFO - 2020-12-28 09:10:24 --> Hooks Class Initialized
+DEBUG - 2020-12-28 09:10:24 --> UTF-8 Support Enabled
+INFO - 2020-12-28 09:10:24 --> Utf8 Class Initialized
+INFO - 2020-12-28 09:10:24 --> URI Class Initialized
+INFO - 2020-12-28 09:10:24 --> Router Class Initialized
+INFO - 2020-12-28 09:10:24 --> Output Class Initialized
+INFO - 2020-12-28 09:10:24 --> Security Class Initialized
+DEBUG - 2020-12-28 09:10:24 --> Global POST, GET and COOKIE data sanitized
+INFO - 2020-12-28 09:10:24 --> Input Class Initialized
+INFO - 2020-12-28 09:10:24 --> Language Class Initialized
+INFO - 2020-12-28 09:10:24 --> Language Class Initialized
+INFO - 2020-12-28 09:10:24 --> Config Class Initialized
+INFO - 2020-12-28 09:10:24 --> Loader Class Initialized
+INFO - 2020-12-28 09:10:24 --> Helper loaded: url_helper
+INFO - 2020-12-28 09:10:24 --> Helper loaded: html_helper
+INFO - 2020-12-28 09:10:25 --> Helper loaded: file_helper
+INFO - 2020-12-28 09:10:25 --> Helper loaded: form_helper
+INFO - 2020-12-28 09:10:25 --> Helper loaded: security_helper
+INFO - 2020-12-28 09:10:25 --> Helper loaded: xss_helper
+INFO - 2020-12-28 09:10:25 --> Helper loaded: slug_helper
+INFO - 2020-12-28 09:10:25 --> Database Driver Class Initialized
+DEBUG - 2020-12-28 09:10:25 --> Session: "sess_save_path" is empty; using "session.save_path" value from php.ini.
+INFO - 2020-12-28 09:10:25 --> Session: Class initialized using 'files' driver.
+INFO - 2020-12-28 09:10:25 --> Language file loaded: language/english/pagination_lang.php
+INFO - 2020-12-28 09:10:25 --> Pagination Class Initialized
+INFO - 2020-12-28 09:10:25 --> Email Class Initialized
+INFO - 2020-12-28 09:10:25 --> Model "M_konfig" initialized
+INFO - 2020-12-28 09:10:25 --> Model "M_reff" initialized
+INFO - 2020-12-28 09:10:25 --> Model "M_total" initialized
+INFO - 2020-12-28 09:10:25 --> Controller Class Initialized
+DEBUG - 2020-12-28 09:10:25 --> Maps_grims MX_Controller Initialized
+INFO - 2020-12-28 09:10:25 --> Config Class Initialized
+INFO - 2020-12-28 09:10:25 --> Hooks Class Initialized
+DEBUG - 2020-12-28 09:10:25 --> UTF-8 Support Enabled
+INFO - 2020-12-28 09:10:25 --> Utf8 Class Initialized
+INFO - 2020-12-28 09:10:25 --> URI Class Initialized
+INFO - 2020-12-28 09:10:25 --> Router Class Initialized
+INFO - 2020-12-28 09:10:25 --> Output Class Initialized
+INFO - 2020-12-28 09:10:25 --> Security Class Initialized
+DEBUG - 2020-12-28 09:10:25 --> Global POST, GET and COOKIE data sanitized
+INFO - 2020-12-28 09:10:25 --> Input Class Initialized
+INFO - 2020-12-28 09:10:25 --> Language Class Initialized
+INFO - 2020-12-28 09:10:26 --> Language Class Initialized
+INFO - 2020-12-28 09:10:26 --> Config Class Initialized
+INFO - 2020-12-28 09:10:26 --> Loader Class Initialized
+INFO - 2020-12-28 09:10:26 --> Helper loaded: url_helper
+INFO - 2020-12-28 09:10:26 --> Helper loaded: html_helper
+INFO - 2020-12-28 09:10:26 --> Helper loaded: file_helper
+INFO - 2020-12-28 09:10:26 --> Helper loaded: form_helper
+INFO - 2020-12-28 09:10:26 --> Helper loaded: security_helper
+INFO - 2020-12-28 09:10:26 --> Helper loaded: xss_helper
+INFO - 2020-12-28 09:10:26 --> Helper loaded: slug_helper
+INFO - 2020-12-28 09:10:26 --> Database Driver Class Initialized
+DEBUG - 2020-12-28 09:10:26 --> Session: "sess_save_path" is empty; using "session.save_path" value from php.ini.
+INFO - 2020-12-28 09:10:26 --> Session: Class initialized using 'files' driver.
+INFO - 2020-12-28 09:10:26 --> Language file loaded: language/english/pagination_lang.php
+INFO - 2020-12-28 09:10:26 --> Pagination Class Initialized
+INFO - 2020-12-28 09:10:26 --> Email Class Initialized
+INFO - 2020-12-28 09:10:26 --> Model "M_konfig" initialized
+INFO - 2020-12-28 09:10:26 --> Model "M_reff" initialized
+INFO - 2020-12-28 09:10:26 --> Model "M_total" initialized
+INFO - 2020-12-28 09:10:26 --> Controller Class Initialized
+DEBUG - 2020-12-28 09:10:26 --> Maps_kri MX_Controller Initialized
+DEBUG - 2020-12-28 09:10:26 --> File loaded: D:\xampp72\htdocs\app_grm\application\modules/maps_kri/models/Model.php
+DEBUG - 2020-12-28 15:10:26 --> File loaded: D:\xampp72\htdocs\app_grm\application\views\temp_maps_kri/head.php
+DEBUG - 2020-12-28 15:10:26 --> File loaded: D:\xampp72\htdocs\app_grm\application\views\temp_maps_kri/navbar.php
+DEBUG - 2020-12-28 15:10:26 --> File loaded: D:\xampp72\htdocs\app_grm\application\views\temp_maps_kri/sidebar_left.php
+DEBUG - 2020-12-28 15:10:26 --> File loaded: D:\xampp72\htdocs\app_grm\application\views\temp_maps_kri/sidebar_right.php
+DEBUG - 2020-12-28 15:10:26 --> File loaded: D:\xampp72\htdocs\app_grm\application\modules/maps_kri/views/index.php
+DEBUG - 2020-12-28 15:10:26 --> File loaded: D:\xampp72\htdocs\app_grm\application\views\temp_maps_kri/quick_bar.php
+DEBUG - 2020-12-28 15:10:26 --> File loaded: D:\xampp72\htdocs\app_grm\application\views\temp_maps_kri/toggle.php
+DEBUG - 2020-12-28 15:10:26 --> File loaded: D:\xampp72\htdocs\app_grm\application\views\temp_maps_kri/konten.php
+DEBUG - 2020-12-28 15:10:27 --> File loaded: D:\xampp72\htdocs\app_grm\application\views\temp_maps_kri/foot.php
+DEBUG - 2020-12-28 15:10:27 --> File loaded: D:\xampp72\htdocs\app_grm\application\views\temp_maps_kri/main.php
+INFO - 2020-12-28 15:10:27 --> Final output sent to browser
+DEBUG - 2020-12-28 15:10:27 --> Total execution time: 1.4837
+INFO - 2020-12-28 09:12:55 --> Config Class Initialized
+INFO - 2020-12-28 09:12:55 --> Hooks Class Initialized
+DEBUG - 2020-12-28 09:12:55 --> UTF-8 Support Enabled
+INFO - 2020-12-28 09:12:55 --> Utf8 Class Initialized
+INFO - 2020-12-28 09:12:55 --> URI Class Initialized
+INFO - 2020-12-28 09:12:55 --> Router Class Initialized
+INFO - 2020-12-28 09:12:55 --> Output Class Initialized
+INFO - 2020-12-28 09:12:55 --> Security Class Initialized
+DEBUG - 2020-12-28 09:12:55 --> Global POST, GET and COOKIE data sanitized
+INFO - 2020-12-28 09:12:55 --> Input Class Initialized
+INFO - 2020-12-28 09:12:56 --> Language Class Initialized
+INFO - 2020-12-28 09:12:56 --> Language Class Initialized
+INFO - 2020-12-28 09:12:56 --> Config Class Initialized
+INFO - 2020-12-28 09:12:56 --> Loader Class Initialized
+INFO - 2020-12-28 09:12:56 --> Helper loaded: url_helper
+INFO - 2020-12-28 09:12:56 --> Helper loaded: html_helper
+INFO - 2020-12-28 09:12:56 --> Helper loaded: file_helper
+INFO - 2020-12-28 09:12:56 --> Helper loaded: form_helper
+INFO - 2020-12-28 09:12:56 --> Helper loaded: security_helper
+INFO - 2020-12-28 09:12:56 --> Helper loaded: xss_helper
+INFO - 2020-12-28 09:12:56 --> Helper loaded: slug_helper
+INFO - 2020-12-28 09:12:56 --> Database Driver Class Initialized
+DEBUG - 2020-12-28 09:12:56 --> Session: "sess_save_path" is empty; using "session.save_path" value from php.ini.
+INFO - 2020-12-28 09:12:56 --> Session: Class initialized using 'files' driver.
+INFO - 2020-12-28 09:12:56 --> Language file loaded: language/english/pagination_lang.php
+INFO - 2020-12-28 09:12:56 --> Pagination Class Initialized
+INFO - 2020-12-28 09:12:56 --> Email Class Initialized
+INFO - 2020-12-28 09:12:56 --> Model "M_konfig" initialized
+INFO - 2020-12-28 09:12:56 --> Model "M_reff" initialized
+INFO - 2020-12-28 09:12:56 --> Model "M_total" initialized
+INFO - 2020-12-28 09:12:56 --> Controller Class Initialized
+DEBUG - 2020-12-28 09:12:56 --> Maps_kri MX_Controller Initialized
+DEBUG - 2020-12-28 09:12:56 --> File loaded: D:\xampp72\htdocs\app_grm\application\modules/maps_kri/models/Model.php
+DEBUG - 2020-12-28 15:12:56 --> File loaded: D:\xampp72\htdocs\app_grm\application\views\temp_maps_kri/head.php
+DEBUG - 2020-12-28 15:12:56 --> File loaded: D:\xampp72\htdocs\app_grm\application\views\temp_maps_kri/navbar.php
+DEBUG - 2020-12-28 15:12:56 --> File loaded: D:\xampp72\htdocs\app_grm\application\views\temp_maps_kri/sidebar_left.php
+DEBUG - 2020-12-28 15:12:56 --> File loaded: D:\xampp72\htdocs\app_grm\application\views\temp_maps_kri/sidebar_right.php
+DEBUG - 2020-12-28 15:12:56 --> File loaded: D:\xampp72\htdocs\app_grm\application\modules/maps_kri/views/index.php
+DEBUG - 2020-12-28 15:12:56 --> File loaded: D:\xampp72\htdocs\app_grm\application\views\temp_maps_kri/quick_bar.php
+DEBUG - 2020-12-28 15:12:57 --> File loaded: D:\xampp72\htdocs\app_grm\application\views\temp_maps_kri/toggle.php
+DEBUG - 2020-12-28 15:12:57 --> File loaded: D:\xampp72\htdocs\app_grm\application\views\temp_maps_kri/konten.php
+DEBUG - 2020-12-28 15:12:57 --> File loaded: D:\xampp72\htdocs\app_grm\application\views\temp_maps_kri/foot.php
+DEBUG - 2020-12-28 15:12:57 --> File loaded: D:\xampp72\htdocs\app_grm\application\views\temp_maps_kri/main.php
+INFO - 2020-12-28 15:12:57 --> Final output sent to browser
+INFO - 2020-12-28 09:12:57 --> Config Class Initialized
+INFO - 2020-12-28 09:12:57 --> Hooks Class Initialized
+DEBUG - 2020-12-28 09:12:57 --> UTF-8 Support Enabled
+INFO - 2020-12-28 09:12:57 --> Utf8 Class Initialized
+INFO - 2020-12-28 09:12:57 --> URI Class Initialized
+INFO - 2020-12-28 09:12:57 --> Router Class Initialized
+INFO - 2020-12-28 09:12:57 --> Output Class Initialized
+INFO - 2020-12-28 09:12:57 --> Security Class Initialized
+DEBUG - 2020-12-28 09:12:57 --> Global POST, GET and COOKIE data sanitized
+INFO - 2020-12-28 09:12:57 --> Input Class Initialized
+INFO - 2020-12-28 09:12:57 --> Language Class Initialized
+ERROR - 2020-12-28 09:12:57 --> 404 Page Not Found: /index
+DEBUG - 2020-12-28 15:12:57 --> Total execution time: 1.4180
+INFO - 2020-12-28 09:12:57 --> Config Class Initialized
+INFO - 2020-12-28 09:12:57 --> Hooks Class Initialized
+DEBUG - 2020-12-28 09:12:57 --> UTF-8 Support Enabled
+INFO - 2020-12-28 09:12:57 --> Utf8 Class Initialized
+INFO - 2020-12-28 09:12:57 --> URI Class Initialized
+INFO - 2020-12-28 09:12:57 --> Router Class Initialized
+INFO - 2020-12-28 09:12:57 --> Output Class Initialized
+INFO - 2020-12-28 09:12:57 --> Security Class Initialized
+DEBUG - 2020-12-28 09:12:57 --> Global POST, GET and COOKIE data sanitized
+INFO - 2020-12-28 09:12:57 --> Input Class Initialized
+INFO - 2020-12-28 09:12:57 --> Language Class Initialized
+ERROR - 2020-12-28 09:12:57 --> 404 Page Not Found: /index
+INFO - 2020-12-28 09:12:58 --> Config Class Initialized
+INFO - 2020-12-28 09:12:58 --> Hooks Class Initialized
+DEBUG - 2020-12-28 09:12:58 --> UTF-8 Support Enabled
+INFO - 2020-12-28 09:12:58 --> Utf8 Class Initialized
+INFO - 2020-12-28 09:12:58 --> URI Class Initialized
+INFO - 2020-12-28 09:12:58 --> Router Class Initialized
+INFO - 2020-12-28 09:12:58 --> Output Class Initialized
+INFO - 2020-12-28 09:12:58 --> Security Class Initialized
+DEBUG - 2020-12-28 09:12:58 --> Global POST, GET and COOKIE data sanitized
+INFO - 2020-12-28 09:12:59 --> Input Class Initialized
+INFO - 2020-12-28 09:12:59 --> Language Class Initialized
+INFO - 2020-12-28 09:12:59 --> Language Class Initialized
+INFO - 2020-12-28 09:12:59 --> Config Class Initialized
+INFO - 2020-12-28 09:12:59 --> Loader Class Initialized
+INFO - 2020-12-28 09:12:59 --> Helper loaded: url_helper
+INFO - 2020-12-28 09:12:59 --> Helper loaded: html_helper
+INFO - 2020-12-28 09:12:59 --> Helper loaded: file_helper
+INFO - 2020-12-28 09:12:59 --> Helper loaded: form_helper
+INFO - 2020-12-28 09:12:59 --> Helper loaded: security_helper
+INFO - 2020-12-28 09:12:59 --> Helper loaded: xss_helper
+INFO - 2020-12-28 09:12:59 --> Helper loaded: slug_helper
+INFO - 2020-12-28 09:12:59 --> Database Driver Class Initialized
+DEBUG - 2020-12-28 09:12:59 --> Session: "sess_save_path" is empty; using "session.save_path" value from php.ini.
+INFO - 2020-12-28 09:12:59 --> Session: Class initialized using 'files' driver.
+INFO - 2020-12-28 09:12:59 --> Language file loaded: language/english/pagination_lang.php
+INFO - 2020-12-28 09:12:59 --> Pagination Class Initialized
+INFO - 2020-12-28 09:12:59 --> Email Class Initialized
+INFO - 2020-12-28 09:12:59 --> Model "M_konfig" initialized
+INFO - 2020-12-28 09:12:59 --> Model "M_reff" initialized
+INFO - 2020-12-28 09:13:00 --> Model "M_total" initialized
+INFO - 2020-12-28 09:13:00 --> Controller Class Initialized
+DEBUG - 2020-12-28 09:13:00 --> Maps_grims MX_Controller Initialized
+INFO - 2020-12-28 09:13:00 --> Config Class Initialized
+INFO - 2020-12-28 09:13:00 --> Hooks Class Initialized
+DEBUG - 2020-12-28 09:13:00 --> UTF-8 Support Enabled
+INFO - 2020-12-28 09:13:00 --> Utf8 Class Initialized
+INFO - 2020-12-28 09:13:00 --> URI Class Initialized
+INFO - 2020-12-28 09:13:00 --> Router Class Initialized
+INFO - 2020-12-28 09:13:00 --> Output Class Initialized
+INFO - 2020-12-28 09:13:00 --> Security Class Initialized
+DEBUG - 2020-12-28 09:13:00 --> Global POST, GET and COOKIE data sanitized
+INFO - 2020-12-28 09:13:00 --> Input Class Initialized
+INFO - 2020-12-28 09:13:00 --> Language Class Initialized
+INFO - 2020-12-28 09:13:00 --> Language Class Initialized
+INFO - 2020-12-28 09:13:00 --> Config Class Initialized
+INFO - 2020-12-28 09:13:00 --> Loader Class Initialized
+INFO - 2020-12-28 09:13:00 --> Helper loaded: url_helper
+INFO - 2020-12-28 09:13:00 --> Helper loaded: html_helper
+INFO - 2020-12-28 09:13:00 --> Helper loaded: file_helper
+INFO - 2020-12-28 09:13:00 --> Helper loaded: form_helper
+INFO - 2020-12-28 09:13:00 --> Helper loaded: security_helper
+INFO - 2020-12-28 09:13:00 --> Helper loaded: xss_helper
+INFO - 2020-12-28 09:13:01 --> Helper loaded: slug_helper
+INFO - 2020-12-28 09:13:01 --> Database Driver Class Initialized
+DEBUG - 2020-12-28 09:13:01 --> Session: "sess_save_path" is empty; using "session.save_path" value from php.ini.
+INFO - 2020-12-28 09:13:01 --> Session: Class initialized using 'files' driver.
+INFO - 2020-12-28 09:13:01 --> Language file loaded: language/english/pagination_lang.php
+INFO - 2020-12-28 09:13:01 --> Pagination Class Initialized
+INFO - 2020-12-28 09:13:01 --> Email Class Initialized
+INFO - 2020-12-28 09:13:01 --> Model "M_konfig" initialized
+INFO - 2020-12-28 09:13:01 --> Model "M_reff" initialized
+INFO - 2020-12-28 09:13:01 --> Model "M_total" initialized
+INFO - 2020-12-28 09:13:01 --> Controller Class Initialized
+DEBUG - 2020-12-28 09:13:01 --> Maps_kri MX_Controller Initialized
+DEBUG - 2020-12-28 09:13:01 --> File loaded: D:\xampp72\htdocs\app_grm\application\modules/maps_kri/models/Model.php
+DEBUG - 2020-12-28 15:13:01 --> File loaded: D:\xampp72\htdocs\app_grm\application\views\temp_maps_kri/head.php
+DEBUG - 2020-12-28 15:13:01 --> File loaded: D:\xampp72\htdocs\app_grm\application\views\temp_maps_kri/navbar.php
+DEBUG - 2020-12-28 15:13:01 --> File loaded: D:\xampp72\htdocs\app_grm\application\views\temp_maps_kri/sidebar_left.php
+DEBUG - 2020-12-28 15:13:01 --> File loaded: D:\xampp72\htdocs\app_grm\application\views\temp_maps_kri/sidebar_right.php
+DEBUG - 2020-12-28 15:13:01 --> File loaded: D:\xampp72\htdocs\app_grm\application\modules/maps_kri/views/index.php
+DEBUG - 2020-12-28 15:13:01 --> File loaded: D:\xampp72\htdocs\app_grm\application\views\temp_maps_kri/quick_bar.php
+DEBUG - 2020-12-28 15:13:01 --> File loaded: D:\xampp72\htdocs\app_grm\application\views\temp_maps_kri/toggle.php
+DEBUG - 2020-12-28 15:13:01 --> File loaded: D:\xampp72\htdocs\app_grm\application\views\temp_maps_kri/konten.php
+DEBUG - 2020-12-28 15:13:01 --> File loaded: D:\xampp72\htdocs\app_grm\application\views\temp_maps_kri/foot.php
+DEBUG - 2020-12-28 15:13:01 --> File loaded: D:\xampp72\htdocs\app_grm\application\views\temp_maps_kri/main.php
+INFO - 2020-12-28 15:13:01 --> Final output sent to browser
+DEBUG - 2020-12-28 15:13:01 --> Total execution time: 1.5004
+INFO - 2020-12-28 09:14:51 --> Config Class Initialized
+INFO - 2020-12-28 09:14:51 --> Hooks Class Initialized
+DEBUG - 2020-12-28 09:14:51 --> UTF-8 Support Enabled
+INFO - 2020-12-28 09:14:51 --> Utf8 Class Initialized
+INFO - 2020-12-28 09:14:51 --> URI Class Initialized
+INFO - 2020-12-28 09:14:51 --> Router Class Initialized
+INFO - 2020-12-28 09:14:51 --> Output Class Initialized
+INFO - 2020-12-28 09:14:51 --> Security Class Initialized
+DEBUG - 2020-12-28 09:14:51 --> Global POST, GET and COOKIE data sanitized
+INFO - 2020-12-28 09:14:51 --> Input Class Initialized
+INFO - 2020-12-28 09:14:51 --> Language Class Initialized
+INFO - 2020-12-28 09:14:51 --> Language Class Initialized
+INFO - 2020-12-28 09:14:51 --> Config Class Initialized
+INFO - 2020-12-28 09:14:51 --> Loader Class Initialized
+INFO - 2020-12-28 09:14:51 --> Helper loaded: url_helper
+INFO - 2020-12-28 09:14:51 --> Helper loaded: html_helper
+INFO - 2020-12-28 09:14:51 --> Helper loaded: file_helper
+INFO - 2020-12-28 09:14:51 --> Helper loaded: form_helper
+INFO - 2020-12-28 09:14:51 --> Helper loaded: security_helper
+INFO - 2020-12-28 09:14:51 --> Helper loaded: xss_helper
+INFO - 2020-12-28 09:14:51 --> Helper loaded: slug_helper
+INFO - 2020-12-28 09:14:51 --> Database Driver Class Initialized
+DEBUG - 2020-12-28 09:14:51 --> Session: "sess_save_path" is empty; using "session.save_path" value from php.ini.
+INFO - 2020-12-28 09:14:51 --> Session: Class initialized using 'files' driver.
+INFO - 2020-12-28 09:14:51 --> Language file loaded: language/english/pagination_lang.php
+INFO - 2020-12-28 09:14:51 --> Pagination Class Initialized
+INFO - 2020-12-28 09:14:51 --> Email Class Initialized
+INFO - 2020-12-28 09:14:51 --> Model "M_konfig" initialized
+INFO - 2020-12-28 09:14:51 --> Model "M_reff" initialized
+INFO - 2020-12-28 09:14:52 --> Model "M_total" initialized
+INFO - 2020-12-28 09:14:52 --> Controller Class Initialized
+DEBUG - 2020-12-28 09:14:52 --> Maps_kri MX_Controller Initialized
+DEBUG - 2020-12-28 09:14:52 --> File loaded: D:\xampp72\htdocs\app_grm\application\modules/maps_kri/models/Model.php
+DEBUG - 2020-12-28 15:14:52 --> File loaded: D:\xampp72\htdocs\app_grm\application\views\temp_maps_kri/head.php
+DEBUG - 2020-12-28 15:14:52 --> File loaded: D:\xampp72\htdocs\app_grm\application\views\temp_maps_kri/navbar.php
+DEBUG - 2020-12-28 15:14:52 --> File loaded: D:\xampp72\htdocs\app_grm\application\views\temp_maps_kri/sidebar_left.php
+DEBUG - 2020-12-28 15:14:52 --> File loaded: D:\xampp72\htdocs\app_grm\application\views\temp_maps_kri/sidebar_right.php
+DEBUG - 2020-12-28 15:14:52 --> File loaded: D:\xampp72\htdocs\app_grm\application\modules/maps_kri/views/index.php
+DEBUG - 2020-12-28 15:14:52 --> File loaded: D:\xampp72\htdocs\app_grm\application\views\temp_maps_kri/quick_bar.php
+DEBUG - 2020-12-28 15:14:52 --> File loaded: D:\xampp72\htdocs\app_grm\application\views\temp_maps_kri/toggle.php
+DEBUG - 2020-12-28 15:14:52 --> File loaded: D:\xampp72\htdocs\app_grm\application\views\temp_maps_kri/konten.php
+DEBUG - 2020-12-28 15:14:52 --> File loaded: D:\xampp72\htdocs\app_grm\application\views\temp_maps_kri/foot.php
+DEBUG - 2020-12-28 15:14:52 --> File loaded: D:\xampp72\htdocs\app_grm\application\views\temp_maps_kri/main.php
+INFO - 2020-12-28 15:14:52 --> Final output sent to browser
+INFO - 2020-12-28 09:14:52 --> Config Class Initialized
+INFO - 2020-12-28 09:14:52 --> Hooks Class Initialized
+DEBUG - 2020-12-28 09:14:52 --> UTF-8 Support Enabled
+INFO - 2020-12-28 09:14:52 --> Utf8 Class Initialized
+INFO - 2020-12-28 09:14:52 --> URI Class Initialized
+INFO - 2020-12-28 09:14:52 --> Router Class Initialized
+INFO - 2020-12-28 09:14:52 --> Output Class Initialized
+INFO - 2020-12-28 09:14:52 --> Security Class Initialized
+DEBUG - 2020-12-28 09:14:52 --> Global POST, GET and COOKIE data sanitized
+INFO - 2020-12-28 09:14:52 --> Input Class Initialized
+INFO - 2020-12-28 09:14:52 --> Language Class Initialized
+ERROR - 2020-12-28 09:14:52 --> 404 Page Not Found: /index
+DEBUG - 2020-12-28 15:14:52 --> Total execution time: 1.3352
+INFO - 2020-12-28 09:14:52 --> Config Class Initialized
+INFO - 2020-12-28 09:14:52 --> Hooks Class Initialized
+DEBUG - 2020-12-28 09:14:52 --> UTF-8 Support Enabled
+INFO - 2020-12-28 09:14:53 --> Utf8 Class Initialized
+INFO - 2020-12-28 09:14:53 --> URI Class Initialized
+INFO - 2020-12-28 09:14:53 --> Router Class Initialized
+INFO - 2020-12-28 09:14:53 --> Output Class Initialized
+INFO - 2020-12-28 09:14:53 --> Security Class Initialized
+DEBUG - 2020-12-28 09:14:53 --> Global POST, GET and COOKIE data sanitized
+INFO - 2020-12-28 09:14:53 --> Input Class Initialized
+INFO - 2020-12-28 09:14:53 --> Language Class Initialized
+ERROR - 2020-12-28 09:14:53 --> 404 Page Not Found: /index
+INFO - 2020-12-28 09:14:53 --> Config Class Initialized
+INFO - 2020-12-28 09:14:53 --> Hooks Class Initialized
+DEBUG - 2020-12-28 09:14:53 --> UTF-8 Support Enabled
+INFO - 2020-12-28 09:14:53 --> Utf8 Class Initialized
+INFO - 2020-12-28 09:14:53 --> URI Class Initialized
+INFO - 2020-12-28 09:14:54 --> Router Class Initialized
+INFO - 2020-12-28 09:14:54 --> Output Class Initialized
+INFO - 2020-12-28 09:14:54 --> Security Class Initialized
+DEBUG - 2020-12-28 09:14:54 --> Global POST, GET and COOKIE data sanitized
+INFO - 2020-12-28 09:14:54 --> Input Class Initialized
+INFO - 2020-12-28 09:14:54 --> Language Class Initialized
+INFO - 2020-12-28 09:14:54 --> Language Class Initialized
+INFO - 2020-12-28 09:14:54 --> Config Class Initialized
+INFO - 2020-12-28 09:14:54 --> Loader Class Initialized
+INFO - 2020-12-28 09:14:54 --> Helper loaded: url_helper
+INFO - 2020-12-28 09:14:54 --> Helper loaded: html_helper
+INFO - 2020-12-28 09:14:54 --> Helper loaded: file_helper
+INFO - 2020-12-28 09:14:54 --> Helper loaded: form_helper
+INFO - 2020-12-28 09:14:54 --> Helper loaded: security_helper
+INFO - 2020-12-28 09:14:54 --> Helper loaded: xss_helper
+INFO - 2020-12-28 09:14:54 --> Helper loaded: slug_helper
+INFO - 2020-12-28 09:14:55 --> Database Driver Class Initialized
+DEBUG - 2020-12-28 09:14:55 --> Session: "sess_save_path" is empty; using "session.save_path" value from php.ini.
+INFO - 2020-12-28 09:14:55 --> Session: Class initialized using 'files' driver.
+INFO - 2020-12-28 09:14:55 --> Language file loaded: language/english/pagination_lang.php
+INFO - 2020-12-28 09:14:55 --> Pagination Class Initialized
+INFO - 2020-12-28 09:14:55 --> Email Class Initialized
+INFO - 2020-12-28 09:14:55 --> Model "M_konfig" initialized
+INFO - 2020-12-28 09:14:55 --> Model "M_reff" initialized
+INFO - 2020-12-28 09:14:55 --> Model "M_total" initialized
+INFO - 2020-12-28 09:14:55 --> Controller Class Initialized
+DEBUG - 2020-12-28 09:14:55 --> Maps_kri MX_Controller Initialized
+DEBUG - 2020-12-28 09:14:55 --> File loaded: D:\xampp72\htdocs\app_grm\application\modules/maps_kri/models/Model.php
+INFO - 2020-12-28 15:14:55 --> Final output sent to browser
+DEBUG - 2020-12-28 15:14:55 --> Total execution time: 1.6474
+INFO - 2020-12-28 09:15:15 --> Config Class Initialized
+INFO - 2020-12-28 09:15:15 --> Hooks Class Initialized
+DEBUG - 2020-12-28 09:15:15 --> UTF-8 Support Enabled
+INFO - 2020-12-28 09:15:15 --> Utf8 Class Initialized
+INFO - 2020-12-28 09:15:15 --> URI Class Initialized
+INFO - 2020-12-28 09:15:15 --> Router Class Initialized
+INFO - 2020-12-28 09:15:15 --> Output Class Initialized
+INFO - 2020-12-28 09:15:15 --> Security Class Initialized
+DEBUG - 2020-12-28 09:15:15 --> Global POST, GET and COOKIE data sanitized
+INFO - 2020-12-28 09:15:15 --> Input Class Initialized
+INFO - 2020-12-28 09:15:15 --> Language Class Initialized
+ERROR - 2020-12-28 09:15:15 --> 404 Page Not Found: /index
+INFO - 2020-12-28 09:17:00 --> Config Class Initialized
+INFO - 2020-12-28 09:17:00 --> Hooks Class Initialized
+DEBUG - 2020-12-28 09:17:00 --> UTF-8 Support Enabled
+INFO - 2020-12-28 09:17:00 --> Utf8 Class Initialized
+INFO - 2020-12-28 09:17:00 --> URI Class Initialized
+INFO - 2020-12-28 09:17:00 --> Router Class Initialized
+INFO - 2020-12-28 09:17:01 --> Output Class Initialized
+INFO - 2020-12-28 09:17:01 --> Security Class Initialized
+DEBUG - 2020-12-28 09:17:01 --> Global POST, GET and COOKIE data sanitized
+INFO - 2020-12-28 09:17:01 --> Input Class Initialized
+INFO - 2020-12-28 09:17:01 --> Language Class Initialized
+INFO - 2020-12-28 09:17:01 --> Language Class Initialized
+INFO - 2020-12-28 09:17:01 --> Config Class Initialized
+INFO - 2020-12-28 09:17:01 --> Loader Class Initialized
+INFO - 2020-12-28 09:17:01 --> Helper loaded: url_helper
+INFO - 2020-12-28 09:17:01 --> Helper loaded: html_helper
+INFO - 2020-12-28 09:17:01 --> Helper loaded: file_helper
+INFO - 2020-12-28 09:17:01 --> Helper loaded: form_helper
+INFO - 2020-12-28 09:17:01 --> Helper loaded: security_helper
+INFO - 2020-12-28 09:17:01 --> Helper loaded: xss_helper
+INFO - 2020-12-28 09:17:01 --> Helper loaded: slug_helper
+INFO - 2020-12-28 09:17:01 --> Database Driver Class Initialized
+DEBUG - 2020-12-28 09:17:01 --> Session: "sess_save_path" is empty; using "session.save_path" value from php.ini.
+INFO - 2020-12-28 09:17:01 --> Session: Class initialized using 'files' driver.
+INFO - 2020-12-28 09:17:01 --> Language file loaded: language/english/pagination_lang.php
+INFO - 2020-12-28 09:17:01 --> Pagination Class Initialized
+INFO - 2020-12-28 09:17:01 --> Email Class Initialized
+INFO - 2020-12-28 09:17:01 --> Model "M_konfig" initialized
+INFO - 2020-12-28 09:17:01 --> Model "M_reff" initialized
+INFO - 2020-12-28 09:17:01 --> Model "M_total" initialized
+INFO - 2020-12-28 09:17:01 --> Controller Class Initialized
+DEBUG - 2020-12-28 09:17:01 --> Maps_kri MX_Controller Initialized
+DEBUG - 2020-12-28 09:17:01 --> File loaded: D:\xampp72\htdocs\app_grm\application\modules/maps_kri/models/Model.php
+DEBUG - 2020-12-28 15:17:01 --> File loaded: D:\xampp72\htdocs\app_grm\application\views\temp_maps_kri/head.php
+DEBUG - 2020-12-28 15:17:01 --> File loaded: D:\xampp72\htdocs\app_grm\application\views\temp_maps_kri/navbar.php
+DEBUG - 2020-12-28 15:17:02 --> File loaded: D:\xampp72\htdocs\app_grm\application\views\temp_maps_kri/sidebar_left.php
+DEBUG - 2020-12-28 15:17:02 --> File loaded: D:\xampp72\htdocs\app_grm\application\views\temp_maps_kri/sidebar_right.php
+DEBUG - 2020-12-28 15:17:02 --> File loaded: D:\xampp72\htdocs\app_grm\application\modules/maps_kri/views/index.php
+DEBUG - 2020-12-28 15:17:02 --> File loaded: D:\xampp72\htdocs\app_grm\application\views\temp_maps_kri/quick_bar.php
+DEBUG - 2020-12-28 15:17:02 --> File loaded: D:\xampp72\htdocs\app_grm\application\views\temp_maps_kri/toggle.php
+DEBUG - 2020-12-28 15:17:02 --> File loaded: D:\xampp72\htdocs\app_grm\application\views\temp_maps_kri/konten.php
+DEBUG - 2020-12-28 15:17:02 --> File loaded: D:\xampp72\htdocs\app_grm\application\views\temp_maps_kri/foot.php
+DEBUG - 2020-12-28 15:17:02 --> File loaded: D:\xampp72\htdocs\app_grm\application\views\temp_maps_kri/main.php
+INFO - 2020-12-28 15:17:02 --> Final output sent to browser
+DEBUG - 2020-12-28 15:17:02 --> Total execution time: 1.5056
+INFO - 2020-12-28 09:17:02 --> Config Class Initialized
+INFO - 2020-12-28 09:17:02 --> Hooks Class Initialized
+DEBUG - 2020-12-28 09:17:02 --> UTF-8 Support Enabled
+INFO - 2020-12-28 09:17:02 --> Utf8 Class Initialized
+INFO - 2020-12-28 09:17:02 --> URI Class Initialized
+INFO - 2020-12-28 09:17:02 --> Router Class Initialized
+INFO - 2020-12-28 09:17:02 --> Output Class Initialized
+INFO - 2020-12-28 09:17:02 --> Security Class Initialized
+DEBUG - 2020-12-28 09:17:02 --> Global POST, GET and COOKIE data sanitized
+INFO - 2020-12-28 09:17:02 --> Input Class Initialized
+INFO - 2020-12-28 09:17:02 --> Language Class Initialized
+ERROR - 2020-12-28 09:17:02 --> 404 Page Not Found: /index
+INFO - 2020-12-28 09:17:03 --> Config Class Initialized
+INFO - 2020-12-28 09:17:03 --> Hooks Class Initialized
+DEBUG - 2020-12-28 09:17:03 --> UTF-8 Support Enabled
+INFO - 2020-12-28 09:17:04 --> Utf8 Class Initialized
+INFO - 2020-12-28 09:17:04 --> URI Class Initialized
+INFO - 2020-12-28 09:17:04 --> Router Class Initialized
+INFO - 2020-12-28 09:17:04 --> Output Class Initialized
+INFO - 2020-12-28 09:17:04 --> Security Class Initialized
+DEBUG - 2020-12-28 09:17:04 --> Global POST, GET and COOKIE data sanitized
+INFO - 2020-12-28 09:17:04 --> Input Class Initialized
+INFO - 2020-12-28 09:17:04 --> Language Class Initialized
+INFO - 2020-12-28 09:17:04 --> Language Class Initialized
+INFO - 2020-12-28 09:17:04 --> Config Class Initialized
+INFO - 2020-12-28 09:17:04 --> Loader Class Initialized
+INFO - 2020-12-28 09:17:04 --> Helper loaded: url_helper
+INFO - 2020-12-28 09:17:04 --> Helper loaded: html_helper
+INFO - 2020-12-28 09:17:04 --> Helper loaded: file_helper
+INFO - 2020-12-28 09:17:04 --> Helper loaded: form_helper
+INFO - 2020-12-28 09:17:04 --> Helper loaded: security_helper
+INFO - 2020-12-28 09:17:04 --> Helper loaded: xss_helper
+INFO - 2020-12-28 09:17:04 --> Helper loaded: slug_helper
+INFO - 2020-12-28 09:17:04 --> Database Driver Class Initialized
+DEBUG - 2020-12-28 09:17:04 --> Session: "sess_save_path" is empty; using "session.save_path" value from php.ini.
+INFO - 2020-12-28 09:17:05 --> Session: Class initialized using 'files' driver.
+INFO - 2020-12-28 09:17:05 --> Language file loaded: language/english/pagination_lang.php
+INFO - 2020-12-28 09:17:05 --> Pagination Class Initialized
+INFO - 2020-12-28 09:17:05 --> Email Class Initialized
+INFO - 2020-12-28 09:17:05 --> Model "M_konfig" initialized
+INFO - 2020-12-28 09:17:05 --> Model "M_reff" initialized
+INFO - 2020-12-28 09:17:05 --> Model "M_total" initialized
+INFO - 2020-12-28 09:17:05 --> Controller Class Initialized
+DEBUG - 2020-12-28 09:17:05 --> Maps_kri MX_Controller Initialized
+DEBUG - 2020-12-28 09:17:05 --> File loaded: D:\xampp72\htdocs\app_grm\application\modules/maps_kri/models/Model.php
+INFO - 2020-12-28 15:17:05 --> Final output sent to browser
+DEBUG - 2020-12-28 15:17:05 --> Total execution time: 1.5580
+INFO - 2020-12-28 09:17:42 --> Config Class Initialized
+INFO - 2020-12-28 09:17:42 --> Hooks Class Initialized
+DEBUG - 2020-12-28 09:17:42 --> UTF-8 Support Enabled
+INFO - 2020-12-28 09:17:42 --> Utf8 Class Initialized
+INFO - 2020-12-28 09:17:42 --> URI Class Initialized
+INFO - 2020-12-28 09:17:42 --> Router Class Initialized
+INFO - 2020-12-28 09:17:42 --> Output Class Initialized
+INFO - 2020-12-28 09:17:42 --> Security Class Initialized
+DEBUG - 2020-12-28 09:17:42 --> Global POST, GET and COOKIE data sanitized
+INFO - 2020-12-28 09:17:42 --> Input Class Initialized
+INFO - 2020-12-28 09:17:42 --> Language Class Initialized
+INFO - 2020-12-28 09:17:42 --> Language Class Initialized
+INFO - 2020-12-28 09:17:42 --> Config Class Initialized
+INFO - 2020-12-28 09:17:42 --> Loader Class Initialized
+INFO - 2020-12-28 09:17:42 --> Helper loaded: url_helper
+INFO - 2020-12-28 09:17:42 --> Helper loaded: html_helper
+INFO - 2020-12-28 09:17:42 --> Helper loaded: file_helper
+INFO - 2020-12-28 09:17:42 --> Helper loaded: form_helper
+INFO - 2020-12-28 09:17:42 --> Helper loaded: security_helper
+INFO - 2020-12-28 09:17:42 --> Helper loaded: xss_helper
+INFO - 2020-12-28 09:17:42 --> Helper loaded: slug_helper
+INFO - 2020-12-28 09:17:42 --> Database Driver Class Initialized
+DEBUG - 2020-12-28 09:17:42 --> Session: "sess_save_path" is empty; using "session.save_path" value from php.ini.
+INFO - 2020-12-28 09:17:42 --> Session: Class initialized using 'files' driver.
+INFO - 2020-12-28 09:17:42 --> Language file loaded: language/english/pagination_lang.php
+INFO - 2020-12-28 09:17:42 --> Pagination Class Initialized
+INFO - 2020-12-28 09:17:42 --> Email Class Initialized
+INFO - 2020-12-28 09:17:42 --> Model "M_konfig" initialized
+INFO - 2020-12-28 09:17:42 --> Model "M_reff" initialized
+INFO - 2020-12-28 09:17:43 --> Model "M_total" initialized
+INFO - 2020-12-28 09:17:43 --> Controller Class Initialized
+DEBUG - 2020-12-28 09:17:43 --> Maps_kri MX_Controller Initialized
+DEBUG - 2020-12-28 09:17:43 --> File loaded: D:\xampp72\htdocs\app_grm\application\modules/maps_kri/models/Model.php
+DEBUG - 2020-12-28 15:17:43 --> File loaded: D:\xampp72\htdocs\app_grm\application\views\temp_maps_kri/head.php
+DEBUG - 2020-12-28 15:17:43 --> File loaded: D:\xampp72\htdocs\app_grm\application\views\temp_maps_kri/navbar.php
+DEBUG - 2020-12-28 15:17:43 --> File loaded: D:\xampp72\htdocs\app_grm\application\views\temp_maps_kri/sidebar_left.php
+DEBUG - 2020-12-28 15:17:43 --> File loaded: D:\xampp72\htdocs\app_grm\application\views\temp_maps_kri/sidebar_right.php
+DEBUG - 2020-12-28 15:17:43 --> File loaded: D:\xampp72\htdocs\app_grm\application\modules/maps_kri/views/index.php
+DEBUG - 2020-12-28 15:17:43 --> File loaded: D:\xampp72\htdocs\app_grm\application\views\temp_maps_kri/quick_bar.php
+DEBUG - 2020-12-28 15:17:43 --> File loaded: D:\xampp72\htdocs\app_grm\application\views\temp_maps_kri/toggle.php
+DEBUG - 2020-12-28 15:17:43 --> File loaded: D:\xampp72\htdocs\app_grm\application\views\temp_maps_kri/konten.php
+DEBUG - 2020-12-28 15:17:43 --> File loaded: D:\xampp72\htdocs\app_grm\application\views\temp_maps_kri/foot.php
+DEBUG - 2020-12-28 15:17:43 --> File loaded: D:\xampp72\htdocs\app_grm\application\views\temp_maps_kri/main.php
+INFO - 2020-12-28 15:17:43 --> Final output sent to browser
+DEBUG - 2020-12-28 15:17:43 --> Total execution time: 1.3575
+INFO - 2020-12-28 09:17:43 --> Config Class Initialized
+INFO - 2020-12-28 09:17:43 --> Hooks Class Initialized
+DEBUG - 2020-12-28 09:17:43 --> UTF-8 Support Enabled
+INFO - 2020-12-28 09:17:43 --> Utf8 Class Initialized
+INFO - 2020-12-28 09:17:43 --> URI Class Initialized
+INFO - 2020-12-28 09:17:43 --> Router Class Initialized
+INFO - 2020-12-28 09:17:43 --> Output Class Initialized
+INFO - 2020-12-28 09:17:43 --> Security Class Initialized
+DEBUG - 2020-12-28 09:17:43 --> Global POST, GET and COOKIE data sanitized
+INFO - 2020-12-28 09:17:43 --> Input Class Initialized
+INFO - 2020-12-28 09:17:43 --> Language Class Initialized
+ERROR - 2020-12-28 09:17:43 --> 404 Page Not Found: /index
+INFO - 2020-12-28 09:17:43 --> Config Class Initialized
+INFO - 2020-12-28 09:17:44 --> Hooks Class Initialized
+DEBUG - 2020-12-28 09:17:44 --> UTF-8 Support Enabled
+INFO - 2020-12-28 09:17:44 --> Utf8 Class Initialized
+INFO - 2020-12-28 09:17:44 --> URI Class Initialized
+INFO - 2020-12-28 09:17:44 --> Router Class Initialized
+INFO - 2020-12-28 09:17:44 --> Output Class Initialized
+INFO - 2020-12-28 09:17:44 --> Security Class Initialized
+DEBUG - 2020-12-28 09:17:44 --> Global POST, GET and COOKIE data sanitized
+INFO - 2020-12-28 09:17:44 --> Input Class Initialized
+INFO - 2020-12-28 09:17:44 --> Language Class Initialized
+ERROR - 2020-12-28 09:17:44 --> 404 Page Not Found: /index
+INFO - 2020-12-28 09:17:44 --> Config Class Initialized
+INFO - 2020-12-28 09:17:44 --> Hooks Class Initialized
+DEBUG - 2020-12-28 09:17:45 --> UTF-8 Support Enabled
+INFO - 2020-12-28 09:17:45 --> Utf8 Class Initialized
+INFO - 2020-12-28 09:17:45 --> URI Class Initialized
+INFO - 2020-12-28 09:17:45 --> Router Class Initialized
+INFO - 2020-12-28 09:17:45 --> Output Class Initialized
+INFO - 2020-12-28 09:17:45 --> Security Class Initialized
+DEBUG - 2020-12-28 09:17:45 --> Global POST, GET and COOKIE data sanitized
+INFO - 2020-12-28 09:17:45 --> Input Class Initialized
+INFO - 2020-12-28 09:17:45 --> Language Class Initialized
+INFO - 2020-12-28 09:17:45 --> Language Class Initialized
+INFO - 2020-12-28 09:17:45 --> Config Class Initialized
+INFO - 2020-12-28 09:17:45 --> Loader Class Initialized
+INFO - 2020-12-28 09:17:45 --> Helper loaded: url_helper
+INFO - 2020-12-28 09:17:45 --> Helper loaded: html_helper
+INFO - 2020-12-28 09:17:45 --> Helper loaded: file_helper
+INFO - 2020-12-28 09:17:45 --> Helper loaded: form_helper
+INFO - 2020-12-28 09:17:45 --> Helper loaded: security_helper
+INFO - 2020-12-28 09:17:45 --> Helper loaded: xss_helper
+INFO - 2020-12-28 09:17:46 --> Helper loaded: slug_helper
+INFO - 2020-12-28 09:17:46 --> Database Driver Class Initialized
+DEBUG - 2020-12-28 09:17:46 --> Session: "sess_save_path" is empty; using "session.save_path" value from php.ini.
+INFO - 2020-12-28 09:17:46 --> Session: Class initialized using 'files' driver.
+INFO - 2020-12-28 09:17:46 --> Language file loaded: language/english/pagination_lang.php
+INFO - 2020-12-28 09:17:46 --> Pagination Class Initialized
+INFO - 2020-12-28 09:17:46 --> Email Class Initialized
+INFO - 2020-12-28 09:17:46 --> Model "M_konfig" initialized
+INFO - 2020-12-28 09:17:46 --> Model "M_reff" initialized
+INFO - 2020-12-28 09:17:46 --> Model "M_total" initialized
+INFO - 2020-12-28 09:17:46 --> Controller Class Initialized
+DEBUG - 2020-12-28 09:17:46 --> Maps_kri MX_Controller Initialized
+DEBUG - 2020-12-28 09:17:46 --> File loaded: D:\xampp72\htdocs\app_grm\application\modules/maps_kri/models/Model.php
+INFO - 2020-12-28 15:17:46 --> Final output sent to browser
+DEBUG - 2020-12-28 15:17:46 --> Total execution time: 1.5764
+INFO - 2020-12-28 09:17:55 --> Config Class Initialized
+INFO - 2020-12-28 09:17:55 --> Hooks Class Initialized
+DEBUG - 2020-12-28 09:17:55 --> UTF-8 Support Enabled
+INFO - 2020-12-28 09:17:55 --> Utf8 Class Initialized
+INFO - 2020-12-28 09:17:55 --> URI Class Initialized
+INFO - 2020-12-28 09:17:55 --> Router Class Initialized
+INFO - 2020-12-28 09:17:55 --> Output Class Initialized
+INFO - 2020-12-28 09:17:55 --> Security Class Initialized
+DEBUG - 2020-12-28 09:17:55 --> Global POST, GET and COOKIE data sanitized
+INFO - 2020-12-28 09:17:55 --> Input Class Initialized
+INFO - 2020-12-28 09:17:55 --> Language Class Initialized
+INFO - 2020-12-28 09:17:55 --> Language Class Initialized
+INFO - 2020-12-28 09:17:55 --> Config Class Initialized
+INFO - 2020-12-28 09:17:55 --> Loader Class Initialized
+INFO - 2020-12-28 09:17:55 --> Helper loaded: url_helper
+INFO - 2020-12-28 09:17:55 --> Helper loaded: html_helper
+INFO - 2020-12-28 09:17:55 --> Helper loaded: file_helper
+INFO - 2020-12-28 09:17:55 --> Helper loaded: form_helper
+INFO - 2020-12-28 09:17:55 --> Helper loaded: security_helper
+INFO - 2020-12-28 09:17:55 --> Helper loaded: xss_helper
+INFO - 2020-12-28 09:17:55 --> Helper loaded: slug_helper
+INFO - 2020-12-28 09:17:56 --> Database Driver Class Initialized
+DEBUG - 2020-12-28 09:17:56 --> Session: "sess_save_path" is empty; using "session.save_path" value from php.ini.
+INFO - 2020-12-28 09:17:56 --> Session: Class initialized using 'files' driver.
+INFO - 2020-12-28 09:17:56 --> Language file loaded: language/english/pagination_lang.php
+INFO - 2020-12-28 09:17:56 --> Pagination Class Initialized
+INFO - 2020-12-28 09:17:56 --> Email Class Initialized
+INFO - 2020-12-28 09:17:56 --> Model "M_konfig" initialized
+INFO - 2020-12-28 09:17:56 --> Model "M_reff" initialized
+INFO - 2020-12-28 09:17:56 --> Model "M_total" initialized
+INFO - 2020-12-28 09:17:56 --> Controller Class Initialized
+DEBUG - 2020-12-28 09:17:56 --> Maps_kri MX_Controller Initialized
+DEBUG - 2020-12-28 09:17:56 --> File loaded: D:\xampp72\htdocs\app_grm\application\modules/maps_kri/models/Model.php
+DEBUG - 2020-12-28 15:17:56 --> File loaded: D:\xampp72\htdocs\app_grm\application\views\temp_maps_kri/head.php
+DEBUG - 2020-12-28 15:17:56 --> File loaded: D:\xampp72\htdocs\app_grm\application\views\temp_maps_kri/navbar.php
+DEBUG - 2020-12-28 15:17:56 --> File loaded: D:\xampp72\htdocs\app_grm\application\views\temp_maps_kri/sidebar_left.php
+DEBUG - 2020-12-28 15:17:56 --> File loaded: D:\xampp72\htdocs\app_grm\application\views\temp_maps_kri/sidebar_right.php
+DEBUG - 2020-12-28 15:17:56 --> File loaded: D:\xampp72\htdocs\app_grm\application\modules/maps_kri/views/index.php
+DEBUG - 2020-12-28 15:17:56 --> File loaded: D:\xampp72\htdocs\app_grm\application\views\temp_maps_kri/quick_bar.php
+DEBUG - 2020-12-28 15:17:56 --> File loaded: D:\xampp72\htdocs\app_grm\application\views\temp_maps_kri/toggle.php
+DEBUG - 2020-12-28 15:17:56 --> File loaded: D:\xampp72\htdocs\app_grm\application\views\temp_maps_kri/konten.php
+DEBUG - 2020-12-28 15:17:56 --> File loaded: D:\xampp72\htdocs\app_grm\application\views\temp_maps_kri/foot.php
+DEBUG - 2020-12-28 15:17:56 --> File loaded: D:\xampp72\htdocs\app_grm\application\views\temp_maps_kri/main.php
+INFO - 2020-12-28 15:17:56 --> Final output sent to browser
+DEBUG - 2020-12-28 15:17:56 --> Total execution time: 1.3777
+INFO - 2020-12-28 09:17:56 --> Config Class Initialized
+INFO - 2020-12-28 09:17:56 --> Hooks Class Initialized
+DEBUG - 2020-12-28 09:17:56 --> UTF-8 Support Enabled
+INFO - 2020-12-28 09:17:56 --> Utf8 Class Initialized
+INFO - 2020-12-28 09:17:56 --> URI Class Initialized
+INFO - 2020-12-28 09:17:56 --> Router Class Initialized
+INFO - 2020-12-28 09:17:56 --> Output Class Initialized
+INFO - 2020-12-28 09:17:56 --> Security Class Initialized
+DEBUG - 2020-12-28 09:17:56 --> Global POST, GET and COOKIE data sanitized
+INFO - 2020-12-28 09:17:56 --> Input Class Initialized
+INFO - 2020-12-28 09:17:56 --> Language Class Initialized
+ERROR - 2020-12-28 09:17:56 --> 404 Page Not Found: /index
+INFO - 2020-12-28 09:17:57 --> Config Class Initialized
+INFO - 2020-12-28 09:17:57 --> Hooks Class Initialized
+DEBUG - 2020-12-28 09:17:57 --> UTF-8 Support Enabled
+INFO - 2020-12-28 09:17:57 --> Utf8 Class Initialized
+INFO - 2020-12-28 09:17:57 --> URI Class Initialized
+INFO - 2020-12-28 09:17:57 --> Router Class Initialized
+INFO - 2020-12-28 09:17:57 --> Output Class Initialized
+INFO - 2020-12-28 09:17:57 --> Security Class Initialized
+DEBUG - 2020-12-28 09:17:57 --> Global POST, GET and COOKIE data sanitized
+INFO - 2020-12-28 09:17:57 --> Input Class Initialized
+INFO - 2020-12-28 09:17:57 --> Language Class Initialized
+ERROR - 2020-12-28 09:17:57 --> 404 Page Not Found: /index
+INFO - 2020-12-28 09:17:57 --> Config Class Initialized
+INFO - 2020-12-28 09:17:58 --> Hooks Class Initialized
+DEBUG - 2020-12-28 09:17:58 --> UTF-8 Support Enabled
+INFO - 2020-12-28 09:17:58 --> Utf8 Class Initialized
+INFO - 2020-12-28 09:17:58 --> URI Class Initialized
+INFO - 2020-12-28 09:17:58 --> Router Class Initialized
+INFO - 2020-12-28 09:17:58 --> Output Class Initialized
+INFO - 2020-12-28 09:17:58 --> Security Class Initialized
+DEBUG - 2020-12-28 09:17:58 --> Global POST, GET and COOKIE data sanitized
+INFO - 2020-12-28 09:17:58 --> Input Class Initialized
+INFO - 2020-12-28 09:17:58 --> Language Class Initialized
+INFO - 2020-12-28 09:17:58 --> Language Class Initialized
+INFO - 2020-12-28 09:17:58 --> Config Class Initialized
+INFO - 2020-12-28 09:17:58 --> Loader Class Initialized
+INFO - 2020-12-28 09:17:58 --> Helper loaded: url_helper
+INFO - 2020-12-28 09:17:58 --> Helper loaded: html_helper
+INFO - 2020-12-28 09:17:58 --> Helper loaded: file_helper
+INFO - 2020-12-28 09:17:58 --> Helper loaded: form_helper
+INFO - 2020-12-28 09:17:58 --> Helper loaded: security_helper
+INFO - 2020-12-28 09:17:58 --> Helper loaded: xss_helper
+INFO - 2020-12-28 09:17:58 --> Helper loaded: slug_helper
+INFO - 2020-12-28 09:17:58 --> Database Driver Class Initialized
+DEBUG - 2020-12-28 09:17:58 --> Session: "sess_save_path" is empty; using "session.save_path" value from php.ini.
+INFO - 2020-12-28 09:17:59 --> Session: Class initialized using 'files' driver.
+INFO - 2020-12-28 09:17:59 --> Language file loaded: language/english/pagination_lang.php
+INFO - 2020-12-28 09:17:59 --> Pagination Class Initialized
+INFO - 2020-12-28 09:17:59 --> Email Class Initialized
+INFO - 2020-12-28 09:17:59 --> Model "M_konfig" initialized
+INFO - 2020-12-28 09:17:59 --> Model "M_reff" initialized
+INFO - 2020-12-28 09:17:59 --> Model "M_total" initialized
+INFO - 2020-12-28 09:17:59 --> Controller Class Initialized
+DEBUG - 2020-12-28 09:17:59 --> Maps_kri MX_Controller Initialized
+DEBUG - 2020-12-28 09:17:59 --> File loaded: D:\xampp72\htdocs\app_grm\application\modules/maps_kri/models/Model.php
+INFO - 2020-12-28 15:17:59 --> Final output sent to browser
+DEBUG - 2020-12-28 15:17:59 --> Total execution time: 1.3755
+INFO - 2020-12-28 09:19:07 --> Config Class Initialized
+INFO - 2020-12-28 09:19:07 --> Hooks Class Initialized
+DEBUG - 2020-12-28 09:19:07 --> UTF-8 Support Enabled
+INFO - 2020-12-28 09:19:07 --> Utf8 Class Initialized
+INFO - 2020-12-28 09:19:07 --> URI Class Initialized
+INFO - 2020-12-28 09:19:07 --> Router Class Initialized
+INFO - 2020-12-28 09:19:07 --> Output Class Initialized
+INFO - 2020-12-28 09:19:07 --> Security Class Initialized
+DEBUG - 2020-12-28 09:19:07 --> Global POST, GET and COOKIE data sanitized
+INFO - 2020-12-28 09:19:07 --> Input Class Initialized
+INFO - 2020-12-28 09:19:08 --> Language Class Initialized
+INFO - 2020-12-28 09:19:08 --> Language Class Initialized
+INFO - 2020-12-28 09:19:08 --> Config Class Initialized
+INFO - 2020-12-28 09:19:08 --> Loader Class Initialized
+INFO - 2020-12-28 09:19:08 --> Helper loaded: url_helper
+INFO - 2020-12-28 09:19:08 --> Helper loaded: html_helper
+INFO - 2020-12-28 09:19:08 --> Helper loaded: file_helper
+INFO - 2020-12-28 09:19:08 --> Helper loaded: form_helper
+INFO - 2020-12-28 09:19:08 --> Helper loaded: security_helper
+INFO - 2020-12-28 09:19:08 --> Helper loaded: xss_helper
+INFO - 2020-12-28 09:19:08 --> Helper loaded: slug_helper
+INFO - 2020-12-28 09:19:08 --> Database Driver Class Initialized
+DEBUG - 2020-12-28 09:19:08 --> Session: "sess_save_path" is empty; using "session.save_path" value from php.ini.
+INFO - 2020-12-28 09:19:08 --> Session: Class initialized using 'files' driver.
+INFO - 2020-12-28 09:19:08 --> Language file loaded: language/english/pagination_lang.php
+INFO - 2020-12-28 09:19:08 --> Pagination Class Initialized
+INFO - 2020-12-28 09:19:08 --> Email Class Initialized
+INFO - 2020-12-28 09:19:08 --> Model "M_konfig" initialized
+INFO - 2020-12-28 09:19:08 --> Model "M_reff" initialized
+INFO - 2020-12-28 09:19:08 --> Model "M_total" initialized
+INFO - 2020-12-28 09:19:08 --> Controller Class Initialized
+DEBUG - 2020-12-28 09:19:08 --> Maps_kri MX_Controller Initialized
+DEBUG - 2020-12-28 09:19:08 --> File loaded: D:\xampp72\htdocs\app_grm\application\modules/maps_kri/models/Model.php
+DEBUG - 2020-12-28 15:19:08 --> File loaded: D:\xampp72\htdocs\app_grm\application\views\temp_maps_kri/head.php
+DEBUG - 2020-12-28 15:19:08 --> File loaded: D:\xampp72\htdocs\app_grm\application\views\temp_maps_kri/navbar.php
+DEBUG - 2020-12-28 15:19:08 --> File loaded: D:\xampp72\htdocs\app_grm\application\views\temp_maps_kri/sidebar_left.php
+DEBUG - 2020-12-28 15:19:08 --> File loaded: D:\xampp72\htdocs\app_grm\application\views\temp_maps_kri/sidebar_right.php
+DEBUG - 2020-12-28 15:19:08 --> File loaded: D:\xampp72\htdocs\app_grm\application\modules/maps_kri/views/index.php
+DEBUG - 2020-12-28 15:19:08 --> File loaded: D:\xampp72\htdocs\app_grm\application\views\temp_maps_kri/quick_bar.php
+DEBUG - 2020-12-28 15:19:08 --> File loaded: D:\xampp72\htdocs\app_grm\application\views\temp_maps_kri/toggle.php
+DEBUG - 2020-12-28 15:19:08 --> File loaded: D:\xampp72\htdocs\app_grm\application\views\temp_maps_kri/konten.php
+DEBUG - 2020-12-28 15:19:08 --> File loaded: D:\xampp72\htdocs\app_grm\application\views\temp_maps_kri/foot.php
+DEBUG - 2020-12-28 15:19:08 --> File loaded: D:\xampp72\htdocs\app_grm\application\views\temp_maps_kri/main.php
+INFO - 2020-12-28 15:19:08 --> Final output sent to browser
+DEBUG - 2020-12-28 15:19:09 --> Total execution time: 1.2977
+INFO - 2020-12-28 09:19:09 --> Config Class Initialized
+INFO - 2020-12-28 09:19:09 --> Hooks Class Initialized
+DEBUG - 2020-12-28 09:19:09 --> UTF-8 Support Enabled
+INFO - 2020-12-28 09:19:09 --> Utf8 Class Initialized
+INFO - 2020-12-28 09:19:09 --> URI Class Initialized
+INFO - 2020-12-28 09:19:09 --> Router Class Initialized
+INFO - 2020-12-28 09:19:09 --> Output Class Initialized
+INFO - 2020-12-28 09:19:09 --> Security Class Initialized
+DEBUG - 2020-12-28 09:19:09 --> Global POST, GET and COOKIE data sanitized
+INFO - 2020-12-28 09:19:09 --> Input Class Initialized
+INFO - 2020-12-28 09:19:09 --> Language Class Initialized
+ERROR - 2020-12-28 09:19:09 --> 404 Page Not Found: /index
+INFO - 2020-12-28 09:19:09 --> Config Class Initialized
+INFO - 2020-12-28 09:19:09 --> Hooks Class Initialized
+DEBUG - 2020-12-28 09:19:09 --> UTF-8 Support Enabled
+INFO - 2020-12-28 09:19:09 --> Utf8 Class Initialized
+INFO - 2020-12-28 09:19:09 --> URI Class Initialized
+INFO - 2020-12-28 09:19:09 --> Router Class Initialized
+INFO - 2020-12-28 09:19:09 --> Output Class Initialized
+INFO - 2020-12-28 09:19:09 --> Security Class Initialized
+DEBUG - 2020-12-28 09:19:09 --> Global POST, GET and COOKIE data sanitized
+INFO - 2020-12-28 09:19:09 --> Input Class Initialized
+INFO - 2020-12-28 09:19:09 --> Language Class Initialized
+ERROR - 2020-12-28 09:19:09 --> 404 Page Not Found: /index
+INFO - 2020-12-28 09:19:10 --> Config Class Initialized
+INFO - 2020-12-28 09:19:10 --> Hooks Class Initialized
+DEBUG - 2020-12-28 09:19:10 --> UTF-8 Support Enabled
+INFO - 2020-12-28 09:19:10 --> Utf8 Class Initialized
+INFO - 2020-12-28 09:19:10 --> URI Class Initialized
+INFO - 2020-12-28 09:19:10 --> Router Class Initialized
+INFO - 2020-12-28 09:19:10 --> Output Class Initialized
+INFO - 2020-12-28 09:19:10 --> Security Class Initialized
+DEBUG - 2020-12-28 09:19:10 --> Global POST, GET and COOKIE data sanitized
+INFO - 2020-12-28 09:19:11 --> Input Class Initialized
+INFO - 2020-12-28 09:19:11 --> Language Class Initialized
+INFO - 2020-12-28 09:19:11 --> Language Class Initialized
+INFO - 2020-12-28 09:19:11 --> Config Class Initialized
+INFO - 2020-12-28 09:19:11 --> Loader Class Initialized
+INFO - 2020-12-28 09:19:11 --> Helper loaded: url_helper
+INFO - 2020-12-28 09:19:11 --> Helper loaded: html_helper
+INFO - 2020-12-28 09:19:11 --> Helper loaded: file_helper
+INFO - 2020-12-28 09:19:11 --> Helper loaded: form_helper
+INFO - 2020-12-28 09:19:11 --> Helper loaded: security_helper
+INFO - 2020-12-28 09:19:11 --> Helper loaded: xss_helper
+INFO - 2020-12-28 09:19:11 --> Helper loaded: slug_helper
+INFO - 2020-12-28 09:19:11 --> Database Driver Class Initialized
+DEBUG - 2020-12-28 09:19:11 --> Session: "sess_save_path" is empty; using "session.save_path" value from php.ini.
+INFO - 2020-12-28 09:19:11 --> Session: Class initialized using 'files' driver.
+INFO - 2020-12-28 09:19:11 --> Language file loaded: language/english/pagination_lang.php
+INFO - 2020-12-28 09:19:11 --> Pagination Class Initialized
+INFO - 2020-12-28 09:19:11 --> Email Class Initialized
+INFO - 2020-12-28 09:19:11 --> Model "M_konfig" initialized
+INFO - 2020-12-28 09:19:11 --> Model "M_reff" initialized
+INFO - 2020-12-28 09:19:12 --> Model "M_total" initialized
+INFO - 2020-12-28 09:19:12 --> Controller Class Initialized
+DEBUG - 2020-12-28 09:19:12 --> Maps_kri MX_Controller Initialized
+DEBUG - 2020-12-28 09:19:12 --> File loaded: D:\xampp72\htdocs\app_grm\application\modules/maps_kri/models/Model.php
+INFO - 2020-12-28 15:19:12 --> Final output sent to browser
+DEBUG - 2020-12-28 15:19:12 --> Total execution time: 1.8420
+INFO - 2020-12-28 09:20:35 --> Config Class Initialized
+INFO - 2020-12-28 09:20:35 --> Hooks Class Initialized
+DEBUG - 2020-12-28 09:20:35 --> UTF-8 Support Enabled
+INFO - 2020-12-28 09:20:35 --> Utf8 Class Initialized
+INFO - 2020-12-28 09:20:35 --> URI Class Initialized
+INFO - 2020-12-28 09:20:35 --> Router Class Initialized
+INFO - 2020-12-28 09:20:35 --> Output Class Initialized
+INFO - 2020-12-28 09:20:35 --> Security Class Initialized
+DEBUG - 2020-12-28 09:20:35 --> Global POST, GET and COOKIE data sanitized
+INFO - 2020-12-28 09:20:35 --> Input Class Initialized
+INFO - 2020-12-28 09:20:35 --> Language Class Initialized
+INFO - 2020-12-28 09:20:36 --> Language Class Initialized
+INFO - 2020-12-28 09:20:36 --> Config Class Initialized
+INFO - 2020-12-28 09:20:36 --> Loader Class Initialized
+INFO - 2020-12-28 09:20:36 --> Helper loaded: url_helper
+INFO - 2020-12-28 09:20:36 --> Helper loaded: html_helper
+INFO - 2020-12-28 09:20:36 --> Helper loaded: file_helper
+INFO - 2020-12-28 09:20:36 --> Helper loaded: form_helper
+INFO - 2020-12-28 09:20:36 --> Helper loaded: security_helper
+INFO - 2020-12-28 09:20:36 --> Helper loaded: xss_helper
+INFO - 2020-12-28 09:20:36 --> Helper loaded: slug_helper
+INFO - 2020-12-28 09:20:36 --> Database Driver Class Initialized
+DEBUG - 2020-12-28 09:20:36 --> Session: "sess_save_path" is empty; using "session.save_path" value from php.ini.
+INFO - 2020-12-28 09:20:36 --> Session: Class initialized using 'files' driver.
+INFO - 2020-12-28 09:20:36 --> Language file loaded: language/english/pagination_lang.php
+INFO - 2020-12-28 09:20:36 --> Pagination Class Initialized
+INFO - 2020-12-28 09:20:36 --> Email Class Initialized
+INFO - 2020-12-28 09:20:36 --> Model "M_konfig" initialized
+INFO - 2020-12-28 09:20:36 --> Model "M_reff" initialized
+INFO - 2020-12-28 09:20:36 --> Model "M_total" initialized
+INFO - 2020-12-28 09:20:36 --> Controller Class Initialized
+DEBUG - 2020-12-28 09:20:36 --> Maps_kri MX_Controller Initialized
+DEBUG - 2020-12-28 09:20:36 --> File loaded: D:\xampp72\htdocs\app_grm\application\modules/maps_kri/models/Model.php
+DEBUG - 2020-12-28 15:20:36 --> File loaded: D:\xampp72\htdocs\app_grm\application\views\temp_maps_kri/head.php
+DEBUG - 2020-12-28 15:20:36 --> File loaded: D:\xampp72\htdocs\app_grm\application\views\temp_maps_kri/navbar.php
+DEBUG - 2020-12-28 15:20:36 --> File loaded: D:\xampp72\htdocs\app_grm\application\views\temp_maps_kri/sidebar_left.php
+DEBUG - 2020-12-28 15:20:36 --> File loaded: D:\xampp72\htdocs\app_grm\application\views\temp_maps_kri/sidebar_right.php
+DEBUG - 2020-12-28 15:20:36 --> File loaded: D:\xampp72\htdocs\app_grm\application\modules/maps_kri/views/index.php
+DEBUG - 2020-12-28 15:20:36 --> File loaded: D:\xampp72\htdocs\app_grm\application\views\temp_maps_kri/quick_bar.php
+DEBUG - 2020-12-28 15:20:36 --> File loaded: D:\xampp72\htdocs\app_grm\application\views\temp_maps_kri/toggle.php
+DEBUG - 2020-12-28 15:20:37 --> File loaded: D:\xampp72\htdocs\app_grm\application\views\temp_maps_kri/konten.php
+DEBUG - 2020-12-28 15:20:37 --> File loaded: D:\xampp72\htdocs\app_grm\application\views\temp_maps_kri/foot.php
+DEBUG - 2020-12-28 15:20:37 --> File loaded: D:\xampp72\htdocs\app_grm\application\views\temp_maps_kri/main.php
+INFO - 2020-12-28 15:20:37 --> Final output sent to browser
+DEBUG - 2020-12-28 15:20:37 --> Total execution time: 1.4508
+INFO - 2020-12-28 09:20:37 --> Config Class Initialized
+INFO - 2020-12-28 09:20:37 --> Hooks Class Initialized
+DEBUG - 2020-12-28 09:20:37 --> UTF-8 Support Enabled
+INFO - 2020-12-28 09:20:37 --> Utf8 Class Initialized
+INFO - 2020-12-28 09:20:37 --> URI Class Initialized
+INFO - 2020-12-28 09:20:37 --> Router Class Initialized
+INFO - 2020-12-28 09:20:37 --> Output Class Initialized
+INFO - 2020-12-28 09:20:37 --> Security Class Initialized
+DEBUG - 2020-12-28 09:20:37 --> Global POST, GET and COOKIE data sanitized
+INFO - 2020-12-28 09:20:37 --> Input Class Initialized
+INFO - 2020-12-28 09:20:37 --> Language Class Initialized
+ERROR - 2020-12-28 09:20:37 --> 404 Page Not Found: /index
+INFO - 2020-12-28 09:20:37 --> Config Class Initialized
+INFO - 2020-12-28 09:20:37 --> Hooks Class Initialized
+DEBUG - 2020-12-28 09:20:37 --> UTF-8 Support Enabled
+INFO - 2020-12-28 09:20:37 --> Utf8 Class Initialized
+INFO - 2020-12-28 09:20:37 --> URI Class Initialized
+INFO - 2020-12-28 09:20:37 --> Router Class Initialized
+INFO - 2020-12-28 09:20:37 --> Output Class Initialized
+INFO - 2020-12-28 09:20:37 --> Security Class Initialized
+DEBUG - 2020-12-28 09:20:37 --> Global POST, GET and COOKIE data sanitized
+INFO - 2020-12-28 09:20:37 --> Input Class Initialized
+INFO - 2020-12-28 09:20:37 --> Language Class Initialized
+ERROR - 2020-12-28 09:20:37 --> 404 Page Not Found: /index
+INFO - 2020-12-28 09:20:39 --> Config Class Initialized
+INFO - 2020-12-28 09:20:39 --> Hooks Class Initialized
+DEBUG - 2020-12-28 09:20:39 --> UTF-8 Support Enabled
+INFO - 2020-12-28 09:20:39 --> Utf8 Class Initialized
+INFO - 2020-12-28 09:20:39 --> URI Class Initialized
+INFO - 2020-12-28 09:20:39 --> Router Class Initialized
+INFO - 2020-12-28 09:20:39 --> Output Class Initialized
+INFO - 2020-12-28 09:20:39 --> Security Class Initialized
+DEBUG - 2020-12-28 09:20:39 --> Global POST, GET and COOKIE data sanitized
+INFO - 2020-12-28 09:20:39 --> Input Class Initialized
+INFO - 2020-12-28 09:20:39 --> Language Class Initialized
+INFO - 2020-12-28 09:20:39 --> Language Class Initialized
+INFO - 2020-12-28 09:20:39 --> Config Class Initialized
+INFO - 2020-12-28 09:20:39 --> Loader Class Initialized
+INFO - 2020-12-28 09:20:39 --> Helper loaded: url_helper
+INFO - 2020-12-28 09:20:39 --> Helper loaded: html_helper
+INFO - 2020-12-28 09:20:39 --> Helper loaded: file_helper
+INFO - 2020-12-28 09:20:39 --> Helper loaded: form_helper
+INFO - 2020-12-28 09:20:39 --> Helper loaded: security_helper
+INFO - 2020-12-28 09:20:40 --> Helper loaded: xss_helper
+INFO - 2020-12-28 09:20:40 --> Helper loaded: slug_helper
+INFO - 2020-12-28 09:20:40 --> Database Driver Class Initialized
+DEBUG - 2020-12-28 09:20:40 --> Session: "sess_save_path" is empty; using "session.save_path" value from php.ini.
+INFO - 2020-12-28 09:20:40 --> Session: Class initialized using 'files' driver.
+INFO - 2020-12-28 09:20:40 --> Language file loaded: language/english/pagination_lang.php
+INFO - 2020-12-28 09:20:40 --> Pagination Class Initialized
+INFO - 2020-12-28 09:20:40 --> Email Class Initialized
+INFO - 2020-12-28 09:20:40 --> Model "M_konfig" initialized
+INFO - 2020-12-28 09:20:40 --> Model "M_reff" initialized
+INFO - 2020-12-28 09:20:40 --> Model "M_total" initialized
+INFO - 2020-12-28 09:20:40 --> Controller Class Initialized
+DEBUG - 2020-12-28 09:20:40 --> Maps_kri MX_Controller Initialized
+DEBUG - 2020-12-28 09:20:40 --> File loaded: D:\xampp72\htdocs\app_grm\application\modules/maps_kri/models/Model.php
+INFO - 2020-12-28 15:20:40 --> Final output sent to browser
+DEBUG - 2020-12-28 15:20:40 --> Total execution time: 1.3818
+INFO - 2020-12-28 09:20:58 --> Config Class Initialized
+INFO - 2020-12-28 09:20:58 --> Hooks Class Initialized
+DEBUG - 2020-12-28 09:20:58 --> UTF-8 Support Enabled
+INFO - 2020-12-28 09:20:58 --> Utf8 Class Initialized
+INFO - 2020-12-28 09:20:58 --> URI Class Initialized
+INFO - 2020-12-28 09:20:58 --> Router Class Initialized
+INFO - 2020-12-28 09:20:58 --> Output Class Initialized
+INFO - 2020-12-28 09:20:58 --> Security Class Initialized
+DEBUG - 2020-12-28 09:20:58 --> Global POST, GET and COOKIE data sanitized
+INFO - 2020-12-28 09:20:58 --> Input Class Initialized
+INFO - 2020-12-28 09:20:58 --> Language Class Initialized
+INFO - 2020-12-28 09:20:58 --> Language Class Initialized
+INFO - 2020-12-28 09:20:58 --> Config Class Initialized
+INFO - 2020-12-28 09:20:58 --> Loader Class Initialized
+INFO - 2020-12-28 09:20:58 --> Helper loaded: url_helper
+INFO - 2020-12-28 09:20:58 --> Helper loaded: html_helper
+INFO - 2020-12-28 09:20:58 --> Helper loaded: file_helper
+INFO - 2020-12-28 09:20:58 --> Helper loaded: form_helper
+INFO - 2020-12-28 09:20:58 --> Helper loaded: security_helper
+INFO - 2020-12-28 09:20:58 --> Helper loaded: xss_helper
+INFO - 2020-12-28 09:20:58 --> Helper loaded: slug_helper
+INFO - 2020-12-28 09:20:58 --> Database Driver Class Initialized
+DEBUG - 2020-12-28 09:20:58 --> Session: "sess_save_path" is empty; using "session.save_path" value from php.ini.
+INFO - 2020-12-28 09:20:58 --> Session: Class initialized using 'files' driver.
+INFO - 2020-12-28 09:20:58 --> Language file loaded: language/english/pagination_lang.php
+INFO - 2020-12-28 09:20:58 --> Pagination Class Initialized
+INFO - 2020-12-28 09:20:59 --> Email Class Initialized
+INFO - 2020-12-28 09:20:59 --> Model "M_konfig" initialized
+INFO - 2020-12-28 09:20:59 --> Model "M_reff" initialized
+INFO - 2020-12-28 09:20:59 --> Model "M_total" initialized
+INFO - 2020-12-28 09:20:59 --> Controller Class Initialized
+DEBUG - 2020-12-28 09:20:59 --> Maps_kri MX_Controller Initialized
+DEBUG - 2020-12-28 09:20:59 --> File loaded: D:\xampp72\htdocs\app_grm\application\modules/maps_kri/models/Model.php
+DEBUG - 2020-12-28 15:20:59 --> File loaded: D:\xampp72\htdocs\app_grm\application\views\temp_maps_kri/head.php
+DEBUG - 2020-12-28 15:20:59 --> File loaded: D:\xampp72\htdocs\app_grm\application\views\temp_maps_kri/navbar.php
+DEBUG - 2020-12-28 15:20:59 --> File loaded: D:\xampp72\htdocs\app_grm\application\views\temp_maps_kri/sidebar_left.php
+DEBUG - 2020-12-28 15:20:59 --> File loaded: D:\xampp72\htdocs\app_grm\application\views\temp_maps_kri/sidebar_right.php
+DEBUG - 2020-12-28 15:20:59 --> File loaded: D:\xampp72\htdocs\app_grm\application\modules/maps_kri/views/index.php
+DEBUG - 2020-12-28 15:20:59 --> File loaded: D:\xampp72\htdocs\app_grm\application\views\temp_maps_kri/quick_bar.php
+DEBUG - 2020-12-28 15:20:59 --> File loaded: D:\xampp72\htdocs\app_grm\application\views\temp_maps_kri/toggle.php
+DEBUG - 2020-12-28 15:20:59 --> File loaded: D:\xampp72\htdocs\app_grm\application\views\temp_maps_kri/konten.php
+DEBUG - 2020-12-28 15:20:59 --> File loaded: D:\xampp72\htdocs\app_grm\application\views\temp_maps_kri/foot.php
+DEBUG - 2020-12-28 15:20:59 --> File loaded: D:\xampp72\htdocs\app_grm\application\views\temp_maps_kri/main.php
+INFO - 2020-12-28 15:20:59 --> Final output sent to browser
+DEBUG - 2020-12-28 15:20:59 --> Total execution time: 1.3758
+INFO - 2020-12-28 09:20:59 --> Config Class Initialized
+INFO - 2020-12-28 09:20:59 --> Hooks Class Initialized
+DEBUG - 2020-12-28 09:20:59 --> UTF-8 Support Enabled
+INFO - 2020-12-28 09:20:59 --> Utf8 Class Initialized
+INFO - 2020-12-28 09:20:59 --> URI Class Initialized
+INFO - 2020-12-28 09:20:59 --> Router Class Initialized
+INFO - 2020-12-28 09:20:59 --> Output Class Initialized
+INFO - 2020-12-28 09:20:59 --> Security Class Initialized
+DEBUG - 2020-12-28 09:20:59 --> Global POST, GET and COOKIE data sanitized
+INFO - 2020-12-28 09:21:00 --> Input Class Initialized
+INFO - 2020-12-28 09:21:00 --> Language Class Initialized
+ERROR - 2020-12-28 09:21:00 --> 404 Page Not Found: /index
+INFO - 2020-12-28 09:21:00 --> Config Class Initialized
+INFO - 2020-12-28 09:21:00 --> Hooks Class Initialized
+DEBUG - 2020-12-28 09:21:00 --> UTF-8 Support Enabled
+INFO - 2020-12-28 09:21:00 --> Utf8 Class Initialized
+INFO - 2020-12-28 09:21:00 --> URI Class Initialized
+INFO - 2020-12-28 09:21:01 --> Router Class Initialized
+INFO - 2020-12-28 09:21:01 --> Output Class Initialized
+INFO - 2020-12-28 09:21:01 --> Security Class Initialized
+DEBUG - 2020-12-28 09:21:01 --> Global POST, GET and COOKIE data sanitized
+INFO - 2020-12-28 09:21:01 --> Input Class Initialized
+INFO - 2020-12-28 09:21:01 --> Language Class Initialized
+INFO - 2020-12-28 09:21:01 --> Language Class Initialized
+INFO - 2020-12-28 09:21:01 --> Config Class Initialized
+INFO - 2020-12-28 09:21:01 --> Loader Class Initialized
+INFO - 2020-12-28 09:21:01 --> Helper loaded: url_helper
+INFO - 2020-12-28 09:21:01 --> Helper loaded: html_helper
+INFO - 2020-12-28 09:21:01 --> Helper loaded: file_helper
+INFO - 2020-12-28 09:21:01 --> Helper loaded: form_helper
+INFO - 2020-12-28 09:21:01 --> Helper loaded: security_helper
+INFO - 2020-12-28 09:21:01 --> Helper loaded: xss_helper
+INFO - 2020-12-28 09:21:01 --> Helper loaded: slug_helper
+INFO - 2020-12-28 09:21:01 --> Database Driver Class Initialized
+DEBUG - 2020-12-28 09:21:01 --> Session: "sess_save_path" is empty; using "session.save_path" value from php.ini.
+INFO - 2020-12-28 09:21:01 --> Session: Class initialized using 'files' driver.
+INFO - 2020-12-28 09:21:01 --> Language file loaded: language/english/pagination_lang.php
+INFO - 2020-12-28 09:21:01 --> Pagination Class Initialized
+INFO - 2020-12-28 09:21:01 --> Email Class Initialized
+INFO - 2020-12-28 09:21:01 --> Model "M_konfig" initialized
+INFO - 2020-12-28 09:21:02 --> Model "M_reff" initialized
+INFO - 2020-12-28 09:21:02 --> Model "M_total" initialized
+INFO - 2020-12-28 09:21:02 --> Controller Class Initialized
+DEBUG - 2020-12-28 09:21:02 --> Maps_kri MX_Controller Initialized
+DEBUG - 2020-12-28 09:21:02 --> File loaded: D:\xampp72\htdocs\app_grm\application\modules/maps_kri/models/Model.php
+INFO - 2020-12-28 15:21:02 --> Final output sent to browser
+DEBUG - 2020-12-28 15:21:02 --> Total execution time: 1.6164
+INFO - 2020-12-28 09:21:18 --> Config Class Initialized
+INFO - 2020-12-28 09:21:18 --> Hooks Class Initialized
+DEBUG - 2020-12-28 09:21:18 --> UTF-8 Support Enabled
+INFO - 2020-12-28 09:21:18 --> Utf8 Class Initialized
+INFO - 2020-12-28 09:21:18 --> URI Class Initialized
+INFO - 2020-12-28 09:21:18 --> Router Class Initialized
+INFO - 2020-12-28 09:21:18 --> Output Class Initialized
+INFO - 2020-12-28 09:21:18 --> Security Class Initialized
+DEBUG - 2020-12-28 09:21:18 --> Global POST, GET and COOKIE data sanitized
+INFO - 2020-12-28 09:21:18 --> Input Class Initialized
+INFO - 2020-12-28 09:21:18 --> Language Class Initialized
+INFO - 2020-12-28 09:21:18 --> Language Class Initialized
+INFO - 2020-12-28 09:21:18 --> Config Class Initialized
+INFO - 2020-12-28 09:21:19 --> Loader Class Initialized
+INFO - 2020-12-28 09:21:19 --> Helper loaded: url_helper
+INFO - 2020-12-28 09:21:19 --> Helper loaded: html_helper
+INFO - 2020-12-28 09:21:19 --> Helper loaded: file_helper
+INFO - 2020-12-28 09:21:19 --> Helper loaded: form_helper
+INFO - 2020-12-28 09:21:19 --> Helper loaded: security_helper
+INFO - 2020-12-28 09:21:19 --> Helper loaded: xss_helper
+INFO - 2020-12-28 09:21:19 --> Helper loaded: slug_helper
+INFO - 2020-12-28 09:21:19 --> Database Driver Class Initialized
+DEBUG - 2020-12-28 09:21:19 --> Session: "sess_save_path" is empty; using "session.save_path" value from php.ini.
+INFO - 2020-12-28 09:21:19 --> Session: Class initialized using 'files' driver.
+INFO - 2020-12-28 09:21:19 --> Language file loaded: language/english/pagination_lang.php
+INFO - 2020-12-28 09:21:19 --> Pagination Class Initialized
+INFO - 2020-12-28 09:21:19 --> Email Class Initialized
+INFO - 2020-12-28 09:21:19 --> Model "M_konfig" initialized
+INFO - 2020-12-28 09:21:19 --> Model "M_reff" initialized
+INFO - 2020-12-28 09:21:19 --> Model "M_total" initialized
+INFO - 2020-12-28 09:21:19 --> Controller Class Initialized
+DEBUG - 2020-12-28 09:21:19 --> Maps_kri MX_Controller Initialized
+DEBUG - 2020-12-28 09:21:19 --> File loaded: D:\xampp72\htdocs\app_grm\application\modules/maps_kri/models/Model.php
+DEBUG - 2020-12-28 15:21:19 --> File loaded: D:\xampp72\htdocs\app_grm\application\views\temp_maps_kri/head.php
+DEBUG - 2020-12-28 15:21:19 --> File loaded: D:\xampp72\htdocs\app_grm\application\views\temp_maps_kri/navbar.php
+DEBUG - 2020-12-28 15:21:19 --> File loaded: D:\xampp72\htdocs\app_grm\application\views\temp_maps_kri/sidebar_left.php
+DEBUG - 2020-12-28 15:21:19 --> File loaded: D:\xampp72\htdocs\app_grm\application\views\temp_maps_kri/sidebar_right.php
+DEBUG - 2020-12-28 15:21:19 --> File loaded: D:\xampp72\htdocs\app_grm\application\modules/maps_kri/views/index.php
+DEBUG - 2020-12-28 15:21:19 --> File loaded: D:\xampp72\htdocs\app_grm\application\views\temp_maps_kri/quick_bar.php
+DEBUG - 2020-12-28 15:21:19 --> File loaded: D:\xampp72\htdocs\app_grm\application\views\temp_maps_kri/toggle.php
+DEBUG - 2020-12-28 15:21:19 --> File loaded: D:\xampp72\htdocs\app_grm\application\views\temp_maps_kri/konten.php
+DEBUG - 2020-12-28 15:21:19 --> File loaded: D:\xampp72\htdocs\app_grm\application\views\temp_maps_kri/foot.php
+DEBUG - 2020-12-28 15:21:19 --> File loaded: D:\xampp72\htdocs\app_grm\application\views\temp_maps_kri/main.php
+INFO - 2020-12-28 15:21:19 --> Final output sent to browser
+INFO - 2020-12-28 09:21:19 --> Config Class Initialized
+INFO - 2020-12-28 09:21:19 --> Hooks Class Initialized
+DEBUG - 2020-12-28 09:21:19 --> UTF-8 Support Enabled
+INFO - 2020-12-28 09:21:19 --> Utf8 Class Initialized
+INFO - 2020-12-28 09:21:19 --> URI Class Initialized
+INFO - 2020-12-28 09:21:19 --> Router Class Initialized
+INFO - 2020-12-28 09:21:20 --> Output Class Initialized
+INFO - 2020-12-28 09:21:20 --> Security Class Initialized
+DEBUG - 2020-12-28 09:21:20 --> Global POST, GET and COOKIE data sanitized
+INFO - 2020-12-28 09:21:20 --> Input Class Initialized
+INFO - 2020-12-28 09:21:20 --> Language Class Initialized
+ERROR - 2020-12-28 09:21:20 --> 404 Page Not Found: /index
+DEBUG - 2020-12-28 15:21:20 --> Total execution time: 1.3184
+INFO - 2020-12-28 09:21:20 --> Config Class Initialized
+INFO - 2020-12-28 09:21:20 --> Hooks Class Initialized
+DEBUG - 2020-12-28 09:21:20 --> UTF-8 Support Enabled
+INFO - 2020-12-28 09:21:20 --> Utf8 Class Initialized
+INFO - 2020-12-28 09:21:20 --> URI Class Initialized
+INFO - 2020-12-28 09:21:20 --> Router Class Initialized
+INFO - 2020-12-28 09:21:20 --> Output Class Initialized
+INFO - 2020-12-28 09:21:20 --> Security Class Initialized
+DEBUG - 2020-12-28 09:21:20 --> Global POST, GET and COOKIE data sanitized
+INFO - 2020-12-28 09:21:20 --> Input Class Initialized
+INFO - 2020-12-28 09:21:20 --> Language Class Initialized
+ERROR - 2020-12-28 09:21:20 --> 404 Page Not Found: /index
+INFO - 2020-12-28 09:21:21 --> Config Class Initialized
+INFO - 2020-12-28 09:21:21 --> Hooks Class Initialized
+DEBUG - 2020-12-28 09:21:21 --> UTF-8 Support Enabled
+INFO - 2020-12-28 09:21:21 --> Utf8 Class Initialized
+INFO - 2020-12-28 09:21:21 --> URI Class Initialized
+INFO - 2020-12-28 09:21:21 --> Router Class Initialized
+INFO - 2020-12-28 09:21:21 --> Output Class Initialized
+INFO - 2020-12-28 09:21:21 --> Security Class Initialized
+DEBUG - 2020-12-28 09:21:21 --> Global POST, GET and COOKIE data sanitized
+INFO - 2020-12-28 09:21:21 --> Input Class Initialized
+INFO - 2020-12-28 09:21:21 --> Language Class Initialized
+INFO - 2020-12-28 09:21:21 --> Language Class Initialized
+INFO - 2020-12-28 09:21:21 --> Config Class Initialized
+INFO - 2020-12-28 09:21:22 --> Loader Class Initialized
+INFO - 2020-12-28 09:21:22 --> Helper loaded: url_helper
+INFO - 2020-12-28 09:21:22 --> Helper loaded: html_helper
+INFO - 2020-12-28 09:21:22 --> Helper loaded: file_helper
+INFO - 2020-12-28 09:21:22 --> Helper loaded: form_helper
+INFO - 2020-12-28 09:21:22 --> Helper loaded: security_helper
+INFO - 2020-12-28 09:21:22 --> Helper loaded: xss_helper
+INFO - 2020-12-28 09:21:22 --> Helper loaded: slug_helper
+INFO - 2020-12-28 09:21:22 --> Database Driver Class Initialized
+DEBUG - 2020-12-28 09:21:22 --> Session: "sess_save_path" is empty; using "session.save_path" value from php.ini.
+INFO - 2020-12-28 09:21:22 --> Session: Class initialized using 'files' driver.
+INFO - 2020-12-28 09:21:22 --> Language file loaded: language/english/pagination_lang.php
+INFO - 2020-12-28 09:21:22 --> Pagination Class Initialized
+INFO - 2020-12-28 09:21:22 --> Email Class Initialized
+INFO - 2020-12-28 09:21:22 --> Model "M_konfig" initialized
+INFO - 2020-12-28 09:21:22 --> Model "M_reff" initialized
+INFO - 2020-12-28 09:21:22 --> Model "M_total" initialized
+INFO - 2020-12-28 09:21:22 --> Controller Class Initialized
+DEBUG - 2020-12-28 09:21:22 --> Maps_kri MX_Controller Initialized
+DEBUG - 2020-12-28 09:21:22 --> File loaded: D:\xampp72\htdocs\app_grm\application\modules/maps_kri/models/Model.php
+INFO - 2020-12-28 15:21:22 --> Final output sent to browser
+DEBUG - 2020-12-28 15:21:22 --> Total execution time: 1.4656
+INFO - 2020-12-28 09:21:37 --> Config Class Initialized
+INFO - 2020-12-28 09:21:37 --> Hooks Class Initialized
+DEBUG - 2020-12-28 09:21:37 --> UTF-8 Support Enabled
+INFO - 2020-12-28 09:21:37 --> Utf8 Class Initialized
+INFO - 2020-12-28 09:21:37 --> URI Class Initialized
+INFO - 2020-12-28 09:21:37 --> Router Class Initialized
+INFO - 2020-12-28 09:21:37 --> Output Class Initialized
+INFO - 2020-12-28 09:21:37 --> Security Class Initialized
+DEBUG - 2020-12-28 09:21:37 --> Global POST, GET and COOKIE data sanitized
+INFO - 2020-12-28 09:21:37 --> Input Class Initialized
+INFO - 2020-12-28 09:21:37 --> Language Class Initialized
+INFO - 2020-12-28 09:21:37 --> Language Class Initialized
+INFO - 2020-12-28 09:21:37 --> Config Class Initialized
+INFO - 2020-12-28 09:21:37 --> Loader Class Initialized
+INFO - 2020-12-28 09:21:37 --> Helper loaded: url_helper
+INFO - 2020-12-28 09:21:37 --> Helper loaded: html_helper
+INFO - 2020-12-28 09:21:37 --> Helper loaded: file_helper
+INFO - 2020-12-28 09:21:37 --> Helper loaded: form_helper
+INFO - 2020-12-28 09:21:37 --> Helper loaded: security_helper
+INFO - 2020-12-28 09:21:37 --> Helper loaded: xss_helper
+INFO - 2020-12-28 09:21:37 --> Helper loaded: slug_helper
+INFO - 2020-12-28 09:21:37 --> Database Driver Class Initialized
+DEBUG - 2020-12-28 09:21:37 --> Session: "sess_save_path" is empty; using "session.save_path" value from php.ini.
+INFO - 2020-12-28 09:21:37 --> Session: Class initialized using 'files' driver.
+INFO - 2020-12-28 09:21:37 --> Language file loaded: language/english/pagination_lang.php
+INFO - 2020-12-28 09:21:37 --> Pagination Class Initialized
+INFO - 2020-12-28 09:21:37 --> Email Class Initialized
+INFO - 2020-12-28 09:21:37 --> Model "M_konfig" initialized
+INFO - 2020-12-28 09:21:38 --> Model "M_reff" initialized
+INFO - 2020-12-28 09:21:38 --> Model "M_total" initialized
+INFO - 2020-12-28 09:21:38 --> Controller Class Initialized
+DEBUG - 2020-12-28 09:21:38 --> Maps_kri MX_Controller Initialized
+DEBUG - 2020-12-28 09:21:38 --> File loaded: D:\xampp72\htdocs\app_grm\application\modules/maps_kri/models/Model.php
+DEBUG - 2020-12-28 15:21:38 --> File loaded: D:\xampp72\htdocs\app_grm\application\views\temp_maps_kri/head.php
+DEBUG - 2020-12-28 15:21:38 --> File loaded: D:\xampp72\htdocs\app_grm\application\views\temp_maps_kri/navbar.php
+DEBUG - 2020-12-28 15:21:38 --> File loaded: D:\xampp72\htdocs\app_grm\application\views\temp_maps_kri/sidebar_left.php
+DEBUG - 2020-12-28 15:21:38 --> File loaded: D:\xampp72\htdocs\app_grm\application\views\temp_maps_kri/sidebar_right.php
+DEBUG - 2020-12-28 15:21:38 --> File loaded: D:\xampp72\htdocs\app_grm\application\modules/maps_kri/views/index.php
+DEBUG - 2020-12-28 15:21:38 --> File loaded: D:\xampp72\htdocs\app_grm\application\views\temp_maps_kri/quick_bar.php
+DEBUG - 2020-12-28 15:21:38 --> File loaded: D:\xampp72\htdocs\app_grm\application\views\temp_maps_kri/toggle.php
+DEBUG - 2020-12-28 15:21:38 --> File loaded: D:\xampp72\htdocs\app_grm\application\views\temp_maps_kri/konten.php
+DEBUG - 2020-12-28 15:21:38 --> File loaded: D:\xampp72\htdocs\app_grm\application\views\temp_maps_kri/foot.php
+DEBUG - 2020-12-28 15:21:38 --> File loaded: D:\xampp72\htdocs\app_grm\application\views\temp_maps_kri/main.php
+INFO - 2020-12-28 15:21:38 --> Final output sent to browser
+INFO - 2020-12-28 09:21:38 --> Config Class Initialized
+INFO - 2020-12-28 09:21:38 --> Hooks Class Initialized
+DEBUG - 2020-12-28 09:21:38 --> UTF-8 Support Enabled
+INFO - 2020-12-28 09:21:38 --> Utf8 Class Initialized
+INFO - 2020-12-28 09:21:38 --> URI Class Initialized
+INFO - 2020-12-28 09:21:38 --> Router Class Initialized
+INFO - 2020-12-28 09:21:38 --> Output Class Initialized
+INFO - 2020-12-28 09:21:38 --> Security Class Initialized
+DEBUG - 2020-12-28 09:21:38 --> Global POST, GET and COOKIE data sanitized
+INFO - 2020-12-28 09:21:38 --> Input Class Initialized
+INFO - 2020-12-28 09:21:38 --> Language Class Initialized
+ERROR - 2020-12-28 09:21:38 --> 404 Page Not Found: /index
+DEBUG - 2020-12-28 15:21:38 --> Total execution time: 1.3012
+INFO - 2020-12-28 09:21:38 --> Config Class Initialized
+INFO - 2020-12-28 09:21:38 --> Hooks Class Initialized
+DEBUG - 2020-12-28 09:21:39 --> UTF-8 Support Enabled
+INFO - 2020-12-28 09:21:39 --> Utf8 Class Initialized
+INFO - 2020-12-28 09:21:39 --> URI Class Initialized
+INFO - 2020-12-28 09:21:39 --> Router Class Initialized
+INFO - 2020-12-28 09:21:39 --> Output Class Initialized
+INFO - 2020-12-28 09:21:39 --> Security Class Initialized
+DEBUG - 2020-12-28 09:21:39 --> Global POST, GET and COOKIE data sanitized
+INFO - 2020-12-28 09:21:39 --> Input Class Initialized
+INFO - 2020-12-28 09:21:39 --> Language Class Initialized
+ERROR - 2020-12-28 09:21:39 --> 404 Page Not Found: /index
+INFO - 2020-12-28 09:21:39 --> Config Class Initialized
+INFO - 2020-12-28 09:21:39 --> Hooks Class Initialized
+DEBUG - 2020-12-28 09:21:39 --> UTF-8 Support Enabled
+INFO - 2020-12-28 09:21:39 --> Utf8 Class Initialized
+INFO - 2020-12-28 09:21:40 --> URI Class Initialized
+INFO - 2020-12-28 09:21:40 --> Router Class Initialized
+INFO - 2020-12-28 09:21:40 --> Output Class Initialized
+INFO - 2020-12-28 09:21:40 --> Security Class Initialized
+DEBUG - 2020-12-28 09:21:40 --> Global POST, GET and COOKIE data sanitized
+INFO - 2020-12-28 09:21:40 --> Input Class Initialized
+INFO - 2020-12-28 09:21:40 --> Language Class Initialized
+INFO - 2020-12-28 09:21:40 --> Language Class Initialized
+INFO - 2020-12-28 09:21:40 --> Config Class Initialized
+INFO - 2020-12-28 09:21:40 --> Loader Class Initialized
+INFO - 2020-12-28 09:21:40 --> Helper loaded: url_helper
+INFO - 2020-12-28 09:21:40 --> Helper loaded: html_helper
+INFO - 2020-12-28 09:21:40 --> Helper loaded: file_helper
+INFO - 2020-12-28 09:21:40 --> Helper loaded: form_helper
+INFO - 2020-12-28 09:21:40 --> Helper loaded: security_helper
+INFO - 2020-12-28 09:21:40 --> Helper loaded: xss_helper
+INFO - 2020-12-28 09:21:40 --> Helper loaded: slug_helper
+INFO - 2020-12-28 09:21:40 --> Database Driver Class Initialized
+DEBUG - 2020-12-28 09:21:41 --> Session: "sess_save_path" is empty; using "session.save_path" value from php.ini.
+INFO - 2020-12-28 09:21:41 --> Session: Class initialized using 'files' driver.
+INFO - 2020-12-28 09:21:41 --> Language file loaded: language/english/pagination_lang.php
+INFO - 2020-12-28 09:21:41 --> Pagination Class Initialized
+INFO - 2020-12-28 09:21:41 --> Email Class Initialized
+INFO - 2020-12-28 09:21:41 --> Model "M_konfig" initialized
+INFO - 2020-12-28 09:21:41 --> Model "M_reff" initialized
+INFO - 2020-12-28 09:21:41 --> Model "M_total" initialized
+INFO - 2020-12-28 09:21:41 --> Controller Class Initialized
+DEBUG - 2020-12-28 09:21:41 --> Maps_kri MX_Controller Initialized
+DEBUG - 2020-12-28 09:21:41 --> File loaded: D:\xampp72\htdocs\app_grm\application\modules/maps_kri/models/Model.php
+INFO - 2020-12-28 15:21:41 --> Final output sent to browser
+DEBUG - 2020-12-28 15:21:41 --> Total execution time: 1.6590
+INFO - 2020-12-28 09:22:05 --> Config Class Initialized
+INFO - 2020-12-28 09:22:05 --> Hooks Class Initialized
+DEBUG - 2020-12-28 09:22:05 --> UTF-8 Support Enabled
+INFO - 2020-12-28 09:22:05 --> Utf8 Class Initialized
+INFO - 2020-12-28 09:22:05 --> URI Class Initialized
+INFO - 2020-12-28 09:22:05 --> Router Class Initialized
+INFO - 2020-12-28 09:22:06 --> Output Class Initialized
+INFO - 2020-12-28 09:22:06 --> Security Class Initialized
+DEBUG - 2020-12-28 09:22:06 --> Global POST, GET and COOKIE data sanitized
+INFO - 2020-12-28 09:22:06 --> Input Class Initialized
+INFO - 2020-12-28 09:22:06 --> Language Class Initialized
+INFO - 2020-12-28 09:22:06 --> Language Class Initialized
+INFO - 2020-12-28 09:22:06 --> Config Class Initialized
+INFO - 2020-12-28 09:22:06 --> Loader Class Initialized
+INFO - 2020-12-28 09:22:06 --> Helper loaded: url_helper
+INFO - 2020-12-28 09:22:06 --> Helper loaded: html_helper
+INFO - 2020-12-28 09:22:06 --> Helper loaded: file_helper
+INFO - 2020-12-28 09:22:06 --> Helper loaded: form_helper
+INFO - 2020-12-28 09:22:06 --> Helper loaded: security_helper
+INFO - 2020-12-28 09:22:06 --> Helper loaded: xss_helper
+INFO - 2020-12-28 09:22:06 --> Helper loaded: slug_helper
+INFO - 2020-12-28 09:22:06 --> Database Driver Class Initialized
+DEBUG - 2020-12-28 09:22:06 --> Session: "sess_save_path" is empty; using "session.save_path" value from php.ini.
+INFO - 2020-12-28 09:22:06 --> Session: Class initialized using 'files' driver.
+INFO - 2020-12-28 09:22:06 --> Language file loaded: language/english/pagination_lang.php
+INFO - 2020-12-28 09:22:06 --> Pagination Class Initialized
+INFO - 2020-12-28 09:22:06 --> Email Class Initialized
+INFO - 2020-12-28 09:22:06 --> Model "M_konfig" initialized
+INFO - 2020-12-28 09:22:06 --> Model "M_reff" initialized
+INFO - 2020-12-28 09:22:06 --> Model "M_total" initialized
+INFO - 2020-12-28 09:22:06 --> Controller Class Initialized
+DEBUG - 2020-12-28 09:22:06 --> Maps_kri MX_Controller Initialized
+DEBUG - 2020-12-28 09:22:06 --> File loaded: D:\xampp72\htdocs\app_grm\application\modules/maps_kri/models/Model.php
+DEBUG - 2020-12-28 15:22:06 --> File loaded: D:\xampp72\htdocs\app_grm\application\views\temp_maps_kri/head.php
+DEBUG - 2020-12-28 15:22:06 --> File loaded: D:\xampp72\htdocs\app_grm\application\views\temp_maps_kri/navbar.php
+DEBUG - 2020-12-28 15:22:06 --> File loaded: D:\xampp72\htdocs\app_grm\application\views\temp_maps_kri/sidebar_left.php
+DEBUG - 2020-12-28 15:22:06 --> File loaded: D:\xampp72\htdocs\app_grm\application\views\temp_maps_kri/sidebar_right.php
+DEBUG - 2020-12-28 15:22:06 --> File loaded: D:\xampp72\htdocs\app_grm\application\modules/maps_kri/views/index.php
+DEBUG - 2020-12-28 15:22:06 --> File loaded: D:\xampp72\htdocs\app_grm\application\views\temp_maps_kri/quick_bar.php
+DEBUG - 2020-12-28 15:22:07 --> File loaded: D:\xampp72\htdocs\app_grm\application\views\temp_maps_kri/toggle.php
+DEBUG - 2020-12-28 15:22:07 --> File loaded: D:\xampp72\htdocs\app_grm\application\views\temp_maps_kri/konten.php
+DEBUG - 2020-12-28 15:22:07 --> File loaded: D:\xampp72\htdocs\app_grm\application\views\temp_maps_kri/foot.php
+DEBUG - 2020-12-28 15:22:07 --> File loaded: D:\xampp72\htdocs\app_grm\application\views\temp_maps_kri/main.php
+INFO - 2020-12-28 15:22:07 --> Final output sent to browser
+DEBUG - 2020-12-28 15:22:07 --> Total execution time: 1.2992
+INFO - 2020-12-28 09:22:07 --> Config Class Initialized
+INFO - 2020-12-28 09:22:07 --> Hooks Class Initialized
+DEBUG - 2020-12-28 09:22:07 --> UTF-8 Support Enabled
+INFO - 2020-12-28 09:22:07 --> Utf8 Class Initialized
+INFO - 2020-12-28 09:22:07 --> URI Class Initialized
+INFO - 2020-12-28 09:22:07 --> Router Class Initialized
+INFO - 2020-12-28 09:22:07 --> Output Class Initialized
+INFO - 2020-12-28 09:22:07 --> Security Class Initialized
+DEBUG - 2020-12-28 09:22:07 --> Global POST, GET and COOKIE data sanitized
+INFO - 2020-12-28 09:22:07 --> Input Class Initialized
+INFO - 2020-12-28 09:22:07 --> Language Class Initialized
+ERROR - 2020-12-28 09:22:07 --> 404 Page Not Found: /index
+INFO - 2020-12-28 09:22:07 --> Config Class Initialized
+INFO - 2020-12-28 09:22:07 --> Hooks Class Initialized
+DEBUG - 2020-12-28 09:22:07 --> UTF-8 Support Enabled
+INFO - 2020-12-28 09:22:07 --> Utf8 Class Initialized
+INFO - 2020-12-28 09:22:07 --> URI Class Initialized
+INFO - 2020-12-28 09:22:07 --> Router Class Initialized
+INFO - 2020-12-28 09:22:07 --> Output Class Initialized
+INFO - 2020-12-28 09:22:07 --> Security Class Initialized
+DEBUG - 2020-12-28 09:22:07 --> Global POST, GET and COOKIE data sanitized
+INFO - 2020-12-28 09:22:07 --> Input Class Initialized
+INFO - 2020-12-28 09:22:07 --> Language Class Initialized
+ERROR - 2020-12-28 09:22:07 --> 404 Page Not Found: /index
+INFO - 2020-12-28 09:22:09 --> Config Class Initialized
+INFO - 2020-12-28 09:22:09 --> Hooks Class Initialized
+DEBUG - 2020-12-28 09:22:09 --> UTF-8 Support Enabled
+INFO - 2020-12-28 09:22:09 --> Utf8 Class Initialized
+INFO - 2020-12-28 09:22:09 --> URI Class Initialized
+INFO - 2020-12-28 09:22:09 --> Router Class Initialized
+INFO - 2020-12-28 09:22:09 --> Output Class Initialized
+INFO - 2020-12-28 09:22:09 --> Security Class Initialized
+DEBUG - 2020-12-28 09:22:09 --> Global POST, GET and COOKIE data sanitized
+INFO - 2020-12-28 09:22:09 --> Input Class Initialized
+INFO - 2020-12-28 09:22:09 --> Language Class Initialized
+INFO - 2020-12-28 09:22:09 --> Language Class Initialized
+INFO - 2020-12-28 09:22:09 --> Config Class Initialized
+INFO - 2020-12-28 09:22:09 --> Loader Class Initialized
+INFO - 2020-12-28 09:22:09 --> Helper loaded: url_helper
+INFO - 2020-12-28 09:22:09 --> Helper loaded: html_helper
+INFO - 2020-12-28 09:22:09 --> Helper loaded: file_helper
+INFO - 2020-12-28 09:22:09 --> Helper loaded: form_helper
+INFO - 2020-12-28 09:22:09 --> Helper loaded: security_helper
+INFO - 2020-12-28 09:22:09 --> Helper loaded: xss_helper
+INFO - 2020-12-28 09:22:10 --> Helper loaded: slug_helper
+INFO - 2020-12-28 09:22:10 --> Database Driver Class Initialized
+DEBUG - 2020-12-28 09:22:10 --> Session: "sess_save_path" is empty; using "session.save_path" value from php.ini.
+INFO - 2020-12-28 09:22:10 --> Session: Class initialized using 'files' driver.
+INFO - 2020-12-28 09:22:10 --> Language file loaded: language/english/pagination_lang.php
+INFO - 2020-12-28 09:22:10 --> Pagination Class Initialized
+INFO - 2020-12-28 09:22:10 --> Email Class Initialized
+INFO - 2020-12-28 09:22:10 --> Model "M_konfig" initialized
+INFO - 2020-12-28 09:22:10 --> Model "M_reff" initialized
+INFO - 2020-12-28 09:22:10 --> Model "M_total" initialized
+INFO - 2020-12-28 09:22:10 --> Controller Class Initialized
+DEBUG - 2020-12-28 09:22:10 --> Maps_kri MX_Controller Initialized
+DEBUG - 2020-12-28 09:22:10 --> File loaded: D:\xampp72\htdocs\app_grm\application\modules/maps_kri/models/Model.php
+INFO - 2020-12-28 15:22:10 --> Final output sent to browser
+DEBUG - 2020-12-28 15:22:10 --> Total execution time: 1.4280
+INFO - 2020-12-28 09:22:23 --> Config Class Initialized
+INFO - 2020-12-28 09:22:23 --> Hooks Class Initialized
+DEBUG - 2020-12-28 09:22:23 --> UTF-8 Support Enabled
+INFO - 2020-12-28 09:22:23 --> Utf8 Class Initialized
+INFO - 2020-12-28 09:22:23 --> URI Class Initialized
+INFO - 2020-12-28 09:22:23 --> Router Class Initialized
+INFO - 2020-12-28 09:22:23 --> Output Class Initialized
+INFO - 2020-12-28 09:22:23 --> Security Class Initialized
+DEBUG - 2020-12-28 09:22:23 --> Global POST, GET and COOKIE data sanitized
+INFO - 2020-12-28 09:22:23 --> Input Class Initialized
+INFO - 2020-12-28 09:22:23 --> Language Class Initialized
+INFO - 2020-12-28 09:22:23 --> Language Class Initialized
+INFO - 2020-12-28 09:22:23 --> Config Class Initialized
+INFO - 2020-12-28 09:22:23 --> Loader Class Initialized
+INFO - 2020-12-28 09:22:23 --> Helper loaded: url_helper
+INFO - 2020-12-28 09:22:23 --> Helper loaded: html_helper
+INFO - 2020-12-28 09:22:23 --> Helper loaded: file_helper
+INFO - 2020-12-28 09:22:23 --> Helper loaded: form_helper
+INFO - 2020-12-28 09:22:23 --> Helper loaded: security_helper
+INFO - 2020-12-28 09:22:23 --> Helper loaded: xss_helper
+INFO - 2020-12-28 09:22:23 --> Helper loaded: slug_helper
+INFO - 2020-12-28 09:22:24 --> Database Driver Class Initialized
+DEBUG - 2020-12-28 09:22:24 --> Session: "sess_save_path" is empty; using "session.save_path" value from php.ini.
+INFO - 2020-12-28 09:22:24 --> Session: Class initialized using 'files' driver.
+INFO - 2020-12-28 09:22:24 --> Language file loaded: language/english/pagination_lang.php
+INFO - 2020-12-28 09:22:24 --> Pagination Class Initialized
+INFO - 2020-12-28 09:22:24 --> Email Class Initialized
+INFO - 2020-12-28 09:22:24 --> Model "M_konfig" initialized
+INFO - 2020-12-28 09:22:24 --> Model "M_reff" initialized
+INFO - 2020-12-28 09:22:24 --> Model "M_total" initialized
+INFO - 2020-12-28 09:22:24 --> Controller Class Initialized
+DEBUG - 2020-12-28 09:22:24 --> Maps_kri MX_Controller Initialized
+DEBUG - 2020-12-28 09:22:24 --> File loaded: D:\xampp72\htdocs\app_grm\application\modules/maps_kri/models/Model.php
+DEBUG - 2020-12-28 15:22:24 --> File loaded: D:\xampp72\htdocs\app_grm\application\views\temp_maps_kri/head.php
+DEBUG - 2020-12-28 15:22:24 --> File loaded: D:\xampp72\htdocs\app_grm\application\views\temp_maps_kri/navbar.php
+DEBUG - 2020-12-28 15:22:24 --> File loaded: D:\xampp72\htdocs\app_grm\application\views\temp_maps_kri/sidebar_left.php
+DEBUG - 2020-12-28 15:22:24 --> File loaded: D:\xampp72\htdocs\app_grm\application\views\temp_maps_kri/sidebar_right.php
+DEBUG - 2020-12-28 15:22:24 --> File loaded: D:\xampp72\htdocs\app_grm\application\modules/maps_kri/views/index.php
+DEBUG - 2020-12-28 15:22:24 --> File loaded: D:\xampp72\htdocs\app_grm\application\views\temp_maps_kri/quick_bar.php
+DEBUG - 2020-12-28 15:22:24 --> File loaded: D:\xampp72\htdocs\app_grm\application\views\temp_maps_kri/toggle.php
+DEBUG - 2020-12-28 15:22:24 --> File loaded: D:\xampp72\htdocs\app_grm\application\views\temp_maps_kri/konten.php
+DEBUG - 2020-12-28 15:22:24 --> File loaded: D:\xampp72\htdocs\app_grm\application\views\temp_maps_kri/foot.php
+DEBUG - 2020-12-28 15:22:24 --> File loaded: D:\xampp72\htdocs\app_grm\application\views\temp_maps_kri/main.php
+INFO - 2020-12-28 15:22:24 --> Final output sent to browser
+INFO - 2020-12-28 09:22:24 --> Config Class Initialized
+INFO - 2020-12-28 09:22:24 --> Hooks Class Initialized
+DEBUG - 2020-12-28 09:22:24 --> UTF-8 Support Enabled
+INFO - 2020-12-28 09:22:24 --> Utf8 Class Initialized
+INFO - 2020-12-28 09:22:24 --> URI Class Initialized
+INFO - 2020-12-28 09:22:24 --> Router Class Initialized
+INFO - 2020-12-28 09:22:24 --> Output Class Initialized
+INFO - 2020-12-28 09:22:24 --> Security Class Initialized
+DEBUG - 2020-12-28 09:22:24 --> Global POST, GET and COOKIE data sanitized
+INFO - 2020-12-28 09:22:24 --> Input Class Initialized
+INFO - 2020-12-28 09:22:24 --> Language Class Initialized
+ERROR - 2020-12-28 09:22:24 --> 404 Page Not Found: /index
+DEBUG - 2020-12-28 15:22:24 --> Total execution time: 1.3200
+INFO - 2020-12-28 09:22:25 --> Config Class Initialized
+INFO - 2020-12-28 09:22:25 --> Hooks Class Initialized
+DEBUG - 2020-12-28 09:22:25 --> UTF-8 Support Enabled
+INFO - 2020-12-28 09:22:25 --> Utf8 Class Initialized
+INFO - 2020-12-28 09:22:25 --> URI Class Initialized
+INFO - 2020-12-28 09:22:25 --> Router Class Initialized
+INFO - 2020-12-28 09:22:25 --> Output Class Initialized
+INFO - 2020-12-28 09:22:25 --> Security Class Initialized
+DEBUG - 2020-12-28 09:22:25 --> Global POST, GET and COOKIE data sanitized
+INFO - 2020-12-28 09:22:25 --> Input Class Initialized
+INFO - 2020-12-28 09:22:25 --> Language Class Initialized
+ERROR - 2020-12-28 09:22:25 --> 404 Page Not Found: /index
+INFO - 2020-12-28 09:22:25 --> Config Class Initialized
+INFO - 2020-12-28 09:22:26 --> Hooks Class Initialized
+DEBUG - 2020-12-28 09:22:26 --> UTF-8 Support Enabled
+INFO - 2020-12-28 09:22:26 --> Utf8 Class Initialized
+INFO - 2020-12-28 09:22:26 --> URI Class Initialized
+INFO - 2020-12-28 09:22:26 --> Router Class Initialized
+INFO - 2020-12-28 09:22:26 --> Output Class Initialized
+INFO - 2020-12-28 09:22:26 --> Security Class Initialized
+DEBUG - 2020-12-28 09:22:26 --> Global POST, GET and COOKIE data sanitized
+INFO - 2020-12-28 09:22:26 --> Input Class Initialized
+INFO - 2020-12-28 09:22:26 --> Language Class Initialized
+INFO - 2020-12-28 09:22:26 --> Language Class Initialized
+INFO - 2020-12-28 09:22:26 --> Config Class Initialized
+INFO - 2020-12-28 09:22:26 --> Loader Class Initialized
+INFO - 2020-12-28 09:22:26 --> Helper loaded: url_helper
+INFO - 2020-12-28 09:22:26 --> Helper loaded: html_helper
+INFO - 2020-12-28 09:22:26 --> Helper loaded: file_helper
+INFO - 2020-12-28 09:22:26 --> Helper loaded: form_helper
+INFO - 2020-12-28 09:22:26 --> Helper loaded: security_helper
+INFO - 2020-12-28 09:22:27 --> Helper loaded: xss_helper
+INFO - 2020-12-28 09:22:27 --> Helper loaded: slug_helper
+INFO - 2020-12-28 09:22:27 --> Database Driver Class Initialized
+DEBUG - 2020-12-28 09:22:27 --> Session: "sess_save_path" is empty; using "session.save_path" value from php.ini.
+INFO - 2020-12-28 09:22:27 --> Session: Class initialized using 'files' driver.
+INFO - 2020-12-28 09:22:27 --> Language file loaded: language/english/pagination_lang.php
+INFO - 2020-12-28 09:22:27 --> Pagination Class Initialized
+INFO - 2020-12-28 09:22:27 --> Email Class Initialized
+INFO - 2020-12-28 09:22:27 --> Model "M_konfig" initialized
+INFO - 2020-12-28 09:22:27 --> Model "M_reff" initialized
+INFO - 2020-12-28 09:22:27 --> Model "M_total" initialized
+INFO - 2020-12-28 09:22:27 --> Controller Class Initialized
+DEBUG - 2020-12-28 09:22:27 --> Maps_kri MX_Controller Initialized
+DEBUG - 2020-12-28 09:22:27 --> File loaded: D:\xampp72\htdocs\app_grm\application\modules/maps_kri/models/Model.php
+INFO - 2020-12-28 15:22:27 --> Final output sent to browser
+DEBUG - 2020-12-28 15:22:27 --> Total execution time: 1.5580
+INFO - 2020-12-28 09:22:34 --> Config Class Initialized
+INFO - 2020-12-28 09:22:34 --> Hooks Class Initialized
+DEBUG - 2020-12-28 09:22:34 --> UTF-8 Support Enabled
+INFO - 2020-12-28 09:22:34 --> Utf8 Class Initialized
+INFO - 2020-12-28 09:22:34 --> URI Class Initialized
+INFO - 2020-12-28 09:22:35 --> Router Class Initialized
+INFO - 2020-12-28 09:22:35 --> Output Class Initialized
+INFO - 2020-12-28 09:22:35 --> Security Class Initialized
+DEBUG - 2020-12-28 09:22:35 --> Global POST, GET and COOKIE data sanitized
+INFO - 2020-12-28 09:22:35 --> Input Class Initialized
+INFO - 2020-12-28 09:22:35 --> Language Class Initialized
+INFO - 2020-12-28 09:22:35 --> Language Class Initialized
+INFO - 2020-12-28 09:22:35 --> Config Class Initialized
+INFO - 2020-12-28 09:22:35 --> Loader Class Initialized
+INFO - 2020-12-28 09:22:35 --> Helper loaded: url_helper
+INFO - 2020-12-28 09:22:35 --> Helper loaded: html_helper
+INFO - 2020-12-28 09:22:35 --> Helper loaded: file_helper
+INFO - 2020-12-28 09:22:35 --> Helper loaded: form_helper
+INFO - 2020-12-28 09:22:35 --> Helper loaded: security_helper
+INFO - 2020-12-28 09:22:35 --> Helper loaded: xss_helper
+INFO - 2020-12-28 09:22:35 --> Helper loaded: slug_helper
+INFO - 2020-12-28 09:22:35 --> Database Driver Class Initialized
+DEBUG - 2020-12-28 09:22:35 --> Session: "sess_save_path" is empty; using "session.save_path" value from php.ini.
+INFO - 2020-12-28 09:22:35 --> Session: Class initialized using 'files' driver.
+INFO - 2020-12-28 09:22:35 --> Language file loaded: language/english/pagination_lang.php
+INFO - 2020-12-28 09:22:35 --> Pagination Class Initialized
+INFO - 2020-12-28 09:22:35 --> Email Class Initialized
+INFO - 2020-12-28 09:22:35 --> Model "M_konfig" initialized
+INFO - 2020-12-28 09:22:35 --> Model "M_reff" initialized
+INFO - 2020-12-28 09:22:35 --> Model "M_total" initialized
+INFO - 2020-12-28 09:22:35 --> Controller Class Initialized
+DEBUG - 2020-12-28 09:22:35 --> Maps_kri MX_Controller Initialized
+DEBUG - 2020-12-28 09:22:35 --> File loaded: D:\xampp72\htdocs\app_grm\application\modules/maps_kri/models/Model.php
+DEBUG - 2020-12-28 15:22:35 --> File loaded: D:\xampp72\htdocs\app_grm\application\views\temp_maps_kri/head.php
+DEBUG - 2020-12-28 15:22:35 --> File loaded: D:\xampp72\htdocs\app_grm\application\views\temp_maps_kri/navbar.php
+DEBUG - 2020-12-28 15:22:35 --> File loaded: D:\xampp72\htdocs\app_grm\application\views\temp_maps_kri/sidebar_left.php
+DEBUG - 2020-12-28 15:22:35 --> File loaded: D:\xampp72\htdocs\app_grm\application\views\temp_maps_kri/sidebar_right.php
+DEBUG - 2020-12-28 15:22:36 --> File loaded: D:\xampp72\htdocs\app_grm\application\modules/maps_kri/views/index.php
+DEBUG - 2020-12-28 15:22:36 --> File loaded: D:\xampp72\htdocs\app_grm\application\views\temp_maps_kri/quick_bar.php
+DEBUG - 2020-12-28 15:22:36 --> File loaded: D:\xampp72\htdocs\app_grm\application\views\temp_maps_kri/toggle.php
+DEBUG - 2020-12-28 15:22:36 --> File loaded: D:\xampp72\htdocs\app_grm\application\views\temp_maps_kri/konten.php
+DEBUG - 2020-12-28 15:22:36 --> File loaded: D:\xampp72\htdocs\app_grm\application\views\temp_maps_kri/foot.php
+DEBUG - 2020-12-28 15:22:36 --> File loaded: D:\xampp72\htdocs\app_grm\application\views\temp_maps_kri/main.php
+INFO - 2020-12-28 15:22:36 --> Final output sent to browser
+INFO - 2020-12-28 09:22:36 --> Config Class Initialized
+INFO - 2020-12-28 09:22:36 --> Hooks Class Initialized
+DEBUG - 2020-12-28 09:22:36 --> UTF-8 Support Enabled
+INFO - 2020-12-28 09:22:36 --> Utf8 Class Initialized
+INFO - 2020-12-28 09:22:36 --> URI Class Initialized
+INFO - 2020-12-28 09:22:36 --> Router Class Initialized
+INFO - 2020-12-28 09:22:36 --> Output Class Initialized
+INFO - 2020-12-28 09:22:36 --> Security Class Initialized
+DEBUG - 2020-12-28 09:22:36 --> Global POST, GET and COOKIE data sanitized
+INFO - 2020-12-28 09:22:36 --> Input Class Initialized
+INFO - 2020-12-28 09:22:36 --> Language Class Initialized
+ERROR - 2020-12-28 09:22:36 --> 404 Page Not Found: /index
+DEBUG - 2020-12-28 15:22:36 --> Total execution time: 1.3157
+INFO - 2020-12-28 09:22:36 --> Config Class Initialized
+INFO - 2020-12-28 09:22:36 --> Hooks Class Initialized
+DEBUG - 2020-12-28 09:22:36 --> UTF-8 Support Enabled
+INFO - 2020-12-28 09:22:36 --> Utf8 Class Initialized
+INFO - 2020-12-28 09:22:36 --> URI Class Initialized
+INFO - 2020-12-28 09:22:36 --> Router Class Initialized
+INFO - 2020-12-28 09:22:36 --> Output Class Initialized
+INFO - 2020-12-28 09:22:36 --> Security Class Initialized
+DEBUG - 2020-12-28 09:22:37 --> Global POST, GET and COOKIE data sanitized
+INFO - 2020-12-28 09:22:37 --> Input Class Initialized
+INFO - 2020-12-28 09:22:37 --> Language Class Initialized
+ERROR - 2020-12-28 09:22:37 --> 404 Page Not Found: /index
+INFO - 2020-12-28 09:22:37 --> Config Class Initialized
+INFO - 2020-12-28 09:22:37 --> Hooks Class Initialized
+DEBUG - 2020-12-28 09:22:37 --> UTF-8 Support Enabled
+INFO - 2020-12-28 09:22:37 --> Utf8 Class Initialized
+INFO - 2020-12-28 09:22:37 --> URI Class Initialized
+INFO - 2020-12-28 09:22:37 --> Router Class Initialized
+INFO - 2020-12-28 09:22:37 --> Output Class Initialized
+INFO - 2020-12-28 09:22:38 --> Security Class Initialized
+DEBUG - 2020-12-28 09:22:38 --> Global POST, GET and COOKIE data sanitized
+INFO - 2020-12-28 09:22:38 --> Input Class Initialized
+INFO - 2020-12-28 09:22:38 --> Language Class Initialized
+INFO - 2020-12-28 09:22:38 --> Language Class Initialized
+INFO - 2020-12-28 09:22:38 --> Config Class Initialized
+INFO - 2020-12-28 09:22:38 --> Loader Class Initialized
+INFO - 2020-12-28 09:22:38 --> Helper loaded: url_helper
+INFO - 2020-12-28 09:22:38 --> Helper loaded: html_helper
+INFO - 2020-12-28 09:22:38 --> Helper loaded: file_helper
+INFO - 2020-12-28 09:22:38 --> Helper loaded: form_helper
+INFO - 2020-12-28 09:22:38 --> Helper loaded: security_helper
+INFO - 2020-12-28 09:22:38 --> Helper loaded: xss_helper
+INFO - 2020-12-28 09:22:38 --> Helper loaded: slug_helper
+INFO - 2020-12-28 09:22:38 --> Database Driver Class Initialized
+DEBUG - 2020-12-28 09:22:38 --> Session: "sess_save_path" is empty; using "session.save_path" value from php.ini.
+INFO - 2020-12-28 09:22:38 --> Session: Class initialized using 'files' driver.
+INFO - 2020-12-28 09:22:38 --> Language file loaded: language/english/pagination_lang.php
+INFO - 2020-12-28 09:22:38 --> Pagination Class Initialized
+INFO - 2020-12-28 09:22:38 --> Email Class Initialized
+INFO - 2020-12-28 09:22:39 --> Model "M_konfig" initialized
+INFO - 2020-12-28 09:22:39 --> Model "M_reff" initialized
+INFO - 2020-12-28 09:22:39 --> Model "M_total" initialized
+INFO - 2020-12-28 09:22:39 --> Controller Class Initialized
+DEBUG - 2020-12-28 09:22:39 --> Maps_kri MX_Controller Initialized
+DEBUG - 2020-12-28 09:22:39 --> File loaded: D:\xampp72\htdocs\app_grm\application\modules/maps_kri/models/Model.php
+INFO - 2020-12-28 15:22:39 --> Final output sent to browser
+DEBUG - 2020-12-28 15:22:39 --> Total execution time: 1.5902
+INFO - 2020-12-28 09:23:10 --> Config Class Initialized
+INFO - 2020-12-28 09:23:10 --> Hooks Class Initialized
+DEBUG - 2020-12-28 09:23:10 --> UTF-8 Support Enabled
+INFO - 2020-12-28 09:23:10 --> Utf8 Class Initialized
+INFO - 2020-12-28 09:23:10 --> URI Class Initialized
+INFO - 2020-12-28 09:23:10 --> Router Class Initialized
+INFO - 2020-12-28 09:23:10 --> Output Class Initialized
+INFO - 2020-12-28 09:23:10 --> Security Class Initialized
+DEBUG - 2020-12-28 09:23:10 --> Global POST, GET and COOKIE data sanitized
+INFO - 2020-12-28 09:23:10 --> Input Class Initialized
+INFO - 2020-12-28 09:23:10 --> Language Class Initialized
+INFO - 2020-12-28 09:23:10 --> Language Class Initialized
+INFO - 2020-12-28 09:23:10 --> Config Class Initialized
+INFO - 2020-12-28 09:23:10 --> Loader Class Initialized
+INFO - 2020-12-28 09:23:10 --> Helper loaded: url_helper
+INFO - 2020-12-28 09:23:10 --> Helper loaded: html_helper
+INFO - 2020-12-28 09:23:10 --> Helper loaded: file_helper
+INFO - 2020-12-28 09:23:10 --> Helper loaded: form_helper
+INFO - 2020-12-28 09:23:10 --> Helper loaded: security_helper
+INFO - 2020-12-28 09:23:10 --> Helper loaded: xss_helper
+INFO - 2020-12-28 09:23:10 --> Helper loaded: slug_helper
+INFO - 2020-12-28 09:23:10 --> Database Driver Class Initialized
+DEBUG - 2020-12-28 09:23:10 --> Session: "sess_save_path" is empty; using "session.save_path" value from php.ini.
+INFO - 2020-12-28 09:23:11 --> Session: Class initialized using 'files' driver.
+INFO - 2020-12-28 09:23:11 --> Language file loaded: language/english/pagination_lang.php
+INFO - 2020-12-28 09:23:11 --> Pagination Class Initialized
+INFO - 2020-12-28 09:23:11 --> Email Class Initialized
+INFO - 2020-12-28 09:23:11 --> Model "M_konfig" initialized
+INFO - 2020-12-28 09:23:11 --> Model "M_reff" initialized
+INFO - 2020-12-28 09:23:11 --> Model "M_total" initialized
+INFO - 2020-12-28 09:23:11 --> Controller Class Initialized
+DEBUG - 2020-12-28 09:23:11 --> Maps_kri MX_Controller Initialized
+DEBUG - 2020-12-28 09:23:11 --> File loaded: D:\xampp72\htdocs\app_grm\application\modules/maps_kri/models/Model.php
+DEBUG - 2020-12-28 15:23:11 --> File loaded: D:\xampp72\htdocs\app_grm\application\views\temp_maps_kri/head.php
+DEBUG - 2020-12-28 15:23:11 --> File loaded: D:\xampp72\htdocs\app_grm\application\views\temp_maps_kri/navbar.php
+DEBUG - 2020-12-28 15:23:11 --> File loaded: D:\xampp72\htdocs\app_grm\application\views\temp_maps_kri/sidebar_left.php
+DEBUG - 2020-12-28 15:23:11 --> File loaded: D:\xampp72\htdocs\app_grm\application\views\temp_maps_kri/sidebar_right.php
+DEBUG - 2020-12-28 15:23:11 --> File loaded: D:\xampp72\htdocs\app_grm\application\modules/maps_kri/views/index.php
+DEBUG - 2020-12-28 15:23:11 --> File loaded: D:\xampp72\htdocs\app_grm\application\views\temp_maps_kri/quick_bar.php
+DEBUG - 2020-12-28 15:23:11 --> File loaded: D:\xampp72\htdocs\app_grm\application\views\temp_maps_kri/toggle.php
+DEBUG - 2020-12-28 15:23:11 --> File loaded: D:\xampp72\htdocs\app_grm\application\views\temp_maps_kri/konten.php
+DEBUG - 2020-12-28 15:23:11 --> File loaded: D:\xampp72\htdocs\app_grm\application\views\temp_maps_kri/foot.php
+DEBUG - 2020-12-28 15:23:11 --> File loaded: D:\xampp72\htdocs\app_grm\application\views\temp_maps_kri/main.php
+INFO - 2020-12-28 15:23:11 --> Final output sent to browser
+INFO - 2020-12-28 09:23:11 --> Config Class Initialized
+INFO - 2020-12-28 09:23:11 --> Hooks Class Initialized
+DEBUG - 2020-12-28 09:23:11 --> UTF-8 Support Enabled
+INFO - 2020-12-28 09:23:11 --> Utf8 Class Initialized
+INFO - 2020-12-28 09:23:11 --> URI Class Initialized
+INFO - 2020-12-28 09:23:11 --> Router Class Initialized
+INFO - 2020-12-28 09:23:11 --> Output Class Initialized
+INFO - 2020-12-28 09:23:11 --> Security Class Initialized
+DEBUG - 2020-12-28 09:23:11 --> Global POST, GET and COOKIE data sanitized
+INFO - 2020-12-28 09:23:11 --> Input Class Initialized
+INFO - 2020-12-28 09:23:11 --> Language Class Initialized
+ERROR - 2020-12-28 09:23:11 --> 404 Page Not Found: /index
+DEBUG - 2020-12-28 15:23:11 --> Total execution time: 1.3377
+INFO - 2020-12-28 09:23:12 --> Config Class Initialized
+INFO - 2020-12-28 09:23:12 --> Hooks Class Initialized
+DEBUG - 2020-12-28 09:23:12 --> UTF-8 Support Enabled
+INFO - 2020-12-28 09:23:12 --> Utf8 Class Initialized
+INFO - 2020-12-28 09:23:12 --> URI Class Initialized
+INFO - 2020-12-28 09:23:12 --> Router Class Initialized
+INFO - 2020-12-28 09:23:12 --> Output Class Initialized
+INFO - 2020-12-28 09:23:12 --> Security Class Initialized
+DEBUG - 2020-12-28 09:23:12 --> Global POST, GET and COOKIE data sanitized
+INFO - 2020-12-28 09:23:12 --> Input Class Initialized
+INFO - 2020-12-28 09:23:12 --> Language Class Initialized
+ERROR - 2020-12-28 09:23:12 --> 404 Page Not Found: /index
+INFO - 2020-12-28 09:23:14 --> Config Class Initialized
+INFO - 2020-12-28 09:23:14 --> Hooks Class Initialized
+DEBUG - 2020-12-28 09:23:14 --> UTF-8 Support Enabled
+INFO - 2020-12-28 09:23:14 --> Utf8 Class Initialized
+INFO - 2020-12-28 09:23:14 --> URI Class Initialized
+INFO - 2020-12-28 09:23:14 --> Router Class Initialized
+INFO - 2020-12-28 09:23:14 --> Output Class Initialized
+INFO - 2020-12-28 09:23:14 --> Security Class Initialized
+DEBUG - 2020-12-28 09:23:14 --> Global POST, GET and COOKIE data sanitized
+INFO - 2020-12-28 09:23:14 --> Input Class Initialized
+INFO - 2020-12-28 09:23:14 --> Language Class Initialized
+INFO - 2020-12-28 09:23:14 --> Language Class Initialized
+INFO - 2020-12-28 09:23:14 --> Config Class Initialized
+INFO - 2020-12-28 09:23:14 --> Loader Class Initialized
+INFO - 2020-12-28 09:23:14 --> Helper loaded: url_helper
+INFO - 2020-12-28 09:23:14 --> Helper loaded: html_helper
+INFO - 2020-12-28 09:23:14 --> Helper loaded: file_helper
+INFO - 2020-12-28 09:23:14 --> Helper loaded: form_helper
+INFO - 2020-12-28 09:23:14 --> Helper loaded: security_helper
+INFO - 2020-12-28 09:23:14 --> Helper loaded: xss_helper
+INFO - 2020-12-28 09:23:15 --> Helper loaded: slug_helper
+INFO - 2020-12-28 09:23:15 --> Database Driver Class Initialized
+DEBUG - 2020-12-28 09:23:15 --> Session: "sess_save_path" is empty; using "session.save_path" value from php.ini.
+INFO - 2020-12-28 09:23:15 --> Session: Class initialized using 'files' driver.
+INFO - 2020-12-28 09:23:15 --> Language file loaded: language/english/pagination_lang.php
+INFO - 2020-12-28 09:23:15 --> Pagination Class Initialized
+INFO - 2020-12-28 09:23:15 --> Email Class Initialized
+INFO - 2020-12-28 09:23:15 --> Model "M_konfig" initialized
+INFO - 2020-12-28 09:23:15 --> Model "M_reff" initialized
+INFO - 2020-12-28 09:23:15 --> Model "M_total" initialized
+INFO - 2020-12-28 09:23:15 --> Controller Class Initialized
+DEBUG - 2020-12-28 09:23:15 --> Maps_kri MX_Controller Initialized
+DEBUG - 2020-12-28 09:23:15 --> File loaded: D:\xampp72\htdocs\app_grm\application\modules/maps_kri/models/Model.php
+INFO - 2020-12-28 15:23:15 --> Final output sent to browser
+DEBUG - 2020-12-28 15:23:15 --> Total execution time: 1.6081
+INFO - 2020-12-28 09:34:44 --> Config Class Initialized
+INFO - 2020-12-28 09:34:44 --> Hooks Class Initialized
+DEBUG - 2020-12-28 09:34:44 --> UTF-8 Support Enabled
+INFO - 2020-12-28 09:34:44 --> Utf8 Class Initialized
+INFO - 2020-12-28 09:34:44 --> URI Class Initialized
+INFO - 2020-12-28 09:34:44 --> Router Class Initialized
+INFO - 2020-12-28 09:34:44 --> Output Class Initialized
+INFO - 2020-12-28 09:34:44 --> Security Class Initialized
+DEBUG - 2020-12-28 09:34:44 --> Global POST, GET and COOKIE data sanitized
+INFO - 2020-12-28 09:34:44 --> Input Class Initialized
+INFO - 2020-12-28 09:34:44 --> Language Class Initialized
+INFO - 2020-12-28 09:34:44 --> Language Class Initialized
+INFO - 2020-12-28 09:34:44 --> Config Class Initialized
+INFO - 2020-12-28 09:34:44 --> Loader Class Initialized
+INFO - 2020-12-28 09:34:44 --> Helper loaded: url_helper
+INFO - 2020-12-28 09:34:44 --> Helper loaded: html_helper
+INFO - 2020-12-28 09:34:44 --> Helper loaded: file_helper
+INFO - 2020-12-28 09:34:44 --> Helper loaded: form_helper
+INFO - 2020-12-28 09:34:44 --> Helper loaded: security_helper
+INFO - 2020-12-28 09:34:44 --> Helper loaded: xss_helper
+INFO - 2020-12-28 09:34:44 --> Helper loaded: slug_helper
+INFO - 2020-12-28 09:34:44 --> Database Driver Class Initialized
+DEBUG - 2020-12-28 09:34:44 --> Session: "sess_save_path" is empty; using "session.save_path" value from php.ini.
+INFO - 2020-12-28 09:34:44 --> Session: Class initialized using 'files' driver.
+INFO - 2020-12-28 09:34:44 --> Language file loaded: language/english/pagination_lang.php
+INFO - 2020-12-28 09:34:44 --> Pagination Class Initialized
+INFO - 2020-12-28 09:34:44 --> Email Class Initialized
+INFO - 2020-12-28 09:34:44 --> Model "M_konfig" initialized
+INFO - 2020-12-28 09:34:45 --> Model "M_reff" initialized
+INFO - 2020-12-28 09:34:45 --> Model "M_total" initialized
+INFO - 2020-12-28 09:34:45 --> Controller Class Initialized
+DEBUG - 2020-12-28 09:34:45 --> Maps_kri MX_Controller Initialized
+DEBUG - 2020-12-28 09:34:45 --> File loaded: D:\xampp72\htdocs\app_grm\application\modules/maps_kri/models/Model.php
+DEBUG - 2020-12-28 15:34:45 --> File loaded: D:\xampp72\htdocs\app_grm\application\views\temp_maps_kri/head.php
+DEBUG - 2020-12-28 15:34:45 --> File loaded: D:\xampp72\htdocs\app_grm\application\views\temp_maps_kri/navbar.php
+DEBUG - 2020-12-28 15:34:45 --> File loaded: D:\xampp72\htdocs\app_grm\application\views\temp_maps_kri/sidebar_left.php
+DEBUG - 2020-12-28 15:34:45 --> File loaded: D:\xampp72\htdocs\app_grm\application\views\temp_maps_kri/sidebar_right.php
+DEBUG - 2020-12-28 15:34:45 --> File loaded: D:\xampp72\htdocs\app_grm\application\modules/maps_kri/views/index.php
+DEBUG - 2020-12-28 15:34:45 --> File loaded: D:\xampp72\htdocs\app_grm\application\views\temp_maps_kri/quick_bar.php
+DEBUG - 2020-12-28 15:34:45 --> File loaded: D:\xampp72\htdocs\app_grm\application\views\temp_maps_kri/toggle.php
+DEBUG - 2020-12-28 15:34:45 --> File loaded: D:\xampp72\htdocs\app_grm\application\views\temp_maps_kri/konten.php
+DEBUG - 2020-12-28 15:34:45 --> File loaded: D:\xampp72\htdocs\app_grm\application\views\temp_maps_kri/foot.php
+DEBUG - 2020-12-28 15:34:45 --> File loaded: D:\xampp72\htdocs\app_grm\application\views\temp_maps_kri/main.php
+INFO - 2020-12-28 15:34:45 --> Final output sent to browser
+DEBUG - 2020-12-28 15:34:45 --> Total execution time: 1.4709
+INFO - 2020-12-28 09:34:45 --> Config Class Initialized
+INFO - 2020-12-28 09:34:45 --> Hooks Class Initialized
+DEBUG - 2020-12-28 09:34:45 --> UTF-8 Support Enabled
+INFO - 2020-12-28 09:34:45 --> Utf8 Class Initialized
+INFO - 2020-12-28 09:34:45 --> URI Class Initialized
+INFO - 2020-12-28 09:34:45 --> Router Class Initialized
+INFO - 2020-12-28 09:34:45 --> Output Class Initialized
+INFO - 2020-12-28 09:34:45 --> Security Class Initialized
+DEBUG - 2020-12-28 09:34:45 --> Global POST, GET and COOKIE data sanitized
+INFO - 2020-12-28 09:34:45 --> Input Class Initialized
+INFO - 2020-12-28 09:34:45 --> Language Class Initialized
+ERROR - 2020-12-28 09:34:45 --> 404 Page Not Found: /index
+INFO - 2020-12-28 09:34:45 --> Config Class Initialized
+INFO - 2020-12-28 09:34:46 --> Hooks Class Initialized
+DEBUG - 2020-12-28 09:34:46 --> UTF-8 Support Enabled
+INFO - 2020-12-28 09:34:46 --> Utf8 Class Initialized
+INFO - 2020-12-28 09:34:46 --> URI Class Initialized
+INFO - 2020-12-28 09:34:46 --> Router Class Initialized
+INFO - 2020-12-28 09:34:46 --> Output Class Initialized
+INFO - 2020-12-28 09:34:46 --> Security Class Initialized
+DEBUG - 2020-12-28 09:34:46 --> Global POST, GET and COOKIE data sanitized
+INFO - 2020-12-28 09:34:46 --> Input Class Initialized
+INFO - 2020-12-28 09:34:46 --> Language Class Initialized
+ERROR - 2020-12-28 09:34:46 --> 404 Page Not Found: /index
+INFO - 2020-12-28 09:34:46 --> Config Class Initialized
+INFO - 2020-12-28 09:34:46 --> Hooks Class Initialized
+DEBUG - 2020-12-28 09:34:46 --> UTF-8 Support Enabled
+INFO - 2020-12-28 09:34:46 --> Utf8 Class Initialized
+INFO - 2020-12-28 09:34:46 --> URI Class Initialized
+INFO - 2020-12-28 09:34:46 --> Router Class Initialized
+INFO - 2020-12-28 09:34:46 --> Output Class Initialized
+INFO - 2020-12-28 09:34:46 --> Security Class Initialized
+DEBUG - 2020-12-28 09:34:46 --> Global POST, GET and COOKIE data sanitized
+INFO - 2020-12-28 09:34:47 --> Input Class Initialized
+INFO - 2020-12-28 09:34:47 --> Language Class Initialized
+INFO - 2020-12-28 09:34:47 --> Language Class Initialized
+INFO - 2020-12-28 09:34:47 --> Config Class Initialized
+INFO - 2020-12-28 09:34:47 --> Loader Class Initialized
+INFO - 2020-12-28 09:34:47 --> Helper loaded: url_helper
+INFO - 2020-12-28 09:34:47 --> Helper loaded: html_helper
+INFO - 2020-12-28 09:34:47 --> Helper loaded: file_helper
+INFO - 2020-12-28 09:34:47 --> Helper loaded: form_helper
+INFO - 2020-12-28 09:34:47 --> Helper loaded: security_helper
+INFO - 2020-12-28 09:34:47 --> Helper loaded: xss_helper
+INFO - 2020-12-28 09:34:47 --> Helper loaded: slug_helper
+INFO - 2020-12-28 09:34:47 --> Database Driver Class Initialized
+DEBUG - 2020-12-28 09:34:47 --> Session: "sess_save_path" is empty; using "session.save_path" value from php.ini.
+INFO - 2020-12-28 09:34:47 --> Session: Class initialized using 'files' driver.
+INFO - 2020-12-28 09:34:47 --> Language file loaded: language/english/pagination_lang.php
+INFO - 2020-12-28 09:34:47 --> Pagination Class Initialized
+INFO - 2020-12-28 09:34:47 --> Email Class Initialized
+INFO - 2020-12-28 09:34:47 --> Model "M_konfig" initialized
+INFO - 2020-12-28 09:34:47 --> Model "M_reff" initialized
+INFO - 2020-12-28 09:34:47 --> Model "M_total" initialized
+INFO - 2020-12-28 09:34:47 --> Controller Class Initialized
+DEBUG - 2020-12-28 09:34:47 --> Maps_kri MX_Controller Initialized
+DEBUG - 2020-12-28 09:34:47 --> File loaded: D:\xampp72\htdocs\app_grm\application\modules/maps_kri/models/Model.php
+INFO - 2020-12-28 15:34:47 --> Final output sent to browser
+DEBUG - 2020-12-28 15:34:47 --> Total execution time: 1.2867
+INFO - 2020-12-28 09:36:25 --> Config Class Initialized
+INFO - 2020-12-28 09:36:25 --> Hooks Class Initialized
+DEBUG - 2020-12-28 09:36:25 --> UTF-8 Support Enabled
+INFO - 2020-12-28 09:36:25 --> Utf8 Class Initialized
+INFO - 2020-12-28 09:36:25 --> URI Class Initialized
+INFO - 2020-12-28 09:36:25 --> Router Class Initialized
+INFO - 2020-12-28 09:36:25 --> Output Class Initialized
+INFO - 2020-12-28 09:36:25 --> Security Class Initialized
+DEBUG - 2020-12-28 09:36:25 --> Global POST, GET and COOKIE data sanitized
+INFO - 2020-12-28 09:36:25 --> Input Class Initialized
+INFO - 2020-12-28 09:36:25 --> Language Class Initialized
+INFO - 2020-12-28 09:36:25 --> Language Class Initialized
+INFO - 2020-12-28 09:36:25 --> Config Class Initialized
+INFO - 2020-12-28 09:36:25 --> Loader Class Initialized
+INFO - 2020-12-28 09:36:25 --> Helper loaded: url_helper
+INFO - 2020-12-28 09:36:25 --> Helper loaded: html_helper
+INFO - 2020-12-28 09:36:25 --> Helper loaded: file_helper
+INFO - 2020-12-28 09:36:26 --> Helper loaded: form_helper
+INFO - 2020-12-28 09:36:26 --> Helper loaded: security_helper
+INFO - 2020-12-28 09:36:26 --> Helper loaded: xss_helper
+INFO - 2020-12-28 09:36:26 --> Helper loaded: slug_helper
+INFO - 2020-12-28 09:36:26 --> Database Driver Class Initialized
+DEBUG - 2020-12-28 09:36:26 --> Session: "sess_save_path" is empty; using "session.save_path" value from php.ini.
+INFO - 2020-12-28 09:36:26 --> Session: Class initialized using 'files' driver.
+INFO - 2020-12-28 09:36:26 --> Language file loaded: language/english/pagination_lang.php
+INFO - 2020-12-28 09:36:26 --> Pagination Class Initialized
+INFO - 2020-12-28 09:36:26 --> Email Class Initialized
+INFO - 2020-12-28 09:36:26 --> Model "M_konfig" initialized
+INFO - 2020-12-28 09:36:26 --> Model "M_reff" initialized
+INFO - 2020-12-28 09:36:26 --> Model "M_total" initialized
+INFO - 2020-12-28 09:36:26 --> Controller Class Initialized
+DEBUG - 2020-12-28 09:36:26 --> Maps_kri MX_Controller Initialized
+DEBUG - 2020-12-28 09:36:26 --> File loaded: D:\xampp72\htdocs\app_grm\application\modules/maps_kri/models/Model.php
+DEBUG - 2020-12-28 15:36:26 --> File loaded: D:\xampp72\htdocs\app_grm\application\views\temp_maps_kri/head.php
+DEBUG - 2020-12-28 15:36:26 --> File loaded: D:\xampp72\htdocs\app_grm\application\views\temp_maps_kri/navbar.php
+DEBUG - 2020-12-28 15:36:26 --> File loaded: D:\xampp72\htdocs\app_grm\application\views\temp_maps_kri/sidebar_left.php
+DEBUG - 2020-12-28 15:36:26 --> File loaded: D:\xampp72\htdocs\app_grm\application\views\temp_maps_kri/sidebar_right.php
+DEBUG - 2020-12-28 15:36:26 --> File loaded: D:\xampp72\htdocs\app_grm\application\modules/maps_kri/views/index.php
+DEBUG - 2020-12-28 15:36:26 --> File loaded: D:\xampp72\htdocs\app_grm\application\views\temp_maps_kri/quick_bar.php
+DEBUG - 2020-12-28 15:36:26 --> File loaded: D:\xampp72\htdocs\app_grm\application\views\temp_maps_kri/toggle.php
+DEBUG - 2020-12-28 15:36:26 --> File loaded: D:\xampp72\htdocs\app_grm\application\views\temp_maps_kri/konten.php
+DEBUG - 2020-12-28 15:36:26 --> File loaded: D:\xampp72\htdocs\app_grm\application\views\temp_maps_kri/foot.php
+DEBUG - 2020-12-28 15:36:26 --> File loaded: D:\xampp72\htdocs\app_grm\application\views\temp_maps_kri/main.php
+INFO - 2020-12-28 15:36:26 --> Final output sent to browser
+INFO - 2020-12-28 09:36:26 --> Config Class Initialized
+INFO - 2020-12-28 09:36:26 --> Hooks Class Initialized
+DEBUG - 2020-12-28 09:36:26 --> UTF-8 Support Enabled
+INFO - 2020-12-28 09:36:26 --> Utf8 Class Initialized
+INFO - 2020-12-28 09:36:26 --> URI Class Initialized
+INFO - 2020-12-28 09:36:26 --> Router Class Initialized
+INFO - 2020-12-28 09:36:26 --> Output Class Initialized
+INFO - 2020-12-28 09:36:26 --> Security Class Initialized
+DEBUG - 2020-12-28 09:36:26 --> Global POST, GET and COOKIE data sanitized
+INFO - 2020-12-28 09:36:26 --> Input Class Initialized
+INFO - 2020-12-28 09:36:26 --> Language Class Initialized
+ERROR - 2020-12-28 09:36:26 --> 404 Page Not Found: /index
+DEBUG - 2020-12-28 15:36:26 --> Total execution time: 1.3412
+INFO - 2020-12-28 09:36:27 --> Config Class Initialized
+INFO - 2020-12-28 09:36:27 --> Hooks Class Initialized
+DEBUG - 2020-12-28 09:36:27 --> UTF-8 Support Enabled
+INFO - 2020-12-28 09:36:27 --> Utf8 Class Initialized
+INFO - 2020-12-28 09:36:27 --> URI Class Initialized
+INFO - 2020-12-28 09:36:27 --> Router Class Initialized
+INFO - 2020-12-28 09:36:27 --> Output Class Initialized
+INFO - 2020-12-28 09:36:27 --> Security Class Initialized
+DEBUG - 2020-12-28 09:36:27 --> Global POST, GET and COOKIE data sanitized
+INFO - 2020-12-28 09:36:27 --> Input Class Initialized
+INFO - 2020-12-28 09:36:27 --> Language Class Initialized
+ERROR - 2020-12-28 09:36:27 --> 404 Page Not Found: /index
+INFO - 2020-12-28 09:36:28 --> Config Class Initialized
+INFO - 2020-12-28 09:36:28 --> Hooks Class Initialized
+DEBUG - 2020-12-28 09:36:28 --> UTF-8 Support Enabled
+INFO - 2020-12-28 09:36:28 --> Utf8 Class Initialized
+INFO - 2020-12-28 09:36:28 --> URI Class Initialized
+INFO - 2020-12-28 09:36:28 --> Router Class Initialized
+INFO - 2020-12-28 09:36:28 --> Output Class Initialized
+INFO - 2020-12-28 09:36:28 --> Security Class Initialized
+DEBUG - 2020-12-28 09:36:28 --> Global POST, GET and COOKIE data sanitized
+INFO - 2020-12-28 09:36:28 --> Input Class Initialized
+INFO - 2020-12-28 09:36:28 --> Language Class Initialized
+INFO - 2020-12-28 09:36:28 --> Language Class Initialized
+INFO - 2020-12-28 09:36:28 --> Config Class Initialized
+INFO - 2020-12-28 09:36:28 --> Loader Class Initialized
+INFO - 2020-12-28 09:36:29 --> Helper loaded: url_helper
+INFO - 2020-12-28 09:36:29 --> Helper loaded: html_helper
+INFO - 2020-12-28 09:36:29 --> Helper loaded: file_helper
+INFO - 2020-12-28 09:36:29 --> Helper loaded: form_helper
+INFO - 2020-12-28 09:36:29 --> Helper loaded: security_helper
+INFO - 2020-12-28 09:36:29 --> Helper loaded: xss_helper
+INFO - 2020-12-28 09:36:29 --> Helper loaded: slug_helper
+INFO - 2020-12-28 09:36:29 --> Database Driver Class Initialized
+DEBUG - 2020-12-28 09:36:29 --> Session: "sess_save_path" is empty; using "session.save_path" value from php.ini.
+INFO - 2020-12-28 09:36:29 --> Session: Class initialized using 'files' driver.
+INFO - 2020-12-28 09:36:29 --> Language file loaded: language/english/pagination_lang.php
+INFO - 2020-12-28 09:36:29 --> Pagination Class Initialized
+INFO - 2020-12-28 09:36:29 --> Email Class Initialized
+INFO - 2020-12-28 09:36:29 --> Model "M_konfig" initialized
+INFO - 2020-12-28 09:36:29 --> Model "M_reff" initialized
+INFO - 2020-12-28 09:36:29 --> Model "M_total" initialized
+INFO - 2020-12-28 09:36:29 --> Controller Class Initialized
+DEBUG - 2020-12-28 09:36:29 --> Maps_kri MX_Controller Initialized
+DEBUG - 2020-12-28 09:36:29 --> File loaded: D:\xampp72\htdocs\app_grm\application\modules/maps_kri/models/Model.php
+INFO - 2020-12-28 15:36:30 --> Final output sent to browser
+DEBUG - 2020-12-28 15:36:30 --> Total execution time: 1.8685
+INFO - 2020-12-28 09:36:39 --> Config Class Initialized
+INFO - 2020-12-28 09:36:39 --> Hooks Class Initialized
+DEBUG - 2020-12-28 09:36:39 --> UTF-8 Support Enabled
+INFO - 2020-12-28 09:36:39 --> Utf8 Class Initialized
+INFO - 2020-12-28 09:36:39 --> URI Class Initialized
+INFO - 2020-12-28 09:36:39 --> Router Class Initialized
+INFO - 2020-12-28 09:36:39 --> Output Class Initialized
+INFO - 2020-12-28 09:36:39 --> Security Class Initialized
+DEBUG - 2020-12-28 09:36:39 --> Global POST, GET and COOKIE data sanitized
+INFO - 2020-12-28 09:36:39 --> Input Class Initialized
+INFO - 2020-12-28 09:36:40 --> Language Class Initialized
+INFO - 2020-12-28 09:36:40 --> Language Class Initialized
+INFO - 2020-12-28 09:36:40 --> Config Class Initialized
+INFO - 2020-12-28 09:36:40 --> Loader Class Initialized
+INFO - 2020-12-28 09:36:40 --> Helper loaded: url_helper
+INFO - 2020-12-28 09:36:40 --> Helper loaded: html_helper
+INFO - 2020-12-28 09:36:40 --> Helper loaded: file_helper
+INFO - 2020-12-28 09:36:40 --> Helper loaded: form_helper
+INFO - 2020-12-28 09:36:40 --> Helper loaded: security_helper
+INFO - 2020-12-28 09:36:40 --> Helper loaded: xss_helper
+INFO - 2020-12-28 09:36:40 --> Helper loaded: slug_helper
+INFO - 2020-12-28 09:36:40 --> Database Driver Class Initialized
+DEBUG - 2020-12-28 09:36:40 --> Session: "sess_save_path" is empty; using "session.save_path" value from php.ini.
+INFO - 2020-12-28 09:36:40 --> Session: Class initialized using 'files' driver.
+INFO - 2020-12-28 09:36:40 --> Language file loaded: language/english/pagination_lang.php
+INFO - 2020-12-28 09:36:40 --> Pagination Class Initialized
+INFO - 2020-12-28 09:36:40 --> Email Class Initialized
+INFO - 2020-12-28 09:36:40 --> Model "M_konfig" initialized
+INFO - 2020-12-28 09:36:40 --> Model "M_reff" initialized
+INFO - 2020-12-28 09:36:40 --> Model "M_total" initialized
+INFO - 2020-12-28 09:36:40 --> Controller Class Initialized
+DEBUG - 2020-12-28 09:36:40 --> Maps_kri MX_Controller Initialized
+DEBUG - 2020-12-28 09:36:40 --> File loaded: D:\xampp72\htdocs\app_grm\application\modules/maps_kri/models/Model.php
+DEBUG - 2020-12-28 15:36:40 --> File loaded: D:\xampp72\htdocs\app_grm\application\views\temp_maps_kri/head.php
+DEBUG - 2020-12-28 15:36:41 --> File loaded: D:\xampp72\htdocs\app_grm\application\views\temp_maps_kri/navbar.php
+DEBUG - 2020-12-28 15:36:41 --> File loaded: D:\xampp72\htdocs\app_grm\application\views\temp_maps_kri/sidebar_left.php
+DEBUG - 2020-12-28 15:36:41 --> File loaded: D:\xampp72\htdocs\app_grm\application\views\temp_maps_kri/sidebar_right.php
+DEBUG - 2020-12-28 15:36:41 --> File loaded: D:\xampp72\htdocs\app_grm\application\modules/maps_kri/views/index.php
+DEBUG - 2020-12-28 15:36:41 --> File loaded: D:\xampp72\htdocs\app_grm\application\views\temp_maps_kri/quick_bar.php
+DEBUG - 2020-12-28 15:36:41 --> File loaded: D:\xampp72\htdocs\app_grm\application\views\temp_maps_kri/toggle.php
+DEBUG - 2020-12-28 15:36:41 --> File loaded: D:\xampp72\htdocs\app_grm\application\views\temp_maps_kri/konten.php
+DEBUG - 2020-12-28 15:36:41 --> File loaded: D:\xampp72\htdocs\app_grm\application\views\temp_maps_kri/foot.php
+DEBUG - 2020-12-28 15:36:41 --> File loaded: D:\xampp72\htdocs\app_grm\application\views\temp_maps_kri/main.php
+INFO - 2020-12-28 15:36:41 --> Final output sent to browser
+INFO - 2020-12-28 09:36:41 --> Config Class Initialized
+INFO - 2020-12-28 09:36:41 --> Hooks Class Initialized
+DEBUG - 2020-12-28 09:36:41 --> UTF-8 Support Enabled
+INFO - 2020-12-28 09:36:41 --> Utf8 Class Initialized
+INFO - 2020-12-28 09:36:41 --> URI Class Initialized
+INFO - 2020-12-28 09:36:41 --> Router Class Initialized
+INFO - 2020-12-28 09:36:41 --> Output Class Initialized
+INFO - 2020-12-28 09:36:41 --> Security Class Initialized
+DEBUG - 2020-12-28 15:36:41 --> Total execution time: 1.6017
+DEBUG - 2020-12-28 09:36:41 --> Global POST, GET and COOKIE data sanitized
+INFO - 2020-12-28 09:36:41 --> Input Class Initialized
+INFO - 2020-12-28 09:36:41 --> Language Class Initialized
+ERROR - 2020-12-28 09:36:41 --> 404 Page Not Found: /index
+INFO - 2020-12-28 09:36:41 --> Config Class Initialized
+INFO - 2020-12-28 09:36:41 --> Hooks Class Initialized
+DEBUG - 2020-12-28 09:36:41 --> UTF-8 Support Enabled
+INFO - 2020-12-28 09:36:41 --> Utf8 Class Initialized
+INFO - 2020-12-28 09:36:41 --> URI Class Initialized
+INFO - 2020-12-28 09:36:41 --> Router Class Initialized
+INFO - 2020-12-28 09:36:41 --> Output Class Initialized
+INFO - 2020-12-28 09:36:41 --> Security Class Initialized
+DEBUG - 2020-12-28 09:36:41 --> Global POST, GET and COOKIE data sanitized
+INFO - 2020-12-28 09:36:42 --> Input Class Initialized
+INFO - 2020-12-28 09:36:42 --> Language Class Initialized
+ERROR - 2020-12-28 09:36:42 --> 404 Page Not Found: /index
+INFO - 2020-12-28 09:36:42 --> Config Class Initialized
+INFO - 2020-12-28 09:36:42 --> Hooks Class Initialized
+DEBUG - 2020-12-28 09:36:42 --> UTF-8 Support Enabled
+INFO - 2020-12-28 09:36:42 --> Utf8 Class Initialized
+INFO - 2020-12-28 09:36:42 --> URI Class Initialized
+INFO - 2020-12-28 09:36:42 --> Router Class Initialized
+INFO - 2020-12-28 09:36:42 --> Output Class Initialized
+INFO - 2020-12-28 09:36:42 --> Security Class Initialized
+DEBUG - 2020-12-28 09:36:42 --> Global POST, GET and COOKIE data sanitized
+INFO - 2020-12-28 09:36:43 --> Input Class Initialized
+INFO - 2020-12-28 09:36:43 --> Language Class Initialized
+INFO - 2020-12-28 09:36:43 --> Language Class Initialized
+INFO - 2020-12-28 09:36:43 --> Config Class Initialized
+INFO - 2020-12-28 09:36:43 --> Loader Class Initialized
+INFO - 2020-12-28 09:36:43 --> Helper loaded: url_helper
+INFO - 2020-12-28 09:36:43 --> Helper loaded: html_helper
+INFO - 2020-12-28 09:36:43 --> Helper loaded: file_helper
+INFO - 2020-12-28 09:36:43 --> Helper loaded: form_helper
+INFO - 2020-12-28 09:36:43 --> Helper loaded: security_helper
+INFO - 2020-12-28 09:36:43 --> Helper loaded: xss_helper
+INFO - 2020-12-28 09:36:43 --> Helper loaded: slug_helper
+INFO - 2020-12-28 09:36:43 --> Database Driver Class Initialized
+DEBUG - 2020-12-28 09:36:43 --> Session: "sess_save_path" is empty; using "session.save_path" value from php.ini.
+INFO - 2020-12-28 09:36:43 --> Session: Class initialized using 'files' driver.
+INFO - 2020-12-28 09:36:43 --> Language file loaded: language/english/pagination_lang.php
+INFO - 2020-12-28 09:36:43 --> Pagination Class Initialized
+INFO - 2020-12-28 09:36:43 --> Email Class Initialized
+INFO - 2020-12-28 09:36:43 --> Model "M_konfig" initialized
+INFO - 2020-12-28 09:36:43 --> Model "M_reff" initialized
+INFO - 2020-12-28 09:36:44 --> Model "M_total" initialized
+INFO - 2020-12-28 09:36:44 --> Controller Class Initialized
+DEBUG - 2020-12-28 09:36:44 --> Maps_kri MX_Controller Initialized
+DEBUG - 2020-12-28 09:36:44 --> File loaded: D:\xampp72\htdocs\app_grm\application\modules/maps_kri/models/Model.php
+INFO - 2020-12-28 15:36:44 --> Final output sent to browser
+DEBUG - 2020-12-28 15:36:44 --> Total execution time: 1.6053
+INFO - 2020-12-28 09:36:48 --> Config Class Initialized
+INFO - 2020-12-28 09:36:48 --> Hooks Class Initialized
+DEBUG - 2020-12-28 09:36:49 --> UTF-8 Support Enabled
+INFO - 2020-12-28 09:36:49 --> Utf8 Class Initialized
+INFO - 2020-12-28 09:36:49 --> URI Class Initialized
+INFO - 2020-12-28 09:36:49 --> Router Class Initialized
+INFO - 2020-12-28 09:36:49 --> Output Class Initialized
+INFO - 2020-12-28 09:36:49 --> Security Class Initialized
+DEBUG - 2020-12-28 09:36:49 --> Global POST, GET and COOKIE data sanitized
+INFO - 2020-12-28 09:36:49 --> Input Class Initialized
+INFO - 2020-12-28 09:36:49 --> Language Class Initialized
+INFO - 2020-12-28 09:36:49 --> Language Class Initialized
+INFO - 2020-12-28 09:36:49 --> Config Class Initialized
+INFO - 2020-12-28 09:36:49 --> Loader Class Initialized
+INFO - 2020-12-28 09:36:49 --> Helper loaded: url_helper
+INFO - 2020-12-28 09:36:49 --> Helper loaded: html_helper
+INFO - 2020-12-28 09:36:49 --> Helper loaded: file_helper
+INFO - 2020-12-28 09:36:49 --> Helper loaded: form_helper
+INFO - 2020-12-28 09:36:49 --> Helper loaded: security_helper
+INFO - 2020-12-28 09:36:49 --> Helper loaded: xss_helper
+INFO - 2020-12-28 09:36:49 --> Helper loaded: slug_helper
+INFO - 2020-12-28 09:36:49 --> Database Driver Class Initialized
+DEBUG - 2020-12-28 09:36:49 --> Session: "sess_save_path" is empty; using "session.save_path" value from php.ini.
+INFO - 2020-12-28 09:36:49 --> Session: Class initialized using 'files' driver.
+INFO - 2020-12-28 09:36:49 --> Language file loaded: language/english/pagination_lang.php
+INFO - 2020-12-28 09:36:49 --> Pagination Class Initialized
+INFO - 2020-12-28 09:36:49 --> Email Class Initialized
+INFO - 2020-12-28 09:36:49 --> Model "M_konfig" initialized
+INFO - 2020-12-28 09:36:49 --> Model "M_reff" initialized
+INFO - 2020-12-28 09:36:49 --> Model "M_total" initialized
+INFO - 2020-12-28 09:36:49 --> Controller Class Initialized
+DEBUG - 2020-12-28 09:36:49 --> Maps_kri MX_Controller Initialized
+DEBUG - 2020-12-28 09:36:49 --> File loaded: D:\xampp72\htdocs\app_grm\application\modules/maps_kri/models/Model.php
+DEBUG - 2020-12-28 15:36:50 --> File loaded: D:\xampp72\htdocs\app_grm\application\views\temp_maps_kri/head.php
+DEBUG - 2020-12-28 15:36:50 --> File loaded: D:\xampp72\htdocs\app_grm\application\views\temp_maps_kri/navbar.php
+DEBUG - 2020-12-28 15:36:50 --> File loaded: D:\xampp72\htdocs\app_grm\application\views\temp_maps_kri/sidebar_left.php
+DEBUG - 2020-12-28 15:36:50 --> File loaded: D:\xampp72\htdocs\app_grm\application\views\temp_maps_kri/sidebar_right.php
+DEBUG - 2020-12-28 15:36:50 --> File loaded: D:\xampp72\htdocs\app_grm\application\modules/maps_kri/views/index.php
+DEBUG - 2020-12-28 15:36:50 --> File loaded: D:\xampp72\htdocs\app_grm\application\views\temp_maps_kri/quick_bar.php
+DEBUG - 2020-12-28 15:36:50 --> File loaded: D:\xampp72\htdocs\app_grm\application\views\temp_maps_kri/toggle.php
+DEBUG - 2020-12-28 15:36:50 --> File loaded: D:\xampp72\htdocs\app_grm\application\views\temp_maps_kri/konten.php
+DEBUG - 2020-12-28 15:36:50 --> File loaded: D:\xampp72\htdocs\app_grm\application\views\temp_maps_kri/foot.php
+DEBUG - 2020-12-28 15:36:50 --> File loaded: D:\xampp72\htdocs\app_grm\application\views\temp_maps_kri/main.php
+INFO - 2020-12-28 15:36:50 --> Final output sent to browser
+INFO - 2020-12-28 09:36:50 --> Config Class Initialized
+INFO - 2020-12-28 09:36:50 --> Hooks Class Initialized
+DEBUG - 2020-12-28 09:36:50 --> UTF-8 Support Enabled
+INFO - 2020-12-28 09:36:50 --> Utf8 Class Initialized
+INFO - 2020-12-28 09:36:50 --> URI Class Initialized
+INFO - 2020-12-28 09:36:50 --> Router Class Initialized
+INFO - 2020-12-28 09:36:50 --> Output Class Initialized
+INFO - 2020-12-28 09:36:50 --> Security Class Initialized
+DEBUG - 2020-12-28 09:36:50 --> Global POST, GET and COOKIE data sanitized
+INFO - 2020-12-28 09:36:50 --> Input Class Initialized
+INFO - 2020-12-28 09:36:50 --> Language Class Initialized
+ERROR - 2020-12-28 09:36:50 --> 404 Page Not Found: /index
+DEBUG - 2020-12-28 15:36:50 --> Total execution time: 1.3670
+INFO - 2020-12-28 09:36:50 --> Config Class Initialized
+INFO - 2020-12-28 09:36:50 --> Hooks Class Initialized
+DEBUG - 2020-12-28 09:36:50 --> UTF-8 Support Enabled
+INFO - 2020-12-28 09:36:50 --> Utf8 Class Initialized
+INFO - 2020-12-28 09:36:50 --> URI Class Initialized
+INFO - 2020-12-28 09:36:50 --> Router Class Initialized
+INFO - 2020-12-28 09:36:50 --> Output Class Initialized
+INFO - 2020-12-28 09:36:51 --> Security Class Initialized
+DEBUG - 2020-12-28 09:36:51 --> Global POST, GET and COOKIE data sanitized
+INFO - 2020-12-28 09:36:51 --> Input Class Initialized
+INFO - 2020-12-28 09:36:51 --> Language Class Initialized
+ERROR - 2020-12-28 09:36:51 --> 404 Page Not Found: /index
+INFO - 2020-12-28 09:36:51 --> Config Class Initialized
+INFO - 2020-12-28 09:36:51 --> Hooks Class Initialized
+DEBUG - 2020-12-28 09:36:51 --> UTF-8 Support Enabled
+INFO - 2020-12-28 09:36:51 --> Utf8 Class Initialized
+INFO - 2020-12-28 09:36:51 --> URI Class Initialized
+INFO - 2020-12-28 09:36:51 --> Router Class Initialized
+INFO - 2020-12-28 09:36:51 --> Output Class Initialized
+INFO - 2020-12-28 09:36:52 --> Security Class Initialized
+DEBUG - 2020-12-28 09:36:52 --> Global POST, GET and COOKIE data sanitized
+INFO - 2020-12-28 09:36:52 --> Input Class Initialized
+INFO - 2020-12-28 09:36:52 --> Language Class Initialized
+INFO - 2020-12-28 09:36:52 --> Language Class Initialized
+INFO - 2020-12-28 09:36:52 --> Config Class Initialized
+INFO - 2020-12-28 09:36:52 --> Loader Class Initialized
+INFO - 2020-12-28 09:36:52 --> Helper loaded: url_helper
+INFO - 2020-12-28 09:36:52 --> Helper loaded: html_helper
+INFO - 2020-12-28 09:36:52 --> Helper loaded: file_helper
+INFO - 2020-12-28 09:36:52 --> Helper loaded: form_helper
+INFO - 2020-12-28 09:36:52 --> Helper loaded: security_helper
+INFO - 2020-12-28 09:36:52 --> Helper loaded: xss_helper
+INFO - 2020-12-28 09:36:52 --> Helper loaded: slug_helper
+INFO - 2020-12-28 09:36:52 --> Database Driver Class Initialized
+DEBUG - 2020-12-28 09:36:52 --> Session: "sess_save_path" is empty; using "session.save_path" value from php.ini.
+INFO - 2020-12-28 09:36:52 --> Session: Class initialized using 'files' driver.
+INFO - 2020-12-28 09:36:53 --> Language file loaded: language/english/pagination_lang.php
+INFO - 2020-12-28 09:36:53 --> Pagination Class Initialized
+INFO - 2020-12-28 09:36:53 --> Email Class Initialized
+INFO - 2020-12-28 09:36:53 --> Model "M_konfig" initialized
+INFO - 2020-12-28 09:36:53 --> Model "M_reff" initialized
+INFO - 2020-12-28 09:36:53 --> Model "M_total" initialized
+INFO - 2020-12-28 09:36:53 --> Controller Class Initialized
+DEBUG - 2020-12-28 09:36:53 --> Maps_kri MX_Controller Initialized
+DEBUG - 2020-12-28 09:36:53 --> File loaded: D:\xampp72\htdocs\app_grm\application\modules/maps_kri/models/Model.php
+INFO - 2020-12-28 15:36:53 --> Final output sent to browser
+DEBUG - 2020-12-28 15:36:53 --> Total execution time: 1.9333
+INFO - 2020-12-28 09:37:08 --> Config Class Initialized
+INFO - 2020-12-28 09:37:08 --> Hooks Class Initialized
+DEBUG - 2020-12-28 09:37:08 --> UTF-8 Support Enabled
+INFO - 2020-12-28 09:37:08 --> Utf8 Class Initialized
+INFO - 2020-12-28 09:37:08 --> URI Class Initialized
+INFO - 2020-12-28 09:37:08 --> Router Class Initialized
+INFO - 2020-12-28 09:37:08 --> Output Class Initialized
+INFO - 2020-12-28 09:37:08 --> Security Class Initialized
+DEBUG - 2020-12-28 09:37:08 --> Global POST, GET and COOKIE data sanitized
+INFO - 2020-12-28 09:37:08 --> Input Class Initialized
+INFO - 2020-12-28 09:37:08 --> Language Class Initialized
+INFO - 2020-12-28 09:37:08 --> Language Class Initialized
+INFO - 2020-12-28 09:37:08 --> Config Class Initialized
+INFO - 2020-12-28 09:37:08 --> Loader Class Initialized
+INFO - 2020-12-28 09:37:08 --> Helper loaded: url_helper
+INFO - 2020-12-28 09:37:08 --> Helper loaded: html_helper
+INFO - 2020-12-28 09:37:08 --> Helper loaded: file_helper
+INFO - 2020-12-28 09:37:08 --> Helper loaded: form_helper
+INFO - 2020-12-28 09:37:08 --> Helper loaded: security_helper
+INFO - 2020-12-28 09:37:08 --> Helper loaded: xss_helper
+INFO - 2020-12-28 09:37:08 --> Helper loaded: slug_helper
+INFO - 2020-12-28 09:37:08 --> Database Driver Class Initialized
+DEBUG - 2020-12-28 09:37:08 --> Session: "sess_save_path" is empty; using "session.save_path" value from php.ini.
+INFO - 2020-12-28 09:37:08 --> Session: Class initialized using 'files' driver.
+INFO - 2020-12-28 09:37:08 --> Language file loaded: language/english/pagination_lang.php
+INFO - 2020-12-28 09:37:08 --> Pagination Class Initialized
+INFO - 2020-12-28 09:37:08 --> Email Class Initialized
+INFO - 2020-12-28 09:37:08 --> Model "M_konfig" initialized
+INFO - 2020-12-28 09:37:08 --> Model "M_reff" initialized
+INFO - 2020-12-28 09:37:09 --> Model "M_total" initialized
+INFO - 2020-12-28 09:37:09 --> Controller Class Initialized
+DEBUG - 2020-12-28 09:37:09 --> Maps_kri MX_Controller Initialized
+DEBUG - 2020-12-28 09:37:09 --> File loaded: D:\xampp72\htdocs\app_grm\application\modules/maps_kri/models/Model.php
+DEBUG - 2020-12-28 15:37:09 --> File loaded: D:\xampp72\htdocs\app_grm\application\views\temp_maps_kri/head.php
+DEBUG - 2020-12-28 15:37:09 --> File loaded: D:\xampp72\htdocs\app_grm\application\views\temp_maps_kri/navbar.php
+DEBUG - 2020-12-28 15:37:09 --> File loaded: D:\xampp72\htdocs\app_grm\application\views\temp_maps_kri/sidebar_left.php
+DEBUG - 2020-12-28 15:37:09 --> File loaded: D:\xampp72\htdocs\app_grm\application\views\temp_maps_kri/sidebar_right.php
+DEBUG - 2020-12-28 15:37:09 --> File loaded: D:\xampp72\htdocs\app_grm\application\modules/maps_kri/views/index.php
+DEBUG - 2020-12-28 15:37:09 --> File loaded: D:\xampp72\htdocs\app_grm\application\views\temp_maps_kri/quick_bar.php
+DEBUG - 2020-12-28 15:37:09 --> File loaded: D:\xampp72\htdocs\app_grm\application\views\temp_maps_kri/toggle.php
+DEBUG - 2020-12-28 15:37:09 --> File loaded: D:\xampp72\htdocs\app_grm\application\views\temp_maps_kri/konten.php
+DEBUG - 2020-12-28 15:37:09 --> File loaded: D:\xampp72\htdocs\app_grm\application\views\temp_maps_kri/foot.php
+DEBUG - 2020-12-28 15:37:09 --> File loaded: D:\xampp72\htdocs\app_grm\application\views\temp_maps_kri/main.php
+INFO - 2020-12-28 15:37:09 --> Final output sent to browser
+INFO - 2020-12-28 09:37:09 --> Config Class Initialized
+INFO - 2020-12-28 09:37:09 --> Hooks Class Initialized
+DEBUG - 2020-12-28 09:37:09 --> UTF-8 Support Enabled
+INFO - 2020-12-28 09:37:09 --> Utf8 Class Initialized
+INFO - 2020-12-28 09:37:09 --> URI Class Initialized
+DEBUG - 2020-12-28 15:37:09 --> Total execution time: 1.3713
+INFO - 2020-12-28 09:37:09 --> Router Class Initialized
+INFO - 2020-12-28 09:37:09 --> Output Class Initialized
+INFO - 2020-12-28 09:37:09 --> Security Class Initialized
+DEBUG - 2020-12-28 09:37:09 --> Global POST, GET and COOKIE data sanitized
+INFO - 2020-12-28 09:37:09 --> Input Class Initialized
+INFO - 2020-12-28 09:37:09 --> Language Class Initialized
+ERROR - 2020-12-28 09:37:09 --> 404 Page Not Found: /index
+INFO - 2020-12-28 09:37:09 --> Config Class Initialized
+INFO - 2020-12-28 09:37:09 --> Hooks Class Initialized
+DEBUG - 2020-12-28 09:37:09 --> UTF-8 Support Enabled
+INFO - 2020-12-28 09:37:09 --> Utf8 Class Initialized
+INFO - 2020-12-28 09:37:10 --> URI Class Initialized
+INFO - 2020-12-28 09:37:10 --> Router Class Initialized
+INFO - 2020-12-28 09:37:10 --> Output Class Initialized
+INFO - 2020-12-28 09:37:10 --> Security Class Initialized
+DEBUG - 2020-12-28 09:37:10 --> Global POST, GET and COOKIE data sanitized
+INFO - 2020-12-28 09:37:10 --> Input Class Initialized
+INFO - 2020-12-28 09:37:10 --> Language Class Initialized
+ERROR - 2020-12-28 09:37:10 --> 404 Page Not Found: /index
+INFO - 2020-12-28 09:37:10 --> Config Class Initialized
+INFO - 2020-12-28 09:37:10 --> Hooks Class Initialized
+DEBUG - 2020-12-28 09:37:11 --> UTF-8 Support Enabled
+INFO - 2020-12-28 09:37:11 --> Utf8 Class Initialized
+INFO - 2020-12-28 09:37:11 --> URI Class Initialized
+INFO - 2020-12-28 09:37:11 --> Router Class Initialized
+INFO - 2020-12-28 09:37:11 --> Output Class Initialized
+INFO - 2020-12-28 09:37:11 --> Security Class Initialized
+DEBUG - 2020-12-28 09:37:11 --> Global POST, GET and COOKIE data sanitized
+INFO - 2020-12-28 09:37:11 --> Input Class Initialized
+INFO - 2020-12-28 09:37:11 --> Language Class Initialized
+INFO - 2020-12-28 09:37:11 --> Language Class Initialized
+INFO - 2020-12-28 09:37:11 --> Config Class Initialized
+INFO - 2020-12-28 09:37:11 --> Loader Class Initialized
+INFO - 2020-12-28 09:37:11 --> Helper loaded: url_helper
+INFO - 2020-12-28 09:37:11 --> Helper loaded: html_helper
+INFO - 2020-12-28 09:37:11 --> Helper loaded: file_helper
+INFO - 2020-12-28 09:37:12 --> Helper loaded: form_helper
+INFO - 2020-12-28 09:37:12 --> Helper loaded: security_helper
+INFO - 2020-12-28 09:37:12 --> Helper loaded: xss_helper
+INFO - 2020-12-28 09:37:12 --> Helper loaded: slug_helper
+INFO - 2020-12-28 09:37:12 --> Database Driver Class Initialized
+DEBUG - 2020-12-28 09:37:12 --> Session: "sess_save_path" is empty; using "session.save_path" value from php.ini.
+INFO - 2020-12-28 09:37:12 --> Session: Class initialized using 'files' driver.
+INFO - 2020-12-28 09:37:12 --> Language file loaded: language/english/pagination_lang.php
+INFO - 2020-12-28 09:37:12 --> Pagination Class Initialized
+INFO - 2020-12-28 09:37:12 --> Email Class Initialized
+INFO - 2020-12-28 09:37:12 --> Model "M_konfig" initialized
+INFO - 2020-12-28 09:37:12 --> Model "M_reff" initialized
+INFO - 2020-12-28 09:37:12 --> Model "M_total" initialized
+INFO - 2020-12-28 09:37:12 --> Controller Class Initialized
+DEBUG - 2020-12-28 09:37:12 --> Maps_kri MX_Controller Initialized
+DEBUG - 2020-12-28 09:37:12 --> File loaded: D:\xampp72\htdocs\app_grm\application\modules/maps_kri/models/Model.php
+INFO - 2020-12-28 15:37:12 --> Final output sent to browser
+DEBUG - 2020-12-28 15:37:12 --> Total execution time: 1.7824
+INFO - 2020-12-28 09:41:41 --> Config Class Initialized
+INFO - 2020-12-28 09:41:41 --> Hooks Class Initialized
+DEBUG - 2020-12-28 09:41:41 --> UTF-8 Support Enabled
+INFO - 2020-12-28 09:41:41 --> Utf8 Class Initialized
+INFO - 2020-12-28 09:41:41 --> URI Class Initialized
+INFO - 2020-12-28 09:41:41 --> Router Class Initialized
+INFO - 2020-12-28 09:41:41 --> Output Class Initialized
+INFO - 2020-12-28 09:41:41 --> Security Class Initialized
+DEBUG - 2020-12-28 09:41:41 --> Global POST, GET and COOKIE data sanitized
+INFO - 2020-12-28 09:41:41 --> Input Class Initialized
+INFO - 2020-12-28 09:41:41 --> Language Class Initialized
+INFO - 2020-12-28 09:41:41 --> Language Class Initialized
+INFO - 2020-12-28 09:41:41 --> Config Class Initialized
+INFO - 2020-12-28 09:41:41 --> Loader Class Initialized
+INFO - 2020-12-28 09:41:41 --> Helper loaded: url_helper
+INFO - 2020-12-28 09:41:41 --> Helper loaded: html_helper
+INFO - 2020-12-28 09:41:41 --> Helper loaded: file_helper
+INFO - 2020-12-28 09:41:41 --> Helper loaded: form_helper
+INFO - 2020-12-28 09:41:41 --> Helper loaded: security_helper
+INFO - 2020-12-28 09:41:41 --> Helper loaded: xss_helper
+INFO - 2020-12-28 09:41:41 --> Helper loaded: slug_helper
+INFO - 2020-12-28 09:41:41 --> Database Driver Class Initialized
+DEBUG - 2020-12-28 09:41:41 --> Session: "sess_save_path" is empty; using "session.save_path" value from php.ini.
+INFO - 2020-12-28 09:41:41 --> Session: Class initialized using 'files' driver.
+INFO - 2020-12-28 09:41:41 --> Language file loaded: language/english/pagination_lang.php
+INFO - 2020-12-28 09:41:41 --> Pagination Class Initialized
+INFO - 2020-12-28 09:41:41 --> Email Class Initialized
+INFO - 2020-12-28 09:41:41 --> Model "M_konfig" initialized
+INFO - 2020-12-28 09:41:41 --> Model "M_reff" initialized
+INFO - 2020-12-28 09:41:42 --> Model "M_total" initialized
+INFO - 2020-12-28 09:41:42 --> Controller Class Initialized
+DEBUG - 2020-12-28 09:41:42 --> Maps_kri MX_Controller Initialized
+DEBUG - 2020-12-28 09:41:42 --> File loaded: D:\xampp72\htdocs\app_grm\application\modules/maps_kri/models/Model.php
+DEBUG - 2020-12-28 15:41:42 --> File loaded: D:\xampp72\htdocs\app_grm\application\views\temp_maps_kri/head.php
+DEBUG - 2020-12-28 15:41:42 --> File loaded: D:\xampp72\htdocs\app_grm\application\views\temp_maps_kri/navbar.php
+DEBUG - 2020-12-28 15:41:42 --> File loaded: D:\xampp72\htdocs\app_grm\application\views\temp_maps_kri/sidebar_left.php
+DEBUG - 2020-12-28 15:41:42 --> File loaded: D:\xampp72\htdocs\app_grm\application\views\temp_maps_kri/sidebar_right.php
+DEBUG - 2020-12-28 15:41:42 --> File loaded: D:\xampp72\htdocs\app_grm\application\modules/maps_kri/views/index.php
+DEBUG - 2020-12-28 15:41:42 --> File loaded: D:\xampp72\htdocs\app_grm\application\views\temp_maps_kri/quick_bar.php
+DEBUG - 2020-12-28 15:41:42 --> File loaded: D:\xampp72\htdocs\app_grm\application\views\temp_maps_kri/toggle.php
+DEBUG - 2020-12-28 15:41:42 --> File loaded: D:\xampp72\htdocs\app_grm\application\views\temp_maps_kri/konten.php
+DEBUG - 2020-12-28 15:41:42 --> File loaded: D:\xampp72\htdocs\app_grm\application\views\temp_maps_kri/foot.php
+DEBUG - 2020-12-28 15:41:42 --> File loaded: D:\xampp72\htdocs\app_grm\application\views\temp_maps_kri/main.php
+INFO - 2020-12-28 15:41:42 --> Final output sent to browser
+INFO - 2020-12-28 09:41:42 --> Config Class Initialized
+INFO - 2020-12-28 09:41:42 --> Hooks Class Initialized
+DEBUG - 2020-12-28 09:41:42 --> UTF-8 Support Enabled
+INFO - 2020-12-28 09:41:42 --> Utf8 Class Initialized
+INFO - 2020-12-28 09:41:42 --> URI Class Initialized
+INFO - 2020-12-28 09:41:42 --> Router Class Initialized
+INFO - 2020-12-28 09:41:42 --> Output Class Initialized
+INFO - 2020-12-28 09:41:42 --> Security Class Initialized
+DEBUG - 2020-12-28 09:41:42 --> Global POST, GET and COOKIE data sanitized
+INFO - 2020-12-28 09:41:42 --> Input Class Initialized
+INFO - 2020-12-28 09:41:42 --> Language Class Initialized
+ERROR - 2020-12-28 09:41:42 --> 404 Page Not Found: /index
+DEBUG - 2020-12-28 15:41:42 --> Total execution time: 1.3460
+INFO - 2020-12-28 09:41:42 --> Config Class Initialized
+INFO - 2020-12-28 09:41:42 --> Hooks Class Initialized
+DEBUG - 2020-12-28 09:41:43 --> UTF-8 Support Enabled
+INFO - 2020-12-28 09:41:43 --> Utf8 Class Initialized
+INFO - 2020-12-28 09:41:43 --> URI Class Initialized
+INFO - 2020-12-28 09:41:43 --> Router Class Initialized
+INFO - 2020-12-28 09:41:43 --> Output Class Initialized
+INFO - 2020-12-28 09:41:43 --> Security Class Initialized
+DEBUG - 2020-12-28 09:41:43 --> Global POST, GET and COOKIE data sanitized
+INFO - 2020-12-28 09:41:43 --> Input Class Initialized
+INFO - 2020-12-28 09:41:43 --> Language Class Initialized
+ERROR - 2020-12-28 09:41:43 --> 404 Page Not Found: /index
+INFO - 2020-12-28 09:41:44 --> Config Class Initialized
+INFO - 2020-12-28 09:41:44 --> Hooks Class Initialized
+DEBUG - 2020-12-28 09:41:44 --> UTF-8 Support Enabled
+INFO - 2020-12-28 09:41:44 --> Utf8 Class Initialized
+INFO - 2020-12-28 09:41:44 --> URI Class Initialized
+INFO - 2020-12-28 09:41:44 --> Router Class Initialized
+INFO - 2020-12-28 09:41:44 --> Output Class Initialized
+INFO - 2020-12-28 09:41:45 --> Security Class Initialized
+DEBUG - 2020-12-28 09:41:45 --> Global POST, GET and COOKIE data sanitized
+INFO - 2020-12-28 09:41:45 --> Input Class Initialized
+INFO - 2020-12-28 09:41:45 --> Language Class Initialized
+INFO - 2020-12-28 09:41:45 --> Language Class Initialized
+INFO - 2020-12-28 09:41:45 --> Config Class Initialized
+INFO - 2020-12-28 09:41:45 --> Loader Class Initialized
+INFO - 2020-12-28 09:41:45 --> Helper loaded: url_helper
+INFO - 2020-12-28 09:41:45 --> Helper loaded: html_helper
+INFO - 2020-12-28 09:41:45 --> Helper loaded: file_helper
+INFO - 2020-12-28 09:41:45 --> Helper loaded: form_helper
+INFO - 2020-12-28 09:41:45 --> Helper loaded: security_helper
+INFO - 2020-12-28 09:41:45 --> Helper loaded: xss_helper
+INFO - 2020-12-28 09:41:45 --> Helper loaded: slug_helper
+INFO - 2020-12-28 09:41:45 --> Database Driver Class Initialized
+DEBUG - 2020-12-28 09:41:45 --> Session: "sess_save_path" is empty; using "session.save_path" value from php.ini.
+INFO - 2020-12-28 09:41:45 --> Session: Class initialized using 'files' driver.
+INFO - 2020-12-28 09:41:45 --> Language file loaded: language/english/pagination_lang.php
+INFO - 2020-12-28 09:41:45 --> Pagination Class Initialized
+INFO - 2020-12-28 09:41:45 --> Email Class Initialized
+INFO - 2020-12-28 09:41:46 --> Model "M_konfig" initialized
+INFO - 2020-12-28 09:41:46 --> Model "M_reff" initialized
+INFO - 2020-12-28 09:41:46 --> Model "M_total" initialized
+INFO - 2020-12-28 09:41:46 --> Controller Class Initialized
+DEBUG - 2020-12-28 09:41:46 --> Maps_kri MX_Controller Initialized
+DEBUG - 2020-12-28 09:41:46 --> File loaded: D:\xampp72\htdocs\app_grm\application\modules/maps_kri/models/Model.php
+INFO - 2020-12-28 15:41:46 --> Final output sent to browser
+DEBUG - 2020-12-28 15:41:46 --> Total execution time: 1.5185
+INFO - 2020-12-28 09:42:24 --> Config Class Initialized
+INFO - 2020-12-28 09:42:24 --> Hooks Class Initialized
+DEBUG - 2020-12-28 09:42:24 --> UTF-8 Support Enabled
+INFO - 2020-12-28 09:42:25 --> Utf8 Class Initialized
+INFO - 2020-12-28 09:42:25 --> URI Class Initialized
+INFO - 2020-12-28 09:42:25 --> Router Class Initialized
+INFO - 2020-12-28 09:42:25 --> Output Class Initialized
+INFO - 2020-12-28 09:42:25 --> Security Class Initialized
+DEBUG - 2020-12-28 09:42:25 --> Global POST, GET and COOKIE data sanitized
+INFO - 2020-12-28 09:42:25 --> Input Class Initialized
+INFO - 2020-12-28 09:42:25 --> Language Class Initialized
+ERROR - 2020-12-28 09:42:25 --> 404 Page Not Found: /index
+INFO - 2020-12-28 09:43:08 --> Config Class Initialized
+INFO - 2020-12-28 09:43:08 --> Hooks Class Initialized
+DEBUG - 2020-12-28 09:43:08 --> UTF-8 Support Enabled
+INFO - 2020-12-28 09:43:08 --> Utf8 Class Initialized
+INFO - 2020-12-28 09:43:08 --> URI Class Initialized
+INFO - 2020-12-28 09:43:08 --> Router Class Initialized
+INFO - 2020-12-28 09:43:08 --> Output Class Initialized
+INFO - 2020-12-28 09:43:08 --> Security Class Initialized
+DEBUG - 2020-12-28 09:43:08 --> Global POST, GET and COOKIE data sanitized
+INFO - 2020-12-28 09:43:08 --> Input Class Initialized
+INFO - 2020-12-28 09:43:08 --> Language Class Initialized
+INFO - 2020-12-28 09:43:08 --> Language Class Initialized
+INFO - 2020-12-28 09:43:08 --> Config Class Initialized
+INFO - 2020-12-28 09:43:08 --> Loader Class Initialized
+INFO - 2020-12-28 09:43:08 --> Helper loaded: url_helper
+INFO - 2020-12-28 09:43:08 --> Helper loaded: html_helper
+INFO - 2020-12-28 09:43:08 --> Helper loaded: file_helper
+INFO - 2020-12-28 09:43:08 --> Helper loaded: form_helper
+INFO - 2020-12-28 09:43:08 --> Helper loaded: security_helper
+INFO - 2020-12-28 09:43:08 --> Helper loaded: xss_helper
+INFO - 2020-12-28 09:43:08 --> Helper loaded: slug_helper
+INFO - 2020-12-28 09:43:08 --> Database Driver Class Initialized
+DEBUG - 2020-12-28 09:43:08 --> Session: "sess_save_path" is empty; using "session.save_path" value from php.ini.
+INFO - 2020-12-28 09:43:08 --> Session: Class initialized using 'files' driver.
+INFO - 2020-12-28 09:43:08 --> Language file loaded: language/english/pagination_lang.php
+INFO - 2020-12-28 09:43:08 --> Pagination Class Initialized
+INFO - 2020-12-28 09:43:09 --> Email Class Initialized
+INFO - 2020-12-28 09:43:09 --> Model "M_konfig" initialized
+INFO - 2020-12-28 09:43:09 --> Model "M_reff" initialized
+INFO - 2020-12-28 09:43:09 --> Model "M_total" initialized
+INFO - 2020-12-28 09:43:09 --> Controller Class Initialized
+DEBUG - 2020-12-28 09:43:09 --> Maps_kri MX_Controller Initialized
+DEBUG - 2020-12-28 09:43:09 --> File loaded: D:\xampp72\htdocs\app_grm\application\modules/maps_kri/models/Model.php
+DEBUG - 2020-12-28 15:43:09 --> File loaded: D:\xampp72\htdocs\app_grm\application\views\temp_maps_kri/head.php
+DEBUG - 2020-12-28 15:43:09 --> File loaded: D:\xampp72\htdocs\app_grm\application\views\temp_maps_kri/navbar.php
+DEBUG - 2020-12-28 15:43:09 --> File loaded: D:\xampp72\htdocs\app_grm\application\views\temp_maps_kri/sidebar_left.php
+DEBUG - 2020-12-28 15:43:09 --> File loaded: D:\xampp72\htdocs\app_grm\application\views\temp_maps_kri/sidebar_right.php
+DEBUG - 2020-12-28 15:43:09 --> File loaded: D:\xampp72\htdocs\app_grm\application\modules/maps_kri/views/index.php
+DEBUG - 2020-12-28 15:43:09 --> File loaded: D:\xampp72\htdocs\app_grm\application\views\temp_maps_kri/quick_bar.php
+DEBUG - 2020-12-28 15:43:09 --> File loaded: D:\xampp72\htdocs\app_grm\application\views\temp_maps_kri/toggle.php
+DEBUG - 2020-12-28 15:43:09 --> File loaded: D:\xampp72\htdocs\app_grm\application\views\temp_maps_kri/konten.php
+DEBUG - 2020-12-28 15:43:09 --> File loaded: D:\xampp72\htdocs\app_grm\application\views\temp_maps_kri/foot.php
+DEBUG - 2020-12-28 15:43:09 --> File loaded: D:\xampp72\htdocs\app_grm\application\views\temp_maps_kri/main.php
+INFO - 2020-12-28 15:43:09 --> Final output sent to browser
+DEBUG - 2020-12-28 15:43:09 --> Total execution time: 1.4602
+INFO - 2020-12-28 09:43:09 --> Config Class Initialized
+INFO - 2020-12-28 09:43:09 --> Hooks Class Initialized
+DEBUG - 2020-12-28 09:43:09 --> UTF-8 Support Enabled
+INFO - 2020-12-28 09:43:09 --> Utf8 Class Initialized
+INFO - 2020-12-28 09:43:09 --> URI Class Initialized
+INFO - 2020-12-28 09:43:09 --> Router Class Initialized
+INFO - 2020-12-28 09:43:09 --> Output Class Initialized
+INFO - 2020-12-28 09:43:09 --> Security Class Initialized
+DEBUG - 2020-12-28 09:43:09 --> Global POST, GET and COOKIE data sanitized
+INFO - 2020-12-28 09:43:09 --> Input Class Initialized
+INFO - 2020-12-28 09:43:09 --> Language Class Initialized
+ERROR - 2020-12-28 09:43:09 --> 404 Page Not Found: /index
+INFO - 2020-12-28 09:43:10 --> Config Class Initialized
+INFO - 2020-12-28 09:43:10 --> Hooks Class Initialized
+DEBUG - 2020-12-28 09:43:10 --> UTF-8 Support Enabled
+INFO - 2020-12-28 09:43:10 --> Utf8 Class Initialized
+INFO - 2020-12-28 09:43:10 --> URI Class Initialized
+INFO - 2020-12-28 09:43:10 --> Router Class Initialized
+INFO - 2020-12-28 09:43:10 --> Output Class Initialized
+INFO - 2020-12-28 09:43:10 --> Security Class Initialized
+DEBUG - 2020-12-28 09:43:10 --> Global POST, GET and COOKIE data sanitized
+INFO - 2020-12-28 09:43:10 --> Input Class Initialized
+INFO - 2020-12-28 09:43:10 --> Language Class Initialized
+ERROR - 2020-12-28 09:43:11 --> 404 Page Not Found: /index
+INFO - 2020-12-28 09:43:12 --> Config Class Initialized
+INFO - 2020-12-28 09:43:12 --> Hooks Class Initialized
+DEBUG - 2020-12-28 09:43:12 --> UTF-8 Support Enabled
+INFO - 2020-12-28 09:43:12 --> Utf8 Class Initialized
+INFO - 2020-12-28 09:43:12 --> URI Class Initialized
+INFO - 2020-12-28 09:43:12 --> Router Class Initialized
+INFO - 2020-12-28 09:43:12 --> Output Class Initialized
+INFO - 2020-12-28 09:43:12 --> Security Class Initialized
+INFO - 2020-12-28 09:43:12 --> Config Class Initialized
+INFO - 2020-12-28 09:43:12 --> Hooks Class Initialized
+DEBUG - 2020-12-28 09:43:12 --> UTF-8 Support Enabled
+INFO - 2020-12-28 09:43:12 --> Utf8 Class Initialized
+INFO - 2020-12-28 09:43:12 --> URI Class Initialized
+INFO - 2020-12-28 09:43:12 --> Router Class Initialized
+INFO - 2020-12-28 09:43:12 --> Output Class Initialized
+INFO - 2020-12-28 09:43:12 --> Security Class Initialized
+DEBUG - 2020-12-28 09:43:12 --> Global POST, GET and COOKIE data sanitized
+INFO - 2020-12-28 09:43:12 --> Input Class Initialized
+INFO - 2020-12-28 09:43:12 --> Language Class Initialized
+ERROR - 2020-12-28 09:43:12 --> 404 Page Not Found: /index
+DEBUG - 2020-12-28 09:43:12 --> Global POST, GET and COOKIE data sanitized
+INFO - 2020-12-28 09:43:13 --> Input Class Initialized
+INFO - 2020-12-28 09:43:13 --> Language Class Initialized
+INFO - 2020-12-28 09:43:13 --> Language Class Initialized
+INFO - 2020-12-28 09:43:13 --> Config Class Initialized
+INFO - 2020-12-28 09:43:13 --> Loader Class Initialized
+INFO - 2020-12-28 09:43:13 --> Helper loaded: url_helper
+INFO - 2020-12-28 09:43:13 --> Helper loaded: html_helper
+INFO - 2020-12-28 09:43:13 --> Helper loaded: file_helper
+INFO - 2020-12-28 09:43:13 --> Helper loaded: form_helper
+INFO - 2020-12-28 09:43:13 --> Helper loaded: security_helper
+INFO - 2020-12-28 09:43:13 --> Helper loaded: xss_helper
+INFO - 2020-12-28 09:43:13 --> Helper loaded: slug_helper
+INFO - 2020-12-28 09:43:13 --> Database Driver Class Initialized
+DEBUG - 2020-12-28 09:43:13 --> Session: "sess_save_path" is empty; using "session.save_path" value from php.ini.
+INFO - 2020-12-28 09:43:14 --> Session: Class initialized using 'files' driver.
+INFO - 2020-12-28 09:43:14 --> Language file loaded: language/english/pagination_lang.php
+INFO - 2020-12-28 09:43:14 --> Pagination Class Initialized
+INFO - 2020-12-28 09:43:14 --> Email Class Initialized
+INFO - 2020-12-28 09:43:14 --> Model "M_konfig" initialized
+INFO - 2020-12-28 09:43:14 --> Model "M_reff" initialized
+INFO - 2020-12-28 09:43:14 --> Model "M_total" initialized
+INFO - 2020-12-28 09:43:14 --> Controller Class Initialized
+DEBUG - 2020-12-28 09:43:14 --> Maps_kri MX_Controller Initialized
+DEBUG - 2020-12-28 09:43:14 --> File loaded: D:\xampp72\htdocs\app_grm\application\modules/maps_kri/models/Model.php
+INFO - 2020-12-28 15:43:14 --> Final output sent to browser
+DEBUG - 2020-12-28 15:43:14 --> Total execution time: 2.2292
+INFO - 2020-12-28 09:43:29 --> Config Class Initialized
+INFO - 2020-12-28 09:43:29 --> Hooks Class Initialized
+DEBUG - 2020-12-28 09:43:29 --> UTF-8 Support Enabled
+INFO - 2020-12-28 09:43:29 --> Utf8 Class Initialized
+INFO - 2020-12-28 09:43:29 --> URI Class Initialized
+INFO - 2020-12-28 09:43:29 --> Router Class Initialized
+INFO - 2020-12-28 09:43:29 --> Output Class Initialized
+INFO - 2020-12-28 09:43:29 --> Security Class Initialized
+DEBUG - 2020-12-28 09:43:29 --> Global POST, GET and COOKIE data sanitized
+INFO - 2020-12-28 09:43:29 --> Input Class Initialized
+INFO - 2020-12-28 09:43:29 --> Language Class Initialized
+INFO - 2020-12-28 09:43:29 --> Language Class Initialized
+INFO - 2020-12-28 09:43:29 --> Config Class Initialized
+INFO - 2020-12-28 09:43:29 --> Loader Class Initialized
+INFO - 2020-12-28 09:43:30 --> Helper loaded: url_helper
+INFO - 2020-12-28 09:43:30 --> Helper loaded: html_helper
+INFO - 2020-12-28 09:43:30 --> Helper loaded: file_helper
+INFO - 2020-12-28 09:43:30 --> Helper loaded: form_helper
+INFO - 2020-12-28 09:43:30 --> Helper loaded: security_helper
+INFO - 2020-12-28 09:43:30 --> Helper loaded: xss_helper
+INFO - 2020-12-28 09:43:30 --> Helper loaded: slug_helper
+INFO - 2020-12-28 09:43:30 --> Database Driver Class Initialized
+DEBUG - 2020-12-28 09:43:30 --> Session: "sess_save_path" is empty; using "session.save_path" value from php.ini.
+INFO - 2020-12-28 09:43:30 --> Session: Class initialized using 'files' driver.
+INFO - 2020-12-28 09:43:30 --> Language file loaded: language/english/pagination_lang.php
+INFO - 2020-12-28 09:43:30 --> Pagination Class Initialized
+INFO - 2020-12-28 09:43:30 --> Email Class Initialized
+INFO - 2020-12-28 09:43:30 --> Model "M_konfig" initialized
+INFO - 2020-12-28 09:43:30 --> Model "M_reff" initialized
+INFO - 2020-12-28 09:43:30 --> Model "M_total" initialized
+INFO - 2020-12-28 09:43:30 --> Controller Class Initialized
+DEBUG - 2020-12-28 09:43:30 --> Maps_kri MX_Controller Initialized
+DEBUG - 2020-12-28 09:43:30 --> File loaded: D:\xampp72\htdocs\app_grm\application\modules/maps_kri/models/Model.php
+DEBUG - 2020-12-28 15:43:30 --> File loaded: D:\xampp72\htdocs\app_grm\application\views\temp_maps_kri/head.php
+DEBUG - 2020-12-28 15:43:30 --> File loaded: D:\xampp72\htdocs\app_grm\application\views\temp_maps_kri/navbar.php
+DEBUG - 2020-12-28 15:43:30 --> File loaded: D:\xampp72\htdocs\app_grm\application\views\temp_maps_kri/sidebar_left.php
+DEBUG - 2020-12-28 15:43:30 --> File loaded: D:\xampp72\htdocs\app_grm\application\views\temp_maps_kri/sidebar_right.php
+DEBUG - 2020-12-28 15:43:30 --> File loaded: D:\xampp72\htdocs\app_grm\application\modules/maps_kri/views/index.php
+DEBUG - 2020-12-28 15:43:30 --> File loaded: D:\xampp72\htdocs\app_grm\application\views\temp_maps_kri/quick_bar.php
+DEBUG - 2020-12-28 15:43:30 --> File loaded: D:\xampp72\htdocs\app_grm\application\views\temp_maps_kri/toggle.php
+DEBUG - 2020-12-28 15:43:31 --> File loaded: D:\xampp72\htdocs\app_grm\application\views\temp_maps_kri/konten.php
+DEBUG - 2020-12-28 15:43:31 --> File loaded: D:\xampp72\htdocs\app_grm\application\views\temp_maps_kri/foot.php
+DEBUG - 2020-12-28 15:43:31 --> File loaded: D:\xampp72\htdocs\app_grm\application\views\temp_maps_kri/main.php
+INFO - 2020-12-28 15:43:31 --> Final output sent to browser
+DEBUG - 2020-12-28 15:43:31 --> Total execution time: 1.6688
+INFO - 2020-12-28 09:43:31 --> Config Class Initialized
+INFO - 2020-12-28 09:43:31 --> Hooks Class Initialized
+DEBUG - 2020-12-28 09:43:31 --> UTF-8 Support Enabled
+INFO - 2020-12-28 09:43:31 --> Utf8 Class Initialized
+INFO - 2020-12-28 09:43:31 --> URI Class Initialized
+INFO - 2020-12-28 09:43:31 --> Router Class Initialized
+INFO - 2020-12-28 09:43:31 --> Output Class Initialized
+INFO - 2020-12-28 09:43:31 --> Security Class Initialized
+DEBUG - 2020-12-28 09:43:31 --> Global POST, GET and COOKIE data sanitized
+INFO - 2020-12-28 09:43:31 --> Input Class Initialized
+INFO - 2020-12-28 09:43:31 --> Language Class Initialized
+ERROR - 2020-12-28 09:43:31 --> 404 Page Not Found: /index
+INFO - 2020-12-28 09:43:31 --> Config Class Initialized
+INFO - 2020-12-28 09:43:32 --> Hooks Class Initialized
+DEBUG - 2020-12-28 09:43:32 --> UTF-8 Support Enabled
+INFO - 2020-12-28 09:43:32 --> Utf8 Class Initialized
+INFO - 2020-12-28 09:43:32 --> URI Class Initialized
+INFO - 2020-12-28 09:43:32 --> Router Class Initialized
+INFO - 2020-12-28 09:43:32 --> Output Class Initialized
+INFO - 2020-12-28 09:43:32 --> Security Class Initialized
+DEBUG - 2020-12-28 09:43:32 --> Global POST, GET and COOKIE data sanitized
+INFO - 2020-12-28 09:43:32 --> Input Class Initialized
+INFO - 2020-12-28 09:43:32 --> Language Class Initialized
+ERROR - 2020-12-28 09:43:32 --> 404 Page Not Found: /index
+INFO - 2020-12-28 09:43:33 --> Config Class Initialized
+INFO - 2020-12-28 09:43:33 --> Config Class Initialized
+INFO - 2020-12-28 09:43:33 --> Hooks Class Initialized
+DEBUG - 2020-12-28 09:43:33 --> UTF-8 Support Enabled
+INFO - 2020-12-28 09:43:33 --> Utf8 Class Initialized
+INFO - 2020-12-28 09:43:33 --> URI Class Initialized
+INFO - 2020-12-28 09:43:33 --> Router Class Initialized
+INFO - 2020-12-28 09:43:33 --> Output Class Initialized
+INFO - 2020-12-28 09:43:33 --> Security Class Initialized
+DEBUG - 2020-12-28 09:43:34 --> Global POST, GET and COOKIE data sanitized
+INFO - 2020-12-28 09:43:34 --> Input Class Initialized
+INFO - 2020-12-28 09:43:34 --> Language Class Initialized
+INFO - 2020-12-28 09:43:34 --> Hooks Class Initialized
+INFO - 2020-12-28 09:43:34 --> Language Class Initialized
+INFO - 2020-12-28 09:43:34 --> Config Class Initialized
+INFO - 2020-12-28 09:43:34 --> Loader Class Initialized
+INFO - 2020-12-28 09:43:34 --> Helper loaded: url_helper
+INFO - 2020-12-28 09:43:34 --> Helper loaded: html_helper
+INFO - 2020-12-28 09:43:34 --> Helper loaded: file_helper
+INFO - 2020-12-28 09:43:34 --> Helper loaded: form_helper
+INFO - 2020-12-28 09:43:34 --> Helper loaded: security_helper
+INFO - 2020-12-28 09:43:34 --> Helper loaded: xss_helper
+INFO - 2020-12-28 09:43:34 --> Helper loaded: slug_helper
+INFO - 2020-12-28 09:43:34 --> Database Driver Class Initialized
+DEBUG - 2020-12-28 09:43:34 --> Session: "sess_save_path" is empty; using "session.save_path" value from php.ini.
+DEBUG - 2020-12-28 09:43:34 --> UTF-8 Support Enabled
+INFO - 2020-12-28 09:43:34 --> Utf8 Class Initialized
+INFO - 2020-12-28 09:43:34 --> URI Class Initialized
+INFO - 2020-12-28 09:43:34 --> Router Class Initialized
+INFO - 2020-12-28 09:43:34 --> Output Class Initialized
+INFO - 2020-12-28 09:43:34 --> Security Class Initialized
+DEBUG - 2020-12-28 09:43:34 --> Global POST, GET and COOKIE data sanitized
+INFO - 2020-12-28 09:43:34 --> Input Class Initialized
+INFO - 2020-12-28 09:43:34 --> Language Class Initialized
+ERROR - 2020-12-28 09:43:34 --> 404 Page Not Found: /index
+INFO - 2020-12-28 09:43:34 --> Session: Class initialized using 'files' driver.
+INFO - 2020-12-28 09:43:34 --> Language file loaded: language/english/pagination_lang.php
+INFO - 2020-12-28 09:43:34 --> Pagination Class Initialized
+INFO - 2020-12-28 09:43:34 --> Email Class Initialized
+INFO - 2020-12-28 09:43:34 --> Model "M_konfig" initialized
+INFO - 2020-12-28 09:43:34 --> Model "M_reff" initialized
+INFO - 2020-12-28 09:43:34 --> Model "M_total" initialized
+INFO - 2020-12-28 09:43:34 --> Controller Class Initialized
+DEBUG - 2020-12-28 09:43:34 --> Maps_kri MX_Controller Initialized
+DEBUG - 2020-12-28 09:43:34 --> File loaded: D:\xampp72\htdocs\app_grm\application\modules/maps_kri/models/Model.php
+INFO - 2020-12-28 15:43:34 --> Final output sent to browser
+DEBUG - 2020-12-28 15:43:34 --> Total execution time: 0.8894
+INFO - 2020-12-28 09:43:51 --> Config Class Initialized
+INFO - 2020-12-28 09:43:52 --> Hooks Class Initialized
+DEBUG - 2020-12-28 09:43:52 --> UTF-8 Support Enabled
+INFO - 2020-12-28 09:43:52 --> Utf8 Class Initialized
+INFO - 2020-12-28 09:43:52 --> URI Class Initialized
+INFO - 2020-12-28 09:43:52 --> Router Class Initialized
+INFO - 2020-12-28 09:43:52 --> Output Class Initialized
+INFO - 2020-12-28 09:43:52 --> Security Class Initialized
+DEBUG - 2020-12-28 09:43:52 --> Global POST, GET and COOKIE data sanitized
+INFO - 2020-12-28 09:43:52 --> Input Class Initialized
+INFO - 2020-12-28 09:43:52 --> Language Class Initialized
+INFO - 2020-12-28 09:43:52 --> Language Class Initialized
+INFO - 2020-12-28 09:43:52 --> Config Class Initialized
+INFO - 2020-12-28 09:43:52 --> Loader Class Initialized
+INFO - 2020-12-28 09:43:52 --> Helper loaded: url_helper
+INFO - 2020-12-28 09:43:52 --> Helper loaded: html_helper
+INFO - 2020-12-28 09:43:52 --> Helper loaded: file_helper
+INFO - 2020-12-28 09:43:52 --> Helper loaded: form_helper
+INFO - 2020-12-28 09:43:52 --> Helper loaded: security_helper
+INFO - 2020-12-28 09:43:52 --> Helper loaded: xss_helper
+INFO - 2020-12-28 09:43:52 --> Helper loaded: slug_helper
+INFO - 2020-12-28 09:43:52 --> Database Driver Class Initialized
+DEBUG - 2020-12-28 09:43:52 --> Session: "sess_save_path" is empty; using "session.save_path" value from php.ini.
+INFO - 2020-12-28 09:43:53 --> Session: Class initialized using 'files' driver.
+INFO - 2020-12-28 09:43:53 --> Language file loaded: language/english/pagination_lang.php
+INFO - 2020-12-28 09:43:53 --> Pagination Class Initialized
+INFO - 2020-12-28 09:43:53 --> Email Class Initialized
+INFO - 2020-12-28 09:43:53 --> Model "M_konfig" initialized
+INFO - 2020-12-28 09:43:53 --> Model "M_reff" initialized
+INFO - 2020-12-28 09:43:53 --> Model "M_total" initialized
+INFO - 2020-12-28 09:43:53 --> Controller Class Initialized
+DEBUG - 2020-12-28 09:43:53 --> Maps_kri MX_Controller Initialized
+DEBUG - 2020-12-28 09:43:53 --> File loaded: D:\xampp72\htdocs\app_grm\application\modules/maps_kri/models/Model.php
+DEBUG - 2020-12-28 15:43:53 --> File loaded: D:\xampp72\htdocs\app_grm\application\views\temp_maps_kri/head.php
+DEBUG - 2020-12-28 15:43:53 --> File loaded: D:\xampp72\htdocs\app_grm\application\views\temp_maps_kri/navbar.php
+DEBUG - 2020-12-28 15:43:53 --> File loaded: D:\xampp72\htdocs\app_grm\application\views\temp_maps_kri/sidebar_left.php
+DEBUG - 2020-12-28 15:43:53 --> File loaded: D:\xampp72\htdocs\app_grm\application\views\temp_maps_kri/sidebar_right.php
+DEBUG - 2020-12-28 15:43:53 --> File loaded: D:\xampp72\htdocs\app_grm\application\modules/maps_kri/views/index.php
+DEBUG - 2020-12-28 15:43:53 --> File loaded: D:\xampp72\htdocs\app_grm\application\views\temp_maps_kri/quick_bar.php
+DEBUG - 2020-12-28 15:43:53 --> File loaded: D:\xampp72\htdocs\app_grm\application\views\temp_maps_kri/toggle.php
+DEBUG - 2020-12-28 15:43:53 --> File loaded: D:\xampp72\htdocs\app_grm\application\views\temp_maps_kri/konten.php
+DEBUG - 2020-12-28 15:43:53 --> File loaded: D:\xampp72\htdocs\app_grm\application\views\temp_maps_kri/foot.php
+DEBUG - 2020-12-28 15:43:53 --> File loaded: D:\xampp72\htdocs\app_grm\application\views\temp_maps_kri/main.php
+INFO - 2020-12-28 15:43:53 --> Final output sent to browser
+DEBUG - 2020-12-28 15:43:53 --> Total execution time: 1.7959
+INFO - 2020-12-28 09:43:53 --> Config Class Initialized
+INFO - 2020-12-28 09:43:53 --> Hooks Class Initialized
+DEBUG - 2020-12-28 09:43:53 --> UTF-8 Support Enabled
+INFO - 2020-12-28 09:43:54 --> Utf8 Class Initialized
+INFO - 2020-12-28 09:43:54 --> URI Class Initialized
+INFO - 2020-12-28 09:43:54 --> Router Class Initialized
+INFO - 2020-12-28 09:43:54 --> Output Class Initialized
+INFO - 2020-12-28 09:43:54 --> Security Class Initialized
+DEBUG - 2020-12-28 09:43:54 --> Global POST, GET and COOKIE data sanitized
+INFO - 2020-12-28 09:43:54 --> Input Class Initialized
+INFO - 2020-12-28 09:43:54 --> Language Class Initialized
+ERROR - 2020-12-28 09:43:54 --> 404 Page Not Found: /index
+INFO - 2020-12-28 09:43:54 --> Config Class Initialized
+INFO - 2020-12-28 09:43:54 --> Hooks Class Initialized
+DEBUG - 2020-12-28 09:43:54 --> UTF-8 Support Enabled
+INFO - 2020-12-28 09:43:54 --> Utf8 Class Initialized
+INFO - 2020-12-28 09:43:54 --> URI Class Initialized
+INFO - 2020-12-28 09:43:55 --> Router Class Initialized
+INFO - 2020-12-28 09:43:55 --> Output Class Initialized
+INFO - 2020-12-28 09:43:55 --> Security Class Initialized
+DEBUG - 2020-12-28 09:43:55 --> Global POST, GET and COOKIE data sanitized
+INFO - 2020-12-28 09:43:55 --> Input Class Initialized
+INFO - 2020-12-28 09:43:55 --> Language Class Initialized
+ERROR - 2020-12-28 09:43:55 --> 404 Page Not Found: /index
+INFO - 2020-12-28 09:43:56 --> Config Class Initialized
+INFO - 2020-12-28 09:43:56 --> Hooks Class Initialized
+DEBUG - 2020-12-28 09:43:56 --> UTF-8 Support Enabled
+INFO - 2020-12-28 09:43:56 --> Utf8 Class Initialized
+INFO - 2020-12-28 09:43:56 --> URI Class Initialized
+INFO - 2020-12-28 09:43:56 --> Router Class Initialized
+INFO - 2020-12-28 09:43:57 --> Config Class Initialized
+INFO - 2020-12-28 09:43:57 --> Hooks Class Initialized
+DEBUG - 2020-12-28 09:43:57 --> UTF-8 Support Enabled
+INFO - 2020-12-28 09:43:57 --> Utf8 Class Initialized
+INFO - 2020-12-28 09:43:57 --> URI Class Initialized
+INFO - 2020-12-28 09:43:57 --> Router Class Initialized
+INFO - 2020-12-28 09:43:57 --> Output Class Initialized
+INFO - 2020-12-28 09:43:57 --> Security Class Initialized
+INFO - 2020-12-28 09:43:57 --> Output Class Initialized
+INFO - 2020-12-28 09:43:57 --> Security Class Initialized
+DEBUG - 2020-12-28 09:43:57 --> Global POST, GET and COOKIE data sanitized
+INFO - 2020-12-28 09:43:57 --> Input Class Initialized
+INFO - 2020-12-28 09:43:57 --> Language Class Initialized
+INFO - 2020-12-28 09:43:57 --> Language Class Initialized
+DEBUG - 2020-12-28 09:43:57 --> Global POST, GET and COOKIE data sanitized
+INFO - 2020-12-28 09:43:57 --> Config Class Initialized
+INFO - 2020-12-28 09:43:57 --> Loader Class Initialized
+INFO - 2020-12-28 09:43:57 --> Helper loaded: url_helper
+INFO - 2020-12-28 09:43:57 --> Helper loaded: html_helper
+INFO - 2020-12-28 09:43:57 --> Helper loaded: file_helper
+INFO - 2020-12-28 09:43:57 --> Helper loaded: form_helper
+INFO - 2020-12-28 09:43:57 --> Helper loaded: security_helper
+INFO - 2020-12-28 09:43:57 --> Helper loaded: xss_helper
+INFO - 2020-12-28 09:43:57 --> Helper loaded: slug_helper
+INFO - 2020-12-28 09:43:57 --> Database Driver Class Initialized
+INFO - 2020-12-28 09:43:57 --> Input Class Initialized
+DEBUG - 2020-12-28 09:43:57 --> Session: "sess_save_path" is empty; using "session.save_path" value from php.ini.
+INFO - 2020-12-28 09:43:57 --> Session: Class initialized using 'files' driver.
+INFO - 2020-12-28 09:43:57 --> Language file loaded: language/english/pagination_lang.php
+INFO - 2020-12-28 09:43:57 --> Pagination Class Initialized
+INFO - 2020-12-28 09:43:57 --> Email Class Initialized
+INFO - 2020-12-28 09:43:57 --> Model "M_konfig" initialized
+INFO - 2020-12-28 09:43:57 --> Model "M_reff" initialized
+INFO - 2020-12-28 09:43:57 --> Model "M_total" initialized
+INFO - 2020-12-28 09:43:57 --> Controller Class Initialized
+DEBUG - 2020-12-28 09:43:57 --> Maps_kri MX_Controller Initialized
+DEBUG - 2020-12-28 09:43:57 --> File loaded: D:\xampp72\htdocs\app_grm\application\modules/maps_kri/models/Model.php
+INFO - 2020-12-28 15:43:57 --> Final output sent to browser
+DEBUG - 2020-12-28 15:43:57 --> Total execution time: 0.5500
+INFO - 2020-12-28 09:43:57 --> Language Class Initialized
+ERROR - 2020-12-28 09:43:57 --> 404 Page Not Found: /index
+INFO - 2020-12-28 09:44:23 --> Config Class Initialized
+INFO - 2020-12-28 09:44:23 --> Hooks Class Initialized
+DEBUG - 2020-12-28 09:44:23 --> UTF-8 Support Enabled
+INFO - 2020-12-28 09:44:23 --> Utf8 Class Initialized
+INFO - 2020-12-28 09:44:23 --> URI Class Initialized
+INFO - 2020-12-28 09:44:23 --> Router Class Initialized
+INFO - 2020-12-28 09:44:24 --> Output Class Initialized
+INFO - 2020-12-28 09:44:24 --> Security Class Initialized
+DEBUG - 2020-12-28 09:44:24 --> Global POST, GET and COOKIE data sanitized
+INFO - 2020-12-28 09:44:24 --> Input Class Initialized
+INFO - 2020-12-28 09:44:24 --> Language Class Initialized
+INFO - 2020-12-28 09:44:24 --> Language Class Initialized
+INFO - 2020-12-28 09:44:24 --> Config Class Initialized
+INFO - 2020-12-28 09:44:24 --> Loader Class Initialized
+INFO - 2020-12-28 09:44:24 --> Helper loaded: url_helper
+INFO - 2020-12-28 09:44:24 --> Helper loaded: html_helper
+INFO - 2020-12-28 09:44:24 --> Helper loaded: file_helper
+INFO - 2020-12-28 09:44:24 --> Helper loaded: form_helper
+INFO - 2020-12-28 09:44:24 --> Helper loaded: security_helper
+INFO - 2020-12-28 09:44:24 --> Helper loaded: xss_helper
+INFO - 2020-12-28 09:44:24 --> Helper loaded: slug_helper
+INFO - 2020-12-28 09:44:24 --> Database Driver Class Initialized
+DEBUG - 2020-12-28 09:44:24 --> Session: "sess_save_path" is empty; using "session.save_path" value from php.ini.
+INFO - 2020-12-28 09:44:24 --> Session: Class initialized using 'files' driver.
+INFO - 2020-12-28 09:44:24 --> Language file loaded: language/english/pagination_lang.php
+INFO - 2020-12-28 09:44:24 --> Pagination Class Initialized
+INFO - 2020-12-28 09:44:24 --> Email Class Initialized
+INFO - 2020-12-28 09:44:25 --> Model "M_konfig" initialized
+INFO - 2020-12-28 09:44:25 --> Model "M_reff" initialized
+INFO - 2020-12-28 09:44:25 --> Model "M_total" initialized
+INFO - 2020-12-28 09:44:25 --> Controller Class Initialized
+DEBUG - 2020-12-28 09:44:25 --> Maps_kri MX_Controller Initialized
+DEBUG - 2020-12-28 09:44:25 --> File loaded: D:\xampp72\htdocs\app_grm\application\modules/maps_kri/models/Model.php
+DEBUG - 2020-12-28 15:44:25 --> File loaded: D:\xampp72\htdocs\app_grm\application\views\temp_maps_kri/head.php
+DEBUG - 2020-12-28 15:44:25 --> File loaded: D:\xampp72\htdocs\app_grm\application\views\temp_maps_kri/navbar.php
+DEBUG - 2020-12-28 15:44:25 --> File loaded: D:\xampp72\htdocs\app_grm\application\views\temp_maps_kri/sidebar_left.php
+DEBUG - 2020-12-28 15:44:25 --> File loaded: D:\xampp72\htdocs\app_grm\application\views\temp_maps_kri/sidebar_right.php
+DEBUG - 2020-12-28 15:44:25 --> File loaded: D:\xampp72\htdocs\app_grm\application\modules/maps_kri/views/index.php
+DEBUG - 2020-12-28 15:44:25 --> File loaded: D:\xampp72\htdocs\app_grm\application\views\temp_maps_kri/quick_bar.php
+DEBUG - 2020-12-28 15:44:25 --> File loaded: D:\xampp72\htdocs\app_grm\application\views\temp_maps_kri/toggle.php
+DEBUG - 2020-12-28 15:44:25 --> File loaded: D:\xampp72\htdocs\app_grm\application\views\temp_maps_kri/konten.php
+DEBUG - 2020-12-28 15:44:25 --> File loaded: D:\xampp72\htdocs\app_grm\application\views\temp_maps_kri/foot.php
+DEBUG - 2020-12-28 15:44:25 --> File loaded: D:\xampp72\htdocs\app_grm\application\views\temp_maps_kri/main.php
+INFO - 2020-12-28 15:44:25 --> Final output sent to browser
+INFO - 2020-12-28 09:44:25 --> Config Class Initialized
+INFO - 2020-12-28 09:44:25 --> Hooks Class Initialized
+DEBUG - 2020-12-28 09:44:25 --> UTF-8 Support Enabled
+INFO - 2020-12-28 09:44:25 --> Utf8 Class Initialized
+DEBUG - 2020-12-28 15:44:25 --> Total execution time: 1.6876
+INFO - 2020-12-28 09:44:25 --> URI Class Initialized
+INFO - 2020-12-28 09:44:25 --> Router Class Initialized
+INFO - 2020-12-28 09:44:25 --> Output Class Initialized
+INFO - 2020-12-28 09:44:25 --> Security Class Initialized
+DEBUG - 2020-12-28 09:44:25 --> Global POST, GET and COOKIE data sanitized
+INFO - 2020-12-28 09:44:25 --> Input Class Initialized
+INFO - 2020-12-28 09:44:25 --> Language Class Initialized
+ERROR - 2020-12-28 09:44:25 --> 404 Page Not Found: /index
+INFO - 2020-12-28 09:44:26 --> Config Class Initialized
+INFO - 2020-12-28 09:44:26 --> Hooks Class Initialized
+DEBUG - 2020-12-28 09:44:26 --> UTF-8 Support Enabled
+INFO - 2020-12-28 09:44:26 --> Utf8 Class Initialized
+INFO - 2020-12-28 09:44:26 --> URI Class Initialized
+INFO - 2020-12-28 09:44:26 --> Router Class Initialized
+INFO - 2020-12-28 09:44:26 --> Output Class Initialized
+INFO - 2020-12-28 09:44:26 --> Security Class Initialized
+DEBUG - 2020-12-28 09:44:26 --> Global POST, GET and COOKIE data sanitized
+INFO - 2020-12-28 09:44:26 --> Input Class Initialized
+INFO - 2020-12-28 09:44:26 --> Language Class Initialized
+ERROR - 2020-12-28 09:44:26 --> 404 Page Not Found: /index
+INFO - 2020-12-28 09:44:27 --> Config Class Initialized
+INFO - 2020-12-28 09:44:27 --> Hooks Class Initialized
+DEBUG - 2020-12-28 09:44:27 --> UTF-8 Support Enabled
+INFO - 2020-12-28 09:44:27 --> Utf8 Class Initialized
+INFO - 2020-12-28 09:44:28 --> URI Class Initialized
+INFO - 2020-12-28 09:44:28 --> Router Class Initialized
+INFO - 2020-12-28 09:44:28 --> Config Class Initialized
+INFO - 2020-12-28 09:44:28 --> Hooks Class Initialized
+DEBUG - 2020-12-28 09:44:28 --> UTF-8 Support Enabled
+INFO - 2020-12-28 09:44:28 --> Utf8 Class Initialized
+INFO - 2020-12-28 09:44:28 --> URI Class Initialized
+INFO - 2020-12-28 09:44:28 --> Router Class Initialized
+INFO - 2020-12-28 09:44:28 --> Output Class Initialized
+INFO - 2020-12-28 09:44:28 --> Security Class Initialized
+DEBUG - 2020-12-28 09:44:28 --> Global POST, GET and COOKIE data sanitized
+INFO - 2020-12-28 09:44:28 --> Input Class Initialized
+INFO - 2020-12-28 09:44:28 --> Language Class Initialized
+ERROR - 2020-12-28 09:44:28 --> 404 Page Not Found: /index
+INFO - 2020-12-28 09:44:28 --> Output Class Initialized
+INFO - 2020-12-28 09:44:28 --> Security Class Initialized
+DEBUG - 2020-12-28 09:44:28 --> Global POST, GET and COOKIE data sanitized
+INFO - 2020-12-28 09:44:28 --> Input Class Initialized
+INFO - 2020-12-28 09:44:28 --> Language Class Initialized
+INFO - 2020-12-28 09:44:28 --> Language Class Initialized
+INFO - 2020-12-28 09:44:28 --> Config Class Initialized
+INFO - 2020-12-28 09:44:28 --> Loader Class Initialized
+INFO - 2020-12-28 09:44:28 --> Helper loaded: url_helper
+INFO - 2020-12-28 09:44:28 --> Helper loaded: html_helper
+INFO - 2020-12-28 09:44:28 --> Helper loaded: file_helper
+INFO - 2020-12-28 09:44:28 --> Helper loaded: form_helper
+INFO - 2020-12-28 09:44:28 --> Helper loaded: security_helper
+INFO - 2020-12-28 09:44:28 --> Helper loaded: xss_helper
+INFO - 2020-12-28 09:44:29 --> Helper loaded: slug_helper
+INFO - 2020-12-28 09:44:29 --> Database Driver Class Initialized
+DEBUG - 2020-12-28 09:44:29 --> Session: "sess_save_path" is empty; using "session.save_path" value from php.ini.
+INFO - 2020-12-28 09:44:29 --> Session: Class initialized using 'files' driver.
+INFO - 2020-12-28 09:44:29 --> Language file loaded: language/english/pagination_lang.php
+INFO - 2020-12-28 09:44:29 --> Pagination Class Initialized
+INFO - 2020-12-28 09:44:29 --> Email Class Initialized
+INFO - 2020-12-28 09:44:29 --> Model "M_konfig" initialized
+INFO - 2020-12-28 09:44:29 --> Model "M_reff" initialized
+INFO - 2020-12-28 09:44:29 --> Model "M_total" initialized
+INFO - 2020-12-28 09:44:29 --> Controller Class Initialized
+DEBUG - 2020-12-28 09:44:29 --> Maps_kri MX_Controller Initialized
+DEBUG - 2020-12-28 09:44:29 --> File loaded: D:\xampp72\htdocs\app_grm\application\modules/maps_kri/models/Model.php
+INFO - 2020-12-28 15:44:29 --> Final output sent to browser
+DEBUG - 2020-12-28 15:44:29 --> Total execution time: 2.1093
+INFO - 2020-12-28 09:44:53 --> Config Class Initialized
+INFO - 2020-12-28 09:44:54 --> Hooks Class Initialized
+DEBUG - 2020-12-28 09:44:54 --> UTF-8 Support Enabled
+INFO - 2020-12-28 09:44:54 --> Utf8 Class Initialized
+INFO - 2020-12-28 09:44:54 --> URI Class Initialized
+INFO - 2020-12-28 09:44:54 --> Router Class Initialized
+INFO - 2020-12-28 09:44:54 --> Output Class Initialized
+INFO - 2020-12-28 09:44:54 --> Security Class Initialized
+DEBUG - 2020-12-28 09:44:54 --> Global POST, GET and COOKIE data sanitized
+INFO - 2020-12-28 09:44:54 --> Input Class Initialized
+INFO - 2020-12-28 09:44:54 --> Language Class Initialized
+INFO - 2020-12-28 09:44:54 --> Language Class Initialized
+INFO - 2020-12-28 09:44:54 --> Config Class Initialized
+INFO - 2020-12-28 09:44:54 --> Loader Class Initialized
+INFO - 2020-12-28 09:44:54 --> Helper loaded: url_helper
+INFO - 2020-12-28 09:44:54 --> Helper loaded: html_helper
+INFO - 2020-12-28 09:44:54 --> Helper loaded: file_helper
+INFO - 2020-12-28 09:44:54 --> Helper loaded: form_helper
+INFO - 2020-12-28 09:44:54 --> Helper loaded: security_helper
+INFO - 2020-12-28 09:44:54 --> Helper loaded: xss_helper
+INFO - 2020-12-28 09:44:54 --> Helper loaded: slug_helper
+INFO - 2020-12-28 09:44:54 --> Database Driver Class Initialized
+DEBUG - 2020-12-28 09:44:54 --> Session: "sess_save_path" is empty; using "session.save_path" value from php.ini.
+INFO - 2020-12-28 09:44:54 --> Session: Class initialized using 'files' driver.
+INFO - 2020-12-28 09:44:54 --> Language file loaded: language/english/pagination_lang.php
+INFO - 2020-12-28 09:44:54 --> Pagination Class Initialized
+INFO - 2020-12-28 09:44:54 --> Email Class Initialized
+INFO - 2020-12-28 09:44:54 --> Model "M_konfig" initialized
+INFO - 2020-12-28 09:44:54 --> Model "M_reff" initialized
+INFO - 2020-12-28 09:44:54 --> Model "M_total" initialized
+INFO - 2020-12-28 09:44:54 --> Controller Class Initialized
+DEBUG - 2020-12-28 09:44:54 --> Maps_kri MX_Controller Initialized
+DEBUG - 2020-12-28 09:44:55 --> File loaded: D:\xampp72\htdocs\app_grm\application\modules/maps_kri/models/Model.php
+DEBUG - 2020-12-28 15:44:55 --> File loaded: D:\xampp72\htdocs\app_grm\application\views\temp_maps_kri/head.php
+DEBUG - 2020-12-28 15:44:55 --> File loaded: D:\xampp72\htdocs\app_grm\application\views\temp_maps_kri/navbar.php
+DEBUG - 2020-12-28 15:44:55 --> File loaded: D:\xampp72\htdocs\app_grm\application\views\temp_maps_kri/sidebar_left.php
+DEBUG - 2020-12-28 15:44:55 --> File loaded: D:\xampp72\htdocs\app_grm\application\views\temp_maps_kri/sidebar_right.php
+DEBUG - 2020-12-28 15:44:55 --> File loaded: D:\xampp72\htdocs\app_grm\application\modules/maps_kri/views/index.php
+DEBUG - 2020-12-28 15:44:55 --> File loaded: D:\xampp72\htdocs\app_grm\application\views\temp_maps_kri/quick_bar.php
+DEBUG - 2020-12-28 15:44:55 --> File loaded: D:\xampp72\htdocs\app_grm\application\views\temp_maps_kri/toggle.php
+DEBUG - 2020-12-28 15:44:55 --> File loaded: D:\xampp72\htdocs\app_grm\application\views\temp_maps_kri/konten.php
+DEBUG - 2020-12-28 15:44:55 --> File loaded: D:\xampp72\htdocs\app_grm\application\views\temp_maps_kri/foot.php
+DEBUG - 2020-12-28 15:44:55 --> File loaded: D:\xampp72\htdocs\app_grm\application\views\temp_maps_kri/main.php
+INFO - 2020-12-28 15:44:55 --> Final output sent to browser
+DEBUG - 2020-12-28 15:44:55 --> Total execution time: 1.3808
+INFO - 2020-12-28 09:44:55 --> Config Class Initialized
+INFO - 2020-12-28 09:44:55 --> Hooks Class Initialized
+DEBUG - 2020-12-28 09:44:55 --> UTF-8 Support Enabled
+INFO - 2020-12-28 09:44:55 --> Utf8 Class Initialized
+INFO - 2020-12-28 09:44:55 --> URI Class Initialized
+INFO - 2020-12-28 09:44:55 --> Router Class Initialized
+INFO - 2020-12-28 09:44:55 --> Output Class Initialized
+INFO - 2020-12-28 09:44:55 --> Security Class Initialized
+DEBUG - 2020-12-28 09:44:55 --> Global POST, GET and COOKIE data sanitized
+INFO - 2020-12-28 09:44:55 --> Input Class Initialized
+INFO - 2020-12-28 09:44:55 --> Language Class Initialized
+ERROR - 2020-12-28 09:44:55 --> 404 Page Not Found: /index
+INFO - 2020-12-28 09:44:56 --> Config Class Initialized
+INFO - 2020-12-28 09:44:56 --> Hooks Class Initialized
+DEBUG - 2020-12-28 09:44:56 --> UTF-8 Support Enabled
+INFO - 2020-12-28 09:44:56 --> Utf8 Class Initialized
+INFO - 2020-12-28 09:44:56 --> URI Class Initialized
+INFO - 2020-12-28 09:44:56 --> Router Class Initialized
+INFO - 2020-12-28 09:44:56 --> Output Class Initialized
+INFO - 2020-12-28 09:44:56 --> Security Class Initialized
+DEBUG - 2020-12-28 09:44:56 --> Global POST, GET and COOKIE data sanitized
+INFO - 2020-12-28 09:44:56 --> Input Class Initialized
+INFO - 2020-12-28 09:44:56 --> Language Class Initialized
+ERROR - 2020-12-28 09:44:56 --> 404 Page Not Found: /index
+INFO - 2020-12-28 09:44:57 --> Config Class Initialized
+INFO - 2020-12-28 09:44:57 --> Hooks Class Initialized
+DEBUG - 2020-12-28 09:44:58 --> UTF-8 Support Enabled
+INFO - 2020-12-28 09:44:58 --> Utf8 Class Initialized
+INFO - 2020-12-28 09:44:58 --> URI Class Initialized
+INFO - 2020-12-28 09:44:58 --> Router Class Initialized
+INFO - 2020-12-28 09:44:58 --> Output Class Initialized
+INFO - 2020-12-28 09:44:58 --> Config Class Initialized
+INFO - 2020-12-28 09:44:58 --> Hooks Class Initialized
+DEBUG - 2020-12-28 09:44:58 --> UTF-8 Support Enabled
+INFO - 2020-12-28 09:44:58 --> Utf8 Class Initialized
+INFO - 2020-12-28 09:44:58 --> URI Class Initialized
+INFO - 2020-12-28 09:44:58 --> Router Class Initialized
+INFO - 2020-12-28 09:44:58 --> Output Class Initialized
+INFO - 2020-12-28 09:44:58 --> Security Class Initialized
+DEBUG - 2020-12-28 09:44:58 --> Global POST, GET and COOKIE data sanitized
+INFO - 2020-12-28 09:44:58 --> Input Class Initialized
+INFO - 2020-12-28 09:44:58 --> Language Class Initialized
+ERROR - 2020-12-28 09:44:58 --> 404 Page Not Found: /index
+INFO - 2020-12-28 09:44:58 --> Security Class Initialized
+DEBUG - 2020-12-28 09:44:58 --> Global POST, GET and COOKIE data sanitized
+INFO - 2020-12-28 09:44:58 --> Input Class Initialized
+INFO - 2020-12-28 09:44:58 --> Language Class Initialized
+INFO - 2020-12-28 09:44:58 --> Language Class Initialized
+INFO - 2020-12-28 09:44:58 --> Config Class Initialized
+INFO - 2020-12-28 09:44:58 --> Loader Class Initialized
+INFO - 2020-12-28 09:44:58 --> Helper loaded: url_helper
+INFO - 2020-12-28 09:44:58 --> Helper loaded: html_helper
+INFO - 2020-12-28 09:44:58 --> Helper loaded: file_helper
+INFO - 2020-12-28 09:44:58 --> Helper loaded: form_helper
+INFO - 2020-12-28 09:44:58 --> Helper loaded: security_helper
+INFO - 2020-12-28 09:44:59 --> Helper loaded: xss_helper
+INFO - 2020-12-28 09:44:59 --> Helper loaded: slug_helper
+INFO - 2020-12-28 09:44:59 --> Database Driver Class Initialized
+DEBUG - 2020-12-28 09:44:59 --> Session: "sess_save_path" is empty; using "session.save_path" value from php.ini.
+INFO - 2020-12-28 09:44:59 --> Session: Class initialized using 'files' driver.
+INFO - 2020-12-28 09:44:59 --> Language file loaded: language/english/pagination_lang.php
+INFO - 2020-12-28 09:44:59 --> Pagination Class Initialized
+INFO - 2020-12-28 09:44:59 --> Email Class Initialized
+INFO - 2020-12-28 09:44:59 --> Model "M_konfig" initialized
+INFO - 2020-12-28 09:44:59 --> Model "M_reff" initialized
+INFO - 2020-12-28 09:44:59 --> Model "M_total" initialized
+INFO - 2020-12-28 09:44:59 --> Controller Class Initialized
+DEBUG - 2020-12-28 09:44:59 --> Maps_kri MX_Controller Initialized
+DEBUG - 2020-12-28 09:44:59 --> File loaded: D:\xampp72\htdocs\app_grm\application\modules/maps_kri/models/Model.php
+INFO - 2020-12-28 15:44:59 --> Final output sent to browser
+DEBUG - 2020-12-28 15:44:59 --> Total execution time: 1.9446
+INFO - 2020-12-28 09:45:21 --> Config Class Initialized
+INFO - 2020-12-28 09:45:21 --> Hooks Class Initialized
+DEBUG - 2020-12-28 09:45:21 --> UTF-8 Support Enabled
+INFO - 2020-12-28 09:45:21 --> Utf8 Class Initialized
+INFO - 2020-12-28 09:45:21 --> URI Class Initialized
+INFO - 2020-12-28 09:45:21 --> Router Class Initialized
+INFO - 2020-12-28 09:45:21 --> Output Class Initialized
+INFO - 2020-12-28 09:45:21 --> Security Class Initialized
+DEBUG - 2020-12-28 09:45:22 --> Global POST, GET and COOKIE data sanitized
+INFO - 2020-12-28 09:45:22 --> Input Class Initialized
+INFO - 2020-12-28 09:45:22 --> Language Class Initialized
+INFO - 2020-12-28 09:45:22 --> Language Class Initialized
+INFO - 2020-12-28 09:45:22 --> Config Class Initialized
+INFO - 2020-12-28 09:45:22 --> Loader Class Initialized
+INFO - 2020-12-28 09:45:22 --> Helper loaded: url_helper
+INFO - 2020-12-28 09:45:22 --> Helper loaded: html_helper
+INFO - 2020-12-28 09:45:22 --> Helper loaded: file_helper
+INFO - 2020-12-28 09:45:22 --> Helper loaded: form_helper
+INFO - 2020-12-28 09:45:22 --> Helper loaded: security_helper
+INFO - 2020-12-28 09:45:22 --> Helper loaded: xss_helper
+INFO - 2020-12-28 09:45:22 --> Helper loaded: slug_helper
+INFO - 2020-12-28 09:45:22 --> Database Driver Class Initialized
+DEBUG - 2020-12-28 09:45:22 --> Session: "sess_save_path" is empty; using "session.save_path" value from php.ini.
+INFO - 2020-12-28 09:45:22 --> Session: Class initialized using 'files' driver.
+INFO - 2020-12-28 09:45:22 --> Language file loaded: language/english/pagination_lang.php
+INFO - 2020-12-28 09:45:22 --> Pagination Class Initialized
+INFO - 2020-12-28 09:45:22 --> Email Class Initialized
+INFO - 2020-12-28 09:45:22 --> Model "M_konfig" initialized
+INFO - 2020-12-28 09:45:22 --> Model "M_reff" initialized
+INFO - 2020-12-28 09:45:22 --> Model "M_total" initialized
+INFO - 2020-12-28 09:45:22 --> Controller Class Initialized
+DEBUG - 2020-12-28 09:45:23 --> Maps_kri MX_Controller Initialized
+DEBUG - 2020-12-28 09:45:23 --> File loaded: D:\xampp72\htdocs\app_grm\application\modules/maps_kri/models/Model.php
+DEBUG - 2020-12-28 15:45:23 --> File loaded: D:\xampp72\htdocs\app_grm\application\views\temp_maps_kri/head.php
+DEBUG - 2020-12-28 15:45:23 --> File loaded: D:\xampp72\htdocs\app_grm\application\views\temp_maps_kri/navbar.php
+DEBUG - 2020-12-28 15:45:23 --> File loaded: D:\xampp72\htdocs\app_grm\application\views\temp_maps_kri/sidebar_left.php
+DEBUG - 2020-12-28 15:45:23 --> File loaded: D:\xampp72\htdocs\app_grm\application\views\temp_maps_kri/sidebar_right.php
+DEBUG - 2020-12-28 15:45:23 --> File loaded: D:\xampp72\htdocs\app_grm\application\modules/maps_kri/views/index.php
+DEBUG - 2020-12-28 15:45:23 --> File loaded: D:\xampp72\htdocs\app_grm\application\views\temp_maps_kri/quick_bar.php
+DEBUG - 2020-12-28 15:45:23 --> File loaded: D:\xampp72\htdocs\app_grm\application\views\temp_maps_kri/toggle.php
+DEBUG - 2020-12-28 15:45:23 --> File loaded: D:\xampp72\htdocs\app_grm\application\views\temp_maps_kri/konten.php
+DEBUG - 2020-12-28 15:45:23 --> File loaded: D:\xampp72\htdocs\app_grm\application\views\temp_maps_kri/foot.php
+DEBUG - 2020-12-28 15:45:23 --> File loaded: D:\xampp72\htdocs\app_grm\application\views\temp_maps_kri/main.php
+INFO - 2020-12-28 15:45:23 --> Final output sent to browser
+DEBUG - 2020-12-28 15:45:23 --> Total execution time: 1.8817
+INFO - 2020-12-28 09:45:23 --> Config Class Initialized
+INFO - 2020-12-28 09:45:23 --> Hooks Class Initialized
+DEBUG - 2020-12-28 09:45:23 --> UTF-8 Support Enabled
+INFO - 2020-12-28 09:45:23 --> Utf8 Class Initialized
+INFO - 2020-12-28 09:45:23 --> URI Class Initialized
+INFO - 2020-12-28 09:45:23 --> Router Class Initialized
+INFO - 2020-12-28 09:45:23 --> Output Class Initialized
+INFO - 2020-12-28 09:45:23 --> Security Class Initialized
+DEBUG - 2020-12-28 09:45:23 --> Global POST, GET and COOKIE data sanitized
+INFO - 2020-12-28 09:45:23 --> Input Class Initialized
+INFO - 2020-12-28 09:45:23 --> Language Class Initialized
+ERROR - 2020-12-28 09:45:23 --> 404 Page Not Found: /index
+INFO - 2020-12-28 09:45:24 --> Config Class Initialized
+INFO - 2020-12-28 09:45:24 --> Hooks Class Initialized
+DEBUG - 2020-12-28 09:45:24 --> UTF-8 Support Enabled
+INFO - 2020-12-28 09:45:24 --> Utf8 Class Initialized
+INFO - 2020-12-28 09:45:24 --> URI Class Initialized
+INFO - 2020-12-28 09:45:24 --> Router Class Initialized
+INFO - 2020-12-28 09:45:24 --> Output Class Initialized
+INFO - 2020-12-28 09:45:24 --> Security Class Initialized
+DEBUG - 2020-12-28 09:45:24 --> Global POST, GET and COOKIE data sanitized
+INFO - 2020-12-28 09:45:24 --> Input Class Initialized
+INFO - 2020-12-28 09:45:24 --> Language Class Initialized
+ERROR - 2020-12-28 09:45:24 --> 404 Page Not Found: /index
+INFO - 2020-12-28 09:45:25 --> Config Class Initialized
+INFO - 2020-12-28 09:45:25 --> Hooks Class Initialized
+DEBUG - 2020-12-28 09:45:25 --> UTF-8 Support Enabled
+INFO - 2020-12-28 09:45:25 --> Utf8 Class Initialized
+INFO - 2020-12-28 09:45:25 --> URI Class Initialized
+INFO - 2020-12-28 09:45:25 --> Router Class Initialized
+INFO - 2020-12-28 09:45:25 --> Output Class Initialized
+INFO - 2020-12-28 09:45:25 --> Security Class Initialized
+DEBUG - 2020-12-28 09:45:25 --> Global POST, GET and COOKIE data sanitized
+INFO - 2020-12-28 09:45:26 --> Input Class Initialized
+INFO - 2020-12-28 09:45:26 --> Language Class Initialized
+INFO - 2020-12-28 09:45:26 --> Language Class Initialized
+INFO - 2020-12-28 09:45:26 --> Config Class Initialized
+INFO - 2020-12-28 09:45:26 --> Loader Class Initialized
+INFO - 2020-12-28 09:45:26 --> Helper loaded: url_helper
+INFO - 2020-12-28 09:45:26 --> Helper loaded: html_helper
+INFO - 2020-12-28 09:45:26 --> Helper loaded: file_helper
+INFO - 2020-12-28 09:45:26 --> Helper loaded: form_helper
+INFO - 2020-12-28 09:45:26 --> Helper loaded: security_helper
+INFO - 2020-12-28 09:45:26 --> Helper loaded: xss_helper
+INFO - 2020-12-28 09:45:26 --> Helper loaded: slug_helper
+INFO - 2020-12-28 09:45:26 --> Database Driver Class Initialized
+DEBUG - 2020-12-28 09:45:26 --> Session: "sess_save_path" is empty; using "session.save_path" value from php.ini.
+INFO - 2020-12-28 09:45:26 --> Session: Class initialized using 'files' driver.
+INFO - 2020-12-28 09:45:27 --> Config Class Initialized
+INFO - 2020-12-28 09:45:27 --> Hooks Class Initialized
+DEBUG - 2020-12-28 09:45:27 --> UTF-8 Support Enabled
+INFO - 2020-12-28 09:45:27 --> Utf8 Class Initialized
+INFO - 2020-12-28 09:45:27 --> URI Class Initialized
+INFO - 2020-12-28 09:45:27 --> Language file loaded: language/english/pagination_lang.php
+INFO - 2020-12-28 09:45:27 --> Router Class Initialized
+INFO - 2020-12-28 09:45:27 --> Output Class Initialized
+INFO - 2020-12-28 09:45:27 --> Security Class Initialized
+DEBUG - 2020-12-28 09:45:27 --> Global POST, GET and COOKIE data sanitized
+INFO - 2020-12-28 09:45:27 --> Input Class Initialized
+INFO - 2020-12-28 09:45:27 --> Language Class Initialized
+INFO - 2020-12-28 09:45:27 --> Pagination Class Initialized
+INFO - 2020-12-28 09:45:27 --> Email Class Initialized
+INFO - 2020-12-28 09:45:27 --> Model "M_konfig" initialized
+INFO - 2020-12-28 09:45:27 --> Model "M_reff" initialized
+INFO - 2020-12-28 09:45:27 --> Model "M_total" initialized
+INFO - 2020-12-28 09:45:27 --> Controller Class Initialized
+DEBUG - 2020-12-28 09:45:27 --> Maps_kri MX_Controller Initialized
+DEBUG - 2020-12-28 09:45:27 --> File loaded: D:\xampp72\htdocs\app_grm\application\modules/maps_kri/models/Model.php
+ERROR - 2020-12-28 09:45:27 --> 404 Page Not Found: /index
+INFO - 2020-12-28 15:45:27 --> Final output sent to browser
+DEBUG - 2020-12-28 15:45:27 --> Total execution time: 1.8578
+INFO - 2020-12-28 09:45:36 --> Config Class Initialized
+INFO - 2020-12-28 09:45:36 --> Hooks Class Initialized
+DEBUG - 2020-12-28 09:45:36 --> UTF-8 Support Enabled
+INFO - 2020-12-28 09:45:36 --> Utf8 Class Initialized
+INFO - 2020-12-28 09:45:36 --> URI Class Initialized
+INFO - 2020-12-28 09:45:36 --> Router Class Initialized
+INFO - 2020-12-28 09:45:36 --> Output Class Initialized
+INFO - 2020-12-28 09:45:36 --> Security Class Initialized
+DEBUG - 2020-12-28 09:45:36 --> Global POST, GET and COOKIE data sanitized
+INFO - 2020-12-28 09:45:36 --> Input Class Initialized
+INFO - 2020-12-28 09:45:36 --> Language Class Initialized
+INFO - 2020-12-28 09:45:36 --> Language Class Initialized
+INFO - 2020-12-28 09:45:36 --> Config Class Initialized
+INFO - 2020-12-28 09:45:36 --> Loader Class Initialized
+INFO - 2020-12-28 09:45:36 --> Helper loaded: url_helper
+INFO - 2020-12-28 09:45:36 --> Helper loaded: html_helper
+INFO - 2020-12-28 09:45:36 --> Helper loaded: file_helper
+INFO - 2020-12-28 09:45:36 --> Helper loaded: form_helper
+INFO - 2020-12-28 09:45:36 --> Helper loaded: security_helper
+INFO - 2020-12-28 09:45:36 --> Helper loaded: xss_helper
+INFO - 2020-12-28 09:45:36 --> Helper loaded: slug_helper
+INFO - 2020-12-28 09:45:36 --> Database Driver Class Initialized
+DEBUG - 2020-12-28 09:45:36 --> Session: "sess_save_path" is empty; using "session.save_path" value from php.ini.
+INFO - 2020-12-28 09:45:36 --> Session: Class initialized using 'files' driver.
+INFO - 2020-12-28 09:45:36 --> Language file loaded: language/english/pagination_lang.php
+INFO - 2020-12-28 09:45:36 --> Pagination Class Initialized
+INFO - 2020-12-28 09:45:36 --> Email Class Initialized
+INFO - 2020-12-28 09:45:36 --> Model "M_konfig" initialized
+INFO - 2020-12-28 09:45:36 --> Model "M_reff" initialized
+INFO - 2020-12-28 09:45:37 --> Model "M_total" initialized
+INFO - 2020-12-28 09:45:37 --> Controller Class Initialized
+DEBUG - 2020-12-28 09:45:37 --> Maps_kri MX_Controller Initialized
+DEBUG - 2020-12-28 09:45:37 --> File loaded: D:\xampp72\htdocs\app_grm\application\modules/maps_kri/models/Model.php
+DEBUG - 2020-12-28 15:45:37 --> File loaded: D:\xampp72\htdocs\app_grm\application\views\temp_maps_kri/head.php
+DEBUG - 2020-12-28 15:45:37 --> File loaded: D:\xampp72\htdocs\app_grm\application\views\temp_maps_kri/navbar.php
+DEBUG - 2020-12-28 15:45:37 --> File loaded: D:\xampp72\htdocs\app_grm\application\views\temp_maps_kri/sidebar_left.php
+DEBUG - 2020-12-28 15:45:37 --> File loaded: D:\xampp72\htdocs\app_grm\application\views\temp_maps_kri/sidebar_right.php
+DEBUG - 2020-12-28 15:45:37 --> File loaded: D:\xampp72\htdocs\app_grm\application\modules/maps_kri/views/index.php
+DEBUG - 2020-12-28 15:45:37 --> File loaded: D:\xampp72\htdocs\app_grm\application\views\temp_maps_kri/quick_bar.php
+DEBUG - 2020-12-28 15:45:37 --> File loaded: D:\xampp72\htdocs\app_grm\application\views\temp_maps_kri/toggle.php
+DEBUG - 2020-12-28 15:45:37 --> File loaded: D:\xampp72\htdocs\app_grm\application\views\temp_maps_kri/konten.php
+DEBUG - 2020-12-28 15:45:37 --> File loaded: D:\xampp72\htdocs\app_grm\application\views\temp_maps_kri/foot.php
+DEBUG - 2020-12-28 15:45:37 --> File loaded: D:\xampp72\htdocs\app_grm\application\views\temp_maps_kri/main.php
+INFO - 2020-12-28 15:45:37 --> Final output sent to browser
+DEBUG - 2020-12-28 15:45:37 --> Total execution time: 1.4070
+INFO - 2020-12-28 09:45:37 --> Config Class Initialized
+INFO - 2020-12-28 09:45:37 --> Hooks Class Initialized
+DEBUG - 2020-12-28 09:45:37 --> UTF-8 Support Enabled
+INFO - 2020-12-28 09:45:37 --> Utf8 Class Initialized
+INFO - 2020-12-28 09:45:37 --> URI Class Initialized
+INFO - 2020-12-28 09:45:37 --> Router Class Initialized
+INFO - 2020-12-28 09:45:37 --> Output Class Initialized
+INFO - 2020-12-28 09:45:37 --> Security Class Initialized
+DEBUG - 2020-12-28 09:45:37 --> Global POST, GET and COOKIE data sanitized
+INFO - 2020-12-28 09:45:37 --> Input Class Initialized
+INFO - 2020-12-28 09:45:37 --> Language Class Initialized
+ERROR - 2020-12-28 09:45:37 --> 404 Page Not Found: /index
+INFO - 2020-12-28 09:45:38 --> Config Class Initialized
+INFO - 2020-12-28 09:45:38 --> Hooks Class Initialized
+DEBUG - 2020-12-28 09:45:38 --> UTF-8 Support Enabled
+INFO - 2020-12-28 09:45:38 --> Utf8 Class Initialized
+INFO - 2020-12-28 09:45:38 --> URI Class Initialized
+INFO - 2020-12-28 09:45:38 --> Router Class Initialized
+INFO - 2020-12-28 09:45:38 --> Output Class Initialized
+INFO - 2020-12-28 09:45:38 --> Security Class Initialized
+DEBUG - 2020-12-28 09:45:38 --> Global POST, GET and COOKIE data sanitized
+INFO - 2020-12-28 09:45:38 --> Input Class Initialized
+INFO - 2020-12-28 09:45:38 --> Language Class Initialized
+ERROR - 2020-12-28 09:45:38 --> 404 Page Not Found: /index
+INFO - 2020-12-28 09:45:39 --> Config Class Initialized
+INFO - 2020-12-28 09:45:39 --> Hooks Class Initialized
+DEBUG - 2020-12-28 09:45:40 --> UTF-8 Support Enabled
+INFO - 2020-12-28 09:45:40 --> Utf8 Class Initialized
+INFO - 2020-12-28 09:45:40 --> URI Class Initialized
+INFO - 2020-12-28 09:45:40 --> Router Class Initialized
+INFO - 2020-12-28 09:45:40 --> Output Class Initialized
+INFO - 2020-12-28 09:45:40 --> Security Class Initialized
+INFO - 2020-12-28 09:45:40 --> Config Class Initialized
+INFO - 2020-12-28 09:45:40 --> Hooks Class Initialized
+DEBUG - 2020-12-28 09:45:40 --> UTF-8 Support Enabled
+INFO - 2020-12-28 09:45:40 --> Utf8 Class Initialized
+INFO - 2020-12-28 09:45:40 --> URI Class Initialized
+INFO - 2020-12-28 09:45:40 --> Router Class Initialized
+INFO - 2020-12-28 09:45:40 --> Output Class Initialized
+INFO - 2020-12-28 09:45:40 --> Security Class Initialized
+DEBUG - 2020-12-28 09:45:40 --> Global POST, GET and COOKIE data sanitized
+INFO - 2020-12-28 09:45:40 --> Input Class Initialized
+INFO - 2020-12-28 09:45:40 --> Language Class Initialized
+ERROR - 2020-12-28 09:45:40 --> 404 Page Not Found: /index
+DEBUG - 2020-12-28 09:45:40 --> Global POST, GET and COOKIE data sanitized
+INFO - 2020-12-28 09:45:40 --> Input Class Initialized
+INFO - 2020-12-28 09:45:40 --> Language Class Initialized
+INFO - 2020-12-28 09:45:40 --> Language Class Initialized
+INFO - 2020-12-28 09:45:40 --> Config Class Initialized
+INFO - 2020-12-28 09:45:40 --> Loader Class Initialized
+INFO - 2020-12-28 09:45:40 --> Helper loaded: url_helper
+INFO - 2020-12-28 09:45:40 --> Helper loaded: html_helper
+INFO - 2020-12-28 09:45:40 --> Helper loaded: file_helper
+INFO - 2020-12-28 09:45:41 --> Helper loaded: form_helper
+INFO - 2020-12-28 09:45:41 --> Helper loaded: security_helper
+INFO - 2020-12-28 09:45:41 --> Helper loaded: xss_helper
+INFO - 2020-12-28 09:45:41 --> Helper loaded: slug_helper
+INFO - 2020-12-28 09:45:41 --> Database Driver Class Initialized
+DEBUG - 2020-12-28 09:45:41 --> Session: "sess_save_path" is empty; using "session.save_path" value from php.ini.
+INFO - 2020-12-28 09:45:41 --> Session: Class initialized using 'files' driver.
+INFO - 2020-12-28 09:45:41 --> Language file loaded: language/english/pagination_lang.php
+INFO - 2020-12-28 09:45:41 --> Pagination Class Initialized
+INFO - 2020-12-28 09:45:41 --> Email Class Initialized
+INFO - 2020-12-28 09:45:41 --> Model "M_konfig" initialized
+INFO - 2020-12-28 09:45:41 --> Model "M_reff" initialized
+INFO - 2020-12-28 09:45:42 --> Model "M_total" initialized
+INFO - 2020-12-28 09:45:42 --> Controller Class Initialized
+DEBUG - 2020-12-28 09:45:42 --> Maps_kri MX_Controller Initialized
+DEBUG - 2020-12-28 09:45:42 --> File loaded: D:\xampp72\htdocs\app_grm\application\modules/maps_kri/models/Model.php
+INFO - 2020-12-28 15:45:42 --> Final output sent to browser
+DEBUG - 2020-12-28 15:45:42 --> Total execution time: 2.2454
+INFO - 2020-12-28 09:46:10 --> Config Class Initialized
+INFO - 2020-12-28 09:46:10 --> Hooks Class Initialized
+DEBUG - 2020-12-28 09:46:10 --> UTF-8 Support Enabled
+INFO - 2020-12-28 09:46:10 --> Utf8 Class Initialized
+INFO - 2020-12-28 09:46:10 --> URI Class Initialized
+INFO - 2020-12-28 09:46:10 --> Router Class Initialized
+INFO - 2020-12-28 09:46:11 --> Output Class Initialized
+INFO - 2020-12-28 09:46:11 --> Security Class Initialized
+DEBUG - 2020-12-28 09:46:11 --> Global POST, GET and COOKIE data sanitized
+INFO - 2020-12-28 09:46:11 --> Input Class Initialized
+INFO - 2020-12-28 09:46:11 --> Language Class Initialized
+INFO - 2020-12-28 09:46:11 --> Language Class Initialized
+INFO - 2020-12-28 09:46:11 --> Config Class Initialized
+INFO - 2020-12-28 09:46:11 --> Loader Class Initialized
+INFO - 2020-12-28 09:46:11 --> Helper loaded: url_helper
+INFO - 2020-12-28 09:46:11 --> Helper loaded: html_helper
+INFO - 2020-12-28 09:46:11 --> Helper loaded: file_helper
+INFO - 2020-12-28 09:46:11 --> Helper loaded: form_helper
+INFO - 2020-12-28 09:46:11 --> Helper loaded: security_helper
+INFO - 2020-12-28 09:46:11 --> Helper loaded: xss_helper
+INFO - 2020-12-28 09:46:11 --> Helper loaded: slug_helper
+INFO - 2020-12-28 09:46:11 --> Database Driver Class Initialized
+DEBUG - 2020-12-28 09:46:11 --> Session: "sess_save_path" is empty; using "session.save_path" value from php.ini.
+INFO - 2020-12-28 09:46:11 --> Session: Class initialized using 'files' driver.
+INFO - 2020-12-28 09:46:11 --> Language file loaded: language/english/pagination_lang.php
+INFO - 2020-12-28 09:46:11 --> Pagination Class Initialized
+INFO - 2020-12-28 09:46:11 --> Email Class Initialized
+INFO - 2020-12-28 09:46:11 --> Model "M_konfig" initialized
+INFO - 2020-12-28 09:46:11 --> Model "M_reff" initialized
+INFO - 2020-12-28 09:46:11 --> Model "M_total" initialized
+INFO - 2020-12-28 09:46:11 --> Controller Class Initialized
+DEBUG - 2020-12-28 09:46:11 --> Maps_kri MX_Controller Initialized
+DEBUG - 2020-12-28 09:46:11 --> File loaded: D:\xampp72\htdocs\app_grm\application\modules/maps_kri/models/Model.php
+DEBUG - 2020-12-28 15:46:11 --> File loaded: D:\xampp72\htdocs\app_grm\application\views\temp_maps_kri/head.php
+DEBUG - 2020-12-28 15:46:11 --> File loaded: D:\xampp72\htdocs\app_grm\application\views\temp_maps_kri/navbar.php
+DEBUG - 2020-12-28 15:46:11 --> File loaded: D:\xampp72\htdocs\app_grm\application\views\temp_maps_kri/sidebar_left.php
+DEBUG - 2020-12-28 15:46:12 --> File loaded: D:\xampp72\htdocs\app_grm\application\views\temp_maps_kri/sidebar_right.php
+DEBUG - 2020-12-28 15:46:12 --> File loaded: D:\xampp72\htdocs\app_grm\application\modules/maps_kri/views/index.php
+DEBUG - 2020-12-28 15:46:12 --> File loaded: D:\xampp72\htdocs\app_grm\application\views\temp_maps_kri/quick_bar.php
+DEBUG - 2020-12-28 15:46:12 --> File loaded: D:\xampp72\htdocs\app_grm\application\views\temp_maps_kri/toggle.php
+DEBUG - 2020-12-28 15:46:12 --> File loaded: D:\xampp72\htdocs\app_grm\application\views\temp_maps_kri/konten.php
+DEBUG - 2020-12-28 15:46:12 --> File loaded: D:\xampp72\htdocs\app_grm\application\views\temp_maps_kri/foot.php
+DEBUG - 2020-12-28 15:46:12 --> File loaded: D:\xampp72\htdocs\app_grm\application\views\temp_maps_kri/main.php
+INFO - 2020-12-28 15:46:12 --> Final output sent to browser
+DEBUG - 2020-12-28 15:46:12 --> Total execution time: 1.4664
+INFO - 2020-12-28 09:46:12 --> Config Class Initialized
+INFO - 2020-12-28 09:46:12 --> Hooks Class Initialized
+DEBUG - 2020-12-28 09:46:12 --> UTF-8 Support Enabled
+INFO - 2020-12-28 09:46:12 --> Utf8 Class Initialized
+INFO - 2020-12-28 09:46:12 --> URI Class Initialized
+INFO - 2020-12-28 09:46:12 --> Router Class Initialized
+INFO - 2020-12-28 09:46:12 --> Output Class Initialized
+INFO - 2020-12-28 09:46:12 --> Security Class Initialized
+DEBUG - 2020-12-28 09:46:12 --> Global POST, GET and COOKIE data sanitized
+INFO - 2020-12-28 09:46:12 --> Input Class Initialized
+INFO - 2020-12-28 09:46:12 --> Language Class Initialized
+ERROR - 2020-12-28 09:46:12 --> 404 Page Not Found: /index
+INFO - 2020-12-28 09:46:13 --> Config Class Initialized
+INFO - 2020-12-28 09:46:13 --> Hooks Class Initialized
+DEBUG - 2020-12-28 09:46:13 --> UTF-8 Support Enabled
+INFO - 2020-12-28 09:46:13 --> Utf8 Class Initialized
+INFO - 2020-12-28 09:46:13 --> URI Class Initialized
+INFO - 2020-12-28 09:46:13 --> Router Class Initialized
+INFO - 2020-12-28 09:46:13 --> Output Class Initialized
+INFO - 2020-12-28 09:46:13 --> Security Class Initialized
+DEBUG - 2020-12-28 09:46:13 --> Global POST, GET and COOKIE data sanitized
+INFO - 2020-12-28 09:46:13 --> Input Class Initialized
+INFO - 2020-12-28 09:46:13 --> Language Class Initialized
+ERROR - 2020-12-28 09:46:13 --> 404 Page Not Found: /index
+INFO - 2020-12-28 09:46:14 --> Config Class Initialized
+INFO - 2020-12-28 09:46:14 --> Hooks Class Initialized
+DEBUG - 2020-12-28 09:46:15 --> UTF-8 Support Enabled
+INFO - 2020-12-28 09:46:15 --> Utf8 Class Initialized
+INFO - 2020-12-28 09:46:15 --> URI Class Initialized
+INFO - 2020-12-28 09:46:15 --> Config Class Initialized
+INFO - 2020-12-28 09:46:15 --> Hooks Class Initialized
+DEBUG - 2020-12-28 09:46:15 --> UTF-8 Support Enabled
+INFO - 2020-12-28 09:46:15 --> Utf8 Class Initialized
+INFO - 2020-12-28 09:46:15 --> URI Class Initialized
+INFO - 2020-12-28 09:46:15 --> Router Class Initialized
+INFO - 2020-12-28 09:46:15 --> Output Class Initialized
+INFO - 2020-12-28 09:46:15 --> Security Class Initialized
+DEBUG - 2020-12-28 09:46:15 --> Global POST, GET and COOKIE data sanitized
+INFO - 2020-12-28 09:46:15 --> Input Class Initialized
+INFO - 2020-12-28 09:46:15 --> Language Class Initialized
+INFO - 2020-12-28 09:46:15 --> Language Class Initialized
+INFO - 2020-12-28 09:46:15 --> Config Class Initialized
+INFO - 2020-12-28 09:46:15 --> Loader Class Initialized
+INFO - 2020-12-28 09:46:15 --> Helper loaded: url_helper
+INFO - 2020-12-28 09:46:15 --> Helper loaded: html_helper
+INFO - 2020-12-28 09:46:15 --> Helper loaded: file_helper
+INFO - 2020-12-28 09:46:15 --> Helper loaded: form_helper
+INFO - 2020-12-28 09:46:15 --> Helper loaded: security_helper
+INFO - 2020-12-28 09:46:15 --> Helper loaded: xss_helper
+INFO - 2020-12-28 09:46:15 --> Helper loaded: slug_helper
+INFO - 2020-12-28 09:46:15 --> Database Driver Class Initialized
+INFO - 2020-12-28 09:46:15 --> Router Class Initialized
+INFO - 2020-12-28 09:46:15 --> Output Class Initialized
+INFO - 2020-12-28 09:46:15 --> Security Class Initialized
+DEBUG - 2020-12-28 09:46:15 --> Global POST, GET and COOKIE data sanitized
+INFO - 2020-12-28 09:46:15 --> Input Class Initialized
+INFO - 2020-12-28 09:46:15 --> Language Class Initialized
+ERROR - 2020-12-28 09:46:15 --> 404 Page Not Found: /index
+DEBUG - 2020-12-28 09:46:15 --> Session: "sess_save_path" is empty; using "session.save_path" value from php.ini.
+INFO - 2020-12-28 09:46:15 --> Session: Class initialized using 'files' driver.
+INFO - 2020-12-28 09:46:15 --> Language file loaded: language/english/pagination_lang.php
+INFO - 2020-12-28 09:46:15 --> Pagination Class Initialized
+INFO - 2020-12-28 09:46:15 --> Email Class Initialized
+INFO - 2020-12-28 09:46:15 --> Model "M_konfig" initialized
+INFO - 2020-12-28 09:46:15 --> Model "M_reff" initialized
+INFO - 2020-12-28 09:46:15 --> Model "M_total" initialized
+INFO - 2020-12-28 09:46:16 --> Controller Class Initialized
+DEBUG - 2020-12-28 09:46:16 --> Maps_kri MX_Controller Initialized
+DEBUG - 2020-12-28 09:46:16 --> File loaded: D:\xampp72\htdocs\app_grm\application\modules/maps_kri/models/Model.php
+INFO - 2020-12-28 15:46:16 --> Final output sent to browser
+DEBUG - 2020-12-28 15:46:16 --> Total execution time: 0.9854
+INFO - 2020-12-28 09:46:43 --> Config Class Initialized
+INFO - 2020-12-28 09:46:43 --> Hooks Class Initialized
+DEBUG - 2020-12-28 09:46:43 --> UTF-8 Support Enabled
+INFO - 2020-12-28 09:46:43 --> Utf8 Class Initialized
+INFO - 2020-12-28 09:46:43 --> URI Class Initialized
+INFO - 2020-12-28 09:46:43 --> Router Class Initialized
+INFO - 2020-12-28 09:46:43 --> Output Class Initialized
+INFO - 2020-12-28 09:46:43 --> Security Class Initialized
+DEBUG - 2020-12-28 09:46:43 --> Global POST, GET and COOKIE data sanitized
+INFO - 2020-12-28 09:46:43 --> Input Class Initialized
+INFO - 2020-12-28 09:46:43 --> Language Class Initialized
+INFO - 2020-12-28 09:46:43 --> Language Class Initialized
+INFO - 2020-12-28 09:46:43 --> Config Class Initialized
+INFO - 2020-12-28 09:46:43 --> Loader Class Initialized
+INFO - 2020-12-28 09:46:43 --> Helper loaded: url_helper
+INFO - 2020-12-28 09:46:43 --> Helper loaded: html_helper
+INFO - 2020-12-28 09:46:43 --> Helper loaded: file_helper
+INFO - 2020-12-28 09:46:44 --> Helper loaded: form_helper
+INFO - 2020-12-28 09:46:44 --> Helper loaded: security_helper
+INFO - 2020-12-28 09:46:44 --> Helper loaded: xss_helper
+INFO - 2020-12-28 09:46:44 --> Helper loaded: slug_helper
+INFO - 2020-12-28 09:46:44 --> Database Driver Class Initialized
+DEBUG - 2020-12-28 09:46:44 --> Session: "sess_save_path" is empty; using "session.save_path" value from php.ini.
+INFO - 2020-12-28 09:46:44 --> Session: Class initialized using 'files' driver.
+INFO - 2020-12-28 09:46:44 --> Language file loaded: language/english/pagination_lang.php
+INFO - 2020-12-28 09:46:44 --> Pagination Class Initialized
+INFO - 2020-12-28 09:46:44 --> Email Class Initialized
+INFO - 2020-12-28 09:46:44 --> Model "M_konfig" initialized
+INFO - 2020-12-28 09:46:44 --> Model "M_reff" initialized
+INFO - 2020-12-28 09:46:44 --> Model "M_total" initialized
+INFO - 2020-12-28 09:46:44 --> Controller Class Initialized
+DEBUG - 2020-12-28 09:46:44 --> Maps_kri MX_Controller Initialized
+DEBUG - 2020-12-28 09:46:44 --> File loaded: D:\xampp72\htdocs\app_grm\application\modules/maps_kri/models/Model.php
+DEBUG - 2020-12-28 15:46:44 --> File loaded: D:\xampp72\htdocs\app_grm\application\views\temp_maps_kri/head.php
+DEBUG - 2020-12-28 15:46:44 --> File loaded: D:\xampp72\htdocs\app_grm\application\views\temp_maps_kri/navbar.php
+DEBUG - 2020-12-28 15:46:44 --> File loaded: D:\xampp72\htdocs\app_grm\application\views\temp_maps_kri/sidebar_left.php
+DEBUG - 2020-12-28 15:46:44 --> File loaded: D:\xampp72\htdocs\app_grm\application\views\temp_maps_kri/sidebar_right.php
+DEBUG - 2020-12-28 15:46:44 --> File loaded: D:\xampp72\htdocs\app_grm\application\modules/maps_kri/views/index.php
+DEBUG - 2020-12-28 15:46:44 --> File loaded: D:\xampp72\htdocs\app_grm\application\views\temp_maps_kri/quick_bar.php
+DEBUG - 2020-12-28 15:46:44 --> File loaded: D:\xampp72\htdocs\app_grm\application\views\temp_maps_kri/toggle.php
+DEBUG - 2020-12-28 15:46:44 --> File loaded: D:\xampp72\htdocs\app_grm\application\views\temp_maps_kri/konten.php
+DEBUG - 2020-12-28 15:46:45 --> File loaded: D:\xampp72\htdocs\app_grm\application\views\temp_maps_kri/foot.php
+DEBUG - 2020-12-28 15:46:45 --> File loaded: D:\xampp72\htdocs\app_grm\application\views\temp_maps_kri/main.php
+INFO - 2020-12-28 15:46:45 --> Final output sent to browser
+INFO - 2020-12-28 09:46:45 --> Config Class Initialized
+INFO - 2020-12-28 09:46:45 --> Hooks Class Initialized
+DEBUG - 2020-12-28 09:46:45 --> UTF-8 Support Enabled
+INFO - 2020-12-28 09:46:45 --> Utf8 Class Initialized
+INFO - 2020-12-28 09:46:45 --> URI Class Initialized
+INFO - 2020-12-28 09:46:45 --> Router Class Initialized
+INFO - 2020-12-28 09:46:45 --> Output Class Initialized
+INFO - 2020-12-28 09:46:45 --> Security Class Initialized
+DEBUG - 2020-12-28 15:46:45 --> Total execution time: 1.6592
+DEBUG - 2020-12-28 09:46:45 --> Global POST, GET and COOKIE data sanitized
+INFO - 2020-12-28 09:46:45 --> Input Class Initialized
+INFO - 2020-12-28 09:46:45 --> Language Class Initialized
+ERROR - 2020-12-28 09:46:45 --> 404 Page Not Found: /index
+INFO - 2020-12-28 09:46:45 --> Config Class Initialized
+INFO - 2020-12-28 09:46:45 --> Hooks Class Initialized
+DEBUG - 2020-12-28 09:46:45 --> UTF-8 Support Enabled
+INFO - 2020-12-28 09:46:45 --> Utf8 Class Initialized
+INFO - 2020-12-28 09:46:45 --> URI Class Initialized
+INFO - 2020-12-28 09:46:46 --> Router Class Initialized
+INFO - 2020-12-28 09:46:46 --> Output Class Initialized
+INFO - 2020-12-28 09:46:46 --> Security Class Initialized
+DEBUG - 2020-12-28 09:46:46 --> Global POST, GET and COOKIE data sanitized
+INFO - 2020-12-28 09:46:46 --> Input Class Initialized
+INFO - 2020-12-28 09:46:46 --> Language Class Initialized
+ERROR - 2020-12-28 09:46:46 --> 404 Page Not Found: /index
+INFO - 2020-12-28 09:46:47 --> Config Class Initialized
+INFO - 2020-12-28 09:46:47 --> Hooks Class Initialized
+DEBUG - 2020-12-28 09:46:47 --> UTF-8 Support Enabled
+INFO - 2020-12-28 09:46:47 --> Utf8 Class Initialized
+INFO - 2020-12-28 09:46:47 --> URI Class Initialized
+INFO - 2020-12-28 09:46:48 --> Router Class Initialized
+INFO - 2020-12-28 09:46:48 --> Config Class Initialized
+INFO - 2020-12-28 09:46:48 --> Hooks Class Initialized
+DEBUG - 2020-12-28 09:46:48 --> UTF-8 Support Enabled
+INFO - 2020-12-28 09:46:48 --> Utf8 Class Initialized
+INFO - 2020-12-28 09:46:48 --> URI Class Initialized
+INFO - 2020-12-28 09:46:48 --> Router Class Initialized
+INFO - 2020-12-28 09:46:48 --> Output Class Initialized
+INFO - 2020-12-28 09:46:48 --> Security Class Initialized
+DEBUG - 2020-12-28 09:46:48 --> Global POST, GET and COOKIE data sanitized
+INFO - 2020-12-28 09:46:48 --> Input Class Initialized
+INFO - 2020-12-28 09:46:48 --> Language Class Initialized
+ERROR - 2020-12-28 09:46:48 --> 404 Page Not Found: /index
+INFO - 2020-12-28 09:46:48 --> Output Class Initialized
+INFO - 2020-12-28 09:46:48 --> Security Class Initialized
+DEBUG - 2020-12-28 09:46:48 --> Global POST, GET and COOKIE data sanitized
+INFO - 2020-12-28 09:46:48 --> Input Class Initialized
+INFO - 2020-12-28 09:46:48 --> Language Class Initialized
+INFO - 2020-12-28 09:46:48 --> Language Class Initialized
+INFO - 2020-12-28 09:46:48 --> Config Class Initialized
+INFO - 2020-12-28 09:46:48 --> Loader Class Initialized
+INFO - 2020-12-28 09:46:48 --> Helper loaded: url_helper
+INFO - 2020-12-28 09:46:48 --> Helper loaded: html_helper
+INFO - 2020-12-28 09:46:48 --> Helper loaded: file_helper
+INFO - 2020-12-28 09:46:48 --> Helper loaded: form_helper
+INFO - 2020-12-28 09:46:49 --> Helper loaded: security_helper
+INFO - 2020-12-28 09:46:49 --> Helper loaded: xss_helper
+INFO - 2020-12-28 09:46:49 --> Helper loaded: slug_helper
+INFO - 2020-12-28 09:46:49 --> Database Driver Class Initialized
+DEBUG - 2020-12-28 09:46:49 --> Session: "sess_save_path" is empty; using "session.save_path" value from php.ini.
+INFO - 2020-12-28 09:46:49 --> Session: Class initialized using 'files' driver.
+INFO - 2020-12-28 09:46:49 --> Language file loaded: language/english/pagination_lang.php
+INFO - 2020-12-28 09:46:49 --> Pagination Class Initialized
+INFO - 2020-12-28 09:46:49 --> Email Class Initialized
+INFO - 2020-12-28 09:46:49 --> Model "M_konfig" initialized
+INFO - 2020-12-28 09:46:49 --> Model "M_reff" initialized
+INFO - 2020-12-28 09:46:49 --> Model "M_total" initialized
+INFO - 2020-12-28 09:46:50 --> Controller Class Initialized
+DEBUG - 2020-12-28 09:46:50 --> Maps_kri MX_Controller Initialized
+DEBUG - 2020-12-28 09:46:50 --> File loaded: D:\xampp72\htdocs\app_grm\application\modules/maps_kri/models/Model.php
+INFO - 2020-12-28 15:46:50 --> Final output sent to browser
+DEBUG - 2020-12-28 15:46:50 --> Total execution time: 2.4961
+INFO - 2020-12-28 09:47:28 --> Config Class Initialized
+INFO - 2020-12-28 09:47:28 --> Hooks Class Initialized
+DEBUG - 2020-12-28 09:47:28 --> UTF-8 Support Enabled
+INFO - 2020-12-28 09:47:28 --> Utf8 Class Initialized
+INFO - 2020-12-28 09:47:28 --> URI Class Initialized
+INFO - 2020-12-28 09:47:28 --> Router Class Initialized
+INFO - 2020-12-28 09:47:28 --> Output Class Initialized
+INFO - 2020-12-28 09:47:28 --> Security Class Initialized
+DEBUG - 2020-12-28 09:47:28 --> Global POST, GET and COOKIE data sanitized
+INFO - 2020-12-28 09:47:28 --> Input Class Initialized
+INFO - 2020-12-28 09:47:28 --> Language Class Initialized
+INFO - 2020-12-28 09:47:28 --> Language Class Initialized
+INFO - 2020-12-28 09:47:28 --> Config Class Initialized
+INFO - 2020-12-28 09:47:28 --> Loader Class Initialized
+INFO - 2020-12-28 09:47:28 --> Helper loaded: url_helper
+INFO - 2020-12-28 09:47:28 --> Helper loaded: html_helper
+INFO - 2020-12-28 09:47:28 --> Helper loaded: file_helper
+INFO - 2020-12-28 09:47:28 --> Helper loaded: form_helper
+INFO - 2020-12-28 09:47:29 --> Helper loaded: security_helper
+INFO - 2020-12-28 09:47:29 --> Helper loaded: xss_helper
+INFO - 2020-12-28 09:47:29 --> Helper loaded: slug_helper
+INFO - 2020-12-28 09:47:29 --> Database Driver Class Initialized
+DEBUG - 2020-12-28 09:47:29 --> Session: "sess_save_path" is empty; using "session.save_path" value from php.ini.
+INFO - 2020-12-28 09:47:29 --> Session: Class initialized using 'files' driver.
+INFO - 2020-12-28 09:47:29 --> Language file loaded: language/english/pagination_lang.php
+INFO - 2020-12-28 09:47:29 --> Pagination Class Initialized
+INFO - 2020-12-28 09:47:29 --> Email Class Initialized
+INFO - 2020-12-28 09:47:29 --> Model "M_konfig" initialized
+INFO - 2020-12-28 09:47:29 --> Model "M_reff" initialized
+INFO - 2020-12-28 09:47:29 --> Model "M_total" initialized
+INFO - 2020-12-28 09:47:29 --> Controller Class Initialized
+DEBUG - 2020-12-28 09:47:29 --> Maps_kri MX_Controller Initialized
+DEBUG - 2020-12-28 09:47:29 --> File loaded: D:\xampp72\htdocs\app_grm\application\modules/maps_kri/models/Model.php
+DEBUG - 2020-12-28 15:47:29 --> File loaded: D:\xampp72\htdocs\app_grm\application\views\temp_maps_kri/head.php
+DEBUG - 2020-12-28 15:47:29 --> File loaded: D:\xampp72\htdocs\app_grm\application\views\temp_maps_kri/navbar.php
+DEBUG - 2020-12-28 15:47:29 --> File loaded: D:\xampp72\htdocs\app_grm\application\views\temp_maps_kri/sidebar_left.php
+DEBUG - 2020-12-28 15:47:29 --> File loaded: D:\xampp72\htdocs\app_grm\application\views\temp_maps_kri/sidebar_right.php
+DEBUG - 2020-12-28 15:47:29 --> File loaded: D:\xampp72\htdocs\app_grm\application\modules/maps_kri/views/index.php
+DEBUG - 2020-12-28 15:47:29 --> File loaded: D:\xampp72\htdocs\app_grm\application\views\temp_maps_kri/quick_bar.php
+DEBUG - 2020-12-28 15:47:29 --> File loaded: D:\xampp72\htdocs\app_grm\application\views\temp_maps_kri/toggle.php
+DEBUG - 2020-12-28 15:47:29 --> File loaded: D:\xampp72\htdocs\app_grm\application\views\temp_maps_kri/konten.php
+DEBUG - 2020-12-28 15:47:29 --> File loaded: D:\xampp72\htdocs\app_grm\application\views\temp_maps_kri/foot.php
+DEBUG - 2020-12-28 15:47:29 --> File loaded: D:\xampp72\htdocs\app_grm\application\views\temp_maps_kri/main.php
+INFO - 2020-12-28 15:47:29 --> Final output sent to browser
+DEBUG - 2020-12-28 15:47:29 --> Total execution time: 1.4778
+INFO - 2020-12-28 09:47:29 --> Config Class Initialized
+INFO - 2020-12-28 09:47:29 --> Hooks Class Initialized
+DEBUG - 2020-12-28 09:47:29 --> UTF-8 Support Enabled
+INFO - 2020-12-28 09:47:29 --> Utf8 Class Initialized
+INFO - 2020-12-28 09:47:29 --> URI Class Initialized
+INFO - 2020-12-28 09:47:29 --> Router Class Initialized
+INFO - 2020-12-28 09:47:29 --> Output Class Initialized
+INFO - 2020-12-28 09:47:29 --> Security Class Initialized
+DEBUG - 2020-12-28 09:47:29 --> Global POST, GET and COOKIE data sanitized
+INFO - 2020-12-28 09:47:29 --> Input Class Initialized
+INFO - 2020-12-28 09:47:29 --> Language Class Initialized
+ERROR - 2020-12-28 09:47:30 --> 404 Page Not Found: /index
+INFO - 2020-12-28 09:47:31 --> Config Class Initialized
+INFO - 2020-12-28 09:47:31 --> Hooks Class Initialized
+DEBUG - 2020-12-28 09:47:31 --> UTF-8 Support Enabled
+INFO - 2020-12-28 09:47:31 --> Utf8 Class Initialized
+INFO - 2020-12-28 09:47:31 --> URI Class Initialized
+INFO - 2020-12-28 09:47:31 --> Router Class Initialized
+INFO - 2020-12-28 09:47:31 --> Output Class Initialized
+INFO - 2020-12-28 09:47:31 --> Security Class Initialized
+DEBUG - 2020-12-28 09:47:31 --> Global POST, GET and COOKIE data sanitized
+INFO - 2020-12-28 09:47:31 --> Input Class Initialized
+INFO - 2020-12-28 09:47:31 --> Language Class Initialized
+ERROR - 2020-12-28 09:47:31 --> 404 Page Not Found: /index
+INFO - 2020-12-28 09:47:32 --> Config Class Initialized
+INFO - 2020-12-28 09:47:32 --> Hooks Class Initialized
+DEBUG - 2020-12-28 09:47:32 --> UTF-8 Support Enabled
+INFO - 2020-12-28 09:47:32 --> Utf8 Class Initialized
+INFO - 2020-12-28 09:47:33 --> URI Class Initialized
+INFO - 2020-12-28 09:47:33 --> Config Class Initialized
+INFO - 2020-12-28 09:47:33 --> Hooks Class Initialized
+DEBUG - 2020-12-28 09:47:33 --> UTF-8 Support Enabled
+INFO - 2020-12-28 09:47:33 --> Utf8 Class Initialized
+INFO - 2020-12-28 09:47:33 --> URI Class Initialized
+INFO - 2020-12-28 09:47:33 --> Router Class Initialized
+INFO - 2020-12-28 09:47:33 --> Output Class Initialized
+INFO - 2020-12-28 09:47:33 --> Security Class Initialized
+DEBUG - 2020-12-28 09:47:33 --> Global POST, GET and COOKIE data sanitized
+INFO - 2020-12-28 09:47:33 --> Input Class Initialized
+INFO - 2020-12-28 09:47:33 --> Language Class Initialized
+INFO - 2020-12-28 09:47:33 --> Language Class Initialized
+INFO - 2020-12-28 09:47:33 --> Config Class Initialized
+INFO - 2020-12-28 09:47:33 --> Loader Class Initialized
+INFO - 2020-12-28 09:47:33 --> Helper loaded: url_helper
+INFO - 2020-12-28 09:47:33 --> Helper loaded: html_helper
+INFO - 2020-12-28 09:47:33 --> Helper loaded: file_helper
+INFO - 2020-12-28 09:47:33 --> Helper loaded: form_helper
+INFO - 2020-12-28 09:47:33 --> Helper loaded: security_helper
+INFO - 2020-12-28 09:47:33 --> Helper loaded: xss_helper
+INFO - 2020-12-28 09:47:33 --> Helper loaded: slug_helper
+INFO - 2020-12-28 09:47:33 --> Database Driver Class Initialized
+DEBUG - 2020-12-28 09:47:33 --> Session: "sess_save_path" is empty; using "session.save_path" value from php.ini.
+INFO - 2020-12-28 09:47:33 --> Router Class Initialized
+INFO - 2020-12-28 09:47:33 --> Output Class Initialized
+INFO - 2020-12-28 09:47:33 --> Security Class Initialized
+DEBUG - 2020-12-28 09:47:33 --> Global POST, GET and COOKIE data sanitized
+INFO - 2020-12-28 09:47:33 --> Input Class Initialized
+INFO - 2020-12-28 09:47:33 --> Language Class Initialized
+ERROR - 2020-12-28 09:47:33 --> 404 Page Not Found: /index
+INFO - 2020-12-28 09:47:33 --> Session: Class initialized using 'files' driver.
+INFO - 2020-12-28 09:47:33 --> Language file loaded: language/english/pagination_lang.php
+INFO - 2020-12-28 09:47:33 --> Pagination Class Initialized
+INFO - 2020-12-28 09:47:33 --> Email Class Initialized
+INFO - 2020-12-28 09:47:33 --> Model "M_konfig" initialized
+INFO - 2020-12-28 09:47:33 --> Model "M_reff" initialized
+INFO - 2020-12-28 09:47:33 --> Model "M_total" initialized
+INFO - 2020-12-28 09:47:33 --> Controller Class Initialized
+DEBUG - 2020-12-28 09:47:33 --> Maps_kri MX_Controller Initialized
+DEBUG - 2020-12-28 09:47:34 --> File loaded: D:\xampp72\htdocs\app_grm\application\modules/maps_kri/models/Model.php
+INFO - 2020-12-28 15:47:34 --> Final output sent to browser
+DEBUG - 2020-12-28 15:47:34 --> Total execution time: 1.2117
+INFO - 2020-12-28 09:48:07 --> Config Class Initialized
+INFO - 2020-12-28 09:48:08 --> Hooks Class Initialized
+DEBUG - 2020-12-28 09:48:08 --> UTF-8 Support Enabled
+INFO - 2020-12-28 09:48:08 --> Utf8 Class Initialized
+INFO - 2020-12-28 09:48:08 --> URI Class Initialized
+INFO - 2020-12-28 09:48:08 --> Router Class Initialized
+INFO - 2020-12-28 09:48:08 --> Output Class Initialized
+INFO - 2020-12-28 09:48:08 --> Security Class Initialized
+DEBUG - 2020-12-28 09:48:08 --> Global POST, GET and COOKIE data sanitized
+INFO - 2020-12-28 09:48:08 --> Input Class Initialized
+INFO - 2020-12-28 09:48:08 --> Language Class Initialized
+ERROR - 2020-12-28 09:48:08 --> 404 Page Not Found: /index
+INFO - 2020-12-28 09:49:15 --> Config Class Initialized
+INFO - 2020-12-28 09:49:15 --> Hooks Class Initialized
+DEBUG - 2020-12-28 09:49:15 --> UTF-8 Support Enabled
+INFO - 2020-12-28 09:49:15 --> Utf8 Class Initialized
+INFO - 2020-12-28 09:49:15 --> URI Class Initialized
+INFO - 2020-12-28 09:49:15 --> Router Class Initialized
+INFO - 2020-12-28 09:49:15 --> Output Class Initialized
+INFO - 2020-12-28 09:49:15 --> Security Class Initialized
+DEBUG - 2020-12-28 09:49:15 --> Global POST, GET and COOKIE data sanitized
+INFO - 2020-12-28 09:49:15 --> Input Class Initialized
+INFO - 2020-12-28 09:49:15 --> Language Class Initialized
+INFO - 2020-12-28 09:49:15 --> Language Class Initialized
+INFO - 2020-12-28 09:49:15 --> Config Class Initialized
+INFO - 2020-12-28 09:49:15 --> Loader Class Initialized
+INFO - 2020-12-28 09:49:15 --> Helper loaded: url_helper
+INFO - 2020-12-28 09:49:15 --> Helper loaded: html_helper
+INFO - 2020-12-28 09:49:15 --> Helper loaded: file_helper
+INFO - 2020-12-28 09:49:15 --> Helper loaded: form_helper
+INFO - 2020-12-28 09:49:15 --> Helper loaded: security_helper
+INFO - 2020-12-28 09:49:16 --> Helper loaded: xss_helper
+INFO - 2020-12-28 09:49:16 --> Helper loaded: slug_helper
+INFO - 2020-12-28 09:49:16 --> Database Driver Class Initialized
+DEBUG - 2020-12-28 09:49:16 --> Session: "sess_save_path" is empty; using "session.save_path" value from php.ini.
+INFO - 2020-12-28 09:49:16 --> Session: Class initialized using 'files' driver.
+INFO - 2020-12-28 09:49:16 --> Language file loaded: language/english/pagination_lang.php
+INFO - 2020-12-28 09:49:16 --> Pagination Class Initialized
+INFO - 2020-12-28 09:49:16 --> Email Class Initialized
+INFO - 2020-12-28 09:49:16 --> Model "M_konfig" initialized
+INFO - 2020-12-28 09:49:16 --> Model "M_reff" initialized
+INFO - 2020-12-28 09:49:16 --> Model "M_total" initialized
+INFO - 2020-12-28 09:49:16 --> Controller Class Initialized
+DEBUG - 2020-12-28 09:49:16 --> Maps_kri MX_Controller Initialized
+DEBUG - 2020-12-28 09:49:16 --> File loaded: D:\xampp72\htdocs\app_grm\application\modules/maps_kri/models/Model.php
+DEBUG - 2020-12-28 15:49:16 --> File loaded: D:\xampp72\htdocs\app_grm\application\views\temp_maps_kri/head.php
+DEBUG - 2020-12-28 15:49:16 --> File loaded: D:\xampp72\htdocs\app_grm\application\views\temp_maps_kri/navbar.php
+DEBUG - 2020-12-28 15:49:16 --> File loaded: D:\xampp72\htdocs\app_grm\application\views\temp_maps_kri/sidebar_left.php
+DEBUG - 2020-12-28 15:49:16 --> File loaded: D:\xampp72\htdocs\app_grm\application\views\temp_maps_kri/sidebar_right.php
+DEBUG - 2020-12-28 15:49:16 --> File loaded: D:\xampp72\htdocs\app_grm\application\modules/maps_kri/views/index.php
+DEBUG - 2020-12-28 15:49:16 --> File loaded: D:\xampp72\htdocs\app_grm\application\views\temp_maps_kri/quick_bar.php
+DEBUG - 2020-12-28 15:49:16 --> File loaded: D:\xampp72\htdocs\app_grm\application\views\temp_maps_kri/toggle.php
+DEBUG - 2020-12-28 15:49:16 --> File loaded: D:\xampp72\htdocs\app_grm\application\views\temp_maps_kri/konten.php
+DEBUG - 2020-12-28 15:49:16 --> File loaded: D:\xampp72\htdocs\app_grm\application\views\temp_maps_kri/foot.php
+DEBUG - 2020-12-28 15:49:16 --> File loaded: D:\xampp72\htdocs\app_grm\application\views\temp_maps_kri/main.php
+INFO - 2020-12-28 15:49:16 --> Final output sent to browser
+INFO - 2020-12-28 09:49:16 --> Config Class Initialized
+INFO - 2020-12-28 09:49:16 --> Hooks Class Initialized
+DEBUG - 2020-12-28 09:49:16 --> UTF-8 Support Enabled
+INFO - 2020-12-28 09:49:16 --> Utf8 Class Initialized
+INFO - 2020-12-28 09:49:16 --> URI Class Initialized
+INFO - 2020-12-28 09:49:16 --> Router Class Initialized
+INFO - 2020-12-28 09:49:16 --> Output Class Initialized
+INFO - 2020-12-28 09:49:16 --> Security Class Initialized
+DEBUG - 2020-12-28 15:49:16 --> Total execution time: 1.5398
+DEBUG - 2020-12-28 09:49:16 --> Global POST, GET and COOKIE data sanitized
+INFO - 2020-12-28 09:49:16 --> Input Class Initialized
+INFO - 2020-12-28 09:49:16 --> Language Class Initialized
+ERROR - 2020-12-28 09:49:16 --> 404 Page Not Found: /index
+INFO - 2020-12-28 09:49:17 --> Config Class Initialized
+INFO - 2020-12-28 09:49:17 --> Hooks Class Initialized
+DEBUG - 2020-12-28 09:49:17 --> UTF-8 Support Enabled
+INFO - 2020-12-28 09:49:17 --> Utf8 Class Initialized
+INFO - 2020-12-28 09:49:17 --> URI Class Initialized
+INFO - 2020-12-28 09:49:17 --> Router Class Initialized
+INFO - 2020-12-28 09:49:17 --> Output Class Initialized
+INFO - 2020-12-28 09:49:17 --> Security Class Initialized
+DEBUG - 2020-12-28 09:49:17 --> Global POST, GET and COOKIE data sanitized
+INFO - 2020-12-28 09:49:18 --> Input Class Initialized
+INFO - 2020-12-28 09:49:18 --> Language Class Initialized
+ERROR - 2020-12-28 09:49:18 --> 404 Page Not Found: /index
+INFO - 2020-12-28 09:49:18 --> Config Class Initialized
+INFO - 2020-12-28 09:49:18 --> Hooks Class Initialized
+DEBUG - 2020-12-28 09:49:18 --> UTF-8 Support Enabled
+INFO - 2020-12-28 09:49:18 --> Utf8 Class Initialized
+INFO - 2020-12-28 09:49:18 --> URI Class Initialized
+INFO - 2020-12-28 09:49:18 --> Router Class Initialized
+INFO - 2020-12-28 09:49:18 --> Output Class Initialized
+INFO - 2020-12-28 09:49:18 --> Security Class Initialized
+INFO - 2020-12-28 09:49:18 --> Config Class Initialized
+INFO - 2020-12-28 09:49:18 --> Hooks Class Initialized
+DEBUG - 2020-12-28 09:49:18 --> UTF-8 Support Enabled
+INFO - 2020-12-28 09:49:18 --> Utf8 Class Initialized
+INFO - 2020-12-28 09:49:18 --> URI Class Initialized
+INFO - 2020-12-28 09:49:18 --> Router Class Initialized
+INFO - 2020-12-28 09:49:18 --> Output Class Initialized
+INFO - 2020-12-28 09:49:18 --> Security Class Initialized
+DEBUG - 2020-12-28 09:49:18 --> Global POST, GET and COOKIE data sanitized
+INFO - 2020-12-28 09:49:18 --> Input Class Initialized
+INFO - 2020-12-28 09:49:18 --> Language Class Initialized
+ERROR - 2020-12-28 09:49:18 --> 404 Page Not Found: /index
+DEBUG - 2020-12-28 09:49:18 --> Global POST, GET and COOKIE data sanitized
+INFO - 2020-12-28 09:49:18 --> Input Class Initialized
+INFO - 2020-12-28 09:49:18 --> Language Class Initialized
+INFO - 2020-12-28 09:49:18 --> Language Class Initialized
+INFO - 2020-12-28 09:49:18 --> Config Class Initialized
+INFO - 2020-12-28 09:49:18 --> Loader Class Initialized
+INFO - 2020-12-28 09:49:18 --> Helper loaded: url_helper
+INFO - 2020-12-28 09:49:18 --> Helper loaded: html_helper
+INFO - 2020-12-28 09:49:18 --> Helper loaded: file_helper
+INFO - 2020-12-28 09:49:18 --> Helper loaded: form_helper
+INFO - 2020-12-28 09:49:18 --> Helper loaded: security_helper
+INFO - 2020-12-28 09:49:19 --> Helper loaded: xss_helper
+INFO - 2020-12-28 09:49:19 --> Helper loaded: slug_helper
+INFO - 2020-12-28 09:49:19 --> Database Driver Class Initialized
+DEBUG - 2020-12-28 09:49:19 --> Session: "sess_save_path" is empty; using "session.save_path" value from php.ini.
+INFO - 2020-12-28 09:49:19 --> Session: Class initialized using 'files' driver.
+INFO - 2020-12-28 09:49:19 --> Language file loaded: language/english/pagination_lang.php
+INFO - 2020-12-28 09:49:19 --> Pagination Class Initialized
+INFO - 2020-12-28 09:49:19 --> Email Class Initialized
+INFO - 2020-12-28 09:49:19 --> Model "M_konfig" initialized
+INFO - 2020-12-28 09:49:19 --> Model "M_reff" initialized
+INFO - 2020-12-28 09:49:19 --> Model "M_total" initialized
+INFO - 2020-12-28 09:49:19 --> Controller Class Initialized
+DEBUG - 2020-12-28 09:49:19 --> Maps_kri MX_Controller Initialized
+DEBUG - 2020-12-28 09:49:19 --> File loaded: D:\xampp72\htdocs\app_grm\application\modules/maps_kri/models/Model.php
+DEBUG - 2020-12-28 15:49:19 --> File loaded: D:\xampp72\htdocs\app_grm\application\views\temp_maps_kri/head.php
+DEBUG - 2020-12-28 15:49:19 --> File loaded: D:\xampp72\htdocs\app_grm\application\views\temp_maps_kri/navbar.php
+DEBUG - 2020-12-28 15:49:19 --> File loaded: D:\xampp72\htdocs\app_grm\application\views\temp_maps_kri/sidebar_left.php
+DEBUG - 2020-12-28 15:49:19 --> File loaded: D:\xampp72\htdocs\app_grm\application\views\temp_maps_kri/sidebar_right.php
+DEBUG - 2020-12-28 15:49:19 --> File loaded: D:\xampp72\htdocs\app_grm\application\modules/maps_kri/views/index.php
+DEBUG - 2020-12-28 15:49:19 --> File loaded: D:\xampp72\htdocs\app_grm\application\views\temp_maps_kri/quick_bar.php
+DEBUG - 2020-12-28 15:49:19 --> File loaded: D:\xampp72\htdocs\app_grm\application\views\temp_maps_kri/toggle.php
+DEBUG - 2020-12-28 15:49:20 --> File loaded: D:\xampp72\htdocs\app_grm\application\views\temp_maps_kri/konten.php
+DEBUG - 2020-12-28 15:49:20 --> File loaded: D:\xampp72\htdocs\app_grm\application\views\temp_maps_kri/foot.php
+DEBUG - 2020-12-28 15:49:20 --> File loaded: D:\xampp72\htdocs\app_grm\application\views\temp_maps_kri/main.php
+INFO - 2020-12-28 15:49:20 --> Final output sent to browser
+DEBUG - 2020-12-28 15:49:20 --> Total execution time: 1.9906
+INFO - 2020-12-28 09:49:20 --> Config Class Initialized
+INFO - 2020-12-28 09:49:20 --> Hooks Class Initialized
+DEBUG - 2020-12-28 09:49:20 --> UTF-8 Support Enabled
+INFO - 2020-12-28 09:49:20 --> Utf8 Class Initialized
+INFO - 2020-12-28 09:49:20 --> URI Class Initialized
+INFO - 2020-12-28 09:49:20 --> Router Class Initialized
+INFO - 2020-12-28 09:49:20 --> Output Class Initialized
+INFO - 2020-12-28 09:49:21 --> Security Class Initialized
+DEBUG - 2020-12-28 09:49:21 --> Global POST, GET and COOKIE data sanitized
+INFO - 2020-12-28 09:49:21 --> Input Class Initialized
+INFO - 2020-12-28 09:49:21 --> Language Class Initialized
+ERROR - 2020-12-28 09:49:21 --> 404 Page Not Found: /index
+INFO - 2020-12-28 09:49:21 --> Config Class Initialized
+INFO - 2020-12-28 09:49:21 --> Hooks Class Initialized
+DEBUG - 2020-12-28 09:49:21 --> UTF-8 Support Enabled
+INFO - 2020-12-28 09:49:21 --> Utf8 Class Initialized
+INFO - 2020-12-28 09:49:21 --> URI Class Initialized
+INFO - 2020-12-28 09:49:21 --> Router Class Initialized
+INFO - 2020-12-28 09:49:21 --> Output Class Initialized
+INFO - 2020-12-28 09:49:22 --> Security Class Initialized
+DEBUG - 2020-12-28 09:49:22 --> Global POST, GET and COOKIE data sanitized
+INFO - 2020-12-28 09:49:22 --> Input Class Initialized
+INFO - 2020-12-28 09:49:22 --> Language Class Initialized
+INFO - 2020-12-28 09:49:22 --> Language Class Initialized
+INFO - 2020-12-28 09:49:22 --> Config Class Initialized
+INFO - 2020-12-28 09:49:22 --> Loader Class Initialized
+INFO - 2020-12-28 09:49:22 --> Helper loaded: url_helper
+INFO - 2020-12-28 09:49:22 --> Helper loaded: html_helper
+INFO - 2020-12-28 09:49:22 --> Helper loaded: file_helper
+INFO - 2020-12-28 09:49:22 --> Helper loaded: form_helper
+INFO - 2020-12-28 09:49:22 --> Helper loaded: security_helper
+INFO - 2020-12-28 09:49:22 --> Helper loaded: xss_helper
+INFO - 2020-12-28 09:49:22 --> Helper loaded: slug_helper
+INFO - 2020-12-28 09:49:23 --> Database Driver Class Initialized
+DEBUG - 2020-12-28 09:49:23 --> Session: "sess_save_path" is empty; using "session.save_path" value from php.ini.
+INFO - 2020-12-28 09:49:23 --> Session: Class initialized using 'files' driver.
+INFO - 2020-12-28 09:49:23 --> Language file loaded: language/english/pagination_lang.php
+INFO - 2020-12-28 09:49:23 --> Pagination Class Initialized
+INFO - 2020-12-28 09:49:23 --> Email Class Initialized
+INFO - 2020-12-28 09:49:23 --> Model "M_konfig" initialized
+INFO - 2020-12-28 09:49:23 --> Model "M_reff" initialized
+INFO - 2020-12-28 09:49:23 --> Model "M_total" initialized
+INFO - 2020-12-28 09:49:23 --> Controller Class Initialized
+DEBUG - 2020-12-28 09:49:23 --> Maps_kri MX_Controller Initialized
+DEBUG - 2020-12-28 09:49:23 --> File loaded: D:\xampp72\htdocs\app_grm\application\modules/maps_kri/models/Model.php
+INFO - 2020-12-28 15:49:23 --> Final output sent to browser
+DEBUG - 2020-12-28 15:49:23 --> Total execution time: 1.8787
+INFO - 2020-12-28 09:49:42 --> Config Class Initialized
+INFO - 2020-12-28 09:49:42 --> Hooks Class Initialized
+DEBUG - 2020-12-28 09:49:42 --> UTF-8 Support Enabled
+INFO - 2020-12-28 09:49:42 --> Utf8 Class Initialized
+INFO - 2020-12-28 09:49:42 --> URI Class Initialized
+INFO - 2020-12-28 09:49:42 --> Router Class Initialized
+INFO - 2020-12-28 09:49:42 --> Output Class Initialized
+INFO - 2020-12-28 09:49:42 --> Security Class Initialized
+DEBUG - 2020-12-28 09:49:42 --> Global POST, GET and COOKIE data sanitized
+INFO - 2020-12-28 09:49:42 --> Input Class Initialized
+INFO - 2020-12-28 09:49:42 --> Language Class Initialized
+INFO - 2020-12-28 09:49:42 --> Language Class Initialized
+INFO - 2020-12-28 09:49:42 --> Config Class Initialized
+INFO - 2020-12-28 09:49:43 --> Loader Class Initialized
+INFO - 2020-12-28 09:49:43 --> Helper loaded: url_helper
+INFO - 2020-12-28 09:49:43 --> Helper loaded: html_helper
+INFO - 2020-12-28 09:49:43 --> Helper loaded: file_helper
+INFO - 2020-12-28 09:49:43 --> Helper loaded: form_helper
+INFO - 2020-12-28 09:49:43 --> Helper loaded: security_helper
+INFO - 2020-12-28 09:49:43 --> Helper loaded: xss_helper
+INFO - 2020-12-28 09:49:43 --> Helper loaded: slug_helper
+INFO - 2020-12-28 09:49:43 --> Database Driver Class Initialized
+DEBUG - 2020-12-28 09:49:43 --> Session: "sess_save_path" is empty; using "session.save_path" value from php.ini.
+INFO - 2020-12-28 09:49:43 --> Session: Class initialized using 'files' driver.
+INFO - 2020-12-28 09:49:43 --> Language file loaded: language/english/pagination_lang.php
+INFO - 2020-12-28 09:49:43 --> Pagination Class Initialized
+INFO - 2020-12-28 09:49:43 --> Email Class Initialized
+INFO - 2020-12-28 09:49:43 --> Model "M_konfig" initialized
+INFO - 2020-12-28 09:49:43 --> Model "M_reff" initialized
+INFO - 2020-12-28 09:49:43 --> Model "M_total" initialized
+INFO - 2020-12-28 09:49:43 --> Controller Class Initialized
+DEBUG - 2020-12-28 09:49:43 --> Maps_kri MX_Controller Initialized
+INFO - 2020-12-28 09:49:43 --> Config Class Initialized
+INFO - 2020-12-28 09:49:43 --> Hooks Class Initialized
+DEBUG - 2020-12-28 09:49:43 --> UTF-8 Support Enabled
+INFO - 2020-12-28 09:49:43 --> Utf8 Class Initialized
+INFO - 2020-12-28 09:49:43 --> URI Class Initialized
+INFO - 2020-12-28 09:49:43 --> Router Class Initialized
+INFO - 2020-12-28 09:49:43 --> Output Class Initialized
+INFO - 2020-12-28 09:49:44 --> Security Class Initialized
+DEBUG - 2020-12-28 09:49:44 --> Global POST, GET and COOKIE data sanitized
+INFO - 2020-12-28 09:49:44 --> Input Class Initialized
+INFO - 2020-12-28 09:49:44 --> Language Class Initialized
+INFO - 2020-12-28 09:49:44 --> Language Class Initialized
+INFO - 2020-12-28 09:49:44 --> Config Class Initialized
+INFO - 2020-12-28 09:49:44 --> Loader Class Initialized
+INFO - 2020-12-28 09:49:44 --> Helper loaded: url_helper
+INFO - 2020-12-28 09:49:44 --> Helper loaded: html_helper
+INFO - 2020-12-28 09:49:44 --> Helper loaded: file_helper
+INFO - 2020-12-28 09:49:44 --> Helper loaded: form_helper
+INFO - 2020-12-28 09:49:44 --> Helper loaded: security_helper
+INFO - 2020-12-28 09:49:44 --> Helper loaded: xss_helper
+INFO - 2020-12-28 09:49:44 --> Helper loaded: slug_helper
+INFO - 2020-12-28 09:49:44 --> Database Driver Class Initialized
+DEBUG - 2020-12-28 09:49:44 --> Session: "sess_save_path" is empty; using "session.save_path" value from php.ini.
+INFO - 2020-12-28 09:49:44 --> Session: Class initialized using 'files' driver.
+INFO - 2020-12-28 09:49:44 --> Language file loaded: language/english/pagination_lang.php
+INFO - 2020-12-28 09:49:44 --> Pagination Class Initialized
+INFO - 2020-12-28 09:49:44 --> Email Class Initialized
+INFO - 2020-12-28 09:49:44 --> Model "M_konfig" initialized
+INFO - 2020-12-28 09:49:44 --> Model "M_reff" initialized
+INFO - 2020-12-28 09:49:44 --> Model "M_total" initialized
+INFO - 2020-12-28 09:49:44 --> Controller Class Initialized
+DEBUG - 2020-12-28 09:49:44 --> File loaded: D:\xampp72\htdocs\app_grm\application\modules/auth/models/M_login.php
+INFO - 2020-12-28 09:49:45 --> Config Class Initialized
+INFO - 2020-12-28 09:49:45 --> Hooks Class Initialized
+DEBUG - 2020-12-28 09:49:45 --> UTF-8 Support Enabled
+INFO - 2020-12-28 09:49:45 --> Utf8 Class Initialized
+INFO - 2020-12-28 09:49:45 --> URI Class Initialized
+INFO - 2020-12-28 09:49:45 --> Router Class Initialized
+INFO - 2020-12-28 09:49:45 --> Output Class Initialized
+INFO - 2020-12-28 09:49:45 --> Security Class Initialized
+DEBUG - 2020-12-28 09:49:45 --> Global POST, GET and COOKIE data sanitized
+INFO - 2020-12-28 09:49:45 --> Input Class Initialized
+INFO - 2020-12-28 09:49:45 --> Language Class Initialized
+INFO - 2020-12-28 09:49:45 --> Language Class Initialized
+INFO - 2020-12-28 09:49:45 --> Config Class Initialized
+INFO - 2020-12-28 09:49:45 --> Loader Class Initialized
+INFO - 2020-12-28 09:49:45 --> Helper loaded: url_helper
+INFO - 2020-12-28 09:49:45 --> Helper loaded: html_helper
+INFO - 2020-12-28 09:49:45 --> Helper loaded: file_helper
+INFO - 2020-12-28 09:49:45 --> Helper loaded: form_helper
+INFO - 2020-12-28 09:49:45 --> Helper loaded: security_helper
+INFO - 2020-12-28 09:49:45 --> Helper loaded: xss_helper
+INFO - 2020-12-28 09:49:45 --> Helper loaded: slug_helper
+INFO - 2020-12-28 09:49:45 --> Database Driver Class Initialized
+DEBUG - 2020-12-28 09:49:46 --> Session: "sess_save_path" is empty; using "session.save_path" value from php.ini.
+INFO - 2020-12-28 09:49:46 --> Session: Class initialized using 'files' driver.
+INFO - 2020-12-28 09:49:46 --> Language file loaded: language/english/pagination_lang.php
+INFO - 2020-12-28 09:49:46 --> Pagination Class Initialized
+INFO - 2020-12-28 09:49:46 --> Email Class Initialized
+INFO - 2020-12-28 09:49:46 --> Model "M_konfig" initialized
+INFO - 2020-12-28 09:49:46 --> Model "M_reff" initialized
+INFO - 2020-12-28 09:49:46 --> Model "M_total" initialized
+INFO - 2020-12-28 09:49:46 --> Controller Class Initialized
+DEBUG - 2020-12-28 09:49:46 --> File loaded: D:\xampp72\htdocs\app_grm\application\modules/auth/models/M_login.php
+DEBUG - 2020-12-28 15:49:46 --> File loaded: D:\xampp72\htdocs\app_grm\application\views\temp_login/head.php
+DEBUG - 2020-12-28 15:49:46 --> File loaded: D:\xampp72\htdocs\app_grm\application\modules/auth/views/index.php
+DEBUG - 2020-12-28 15:49:46 --> File loaded: D:\xampp72\htdocs\app_grm\application\views\temp_login/konten.php
+DEBUG - 2020-12-28 15:49:46 --> File loaded: D:\xampp72\htdocs\app_grm\application\views\temp_login/footer.php
+DEBUG - 2020-12-28 15:49:46 --> File loaded: D:\xampp72\htdocs\app_grm\application\views\temp_login/main.php
+INFO - 2020-12-28 15:49:46 --> Final output sent to browser
+DEBUG - 2020-12-28 15:49:46 --> Total execution time: 1.6107
+INFO - 2020-12-28 09:49:54 --> Config Class Initialized
+INFO - 2020-12-28 09:49:54 --> Hooks Class Initialized
+DEBUG - 2020-12-28 09:49:54 --> UTF-8 Support Enabled
+INFO - 2020-12-28 09:49:54 --> Utf8 Class Initialized
+INFO - 2020-12-28 09:49:54 --> URI Class Initialized
+INFO - 2020-12-28 09:49:55 --> Router Class Initialized
+INFO - 2020-12-28 09:49:55 --> Output Class Initialized
+INFO - 2020-12-28 09:49:55 --> Security Class Initialized
+DEBUG - 2020-12-28 09:49:55 --> Global POST, GET and COOKIE data sanitized
+INFO - 2020-12-28 09:49:55 --> Input Class Initialized
+INFO - 2020-12-28 09:49:55 --> Language Class Initialized
+INFO - 2020-12-28 09:49:55 --> Language Class Initialized
+INFO - 2020-12-28 09:49:55 --> Config Class Initialized
+INFO - 2020-12-28 09:49:55 --> Loader Class Initialized
+INFO - 2020-12-28 09:49:55 --> Helper loaded: url_helper
+INFO - 2020-12-28 09:49:55 --> Helper loaded: html_helper
+INFO - 2020-12-28 09:49:55 --> Helper loaded: file_helper
+INFO - 2020-12-28 09:49:55 --> Helper loaded: form_helper
+INFO - 2020-12-28 09:49:55 --> Helper loaded: security_helper
+INFO - 2020-12-28 09:49:55 --> Helper loaded: xss_helper
+INFO - 2020-12-28 09:49:55 --> Helper loaded: slug_helper
+INFO - 2020-12-28 09:49:55 --> Database Driver Class Initialized
+DEBUG - 2020-12-28 09:49:55 --> Session: "sess_save_path" is empty; using "session.save_path" value from php.ini.
+INFO - 2020-12-28 09:49:55 --> Session: Class initialized using 'files' driver.
+INFO - 2020-12-28 09:49:55 --> Language file loaded: language/english/pagination_lang.php
+INFO - 2020-12-28 09:49:55 --> Pagination Class Initialized
+INFO - 2020-12-28 09:49:55 --> Email Class Initialized
+INFO - 2020-12-28 09:49:55 --> Model "M_konfig" initialized
+INFO - 2020-12-28 09:49:55 --> Model "M_reff" initialized
+INFO - 2020-12-28 09:49:55 --> Model "M_total" initialized
+INFO - 2020-12-28 09:49:55 --> Controller Class Initialized
+DEBUG - 2020-12-28 09:49:55 --> File loaded: D:\xampp72\htdocs\app_grm\application\modules/auth/models/M_login.php
+INFO - 2020-12-28 15:49:55 --> Final output sent to browser
+DEBUG - 2020-12-28 15:49:55 --> Total execution time: 1.0745
+INFO - 2020-12-28 09:49:55 --> Config Class Initialized
+INFO - 2020-12-28 09:49:56 --> Hooks Class Initialized
+DEBUG - 2020-12-28 09:49:56 --> UTF-8 Support Enabled
+INFO - 2020-12-28 09:49:56 --> Utf8 Class Initialized
+INFO - 2020-12-28 09:49:56 --> URI Class Initialized
+INFO - 2020-12-28 09:49:56 --> Router Class Initialized
+INFO - 2020-12-28 09:49:56 --> Output Class Initialized
+INFO - 2020-12-28 09:49:56 --> Security Class Initialized
+DEBUG - 2020-12-28 09:49:56 --> Global POST, GET and COOKIE data sanitized
+INFO - 2020-12-28 09:49:56 --> Input Class Initialized
+INFO - 2020-12-28 09:49:56 --> Language Class Initialized
+INFO - 2020-12-28 09:49:56 --> Language Class Initialized
+INFO - 2020-12-28 09:49:56 --> Config Class Initialized
+INFO - 2020-12-28 09:49:56 --> Loader Class Initialized
+INFO - 2020-12-28 09:49:56 --> Helper loaded: url_helper
+INFO - 2020-12-28 09:49:56 --> Helper loaded: html_helper
+INFO - 2020-12-28 09:49:56 --> Helper loaded: file_helper
+INFO - 2020-12-28 09:49:56 --> Helper loaded: form_helper
+INFO - 2020-12-28 09:49:56 --> Helper loaded: security_helper
+INFO - 2020-12-28 09:49:56 --> Helper loaded: xss_helper
+INFO - 2020-12-28 09:49:56 --> Helper loaded: slug_helper
+INFO - 2020-12-28 09:49:56 --> Database Driver Class Initialized
+DEBUG - 2020-12-28 09:49:56 --> Session: "sess_save_path" is empty; using "session.save_path" value from php.ini.
+INFO - 2020-12-28 09:49:56 --> Session: Class initialized using 'files' driver.
+INFO - 2020-12-28 09:49:56 --> Language file loaded: language/english/pagination_lang.php
+INFO - 2020-12-28 09:49:56 --> Pagination Class Initialized
+INFO - 2020-12-28 09:49:56 --> Email Class Initialized
+INFO - 2020-12-28 09:49:57 --> Model "M_konfig" initialized
+INFO - 2020-12-28 09:49:57 --> Model "M_reff" initialized
+INFO - 2020-12-28 09:49:57 --> Model "M_total" initialized
+INFO - 2020-12-28 09:49:57 --> Controller Class Initialized
+DEBUG - 2020-12-28 09:49:57 --> Maps_kri MX_Controller Initialized
+DEBUG - 2020-12-28 09:49:57 --> File loaded: D:\xampp72\htdocs\app_grm\application\modules/maps_kri/models/Model.php
+DEBUG - 2020-12-28 15:49:57 --> File loaded: D:\xampp72\htdocs\app_grm\application\views\temp_maps_kri/head.php
+DEBUG - 2020-12-28 15:49:57 --> File loaded: D:\xampp72\htdocs\app_grm\application\views\temp_maps_kri/navbar.php
+DEBUG - 2020-12-28 15:49:57 --> File loaded: D:\xampp72\htdocs\app_grm\application\views\temp_maps_kri/sidebar_left.php
+DEBUG - 2020-12-28 15:49:57 --> File loaded: D:\xampp72\htdocs\app_grm\application\views\temp_maps_kri/sidebar_right.php
+DEBUG - 2020-12-28 15:49:57 --> File loaded: D:\xampp72\htdocs\app_grm\application\modules/maps_kri/views/index.php
+DEBUG - 2020-12-28 15:49:57 --> File loaded: D:\xampp72\htdocs\app_grm\application\views\temp_maps_kri/quick_bar.php
+DEBUG - 2020-12-28 15:49:57 --> File loaded: D:\xampp72\htdocs\app_grm\application\views\temp_maps_kri/toggle.php
+DEBUG - 2020-12-28 15:49:57 --> File loaded: D:\xampp72\htdocs\app_grm\application\views\temp_maps_kri/konten.php
+DEBUG - 2020-12-28 15:49:57 --> File loaded: D:\xampp72\htdocs\app_grm\application\views\temp_maps_kri/foot.php
+DEBUG - 2020-12-28 15:49:57 --> File loaded: D:\xampp72\htdocs\app_grm\application\views\temp_maps_kri/main.php
+INFO - 2020-12-28 15:49:57 --> Final output sent to browser
+DEBUG - 2020-12-28 15:49:57 --> Total execution time: 1.5547
+INFO - 2020-12-28 09:49:57 --> Config Class Initialized
+INFO - 2020-12-28 09:49:57 --> Hooks Class Initialized
+DEBUG - 2020-12-28 09:49:57 --> UTF-8 Support Enabled
+INFO - 2020-12-28 09:49:57 --> Utf8 Class Initialized
+INFO - 2020-12-28 09:49:57 --> URI Class Initialized
+INFO - 2020-12-28 09:49:57 --> Router Class Initialized
+INFO - 2020-12-28 09:49:57 --> Output Class Initialized
+INFO - 2020-12-28 09:49:57 --> Security Class Initialized
+DEBUG - 2020-12-28 09:49:57 --> Global POST, GET and COOKIE data sanitized
+INFO - 2020-12-28 09:49:57 --> Input Class Initialized
+INFO - 2020-12-28 09:49:57 --> Language Class Initialized
+ERROR - 2020-12-28 09:49:57 --> 404 Page Not Found: /index
+INFO - 2020-12-28 09:49:58 --> Config Class Initialized
+INFO - 2020-12-28 09:49:58 --> Hooks Class Initialized
+DEBUG - 2020-12-28 09:49:58 --> UTF-8 Support Enabled
+INFO - 2020-12-28 09:49:58 --> Utf8 Class Initialized
+INFO - 2020-12-28 09:49:58 --> URI Class Initialized
+INFO - 2020-12-28 09:49:58 --> Router Class Initialized
+INFO - 2020-12-28 09:49:58 --> Output Class Initialized
+INFO - 2020-12-28 09:49:58 --> Security Class Initialized
+DEBUG - 2020-12-28 09:49:58 --> Global POST, GET and COOKIE data sanitized
+INFO - 2020-12-28 09:49:58 --> Input Class Initialized
+INFO - 2020-12-28 09:49:58 --> Language Class Initialized
+ERROR - 2020-12-28 09:49:58 --> 404 Page Not Found: /index
+INFO - 2020-12-28 09:49:59 --> Config Class Initialized
+INFO - 2020-12-28 09:49:59 --> Hooks Class Initialized
+DEBUG - 2020-12-28 09:49:59 --> UTF-8 Support Enabled
+INFO - 2020-12-28 09:49:59 --> Utf8 Class Initialized
+INFO - 2020-12-28 09:50:00 --> URI Class Initialized
+INFO - 2020-12-28 09:50:00 --> Router Class Initialized
+INFO - 2020-12-28 09:50:00 --> Output Class Initialized
+INFO - 2020-12-28 09:50:00 --> Security Class Initialized
+DEBUG - 2020-12-28 09:50:00 --> Global POST, GET and COOKIE data sanitized
+INFO - 2020-12-28 09:50:00 --> Input Class Initialized
+INFO - 2020-12-28 09:50:00 --> Language Class Initialized
+INFO - 2020-12-28 09:50:00 --> Language Class Initialized
+INFO - 2020-12-28 09:50:00 --> Config Class Initialized
+INFO - 2020-12-28 09:50:00 --> Loader Class Initialized
+INFO - 2020-12-28 09:50:00 --> Helper loaded: url_helper
+INFO - 2020-12-28 09:50:00 --> Helper loaded: html_helper
+INFO - 2020-12-28 09:50:00 --> Helper loaded: file_helper
+INFO - 2020-12-28 09:50:00 --> Helper loaded: form_helper
+INFO - 2020-12-28 09:50:00 --> Helper loaded: security_helper
+INFO - 2020-12-28 09:50:00 --> Helper loaded: xss_helper
+INFO - 2020-12-28 09:50:01 --> Helper loaded: slug_helper
+INFO - 2020-12-28 09:50:01 --> Database Driver Class Initialized
+DEBUG - 2020-12-28 09:50:01 --> Session: "sess_save_path" is empty; using "session.save_path" value from php.ini.
+INFO - 2020-12-28 09:50:01 --> Session: Class initialized using 'files' driver.
+INFO - 2020-12-28 09:50:01 --> Language file loaded: language/english/pagination_lang.php
+INFO - 2020-12-28 09:50:01 --> Pagination Class Initialized
+INFO - 2020-12-28 09:50:01 --> Email Class Initialized
+INFO - 2020-12-28 09:50:01 --> Model "M_konfig" initialized
+INFO - 2020-12-28 09:50:01 --> Model "M_reff" initialized
+INFO - 2020-12-28 09:50:01 --> Model "M_total" initialized
+INFO - 2020-12-28 09:50:01 --> Controller Class Initialized
+DEBUG - 2020-12-28 09:50:01 --> Maps_kri MX_Controller Initialized
+DEBUG - 2020-12-28 09:50:01 --> File loaded: D:\xampp72\htdocs\app_grm\application\modules/maps_kri/models/Model.php
+INFO - 2020-12-28 15:50:01 --> Final output sent to browser
+DEBUG - 2020-12-28 15:50:01 --> Total execution time: 1.9990
+INFO - 2020-12-28 09:50:37 --> Config Class Initialized
+INFO - 2020-12-28 09:50:37 --> Hooks Class Initialized
+DEBUG - 2020-12-28 09:50:37 --> UTF-8 Support Enabled
+INFO - 2020-12-28 09:50:37 --> Utf8 Class Initialized
+INFO - 2020-12-28 09:50:37 --> URI Class Initialized
+INFO - 2020-12-28 09:50:37 --> Router Class Initialized
+INFO - 2020-12-28 09:50:37 --> Output Class Initialized
+INFO - 2020-12-28 09:50:37 --> Security Class Initialized
+DEBUG - 2020-12-28 09:50:37 --> Global POST, GET and COOKIE data sanitized
+INFO - 2020-12-28 09:50:37 --> Input Class Initialized
+INFO - 2020-12-28 09:50:37 --> Language Class Initialized
+INFO - 2020-12-28 09:50:37 --> Language Class Initialized
+INFO - 2020-12-28 09:50:37 --> Config Class Initialized
+INFO - 2020-12-28 09:50:37 --> Loader Class Initialized
+INFO - 2020-12-28 09:50:37 --> Helper loaded: url_helper
+INFO - 2020-12-28 09:50:37 --> Helper loaded: html_helper
+INFO - 2020-12-28 09:50:37 --> Helper loaded: file_helper
+INFO - 2020-12-28 09:50:37 --> Helper loaded: form_helper
+INFO - 2020-12-28 09:50:37 --> Helper loaded: security_helper
+INFO - 2020-12-28 09:50:37 --> Helper loaded: xss_helper
+INFO - 2020-12-28 09:50:37 --> Helper loaded: slug_helper
+INFO - 2020-12-28 09:50:37 --> Database Driver Class Initialized
+DEBUG - 2020-12-28 09:50:37 --> Session: "sess_save_path" is empty; using "session.save_path" value from php.ini.
+INFO - 2020-12-28 09:50:37 --> Session: Class initialized using 'files' driver.
+INFO - 2020-12-28 09:50:37 --> Language file loaded: language/english/pagination_lang.php
+INFO - 2020-12-28 09:50:38 --> Pagination Class Initialized
+INFO - 2020-12-28 09:50:38 --> Email Class Initialized
+INFO - 2020-12-28 09:50:38 --> Model "M_konfig" initialized
+INFO - 2020-12-28 09:50:38 --> Model "M_reff" initialized
+INFO - 2020-12-28 09:50:38 --> Model "M_total" initialized
+INFO - 2020-12-28 09:50:38 --> Controller Class Initialized
+DEBUG - 2020-12-28 09:50:38 --> Maps_kri MX_Controller Initialized
+DEBUG - 2020-12-28 09:50:38 --> File loaded: D:\xampp72\htdocs\app_grm\application\modules/maps_kri/models/Model.php
+DEBUG - 2020-12-28 15:50:38 --> File loaded: D:\xampp72\htdocs\app_grm\application\views\temp_maps_kri/head.php
+DEBUG - 2020-12-28 15:50:38 --> File loaded: D:\xampp72\htdocs\app_grm\application\views\temp_maps_kri/navbar.php
+DEBUG - 2020-12-28 15:50:38 --> File loaded: D:\xampp72\htdocs\app_grm\application\views\temp_maps_kri/sidebar_left.php
+DEBUG - 2020-12-28 15:50:38 --> File loaded: D:\xampp72\htdocs\app_grm\application\views\temp_maps_kri/sidebar_right.php
+DEBUG - 2020-12-28 15:50:38 --> File loaded: D:\xampp72\htdocs\app_grm\application\modules/maps_kri/views/index.php
+DEBUG - 2020-12-28 15:50:38 --> File loaded: D:\xampp72\htdocs\app_grm\application\views\temp_maps_kri/quick_bar.php
+DEBUG - 2020-12-28 15:50:38 --> File loaded: D:\xampp72\htdocs\app_grm\application\views\temp_maps_kri/toggle.php
+DEBUG - 2020-12-28 15:50:38 --> File loaded: D:\xampp72\htdocs\app_grm\application\views\temp_maps_kri/konten.php
+DEBUG - 2020-12-28 15:50:38 --> File loaded: D:\xampp72\htdocs\app_grm\application\views\temp_maps_kri/foot.php
+DEBUG - 2020-12-28 15:50:38 --> File loaded: D:\xampp72\htdocs\app_grm\application\views\temp_maps_kri/main.php
+INFO - 2020-12-28 15:50:38 --> Final output sent to browser
+INFO - 2020-12-28 09:50:38 --> Config Class Initialized
+INFO - 2020-12-28 09:50:38 --> Hooks Class Initialized
+DEBUG - 2020-12-28 09:50:38 --> UTF-8 Support Enabled
+INFO - 2020-12-28 09:50:38 --> Utf8 Class Initialized
+INFO - 2020-12-28 09:50:38 --> URI Class Initialized
+INFO - 2020-12-28 09:50:38 --> Router Class Initialized
+INFO - 2020-12-28 09:50:38 --> Output Class Initialized
+INFO - 2020-12-28 09:50:38 --> Security Class Initialized
+DEBUG - 2020-12-28 09:50:38 --> Global POST, GET and COOKIE data sanitized
+INFO - 2020-12-28 09:50:38 --> Input Class Initialized
+INFO - 2020-12-28 09:50:38 --> Language Class Initialized
+ERROR - 2020-12-28 09:50:38 --> 404 Page Not Found: /index
+DEBUG - 2020-12-28 15:50:38 --> Total execution time: 1.4924
+INFO - 2020-12-28 09:50:39 --> Config Class Initialized
+INFO - 2020-12-28 09:50:39 --> Hooks Class Initialized
+DEBUG - 2020-12-28 09:50:39 --> UTF-8 Support Enabled
+INFO - 2020-12-28 09:50:39 --> Utf8 Class Initialized
+INFO - 2020-12-28 09:50:39 --> URI Class Initialized
+INFO - 2020-12-28 09:50:39 --> Router Class Initialized
+INFO - 2020-12-28 09:50:39 --> Output Class Initialized
+INFO - 2020-12-28 09:50:39 --> Security Class Initialized
+DEBUG - 2020-12-28 09:50:39 --> Global POST, GET and COOKIE data sanitized
+INFO - 2020-12-28 09:50:39 --> Input Class Initialized
+INFO - 2020-12-28 09:50:39 --> Language Class Initialized
+ERROR - 2020-12-28 09:50:39 --> 404 Page Not Found: /index
+INFO - 2020-12-28 09:50:40 --> Config Class Initialized
+INFO - 2020-12-28 09:50:40 --> Hooks Class Initialized
+DEBUG - 2020-12-28 09:50:40 --> UTF-8 Support Enabled
+INFO - 2020-12-28 09:50:40 --> Utf8 Class Initialized
+INFO - 2020-12-28 09:50:40 --> URI Class Initialized
+INFO - 2020-12-28 09:50:40 --> Router Class Initialized
+INFO - 2020-12-28 09:50:40 --> Output Class Initialized
+INFO - 2020-12-28 09:50:40 --> Security Class Initialized
+DEBUG - 2020-12-28 09:50:40 --> Global POST, GET and COOKIE data sanitized
+INFO - 2020-12-28 09:50:40 --> Input Class Initialized
+INFO - 2020-12-28 09:50:40 --> Language Class Initialized
+INFO - 2020-12-28 09:50:40 --> Language Class Initialized
+INFO - 2020-12-28 09:50:40 --> Config Class Initialized
+INFO - 2020-12-28 09:50:40 --> Loader Class Initialized
+INFO - 2020-12-28 09:50:41 --> Helper loaded: url_helper
+INFO - 2020-12-28 09:50:41 --> Helper loaded: html_helper
+INFO - 2020-12-28 09:50:41 --> Helper loaded: file_helper
+INFO - 2020-12-28 09:50:41 --> Helper loaded: form_helper
+INFO - 2020-12-28 09:50:41 --> Helper loaded: security_helper
+INFO - 2020-12-28 09:50:41 --> Helper loaded: xss_helper
+INFO - 2020-12-28 09:50:41 --> Helper loaded: slug_helper
+INFO - 2020-12-28 09:50:41 --> Database Driver Class Initialized
+DEBUG - 2020-12-28 09:50:41 --> Session: "sess_save_path" is empty; using "session.save_path" value from php.ini.
+INFO - 2020-12-28 09:50:41 --> Session: Class initialized using 'files' driver.
+INFO - 2020-12-28 09:50:41 --> Language file loaded: language/english/pagination_lang.php
+INFO - 2020-12-28 09:50:41 --> Pagination Class Initialized
+INFO - 2020-12-28 09:50:41 --> Email Class Initialized
+INFO - 2020-12-28 09:50:41 --> Model "M_konfig" initialized
+INFO - 2020-12-28 09:50:42 --> Model "M_reff" initialized
+INFO - 2020-12-28 09:50:42 --> Model "M_total" initialized
+INFO - 2020-12-28 09:50:42 --> Controller Class Initialized
+DEBUG - 2020-12-28 09:50:42 --> Maps_kri MX_Controller Initialized
+DEBUG - 2020-12-28 09:50:42 --> File loaded: D:\xampp72\htdocs\app_grm\application\modules/maps_kri/models/Model.php
+INFO - 2020-12-28 15:50:42 --> Final output sent to browser
+DEBUG - 2020-12-28 15:50:42 --> Total execution time: 2.1099
+INFO - 2020-12-28 09:51:55 --> Config Class Initialized
+INFO - 2020-12-28 09:51:55 --> Hooks Class Initialized
+DEBUG - 2020-12-28 09:51:55 --> UTF-8 Support Enabled
+INFO - 2020-12-28 09:51:55 --> Utf8 Class Initialized
+INFO - 2020-12-28 09:51:55 --> URI Class Initialized
+INFO - 2020-12-28 09:51:55 --> Router Class Initialized
+INFO - 2020-12-28 09:51:55 --> Output Class Initialized
+INFO - 2020-12-28 09:51:55 --> Security Class Initialized
+DEBUG - 2020-12-28 09:51:55 --> Global POST, GET and COOKIE data sanitized
+INFO - 2020-12-28 09:51:55 --> Input Class Initialized
+INFO - 2020-12-28 09:51:55 --> Language Class Initialized
+INFO - 2020-12-28 09:51:55 --> Language Class Initialized
+INFO - 2020-12-28 09:51:55 --> Config Class Initialized
+INFO - 2020-12-28 09:51:56 --> Loader Class Initialized
+INFO - 2020-12-28 09:51:56 --> Helper loaded: url_helper
+INFO - 2020-12-28 09:51:56 --> Helper loaded: html_helper
+INFO - 2020-12-28 09:51:56 --> Helper loaded: file_helper
+INFO - 2020-12-28 09:51:56 --> Helper loaded: form_helper
+INFO - 2020-12-28 09:51:56 --> Helper loaded: security_helper
+INFO - 2020-12-28 09:51:56 --> Helper loaded: xss_helper
+INFO - 2020-12-28 09:51:56 --> Helper loaded: slug_helper
+INFO - 2020-12-28 09:51:56 --> Database Driver Class Initialized
+DEBUG - 2020-12-28 09:51:56 --> Session: "sess_save_path" is empty; using "session.save_path" value from php.ini.
+INFO - 2020-12-28 09:51:56 --> Session: Class initialized using 'files' driver.
+INFO - 2020-12-28 09:51:56 --> Language file loaded: language/english/pagination_lang.php
+INFO - 2020-12-28 09:51:56 --> Pagination Class Initialized
+INFO - 2020-12-28 09:51:56 --> Email Class Initialized
+INFO - 2020-12-28 09:51:56 --> Model "M_konfig" initialized
+INFO - 2020-12-28 09:51:56 --> Model "M_reff" initialized
+INFO - 2020-12-28 09:51:56 --> Model "M_total" initialized
+INFO - 2020-12-28 09:51:56 --> Controller Class Initialized
+DEBUG - 2020-12-28 09:51:56 --> Maps_kri MX_Controller Initialized
+DEBUG - 2020-12-28 09:51:56 --> File loaded: D:\xampp72\htdocs\app_grm\application\modules/maps_kri/models/Model.php
+DEBUG - 2020-12-28 15:51:56 --> File loaded: D:\xampp72\htdocs\app_grm\application\views\temp_maps_kri/head.php
+DEBUG - 2020-12-28 15:51:56 --> File loaded: D:\xampp72\htdocs\app_grm\application\views\temp_maps_kri/navbar.php
+DEBUG - 2020-12-28 15:51:56 --> File loaded: D:\xampp72\htdocs\app_grm\application\views\temp_maps_kri/sidebar_left.php
+DEBUG - 2020-12-28 15:51:57 --> File loaded: D:\xampp72\htdocs\app_grm\application\views\temp_maps_kri/sidebar_right.php
+DEBUG - 2020-12-28 15:51:57 --> File loaded: D:\xampp72\htdocs\app_grm\application\modules/maps_kri/views/index.php
+DEBUG - 2020-12-28 15:51:57 --> File loaded: D:\xampp72\htdocs\app_grm\application\views\temp_maps_kri/quick_bar.php
+DEBUG - 2020-12-28 15:51:57 --> File loaded: D:\xampp72\htdocs\app_grm\application\views\temp_maps_kri/toggle.php
+DEBUG - 2020-12-28 15:51:57 --> File loaded: D:\xampp72\htdocs\app_grm\application\views\temp_maps_kri/konten.php
+DEBUG - 2020-12-28 15:51:57 --> File loaded: D:\xampp72\htdocs\app_grm\application\views\temp_maps_kri/foot.php
+DEBUG - 2020-12-28 15:51:57 --> File loaded: D:\xampp72\htdocs\app_grm\application\views\temp_maps_kri/main.php
+INFO - 2020-12-28 15:51:57 --> Final output sent to browser
+DEBUG - 2020-12-28 15:51:57 --> Total execution time: 1.8193
+INFO - 2020-12-28 09:51:57 --> Config Class Initialized
+INFO - 2020-12-28 09:51:57 --> Hooks Class Initialized
+DEBUG - 2020-12-28 09:51:57 --> UTF-8 Support Enabled
+INFO - 2020-12-28 09:51:57 --> Utf8 Class Initialized
+INFO - 2020-12-28 09:51:57 --> URI Class Initialized
+INFO - 2020-12-28 09:51:57 --> Router Class Initialized
+INFO - 2020-12-28 09:51:57 --> Output Class Initialized
+INFO - 2020-12-28 09:51:57 --> Security Class Initialized
+DEBUG - 2020-12-28 09:51:57 --> Global POST, GET and COOKIE data sanitized
+INFO - 2020-12-28 09:51:57 --> Input Class Initialized
+INFO - 2020-12-28 09:51:57 --> Language Class Initialized
+ERROR - 2020-12-28 09:51:57 --> 404 Page Not Found: /index
+INFO - 2020-12-28 09:51:58 --> Config Class Initialized
+INFO - 2020-12-28 09:51:58 --> Hooks Class Initialized
+DEBUG - 2020-12-28 09:51:58 --> UTF-8 Support Enabled
+INFO - 2020-12-28 09:51:58 --> Utf8 Class Initialized
+INFO - 2020-12-28 09:51:58 --> URI Class Initialized
+INFO - 2020-12-28 09:51:58 --> Router Class Initialized
+INFO - 2020-12-28 09:51:58 --> Output Class Initialized
+INFO - 2020-12-28 09:51:58 --> Security Class Initialized
+DEBUG - 2020-12-28 09:51:58 --> Global POST, GET and COOKIE data sanitized
+INFO - 2020-12-28 09:51:58 --> Input Class Initialized
+INFO - 2020-12-28 09:51:58 --> Language Class Initialized
+ERROR - 2020-12-28 09:51:58 --> 404 Page Not Found: /index
+INFO - 2020-12-28 09:51:59 --> Config Class Initialized
+INFO - 2020-12-28 09:51:59 --> Hooks Class Initialized
+DEBUG - 2020-12-28 09:51:59 --> UTF-8 Support Enabled
+INFO - 2020-12-28 09:51:59 --> Utf8 Class Initialized
+INFO - 2020-12-28 09:51:59 --> URI Class Initialized
+INFO - 2020-12-28 09:51:59 --> Router Class Initialized
+INFO - 2020-12-28 09:51:59 --> Output Class Initialized
+INFO - 2020-12-28 09:51:59 --> Security Class Initialized
+DEBUG - 2020-12-28 09:51:59 --> Global POST, GET and COOKIE data sanitized
+INFO - 2020-12-28 09:51:59 --> Input Class Initialized
+INFO - 2020-12-28 09:51:59 --> Language Class Initialized
+INFO - 2020-12-28 09:51:59 --> Language Class Initialized
+INFO - 2020-12-28 09:51:59 --> Config Class Initialized
+INFO - 2020-12-28 09:51:59 --> Loader Class Initialized
+INFO - 2020-12-28 09:51:59 --> Helper loaded: url_helper
+INFO - 2020-12-28 09:52:00 --> Helper loaded: html_helper
+INFO - 2020-12-28 09:52:00 --> Helper loaded: file_helper
+INFO - 2020-12-28 09:52:00 --> Helper loaded: form_helper
+INFO - 2020-12-28 09:52:00 --> Helper loaded: security_helper
+INFO - 2020-12-28 09:52:00 --> Helper loaded: xss_helper
+INFO - 2020-12-28 09:52:00 --> Helper loaded: slug_helper
+INFO - 2020-12-28 09:52:00 --> Database Driver Class Initialized
+DEBUG - 2020-12-28 09:52:00 --> Session: "sess_save_path" is empty; using "session.save_path" value from php.ini.
+INFO - 2020-12-28 09:52:00 --> Session: Class initialized using 'files' driver.
+INFO - 2020-12-28 09:52:00 --> Language file loaded: language/english/pagination_lang.php
+INFO - 2020-12-28 09:52:00 --> Pagination Class Initialized
+INFO - 2020-12-28 09:52:00 --> Email Class Initialized
+INFO - 2020-12-28 09:52:00 --> Model "M_konfig" initialized
+INFO - 2020-12-28 09:52:00 --> Model "M_reff" initialized
+INFO - 2020-12-28 09:52:00 --> Model "M_total" initialized
+INFO - 2020-12-28 09:52:00 --> Controller Class Initialized
+DEBUG - 2020-12-28 09:52:00 --> Maps_kri MX_Controller Initialized
+DEBUG - 2020-12-28 09:52:00 --> File loaded: D:\xampp72\htdocs\app_grm\application\modules/maps_kri/models/Model.php
+INFO - 2020-12-28 15:52:01 --> Final output sent to browser
+DEBUG - 2020-12-28 15:52:01 --> Total execution time: 2.0348
+INFO - 2020-12-28 09:53:15 --> Config Class Initialized
+INFO - 2020-12-28 09:53:15 --> Hooks Class Initialized
+DEBUG - 2020-12-28 09:53:15 --> UTF-8 Support Enabled
+INFO - 2020-12-28 09:53:15 --> Utf8 Class Initialized
+INFO - 2020-12-28 09:53:15 --> URI Class Initialized
+INFO - 2020-12-28 09:53:15 --> Router Class Initialized
+INFO - 2020-12-28 09:53:15 --> Output Class Initialized
+INFO - 2020-12-28 09:53:15 --> Security Class Initialized
+DEBUG - 2020-12-28 09:53:15 --> Global POST, GET and COOKIE data sanitized
+INFO - 2020-12-28 09:53:15 --> Input Class Initialized
+INFO - 2020-12-28 09:53:15 --> Language Class Initialized
+INFO - 2020-12-28 09:53:15 --> Language Class Initialized
+INFO - 2020-12-28 09:53:16 --> Config Class Initialized
+INFO - 2020-12-28 09:53:16 --> Loader Class Initialized
+INFO - 2020-12-28 09:53:16 --> Helper loaded: url_helper
+INFO - 2020-12-28 09:53:16 --> Helper loaded: html_helper
+INFO - 2020-12-28 09:53:16 --> Helper loaded: file_helper
+INFO - 2020-12-28 09:53:16 --> Helper loaded: form_helper
+INFO - 2020-12-28 09:53:16 --> Helper loaded: security_helper
+INFO - 2020-12-28 09:53:16 --> Helper loaded: xss_helper
+INFO - 2020-12-28 09:53:16 --> Helper loaded: slug_helper
+INFO - 2020-12-28 09:53:16 --> Database Driver Class Initialized
+DEBUG - 2020-12-28 09:53:16 --> Session: "sess_save_path" is empty; using "session.save_path" value from php.ini.
+INFO - 2020-12-28 09:53:16 --> Session: Class initialized using 'files' driver.
+INFO - 2020-12-28 09:53:16 --> Language file loaded: language/english/pagination_lang.php
+INFO - 2020-12-28 09:53:16 --> Pagination Class Initialized
+INFO - 2020-12-28 09:53:16 --> Email Class Initialized
+INFO - 2020-12-28 09:53:16 --> Model "M_konfig" initialized
+INFO - 2020-12-28 09:53:16 --> Model "M_reff" initialized
+INFO - 2020-12-28 09:53:16 --> Model "M_total" initialized
+INFO - 2020-12-28 09:53:16 --> Controller Class Initialized
+DEBUG - 2020-12-28 09:53:16 --> Maps_kri MX_Controller Initialized
+DEBUG - 2020-12-28 09:53:16 --> File loaded: D:\xampp72\htdocs\app_grm\application\modules/maps_kri/models/Model.php
+DEBUG - 2020-12-28 15:53:16 --> File loaded: D:\xampp72\htdocs\app_grm\application\views\temp_maps_kri/head.php
+DEBUG - 2020-12-28 15:53:16 --> File loaded: D:\xampp72\htdocs\app_grm\application\views\temp_maps_kri/navbar.php
+DEBUG - 2020-12-28 15:53:16 --> File loaded: D:\xampp72\htdocs\app_grm\application\views\temp_maps_kri/sidebar_left.php
+DEBUG - 2020-12-28 15:53:16 --> File loaded: D:\xampp72\htdocs\app_grm\application\views\temp_maps_kri/sidebar_right.php
+DEBUG - 2020-12-28 15:53:16 --> File loaded: D:\xampp72\htdocs\app_grm\application\modules/maps_kri/views/index.php
+DEBUG - 2020-12-28 15:53:16 --> File loaded: D:\xampp72\htdocs\app_grm\application\views\temp_maps_kri/quick_bar.php
+DEBUG - 2020-12-28 15:53:16 --> File loaded: D:\xampp72\htdocs\app_grm\application\views\temp_maps_kri/toggle.php
+DEBUG - 2020-12-28 15:53:16 --> File loaded: D:\xampp72\htdocs\app_grm\application\views\temp_maps_kri/konten.php
+DEBUG - 2020-12-28 15:53:17 --> File loaded: D:\xampp72\htdocs\app_grm\application\views\temp_maps_kri/foot.php
+DEBUG - 2020-12-28 15:53:17 --> File loaded: D:\xampp72\htdocs\app_grm\application\views\temp_maps_kri/main.php
+INFO - 2020-12-28 15:53:17 --> Final output sent to browser
+DEBUG - 2020-12-28 15:53:17 --> Total execution time: 1.4535
+INFO - 2020-12-28 09:53:17 --> Config Class Initialized
+INFO - 2020-12-28 09:53:17 --> Hooks Class Initialized
+DEBUG - 2020-12-28 09:53:17 --> UTF-8 Support Enabled
+INFO - 2020-12-28 09:53:17 --> Utf8 Class Initialized
+INFO - 2020-12-28 09:53:17 --> URI Class Initialized
+INFO - 2020-12-28 09:53:17 --> Router Class Initialized
+INFO - 2020-12-28 09:53:17 --> Output Class Initialized
+INFO - 2020-12-28 09:53:17 --> Security Class Initialized
+DEBUG - 2020-12-28 09:53:17 --> Global POST, GET and COOKIE data sanitized
+INFO - 2020-12-28 09:53:17 --> Input Class Initialized
+INFO - 2020-12-28 09:53:17 --> Language Class Initialized
+ERROR - 2020-12-28 09:53:17 --> 404 Page Not Found: /index
+INFO - 2020-12-28 09:53:17 --> Config Class Initialized
+INFO - 2020-12-28 09:53:17 --> Hooks Class Initialized
+DEBUG - 2020-12-28 09:53:17 --> UTF-8 Support Enabled
+INFO - 2020-12-28 09:53:17 --> Utf8 Class Initialized
+INFO - 2020-12-28 09:53:17 --> URI Class Initialized
+INFO - 2020-12-28 09:53:17 --> Router Class Initialized
+INFO - 2020-12-28 09:53:17 --> Output Class Initialized
+INFO - 2020-12-28 09:53:18 --> Security Class Initialized
+DEBUG - 2020-12-28 09:53:18 --> Global POST, GET and COOKIE data sanitized
+INFO - 2020-12-28 09:53:18 --> Input Class Initialized
+INFO - 2020-12-28 09:53:18 --> Language Class Initialized
+ERROR - 2020-12-28 09:53:18 --> 404 Page Not Found: /index
+INFO - 2020-12-28 09:53:18 --> Config Class Initialized
+INFO - 2020-12-28 09:53:18 --> Hooks Class Initialized
+DEBUG - 2020-12-28 09:53:18 --> UTF-8 Support Enabled
+INFO - 2020-12-28 09:53:18 --> Utf8 Class Initialized
+INFO - 2020-12-28 09:53:18 --> URI Class Initialized
+INFO - 2020-12-28 09:53:19 --> Router Class Initialized
+INFO - 2020-12-28 09:53:19 --> Output Class Initialized
+INFO - 2020-12-28 09:53:19 --> Security Class Initialized
+DEBUG - 2020-12-28 09:53:19 --> Global POST, GET and COOKIE data sanitized
+INFO - 2020-12-28 09:53:19 --> Input Class Initialized
+INFO - 2020-12-28 09:53:19 --> Language Class Initialized
+INFO - 2020-12-28 09:53:19 --> Language Class Initialized
+INFO - 2020-12-28 09:53:19 --> Config Class Initialized
+INFO - 2020-12-28 09:53:19 --> Loader Class Initialized
+INFO - 2020-12-28 09:53:19 --> Helper loaded: url_helper
+INFO - 2020-12-28 09:53:19 --> Helper loaded: html_helper
+INFO - 2020-12-28 09:53:19 --> Helper loaded: file_helper
+INFO - 2020-12-28 09:53:19 --> Helper loaded: form_helper
+INFO - 2020-12-28 09:53:19 --> Helper loaded: security_helper
+INFO - 2020-12-28 09:53:19 --> Helper loaded: xss_helper
+INFO - 2020-12-28 09:53:19 --> Helper loaded: slug_helper
+INFO - 2020-12-28 09:53:19 --> Database Driver Class Initialized
+DEBUG - 2020-12-28 09:53:20 --> Session: "sess_save_path" is empty; using "session.save_path" value from php.ini.
+INFO - 2020-12-28 09:53:20 --> Session: Class initialized using 'files' driver.
+INFO - 2020-12-28 09:53:20 --> Language file loaded: language/english/pagination_lang.php
+INFO - 2020-12-28 09:53:20 --> Pagination Class Initialized
+INFO - 2020-12-28 09:53:20 --> Email Class Initialized
+INFO - 2020-12-28 09:53:20 --> Model "M_konfig" initialized
+INFO - 2020-12-28 09:53:20 --> Model "M_reff" initialized
+INFO - 2020-12-28 09:53:20 --> Model "M_total" initialized
+INFO - 2020-12-28 09:53:20 --> Controller Class Initialized
+DEBUG - 2020-12-28 09:53:20 --> Maps_kri MX_Controller Initialized
+DEBUG - 2020-12-28 09:53:20 --> File loaded: D:\xampp72\htdocs\app_grm\application\modules/maps_kri/models/Model.php
+INFO - 2020-12-28 15:53:20 --> Final output sent to browser
+DEBUG - 2020-12-28 15:53:20 --> Total execution time: 1.7864
+INFO - 2020-12-28 09:53:38 --> Config Class Initialized
+INFO - 2020-12-28 09:53:38 --> Hooks Class Initialized
+DEBUG - 2020-12-28 09:53:38 --> UTF-8 Support Enabled
+INFO - 2020-12-28 09:53:38 --> Utf8 Class Initialized
+INFO - 2020-12-28 09:53:38 --> URI Class Initialized
+INFO - 2020-12-28 09:53:38 --> Router Class Initialized
+INFO - 2020-12-28 09:53:38 --> Output Class Initialized
+INFO - 2020-12-28 09:53:38 --> Security Class Initialized
+DEBUG - 2020-12-28 09:53:39 --> Global POST, GET and COOKIE data sanitized
+INFO - 2020-12-28 09:53:39 --> Input Class Initialized
+INFO - 2020-12-28 09:53:39 --> Language Class Initialized
+INFO - 2020-12-28 09:53:39 --> Language Class Initialized
+INFO - 2020-12-28 09:53:39 --> Config Class Initialized
+INFO - 2020-12-28 09:53:39 --> Loader Class Initialized
+INFO - 2020-12-28 09:53:39 --> Helper loaded: url_helper
+INFO - 2020-12-28 09:53:39 --> Helper loaded: html_helper
+INFO - 2020-12-28 09:53:39 --> Helper loaded: file_helper
+INFO - 2020-12-28 09:53:39 --> Helper loaded: form_helper
+INFO - 2020-12-28 09:53:39 --> Helper loaded: security_helper
+INFO - 2020-12-28 09:53:39 --> Helper loaded: xss_helper
+INFO - 2020-12-28 09:53:39 --> Helper loaded: slug_helper
+INFO - 2020-12-28 09:53:39 --> Database Driver Class Initialized
+DEBUG - 2020-12-28 09:53:39 --> Session: "sess_save_path" is empty; using "session.save_path" value from php.ini.
+INFO - 2020-12-28 09:53:39 --> Session: Class initialized using 'files' driver.
+INFO - 2020-12-28 09:53:39 --> Language file loaded: language/english/pagination_lang.php
+INFO - 2020-12-28 09:53:39 --> Pagination Class Initialized
+INFO - 2020-12-28 09:53:39 --> Email Class Initialized
+INFO - 2020-12-28 09:53:39 --> Model "M_konfig" initialized
+INFO - 2020-12-28 09:53:39 --> Model "M_reff" initialized
+INFO - 2020-12-28 09:53:39 --> Model "M_total" initialized
+INFO - 2020-12-28 09:53:39 --> Controller Class Initialized
+DEBUG - 2020-12-28 09:53:39 --> Maps_kri MX_Controller Initialized
+DEBUG - 2020-12-28 09:53:39 --> File loaded: D:\xampp72\htdocs\app_grm\application\modules/maps_kri/models/Model.php
+DEBUG - 2020-12-28 15:53:39 --> File loaded: D:\xampp72\htdocs\app_grm\application\views\temp_maps_kri/head.php
+DEBUG - 2020-12-28 15:53:39 --> File loaded: D:\xampp72\htdocs\app_grm\application\views\temp_maps_kri/navbar.php
+DEBUG - 2020-12-28 15:53:40 --> File loaded: D:\xampp72\htdocs\app_grm\application\views\temp_maps_kri/sidebar_left.php
+DEBUG - 2020-12-28 15:53:40 --> File loaded: D:\xampp72\htdocs\app_grm\application\views\temp_maps_kri/sidebar_right.php
+DEBUG - 2020-12-28 15:53:40 --> File loaded: D:\xampp72\htdocs\app_grm\application\modules/maps_kri/views/index.php
+DEBUG - 2020-12-28 15:53:40 --> File loaded: D:\xampp72\htdocs\app_grm\application\views\temp_maps_kri/quick_bar.php
+DEBUG - 2020-12-28 15:53:40 --> File loaded: D:\xampp72\htdocs\app_grm\application\views\temp_maps_kri/toggle.php
+DEBUG - 2020-12-28 15:53:40 --> File loaded: D:\xampp72\htdocs\app_grm\application\views\temp_maps_kri/konten.php
+DEBUG - 2020-12-28 15:53:40 --> File loaded: D:\xampp72\htdocs\app_grm\application\views\temp_maps_kri/foot.php
+DEBUG - 2020-12-28 15:53:40 --> File loaded: D:\xampp72\htdocs\app_grm\application\views\temp_maps_kri/main.php
+INFO - 2020-12-28 15:53:40 --> Final output sent to browser
+INFO - 2020-12-28 09:53:40 --> Config Class Initialized
+INFO - 2020-12-28 09:53:40 --> Hooks Class Initialized
+DEBUG - 2020-12-28 09:53:40 --> UTF-8 Support Enabled
+INFO - 2020-12-28 09:53:40 --> Utf8 Class Initialized
+INFO - 2020-12-28 09:53:40 --> URI Class Initialized
+INFO - 2020-12-28 09:53:40 --> Router Class Initialized
+INFO - 2020-12-28 09:53:40 --> Output Class Initialized
+INFO - 2020-12-28 09:53:40 --> Security Class Initialized
+DEBUG - 2020-12-28 09:53:40 --> Global POST, GET and COOKIE data sanitized
+INFO - 2020-12-28 09:53:40 --> Input Class Initialized
+INFO - 2020-12-28 09:53:40 --> Language Class Initialized
+ERROR - 2020-12-28 09:53:40 --> 404 Page Not Found: /index
+DEBUG - 2020-12-28 15:53:40 --> Total execution time: 1.5585
+INFO - 2020-12-28 09:53:40 --> Config Class Initialized
+INFO - 2020-12-28 09:53:40 --> Hooks Class Initialized
+DEBUG - 2020-12-28 09:53:40 --> UTF-8 Support Enabled
+INFO - 2020-12-28 09:53:40 --> Utf8 Class Initialized
+INFO - 2020-12-28 09:53:40 --> URI Class Initialized
+INFO - 2020-12-28 09:53:40 --> Router Class Initialized
+INFO - 2020-12-28 09:53:40 --> Output Class Initialized
+INFO - 2020-12-28 09:53:41 --> Security Class Initialized
+DEBUG - 2020-12-28 09:53:41 --> Global POST, GET and COOKIE data sanitized
+INFO - 2020-12-28 09:53:41 --> Input Class Initialized
+INFO - 2020-12-28 09:53:41 --> Language Class Initialized
+ERROR - 2020-12-28 09:53:41 --> 404 Page Not Found: /index
+INFO - 2020-12-28 09:53:41 --> Config Class Initialized
+INFO - 2020-12-28 09:53:41 --> Hooks Class Initialized
+DEBUG - 2020-12-28 09:53:41 --> UTF-8 Support Enabled
+INFO - 2020-12-28 09:53:41 --> Utf8 Class Initialized
+INFO - 2020-12-28 09:53:42 --> URI Class Initialized
+INFO - 2020-12-28 09:53:42 --> Router Class Initialized
+INFO - 2020-12-28 09:53:42 --> Output Class Initialized
+INFO - 2020-12-28 09:53:42 --> Security Class Initialized
+DEBUG - 2020-12-28 09:53:42 --> Global POST, GET and COOKIE data sanitized
+INFO - 2020-12-28 09:53:42 --> Input Class Initialized
+INFO - 2020-12-28 09:53:42 --> Language Class Initialized
+INFO - 2020-12-28 09:53:42 --> Language Class Initialized
+INFO - 2020-12-28 09:53:42 --> Config Class Initialized
+INFO - 2020-12-28 09:53:42 --> Loader Class Initialized
+INFO - 2020-12-28 09:53:42 --> Helper loaded: url_helper
+INFO - 2020-12-28 09:53:42 --> Helper loaded: html_helper
+INFO - 2020-12-28 09:53:42 --> Helper loaded: file_helper
+INFO - 2020-12-28 09:53:42 --> Helper loaded: form_helper
+INFO - 2020-12-28 09:53:42 --> Helper loaded: security_helper
+INFO - 2020-12-28 09:53:43 --> Helper loaded: xss_helper
+INFO - 2020-12-28 09:53:43 --> Helper loaded: slug_helper
+INFO - 2020-12-28 09:53:43 --> Database Driver Class Initialized
+DEBUG - 2020-12-28 09:53:43 --> Session: "sess_save_path" is empty; using "session.save_path" value from php.ini.
+INFO - 2020-12-28 09:53:43 --> Session: Class initialized using 'files' driver.
+INFO - 2020-12-28 09:53:43 --> Language file loaded: language/english/pagination_lang.php
+INFO - 2020-12-28 09:53:43 --> Pagination Class Initialized
+INFO - 2020-12-28 09:53:43 --> Email Class Initialized
+INFO - 2020-12-28 09:53:43 --> Model "M_konfig" initialized
+INFO - 2020-12-28 09:53:43 --> Model "M_reff" initialized
+INFO - 2020-12-28 09:53:43 --> Model "M_total" initialized
+INFO - 2020-12-28 09:53:43 --> Controller Class Initialized
+DEBUG - 2020-12-28 09:53:43 --> Maps_kri MX_Controller Initialized
+DEBUG - 2020-12-28 09:53:43 --> File loaded: D:\xampp72\htdocs\app_grm\application\modules/maps_kri/models/Model.php
+INFO - 2020-12-28 15:53:44 --> Final output sent to browser
+DEBUG - 2020-12-28 15:53:44 --> Total execution time: 2.3450
+INFO - 2020-12-28 09:53:47 --> Config Class Initialized
+INFO - 2020-12-28 09:53:48 --> Hooks Class Initialized
+DEBUG - 2020-12-28 09:53:48 --> UTF-8 Support Enabled
+INFO - 2020-12-28 09:53:48 --> Utf8 Class Initialized
+INFO - 2020-12-28 09:53:48 --> URI Class Initialized
+INFO - 2020-12-28 09:53:48 --> Router Class Initialized
+INFO - 2020-12-28 09:53:48 --> Output Class Initialized
+INFO - 2020-12-28 09:53:48 --> Security Class Initialized
+DEBUG - 2020-12-28 09:53:48 --> Global POST, GET and COOKIE data sanitized
+INFO - 2020-12-28 09:53:48 --> Input Class Initialized
+INFO - 2020-12-28 09:53:48 --> Language Class Initialized
+INFO - 2020-12-28 09:53:48 --> Language Class Initialized
+INFO - 2020-12-28 09:53:48 --> Config Class Initialized
+INFO - 2020-12-28 09:53:48 --> Loader Class Initialized
+INFO - 2020-12-28 09:53:48 --> Helper loaded: url_helper
+INFO - 2020-12-28 09:53:48 --> Helper loaded: html_helper
+INFO - 2020-12-28 09:53:48 --> Helper loaded: file_helper
+INFO - 2020-12-28 09:53:48 --> Helper loaded: form_helper
+INFO - 2020-12-28 09:53:48 --> Helper loaded: security_helper
+INFO - 2020-12-28 09:53:48 --> Helper loaded: xss_helper
+INFO - 2020-12-28 09:53:48 --> Helper loaded: slug_helper
+INFO - 2020-12-28 09:53:48 --> Database Driver Class Initialized
+DEBUG - 2020-12-28 09:53:48 --> Session: "sess_save_path" is empty; using "session.save_path" value from php.ini.
+INFO - 2020-12-28 09:53:48 --> Session: Class initialized using 'files' driver.
+INFO - 2020-12-28 09:53:48 --> Language file loaded: language/english/pagination_lang.php
+INFO - 2020-12-28 09:53:48 --> Pagination Class Initialized
+INFO - 2020-12-28 09:53:48 --> Email Class Initialized
+INFO - 2020-12-28 09:53:48 --> Model "M_konfig" initialized
+INFO - 2020-12-28 09:53:48 --> Model "M_reff" initialized
+INFO - 2020-12-28 09:53:48 --> Model "M_total" initialized
+INFO - 2020-12-28 09:53:49 --> Controller Class Initialized
+DEBUG - 2020-12-28 09:53:49 --> Maps_kri MX_Controller Initialized
+DEBUG - 2020-12-28 09:53:49 --> File loaded: D:\xampp72\htdocs\app_grm\application\modules/maps_kri/models/Model.php
+INFO - 2020-12-28 15:53:49 --> Final output sent to browser
+DEBUG - 2020-12-28 15:53:49 --> Total execution time: 1.1140
+INFO - 2020-12-28 09:56:03 --> Config Class Initialized
+INFO - 2020-12-28 09:56:03 --> Hooks Class Initialized
+DEBUG - 2020-12-28 09:56:03 --> UTF-8 Support Enabled
+INFO - 2020-12-28 09:56:03 --> Utf8 Class Initialized
+INFO - 2020-12-28 09:56:03 --> URI Class Initialized
+INFO - 2020-12-28 09:56:03 --> Router Class Initialized
+INFO - 2020-12-28 09:56:03 --> Output Class Initialized
+INFO - 2020-12-28 09:56:03 --> Security Class Initialized
+DEBUG - 2020-12-28 09:56:03 --> Global POST, GET and COOKIE data sanitized
+INFO - 2020-12-28 09:56:03 --> Input Class Initialized
+INFO - 2020-12-28 09:56:03 --> Language Class Initialized
+INFO - 2020-12-28 09:56:03 --> Language Class Initialized
+INFO - 2020-12-28 09:56:03 --> Config Class Initialized
+INFO - 2020-12-28 09:56:03 --> Loader Class Initialized
+INFO - 2020-12-28 09:56:03 --> Helper loaded: url_helper
+INFO - 2020-12-28 09:56:03 --> Helper loaded: html_helper
+INFO - 2020-12-28 09:56:03 --> Helper loaded: file_helper
+INFO - 2020-12-28 09:56:03 --> Helper loaded: form_helper
+INFO - 2020-12-28 09:56:03 --> Helper loaded: security_helper
+INFO - 2020-12-28 09:56:03 --> Helper loaded: xss_helper
+INFO - 2020-12-28 09:56:03 --> Helper loaded: slug_helper
+INFO - 2020-12-28 09:56:03 --> Database Driver Class Initialized
+DEBUG - 2020-12-28 09:56:03 --> Session: "sess_save_path" is empty; using "session.save_path" value from php.ini.
+INFO - 2020-12-28 09:56:03 --> Session: Class initialized using 'files' driver.
+INFO - 2020-12-28 09:56:03 --> Language file loaded: language/english/pagination_lang.php
+INFO - 2020-12-28 09:56:03 --> Pagination Class Initialized
+INFO - 2020-12-28 09:56:03 --> Email Class Initialized
+INFO - 2020-12-28 09:56:04 --> Model "M_konfig" initialized
+INFO - 2020-12-28 09:56:04 --> Model "M_reff" initialized
+INFO - 2020-12-28 09:56:04 --> Model "M_total" initialized
+INFO - 2020-12-28 09:56:04 --> Controller Class Initialized
+DEBUG - 2020-12-28 09:56:04 --> Maps_kri MX_Controller Initialized
+DEBUG - 2020-12-28 09:56:04 --> File loaded: D:\xampp72\htdocs\app_grm\application\modules/maps_kri/models/Model.php
+DEBUG - 2020-12-28 15:56:04 --> File loaded: D:\xampp72\htdocs\app_grm\application\views\temp_maps_kri/head.php
+DEBUG - 2020-12-28 15:56:04 --> File loaded: D:\xampp72\htdocs\app_grm\application\views\temp_maps_kri/navbar.php
+DEBUG - 2020-12-28 15:56:04 --> File loaded: D:\xampp72\htdocs\app_grm\application\views\temp_maps_kri/sidebar_left.php
+DEBUG - 2020-12-28 15:56:04 --> File loaded: D:\xampp72\htdocs\app_grm\application\views\temp_maps_kri/sidebar_right.php
+DEBUG - 2020-12-28 15:56:04 --> File loaded: D:\xampp72\htdocs\app_grm\application\modules/maps_kri/views/index.php
+DEBUG - 2020-12-28 15:56:04 --> File loaded: D:\xampp72\htdocs\app_grm\application\views\temp_maps_kri/quick_bar.php
+DEBUG - 2020-12-28 15:56:04 --> File loaded: D:\xampp72\htdocs\app_grm\application\views\temp_maps_kri/toggle.php
+DEBUG - 2020-12-28 15:56:04 --> File loaded: D:\xampp72\htdocs\app_grm\application\views\temp_maps_kri/konten.php
+DEBUG - 2020-12-28 15:56:04 --> File loaded: D:\xampp72\htdocs\app_grm\application\views\temp_maps_kri/foot.php
+DEBUG - 2020-12-28 15:56:04 --> File loaded: D:\xampp72\htdocs\app_grm\application\views\temp_maps_kri/main.php
+INFO - 2020-12-28 15:56:04 --> Final output sent to browser
+INFO - 2020-12-28 09:56:04 --> Config Class Initialized
+INFO - 2020-12-28 09:56:04 --> Hooks Class Initialized
+DEBUG - 2020-12-28 09:56:04 --> UTF-8 Support Enabled
+INFO - 2020-12-28 09:56:04 --> Utf8 Class Initialized
+INFO - 2020-12-28 09:56:04 --> URI Class Initialized
+INFO - 2020-12-28 09:56:04 --> Router Class Initialized
+INFO - 2020-12-28 09:56:04 --> Output Class Initialized
+INFO - 2020-12-28 09:56:04 --> Security Class Initialized
+DEBUG - 2020-12-28 09:56:04 --> Global POST, GET and COOKIE data sanitized
+INFO - 2020-12-28 09:56:04 --> Input Class Initialized
+INFO - 2020-12-28 09:56:04 --> Language Class Initialized
+ERROR - 2020-12-28 09:56:04 --> 404 Page Not Found: /index
+DEBUG - 2020-12-28 15:56:04 --> Total execution time: 1.6540
+INFO - 2020-12-28 09:56:05 --> Config Class Initialized
+INFO - 2020-12-28 09:56:05 --> Hooks Class Initialized
+DEBUG - 2020-12-28 09:56:05 --> UTF-8 Support Enabled
+INFO - 2020-12-28 09:56:05 --> Utf8 Class Initialized
+INFO - 2020-12-28 09:56:05 --> URI Class Initialized
+INFO - 2020-12-28 09:56:05 --> Router Class Initialized
+INFO - 2020-12-28 09:56:05 --> Output Class Initialized
+INFO - 2020-12-28 09:56:05 --> Security Class Initialized
+DEBUG - 2020-12-28 09:56:05 --> Global POST, GET and COOKIE data sanitized
+INFO - 2020-12-28 09:56:05 --> Input Class Initialized
+INFO - 2020-12-28 09:56:05 --> Language Class Initialized
+ERROR - 2020-12-28 09:56:05 --> 404 Page Not Found: /index
+INFO - 2020-12-28 09:56:06 --> Config Class Initialized
+INFO - 2020-12-28 09:56:06 --> Hooks Class Initialized
+DEBUG - 2020-12-28 09:56:06 --> UTF-8 Support Enabled
+INFO - 2020-12-28 09:56:06 --> Utf8 Class Initialized
+INFO - 2020-12-28 09:56:06 --> URI Class Initialized
+INFO - 2020-12-28 09:56:06 --> Router Class Initialized
+INFO - 2020-12-28 09:56:06 --> Output Class Initialized
+INFO - 2020-12-28 09:56:06 --> Security Class Initialized
+DEBUG - 2020-12-28 09:56:06 --> Global POST, GET and COOKIE data sanitized
+INFO - 2020-12-28 09:56:06 --> Input Class Initialized
+INFO - 2020-12-28 09:56:06 --> Language Class Initialized
+INFO - 2020-12-28 09:56:06 --> Language Class Initialized
+INFO - 2020-12-28 09:56:06 --> Config Class Initialized
+INFO - 2020-12-28 09:56:06 --> Loader Class Initialized
+INFO - 2020-12-28 09:56:07 --> Helper loaded: url_helper
+INFO - 2020-12-28 09:56:07 --> Helper loaded: html_helper
+INFO - 2020-12-28 09:56:07 --> Helper loaded: file_helper
+INFO - 2020-12-28 09:56:07 --> Helper loaded: form_helper
+INFO - 2020-12-28 09:56:07 --> Helper loaded: security_helper
+INFO - 2020-12-28 09:56:07 --> Helper loaded: xss_helper
+INFO - 2020-12-28 09:56:07 --> Helper loaded: slug_helper
+INFO - 2020-12-28 09:56:07 --> Database Driver Class Initialized
+DEBUG - 2020-12-28 09:56:07 --> Session: "sess_save_path" is empty; using "session.save_path" value from php.ini.
+INFO - 2020-12-28 09:56:07 --> Session: Class initialized using 'files' driver.
+INFO - 2020-12-28 09:56:07 --> Language file loaded: language/english/pagination_lang.php
+INFO - 2020-12-28 09:56:07 --> Pagination Class Initialized
+INFO - 2020-12-28 09:56:07 --> Email Class Initialized
+INFO - 2020-12-28 09:56:08 --> Model "M_konfig" initialized
+INFO - 2020-12-28 09:56:08 --> Model "M_reff" initialized
+INFO - 2020-12-28 09:56:08 --> Model "M_total" initialized
+INFO - 2020-12-28 09:56:08 --> Controller Class Initialized
+DEBUG - 2020-12-28 09:56:08 --> Maps_kri MX_Controller Initialized
+DEBUG - 2020-12-28 09:56:08 --> File loaded: D:\xampp72\htdocs\app_grm\application\modules/maps_kri/models/Model.php
+INFO - 2020-12-28 15:56:08 --> Final output sent to browser
+DEBUG - 2020-12-28 15:56:08 --> Total execution time: 2.1462
+INFO - 2020-12-28 09:56:08 --> Config Class Initialized
+INFO - 2020-12-28 09:56:08 --> Hooks Class Initialized
+DEBUG - 2020-12-28 09:56:08 --> UTF-8 Support Enabled
+INFO - 2020-12-28 09:56:08 --> Utf8 Class Initialized
+INFO - 2020-12-28 09:56:08 --> URI Class Initialized
+INFO - 2020-12-28 09:56:08 --> Router Class Initialized
+INFO - 2020-12-28 09:56:08 --> Output Class Initialized
+INFO - 2020-12-28 09:56:08 --> Security Class Initialized
+DEBUG - 2020-12-28 09:56:08 --> Global POST, GET and COOKIE data sanitized
+INFO - 2020-12-28 09:56:08 --> Input Class Initialized
+INFO - 2020-12-28 09:56:08 --> Language Class Initialized
+INFO - 2020-12-28 09:56:08 --> Language Class Initialized
+INFO - 2020-12-28 09:56:09 --> Config Class Initialized
+INFO - 2020-12-28 09:56:09 --> Loader Class Initialized
+INFO - 2020-12-28 09:56:09 --> Helper loaded: url_helper
+INFO - 2020-12-28 09:56:09 --> Helper loaded: html_helper
+INFO - 2020-12-28 09:56:09 --> Helper loaded: file_helper
+INFO - 2020-12-28 09:56:09 --> Helper loaded: form_helper
+INFO - 2020-12-28 09:56:09 --> Helper loaded: security_helper
+INFO - 2020-12-28 09:56:09 --> Helper loaded: xss_helper
+INFO - 2020-12-28 09:56:09 --> Helper loaded: slug_helper
+INFO - 2020-12-28 09:56:09 --> Database Driver Class Initialized
+DEBUG - 2020-12-28 09:56:09 --> Session: "sess_save_path" is empty; using "session.save_path" value from php.ini.
+INFO - 2020-12-28 09:56:09 --> Session: Class initialized using 'files' driver.
+INFO - 2020-12-28 09:56:09 --> Language file loaded: language/english/pagination_lang.php
+INFO - 2020-12-28 09:56:09 --> Pagination Class Initialized
+INFO - 2020-12-28 09:56:09 --> Email Class Initialized
+INFO - 2020-12-28 09:56:09 --> Model "M_konfig" initialized
+INFO - 2020-12-28 09:56:09 --> Model "M_reff" initialized
+INFO - 2020-12-28 09:56:09 --> Model "M_total" initialized
+INFO - 2020-12-28 09:56:09 --> Controller Class Initialized
+DEBUG - 2020-12-28 09:56:09 --> Maps_kri MX_Controller Initialized
+DEBUG - 2020-12-28 09:56:09 --> File loaded: D:\xampp72\htdocs\app_grm\application\modules/maps_kri/models/Model.php
+INFO - 2020-12-28 15:56:09 --> Final output sent to browser
+DEBUG - 2020-12-28 15:56:09 --> Total execution time: 1.2834
+INFO - 2020-12-28 09:56:32 --> Config Class Initialized
+INFO - 2020-12-28 09:56:32 --> Hooks Class Initialized
+DEBUG - 2020-12-28 09:56:32 --> UTF-8 Support Enabled
+INFO - 2020-12-28 09:56:32 --> Utf8 Class Initialized
+INFO - 2020-12-28 09:56:32 --> URI Class Initialized
+INFO - 2020-12-28 09:56:32 --> Router Class Initialized
+INFO - 2020-12-28 09:56:32 --> Output Class Initialized
+INFO - 2020-12-28 09:56:32 --> Security Class Initialized
+DEBUG - 2020-12-28 09:56:32 --> Global POST, GET and COOKIE data sanitized
+INFO - 2020-12-28 09:56:32 --> Input Class Initialized
+INFO - 2020-12-28 09:56:32 --> Language Class Initialized
+ERROR - 2020-12-28 09:56:32 --> 404 Page Not Found: /index
+INFO - 2020-12-28 10:00:05 --> Config Class Initialized
+INFO - 2020-12-28 10:00:05 --> Hooks Class Initialized
+DEBUG - 2020-12-28 10:00:05 --> UTF-8 Support Enabled
+INFO - 2020-12-28 10:00:05 --> Utf8 Class Initialized
+INFO - 2020-12-28 10:00:06 --> URI Class Initialized
+INFO - 2020-12-28 10:00:06 --> Router Class Initialized
+INFO - 2020-12-28 10:00:06 --> Output Class Initialized
+INFO - 2020-12-28 10:00:06 --> Security Class Initialized
+DEBUG - 2020-12-28 10:00:06 --> Global POST, GET and COOKIE data sanitized
+INFO - 2020-12-28 10:00:06 --> Input Class Initialized
+INFO - 2020-12-28 10:00:06 --> Language Class Initialized
+INFO - 2020-12-28 10:00:06 --> Language Class Initialized
+INFO - 2020-12-28 10:00:06 --> Config Class Initialized
+INFO - 2020-12-28 10:00:06 --> Loader Class Initialized
+INFO - 2020-12-28 10:00:06 --> Helper loaded: url_helper
+INFO - 2020-12-28 10:00:06 --> Helper loaded: html_helper
+INFO - 2020-12-28 10:00:06 --> Helper loaded: file_helper
+INFO - 2020-12-28 10:00:06 --> Helper loaded: form_helper
+INFO - 2020-12-28 10:00:06 --> Helper loaded: security_helper
+INFO - 2020-12-28 10:00:06 --> Helper loaded: xss_helper
+INFO - 2020-12-28 10:00:06 --> Helper loaded: slug_helper
+INFO - 2020-12-28 10:00:06 --> Database Driver Class Initialized
+DEBUG - 2020-12-28 10:00:06 --> Session: "sess_save_path" is empty; using "session.save_path" value from php.ini.
+INFO - 2020-12-28 10:00:06 --> Session: Class initialized using 'files' driver.
+INFO - 2020-12-28 10:00:06 --> Language file loaded: language/english/pagination_lang.php
+INFO - 2020-12-28 10:00:07 --> Pagination Class Initialized
+INFO - 2020-12-28 10:00:07 --> Email Class Initialized
+INFO - 2020-12-28 10:00:07 --> Model "M_konfig" initialized
+INFO - 2020-12-28 10:00:07 --> Model "M_reff" initialized
+INFO - 2020-12-28 10:00:07 --> Model "M_total" initialized
+INFO - 2020-12-28 10:00:07 --> Controller Class Initialized
+DEBUG - 2020-12-28 10:00:07 --> Maps_kri MX_Controller Initialized
+DEBUG - 2020-12-28 10:00:07 --> File loaded: D:\xampp72\htdocs\app_grm\application\modules/maps_kri/models/Model.php
+DEBUG - 2020-12-28 16:00:07 --> File loaded: D:\xampp72\htdocs\app_grm\application\views\temp_maps_kri/head.php
+DEBUG - 2020-12-28 16:00:07 --> File loaded: D:\xampp72\htdocs\app_grm\application\views\temp_maps_kri/navbar.php
+DEBUG - 2020-12-28 16:00:07 --> File loaded: D:\xampp72\htdocs\app_grm\application\views\temp_maps_kri/sidebar_left.php
+DEBUG - 2020-12-28 16:00:07 --> File loaded: D:\xampp72\htdocs\app_grm\application\views\temp_maps_kri/sidebar_right.php
+DEBUG - 2020-12-28 16:00:07 --> File loaded: D:\xampp72\htdocs\app_grm\application\modules/maps_kri/views/index.php
+DEBUG - 2020-12-28 16:00:07 --> File loaded: D:\xampp72\htdocs\app_grm\application\views\temp_maps_kri/quick_bar.php
+DEBUG - 2020-12-28 16:00:07 --> File loaded: D:\xampp72\htdocs\app_grm\application\views\temp_maps_kri/toggle.php
+DEBUG - 2020-12-28 16:00:07 --> File loaded: D:\xampp72\htdocs\app_grm\application\views\temp_maps_kri/konten.php
+DEBUG - 2020-12-28 16:00:07 --> File loaded: D:\xampp72\htdocs\app_grm\application\views\temp_maps_kri/foot.php
+DEBUG - 2020-12-28 16:00:07 --> File loaded: D:\xampp72\htdocs\app_grm\application\views\temp_maps_kri/main.php
+INFO - 2020-12-28 16:00:07 --> Final output sent to browser
+DEBUG - 2020-12-28 16:00:07 --> Total execution time: 1.9463
+INFO - 2020-12-28 10:00:07 --> Config Class Initialized
+INFO - 2020-12-28 10:00:08 --> Hooks Class Initialized
+DEBUG - 2020-12-28 10:00:08 --> UTF-8 Support Enabled
+INFO - 2020-12-28 10:00:08 --> Utf8 Class Initialized
+INFO - 2020-12-28 10:00:08 --> URI Class Initialized
+INFO - 2020-12-28 10:00:08 --> Router Class Initialized
+INFO - 2020-12-28 10:00:08 --> Output Class Initialized
+INFO - 2020-12-28 10:00:08 --> Security Class Initialized
+DEBUG - 2020-12-28 10:00:08 --> Global POST, GET and COOKIE data sanitized
+INFO - 2020-12-28 10:00:08 --> Input Class Initialized
+INFO - 2020-12-28 10:00:08 --> Language Class Initialized
+ERROR - 2020-12-28 10:00:08 --> 404 Page Not Found: /index
+INFO - 2020-12-28 10:00:10 --> Config Class Initialized
+INFO - 2020-12-28 10:00:10 --> Hooks Class Initialized
+DEBUG - 2020-12-28 10:00:10 --> UTF-8 Support Enabled
+INFO - 2020-12-28 10:00:10 --> Utf8 Class Initialized
+INFO - 2020-12-28 10:00:10 --> URI Class Initialized
+INFO - 2020-12-28 10:00:10 --> Router Class Initialized
+INFO - 2020-12-28 10:00:10 --> Output Class Initialized
+INFO - 2020-12-28 10:00:10 --> Security Class Initialized
+DEBUG - 2020-12-28 10:00:10 --> Global POST, GET and COOKIE data sanitized
+INFO - 2020-12-28 10:00:11 --> Input Class Initialized
+INFO - 2020-12-28 10:00:11 --> Language Class Initialized
+INFO - 2020-12-28 10:00:11 --> Language Class Initialized
+INFO - 2020-12-28 10:00:11 --> Config Class Initialized
+INFO - 2020-12-28 10:00:11 --> Loader Class Initialized
+INFO - 2020-12-28 10:00:11 --> Helper loaded: url_helper
+INFO - 2020-12-28 10:00:11 --> Helper loaded: html_helper
+INFO - 2020-12-28 10:00:11 --> Helper loaded: file_helper
+INFO - 2020-12-28 10:00:11 --> Helper loaded: form_helper
+INFO - 2020-12-28 10:00:11 --> Helper loaded: security_helper
+INFO - 2020-12-28 10:00:11 --> Helper loaded: xss_helper
+INFO - 2020-12-28 10:00:11 --> Helper loaded: slug_helper
+INFO - 2020-12-28 10:00:11 --> Database Driver Class Initialized
+DEBUG - 2020-12-28 10:00:11 --> Session: "sess_save_path" is empty; using "session.save_path" value from php.ini.
+INFO - 2020-12-28 10:00:11 --> Session: Class initialized using 'files' driver.
+INFO - 2020-12-28 10:00:11 --> Language file loaded: language/english/pagination_lang.php
+INFO - 2020-12-28 10:00:11 --> Pagination Class Initialized
+INFO - 2020-12-28 10:00:12 --> Email Class Initialized
+INFO - 2020-12-28 10:00:12 --> Model "M_konfig" initialized
+INFO - 2020-12-28 10:00:12 --> Model "M_reff" initialized
+INFO - 2020-12-28 10:00:12 --> Model "M_total" initialized
+INFO - 2020-12-28 10:00:12 --> Controller Class Initialized
+DEBUG - 2020-12-28 10:00:12 --> Maps_kri MX_Controller Initialized
+DEBUG - 2020-12-28 10:00:12 --> File loaded: D:\xampp72\htdocs\app_grm\application\modules/maps_kri/models/Model.php
+INFO - 2020-12-28 16:00:12 --> Final output sent to browser
+DEBUG - 2020-12-28 16:00:12 --> Total execution time: 1.9310
+INFO - 2020-12-28 10:00:14 --> Config Class Initialized
+INFO - 2020-12-28 10:00:14 --> Hooks Class Initialized
+DEBUG - 2020-12-28 10:00:14 --> UTF-8 Support Enabled
+INFO - 2020-12-28 10:00:14 --> Utf8 Class Initialized
+INFO - 2020-12-28 10:00:14 --> URI Class Initialized
+INFO - 2020-12-28 10:00:14 --> Router Class Initialized
+INFO - 2020-12-28 10:00:14 --> Output Class Initialized
+INFO - 2020-12-28 10:00:14 --> Security Class Initialized
+DEBUG - 2020-12-28 10:00:14 --> Global POST, GET and COOKIE data sanitized
+INFO - 2020-12-28 10:00:14 --> Input Class Initialized
+INFO - 2020-12-28 10:00:15 --> Language Class Initialized
+INFO - 2020-12-28 10:00:15 --> Language Class Initialized
+INFO - 2020-12-28 10:00:15 --> Config Class Initialized
+INFO - 2020-12-28 10:00:15 --> Loader Class Initialized
+INFO - 2020-12-28 10:00:15 --> Helper loaded: url_helper
+INFO - 2020-12-28 10:00:15 --> Helper loaded: html_helper
+INFO - 2020-12-28 10:00:15 --> Helper loaded: file_helper
+INFO - 2020-12-28 10:00:15 --> Helper loaded: form_helper
+INFO - 2020-12-28 10:00:15 --> Helper loaded: security_helper
+INFO - 2020-12-28 10:00:15 --> Helper loaded: xss_helper
+INFO - 2020-12-28 10:00:15 --> Helper loaded: slug_helper
+INFO - 2020-12-28 10:00:15 --> Database Driver Class Initialized
+DEBUG - 2020-12-28 10:00:15 --> Session: "sess_save_path" is empty; using "session.save_path" value from php.ini.
+INFO - 2020-12-28 10:00:15 --> Session: Class initialized using 'files' driver.
+INFO - 2020-12-28 10:00:15 --> Language file loaded: language/english/pagination_lang.php
+INFO - 2020-12-28 10:00:15 --> Pagination Class Initialized
+INFO - 2020-12-28 10:00:15 --> Email Class Initialized
+INFO - 2020-12-28 10:00:15 --> Model "M_konfig" initialized
+INFO - 2020-12-28 10:00:15 --> Model "M_reff" initialized
+INFO - 2020-12-28 10:00:15 --> Model "M_total" initialized
+INFO - 2020-12-28 10:00:15 --> Controller Class Initialized
+DEBUG - 2020-12-28 10:00:15 --> Maps_kri MX_Controller Initialized
+DEBUG - 2020-12-28 10:00:15 --> File loaded: D:\xampp72\htdocs\app_grm\application\modules/maps_kri/models/Model.php
+INFO - 2020-12-28 16:00:16 --> Final output sent to browser
+DEBUG - 2020-12-28 16:00:16 --> Total execution time: 1.3639
+INFO - 2020-12-28 10:03:58 --> Config Class Initialized
+INFO - 2020-12-28 10:03:58 --> Hooks Class Initialized
+DEBUG - 2020-12-28 10:03:58 --> UTF-8 Support Enabled
+INFO - 2020-12-28 10:03:58 --> Utf8 Class Initialized
+INFO - 2020-12-28 10:03:58 --> URI Class Initialized
+INFO - 2020-12-28 10:03:58 --> Router Class Initialized
+INFO - 2020-12-28 10:03:58 --> Output Class Initialized
+INFO - 2020-12-28 10:03:58 --> Security Class Initialized
+DEBUG - 2020-12-28 10:03:58 --> Global POST, GET and COOKIE data sanitized
+INFO - 2020-12-28 10:03:58 --> Input Class Initialized
+INFO - 2020-12-28 10:03:58 --> Language Class Initialized
+INFO - 2020-12-28 10:03:58 --> Language Class Initialized
+INFO - 2020-12-28 10:03:58 --> Config Class Initialized
+INFO - 2020-12-28 10:03:58 --> Loader Class Initialized
+INFO - 2020-12-28 10:03:58 --> Helper loaded: url_helper
+INFO - 2020-12-28 10:03:58 --> Helper loaded: html_helper
+INFO - 2020-12-28 10:03:58 --> Helper loaded: file_helper
+INFO - 2020-12-28 10:03:58 --> Helper loaded: form_helper
+INFO - 2020-12-28 10:03:58 --> Helper loaded: security_helper
+INFO - 2020-12-28 10:03:58 --> Helper loaded: xss_helper
+INFO - 2020-12-28 10:03:58 --> Helper loaded: slug_helper
+INFO - 2020-12-28 10:03:58 --> Database Driver Class Initialized
+DEBUG - 2020-12-28 10:03:58 --> Session: "sess_save_path" is empty; using "session.save_path" value from php.ini.
+INFO - 2020-12-28 10:03:58 --> Session: Class initialized using 'files' driver.
+INFO - 2020-12-28 10:03:58 --> Language file loaded: language/english/pagination_lang.php
+INFO - 2020-12-28 10:03:58 --> Pagination Class Initialized
+INFO - 2020-12-28 10:03:58 --> Email Class Initialized
+INFO - 2020-12-28 10:03:58 --> Model "M_konfig" initialized
+INFO - 2020-12-28 10:03:58 --> Model "M_reff" initialized
+INFO - 2020-12-28 10:03:59 --> Model "M_total" initialized
+INFO - 2020-12-28 10:03:59 --> Controller Class Initialized
+DEBUG - 2020-12-28 10:03:59 --> Maps_kri MX_Controller Initialized
+DEBUG - 2020-12-28 10:03:59 --> File loaded: D:\xampp72\htdocs\app_grm\application\modules/maps_kri/models/Model.php
+DEBUG - 2020-12-28 16:03:59 --> File loaded: D:\xampp72\htdocs\app_grm\application\views\temp_maps_kri/head.php
+DEBUG - 2020-12-28 16:03:59 --> File loaded: D:\xampp72\htdocs\app_grm\application\views\temp_maps_kri/navbar.php
+DEBUG - 2020-12-28 16:03:59 --> File loaded: D:\xampp72\htdocs\app_grm\application\views\temp_maps_kri/sidebar_left.php
+DEBUG - 2020-12-28 16:03:59 --> File loaded: D:\xampp72\htdocs\app_grm\application\views\temp_maps_kri/sidebar_right.php
+DEBUG - 2020-12-28 16:03:59 --> File loaded: D:\xampp72\htdocs\app_grm\application\modules/maps_kri/views/index.php
+DEBUG - 2020-12-28 16:03:59 --> File loaded: D:\xampp72\htdocs\app_grm\application\views\temp_maps_kri/quick_bar.php
+DEBUG - 2020-12-28 16:03:59 --> File loaded: D:\xampp72\htdocs\app_grm\application\views\temp_maps_kri/toggle.php
+DEBUG - 2020-12-28 16:03:59 --> File loaded: D:\xampp72\htdocs\app_grm\application\views\temp_maps_kri/konten.php
+DEBUG - 2020-12-28 16:03:59 --> File loaded: D:\xampp72\htdocs\app_grm\application\views\temp_maps_kri/foot.php
+DEBUG - 2020-12-28 16:03:59 --> File loaded: D:\xampp72\htdocs\app_grm\application\views\temp_maps_kri/main.php
+INFO - 2020-12-28 16:03:59 --> Final output sent to browser
+DEBUG - 2020-12-28 16:03:59 --> Total execution time: 1.4473
+INFO - 2020-12-28 10:03:59 --> Config Class Initialized
+INFO - 2020-12-28 10:03:59 --> Hooks Class Initialized
+DEBUG - 2020-12-28 10:03:59 --> UTF-8 Support Enabled
+INFO - 2020-12-28 10:03:59 --> Utf8 Class Initialized
+INFO - 2020-12-28 10:03:59 --> URI Class Initialized
+INFO - 2020-12-28 10:03:59 --> Router Class Initialized
+INFO - 2020-12-28 10:03:59 --> Output Class Initialized
+INFO - 2020-12-28 10:03:59 --> Security Class Initialized
+DEBUG - 2020-12-28 10:03:59 --> Global POST, GET and COOKIE data sanitized
+INFO - 2020-12-28 10:03:59 --> Input Class Initialized
+INFO - 2020-12-28 10:03:59 --> Language Class Initialized
+ERROR - 2020-12-28 10:03:59 --> 404 Page Not Found: /index
+INFO - 2020-12-28 10:04:00 --> Config Class Initialized
+INFO - 2020-12-28 10:04:00 --> Hooks Class Initialized
+DEBUG - 2020-12-28 10:04:00 --> UTF-8 Support Enabled
+INFO - 2020-12-28 10:04:00 --> Utf8 Class Initialized
+INFO - 2020-12-28 10:04:00 --> URI Class Initialized
+INFO - 2020-12-28 10:04:00 --> Router Class Initialized
+INFO - 2020-12-28 10:04:00 --> Output Class Initialized
+INFO - 2020-12-28 10:04:00 --> Security Class Initialized
+DEBUG - 2020-12-28 10:04:00 --> Global POST, GET and COOKIE data sanitized
+INFO - 2020-12-28 10:04:00 --> Input Class Initialized
+INFO - 2020-12-28 10:04:00 --> Language Class Initialized
+ERROR - 2020-12-28 10:04:00 --> 404 Page Not Found: /index
+INFO - 2020-12-28 10:04:01 --> Config Class Initialized
+INFO - 2020-12-28 10:04:01 --> Hooks Class Initialized
+DEBUG - 2020-12-28 10:04:01 --> UTF-8 Support Enabled
+INFO - 2020-12-28 10:04:01 --> Utf8 Class Initialized
+INFO - 2020-12-28 10:04:01 --> URI Class Initialized
+INFO - 2020-12-28 10:04:01 --> Router Class Initialized
+INFO - 2020-12-28 10:04:01 --> Output Class Initialized
+INFO - 2020-12-28 10:04:01 --> Security Class Initialized
+DEBUG - 2020-12-28 10:04:01 --> Global POST, GET and COOKIE data sanitized
+INFO - 2020-12-28 10:04:02 --> Input Class Initialized
+INFO - 2020-12-28 10:04:02 --> Language Class Initialized
+INFO - 2020-12-28 10:04:02 --> Language Class Initialized
+INFO - 2020-12-28 10:04:02 --> Config Class Initialized
+INFO - 2020-12-28 10:04:02 --> Loader Class Initialized
+INFO - 2020-12-28 10:04:02 --> Helper loaded: url_helper
+INFO - 2020-12-28 10:04:02 --> Helper loaded: html_helper
+INFO - 2020-12-28 10:04:02 --> Helper loaded: file_helper
+INFO - 2020-12-28 10:04:02 --> Helper loaded: form_helper
+INFO - 2020-12-28 10:04:02 --> Helper loaded: security_helper
+INFO - 2020-12-28 10:04:02 --> Helper loaded: xss_helper
+INFO - 2020-12-28 10:04:02 --> Helper loaded: slug_helper
+INFO - 2020-12-28 10:04:02 --> Database Driver Class Initialized
+DEBUG - 2020-12-28 10:04:02 --> Session: "sess_save_path" is empty; using "session.save_path" value from php.ini.
+INFO - 2020-12-28 10:04:02 --> Session: Class initialized using 'files' driver.
+INFO - 2020-12-28 10:04:02 --> Language file loaded: language/english/pagination_lang.php
+INFO - 2020-12-28 10:04:02 --> Pagination Class Initialized
+INFO - 2020-12-28 10:04:03 --> Email Class Initialized
+INFO - 2020-12-28 10:04:03 --> Model "M_konfig" initialized
+INFO - 2020-12-28 10:04:03 --> Model "M_reff" initialized
+INFO - 2020-12-28 10:04:03 --> Model "M_total" initialized
+INFO - 2020-12-28 10:04:03 --> Controller Class Initialized
+DEBUG - 2020-12-28 10:04:03 --> Maps_kri MX_Controller Initialized
+DEBUG - 2020-12-28 10:04:03 --> File loaded: D:\xampp72\htdocs\app_grm\application\modules/maps_kri/models/Model.php
+INFO - 2020-12-28 16:04:03 --> Final output sent to browser
+DEBUG - 2020-12-28 16:04:03 --> Total execution time: 1.6906
+INFO - 2020-12-28 10:04:03 --> Config Class Initialized
+INFO - 2020-12-28 10:04:03 --> Hooks Class Initialized
+DEBUG - 2020-12-28 10:04:03 --> UTF-8 Support Enabled
+INFO - 2020-12-28 10:04:04 --> Utf8 Class Initialized
+INFO - 2020-12-28 10:04:04 --> URI Class Initialized
+INFO - 2020-12-28 10:04:04 --> Router Class Initialized
+INFO - 2020-12-28 10:04:04 --> Output Class Initialized
+INFO - 2020-12-28 10:04:04 --> Security Class Initialized
+DEBUG - 2020-12-28 10:04:04 --> Global POST, GET and COOKIE data sanitized
+INFO - 2020-12-28 10:04:04 --> Input Class Initialized
+INFO - 2020-12-28 10:04:04 --> Language Class Initialized
+INFO - 2020-12-28 10:04:04 --> Language Class Initialized
+INFO - 2020-12-28 10:04:04 --> Config Class Initialized
+INFO - 2020-12-28 10:04:04 --> Loader Class Initialized
+INFO - 2020-12-28 10:04:04 --> Helper loaded: url_helper
+INFO - 2020-12-28 10:04:04 --> Helper loaded: html_helper
+INFO - 2020-12-28 10:04:04 --> Helper loaded: file_helper
+INFO - 2020-12-28 10:04:04 --> Helper loaded: form_helper
+INFO - 2020-12-28 10:04:04 --> Helper loaded: security_helper
+INFO - 2020-12-28 10:04:04 --> Helper loaded: xss_helper
+INFO - 2020-12-28 10:04:04 --> Helper loaded: slug_helper
+INFO - 2020-12-28 10:04:04 --> Database Driver Class Initialized
+DEBUG - 2020-12-28 10:04:04 --> Session: "sess_save_path" is empty; using "session.save_path" value from php.ini.
+INFO - 2020-12-28 10:04:05 --> Session: Class initialized using 'files' driver.
+INFO - 2020-12-28 10:04:05 --> Language file loaded: language/english/pagination_lang.php
+INFO - 2020-12-28 10:04:05 --> Pagination Class Initialized
+INFO - 2020-12-28 10:04:05 --> Email Class Initialized
+INFO - 2020-12-28 10:04:05 --> Model "M_konfig" initialized
+INFO - 2020-12-28 10:04:05 --> Model "M_reff" initialized
+INFO - 2020-12-28 10:04:05 --> Model "M_total" initialized
+INFO - 2020-12-28 10:04:05 --> Controller Class Initialized
+DEBUG - 2020-12-28 10:04:05 --> Maps_kri MX_Controller Initialized
+DEBUG - 2020-12-28 10:04:05 --> File loaded: D:\xampp72\htdocs\app_grm\application\modules/maps_kri/models/Model.php
+INFO - 2020-12-28 16:04:05 --> Final output sent to browser
+DEBUG - 2020-12-28 16:04:05 --> Total execution time: 1.5255
+INFO - 2020-12-28 10:04:56 --> Config Class Initialized
+INFO - 2020-12-28 10:04:56 --> Hooks Class Initialized
+DEBUG - 2020-12-28 10:04:56 --> UTF-8 Support Enabled
+INFO - 2020-12-28 10:04:56 --> Utf8 Class Initialized
+INFO - 2020-12-28 10:04:56 --> URI Class Initialized
+INFO - 2020-12-28 10:04:56 --> Router Class Initialized
+INFO - 2020-12-28 10:04:56 --> Output Class Initialized
+INFO - 2020-12-28 10:04:56 --> Security Class Initialized
+DEBUG - 2020-12-28 10:04:56 --> Global POST, GET and COOKIE data sanitized
+INFO - 2020-12-28 10:04:56 --> Input Class Initialized
+INFO - 2020-12-28 10:04:56 --> Language Class Initialized
+INFO - 2020-12-28 10:04:56 --> Language Class Initialized
+INFO - 2020-12-28 10:04:56 --> Config Class Initialized
+INFO - 2020-12-28 10:04:56 --> Loader Class Initialized
+INFO - 2020-12-28 10:04:56 --> Helper loaded: url_helper
+INFO - 2020-12-28 10:04:56 --> Helper loaded: html_helper
+INFO - 2020-12-28 10:04:56 --> Helper loaded: file_helper
+INFO - 2020-12-28 10:04:56 --> Helper loaded: form_helper
+INFO - 2020-12-28 10:04:56 --> Helper loaded: security_helper
+INFO - 2020-12-28 10:04:56 --> Helper loaded: xss_helper
+INFO - 2020-12-28 10:04:56 --> Helper loaded: slug_helper
+INFO - 2020-12-28 10:04:56 --> Database Driver Class Initialized
+DEBUG - 2020-12-28 10:04:56 --> Session: "sess_save_path" is empty; using "session.save_path" value from php.ini.
+INFO - 2020-12-28 10:04:57 --> Session: Class initialized using 'files' driver.
+INFO - 2020-12-28 10:04:57 --> Language file loaded: language/english/pagination_lang.php
+INFO - 2020-12-28 10:04:57 --> Pagination Class Initialized
+INFO - 2020-12-28 10:04:57 --> Email Class Initialized
+INFO - 2020-12-28 10:04:57 --> Model "M_konfig" initialized
+INFO - 2020-12-28 10:04:57 --> Model "M_reff" initialized
+INFO - 2020-12-28 10:04:57 --> Model "M_total" initialized
+INFO - 2020-12-28 10:04:57 --> Controller Class Initialized
+DEBUG - 2020-12-28 10:04:57 --> Maps_kri MX_Controller Initialized
+DEBUG - 2020-12-28 10:04:57 --> File loaded: D:\xampp72\htdocs\app_grm\application\modules/maps_kri/models/Model.php
+INFO - 2020-12-28 16:04:57 --> Final output sent to browser
+DEBUG - 2020-12-28 16:04:57 --> Total execution time: 1.0895
+INFO - 2020-12-28 10:04:58 --> Config Class Initialized
+INFO - 2020-12-28 10:04:58 --> Hooks Class Initialized
+DEBUG - 2020-12-28 10:04:58 --> UTF-8 Support Enabled
+INFO - 2020-12-28 10:04:58 --> Utf8 Class Initialized
+INFO - 2020-12-28 10:04:58 --> URI Class Initialized
+INFO - 2020-12-28 10:04:58 --> Router Class Initialized
+INFO - 2020-12-28 10:04:58 --> Output Class Initialized
+INFO - 2020-12-28 10:04:58 --> Security Class Initialized
+DEBUG - 2020-12-28 10:04:58 --> Global POST, GET and COOKIE data sanitized
+INFO - 2020-12-28 10:04:58 --> Input Class Initialized
+INFO - 2020-12-28 10:04:59 --> Language Class Initialized
+INFO - 2020-12-28 10:04:59 --> Language Class Initialized
+INFO - 2020-12-28 10:04:59 --> Config Class Initialized
+INFO - 2020-12-28 10:04:59 --> Loader Class Initialized
+INFO - 2020-12-28 10:04:59 --> Helper loaded: url_helper
+INFO - 2020-12-28 10:04:59 --> Helper loaded: html_helper
+INFO - 2020-12-28 10:04:59 --> Helper loaded: file_helper
+INFO - 2020-12-28 10:04:59 --> Helper loaded: form_helper
+INFO - 2020-12-28 10:04:59 --> Helper loaded: security_helper
+INFO - 2020-12-28 10:04:59 --> Helper loaded: xss_helper
+INFO - 2020-12-28 10:04:59 --> Helper loaded: slug_helper
+INFO - 2020-12-28 10:04:59 --> Database Driver Class Initialized
+DEBUG - 2020-12-28 10:04:59 --> Session: "sess_save_path" is empty; using "session.save_path" value from php.ini.
+INFO - 2020-12-28 10:04:59 --> Session: Class initialized using 'files' driver.
+INFO - 2020-12-28 10:04:59 --> Language file loaded: language/english/pagination_lang.php
+INFO - 2020-12-28 10:04:59 --> Pagination Class Initialized
+INFO - 2020-12-28 10:04:59 --> Email Class Initialized
+INFO - 2020-12-28 10:04:59 --> Model "M_konfig" initialized
+INFO - 2020-12-28 10:04:59 --> Model "M_reff" initialized
+INFO - 2020-12-28 10:04:59 --> Model "M_total" initialized
+INFO - 2020-12-28 10:04:59 --> Controller Class Initialized
+DEBUG - 2020-12-28 10:04:59 --> Maps_kri MX_Controller Initialized
+DEBUG - 2020-12-28 10:04:59 --> File loaded: D:\xampp72\htdocs\app_grm\application\modules/maps_kri/models/Model.php
+INFO - 2020-12-28 16:04:59 --> Final output sent to browser
+DEBUG - 2020-12-28 16:04:59 --> Total execution time: 1.1242
+INFO - 2020-12-28 10:05:14 --> Config Class Initialized
+INFO - 2020-12-28 10:05:14 --> Hooks Class Initialized
+DEBUG - 2020-12-28 10:05:14 --> UTF-8 Support Enabled
+INFO - 2020-12-28 10:05:14 --> Utf8 Class Initialized
+INFO - 2020-12-28 10:05:14 --> URI Class Initialized
+INFO - 2020-12-28 10:05:14 --> Router Class Initialized
+INFO - 2020-12-28 10:05:14 --> Output Class Initialized
+INFO - 2020-12-28 10:05:14 --> Security Class Initialized
+DEBUG - 2020-12-28 10:05:14 --> Global POST, GET and COOKIE data sanitized
+INFO - 2020-12-28 10:05:14 --> Input Class Initialized
+INFO - 2020-12-28 10:05:14 --> Language Class Initialized
+ERROR - 2020-12-28 10:05:14 --> 404 Page Not Found: /index
+INFO - 2020-12-28 10:05:52 --> Config Class Initialized
+INFO - 2020-12-28 10:05:52 --> Hooks Class Initialized
+DEBUG - 2020-12-28 10:05:52 --> UTF-8 Support Enabled
+INFO - 2020-12-28 10:05:52 --> Utf8 Class Initialized
+INFO - 2020-12-28 10:05:52 --> URI Class Initialized
+INFO - 2020-12-28 10:05:52 --> Router Class Initialized
+INFO - 2020-12-28 10:05:52 --> Output Class Initialized
+INFO - 2020-12-28 10:05:52 --> Security Class Initialized
+DEBUG - 2020-12-28 10:05:52 --> Global POST, GET and COOKIE data sanitized
+INFO - 2020-12-28 10:05:52 --> Input Class Initialized
+INFO - 2020-12-28 10:05:52 --> Language Class Initialized
+ERROR - 2020-12-28 10:05:52 --> 404 Page Not Found: /index
+INFO - 2020-12-28 10:07:08 --> Config Class Initialized
+INFO - 2020-12-28 10:07:08 --> Hooks Class Initialized
+DEBUG - 2020-12-28 10:07:08 --> UTF-8 Support Enabled
+INFO - 2020-12-28 10:07:08 --> Utf8 Class Initialized
+INFO - 2020-12-28 10:07:08 --> URI Class Initialized
+INFO - 2020-12-28 10:07:08 --> Router Class Initialized
+INFO - 2020-12-28 10:07:08 --> Output Class Initialized
+INFO - 2020-12-28 10:07:08 --> Security Class Initialized
+DEBUG - 2020-12-28 10:07:08 --> Global POST, GET and COOKIE data sanitized
+INFO - 2020-12-28 10:07:08 --> Input Class Initialized
+INFO - 2020-12-28 10:07:08 --> Language Class Initialized
+INFO - 2020-12-28 10:07:08 --> Language Class Initialized
+INFO - 2020-12-28 10:07:08 --> Config Class Initialized
+INFO - 2020-12-28 10:07:08 --> Loader Class Initialized
+INFO - 2020-12-28 10:07:08 --> Helper loaded: url_helper
+INFO - 2020-12-28 10:07:08 --> Helper loaded: html_helper
+INFO - 2020-12-28 10:07:09 --> Helper loaded: file_helper
+INFO - 2020-12-28 10:07:09 --> Helper loaded: form_helper
+INFO - 2020-12-28 10:07:09 --> Helper loaded: security_helper
+INFO - 2020-12-28 10:07:09 --> Helper loaded: xss_helper
+INFO - 2020-12-28 10:07:09 --> Helper loaded: slug_helper
+INFO - 2020-12-28 10:07:09 --> Database Driver Class Initialized
+DEBUG - 2020-12-28 10:07:09 --> Session: "sess_save_path" is empty; using "session.save_path" value from php.ini.
+INFO - 2020-12-28 10:07:09 --> Session: Class initialized using 'files' driver.
+INFO - 2020-12-28 10:07:09 --> Language file loaded: language/english/pagination_lang.php
+INFO - 2020-12-28 10:07:09 --> Pagination Class Initialized
+INFO - 2020-12-28 10:07:09 --> Email Class Initialized
+INFO - 2020-12-28 10:07:09 --> Model "M_konfig" initialized
+INFO - 2020-12-28 10:07:09 --> Model "M_reff" initialized
+INFO - 2020-12-28 10:07:09 --> Model "M_total" initialized
+INFO - 2020-12-28 10:07:09 --> Controller Class Initialized
+DEBUG - 2020-12-28 10:07:09 --> File loaded: D:\xampp72\htdocs\app_grm\application\modules/dkonlog/models/Model.php
+DEBUG - 2020-12-28 16:07:09 --> File loaded: D:\xampp72\htdocs\app_grm\application\modules/dkonlog/views/index.php
+INFO - 2020-12-28 16:07:09 --> Final output sent to browser
+DEBUG - 2020-12-28 16:07:09 --> Total execution time: 1.3034
+INFO - 2020-12-28 10:07:10 --> Config Class Initialized
+INFO - 2020-12-28 10:07:10 --> Hooks Class Initialized
+DEBUG - 2020-12-28 10:07:10 --> UTF-8 Support Enabled
+INFO - 2020-12-28 10:07:10 --> Utf8 Class Initialized
+INFO - 2020-12-28 10:07:10 --> URI Class Initialized
+INFO - 2020-12-28 10:07:10 --> Router Class Initialized
+INFO - 2020-12-28 10:07:10 --> Output Class Initialized
+INFO - 2020-12-28 10:07:10 --> Security Class Initialized
+DEBUG - 2020-12-28 10:07:10 --> Global POST, GET and COOKIE data sanitized
+INFO - 2020-12-28 10:07:10 --> Input Class Initialized
+INFO - 2020-12-28 10:07:10 --> Language Class Initialized
+INFO - 2020-12-28 10:07:10 --> Language Class Initialized
+INFO - 2020-12-28 10:07:10 --> Config Class Initialized
+INFO - 2020-12-28 10:07:10 --> Loader Class Initialized
+INFO - 2020-12-28 10:07:10 --> Helper loaded: url_helper
+INFO - 2020-12-28 10:07:10 --> Helper loaded: html_helper
+INFO - 2020-12-28 10:07:10 --> Helper loaded: file_helper
+INFO - 2020-12-28 10:07:10 --> Helper loaded: form_helper
+INFO - 2020-12-28 10:07:10 --> Helper loaded: security_helper
+INFO - 2020-12-28 10:07:10 --> Helper loaded: xss_helper
+INFO - 2020-12-28 10:07:10 --> Helper loaded: slug_helper
+INFO - 2020-12-28 10:07:11 --> Database Driver Class Initialized
+DEBUG - 2020-12-28 10:07:11 --> Session: "sess_save_path" is empty; using "session.save_path" value from php.ini.
+INFO - 2020-12-28 10:07:11 --> Session: Class initialized using 'files' driver.
+INFO - 2020-12-28 10:07:11 --> Language file loaded: language/english/pagination_lang.php
+INFO - 2020-12-28 10:07:11 --> Pagination Class Initialized
+INFO - 2020-12-28 10:07:11 --> Email Class Initialized
+INFO - 2020-12-28 10:07:11 --> Model "M_konfig" initialized
+INFO - 2020-12-28 10:07:11 --> Model "M_reff" initialized
+INFO - 2020-12-28 10:07:11 --> Model "M_total" initialized
+INFO - 2020-12-28 10:07:11 --> Controller Class Initialized
+DEBUG - 2020-12-28 10:07:11 --> File loaded: D:\xampp72\htdocs\app_grm\application\modules/dkonlog/models/Model.php
+DEBUG - 2020-12-28 16:07:11 --> File loaded: D:\xampp72\htdocs\app_grm\application\modules/dkonlog/views/jsData.php
+INFO - 2020-12-28 16:07:11 --> Final output sent to browser
+DEBUG - 2020-12-28 16:07:11 --> Total execution time: 1.2048
+INFO - 2020-12-28 10:07:13 --> Config Class Initialized
+INFO - 2020-12-28 10:07:13 --> Hooks Class Initialized
+DEBUG - 2020-12-28 10:07:13 --> UTF-8 Support Enabled
+INFO - 2020-12-28 10:07:13 --> Utf8 Class Initialized
+INFO - 2020-12-28 10:07:13 --> URI Class Initialized
+INFO - 2020-12-28 10:07:13 --> Router Class Initialized
+INFO - 2020-12-28 10:07:13 --> Output Class Initialized
+INFO - 2020-12-28 10:07:13 --> Security Class Initialized
+DEBUG - 2020-12-28 10:07:13 --> Global POST, GET and COOKIE data sanitized
+INFO - 2020-12-28 10:07:13 --> Input Class Initialized
+INFO - 2020-12-28 10:07:14 --> Language Class Initialized
+INFO - 2020-12-28 10:07:14 --> Language Class Initialized
+INFO - 2020-12-28 10:07:14 --> Config Class Initialized
+INFO - 2020-12-28 10:07:14 --> Loader Class Initialized
+INFO - 2020-12-28 10:07:14 --> Helper loaded: url_helper
+INFO - 2020-12-28 10:07:14 --> Helper loaded: html_helper
+INFO - 2020-12-28 10:07:14 --> Helper loaded: file_helper
+INFO - 2020-12-28 10:07:14 --> Helper loaded: form_helper
+INFO - 2020-12-28 10:07:14 --> Helper loaded: security_helper
+INFO - 2020-12-28 10:07:14 --> Helper loaded: xss_helper
+INFO - 2020-12-28 10:07:14 --> Helper loaded: slug_helper
+INFO - 2020-12-28 10:07:14 --> Database Driver Class Initialized
+DEBUG - 2020-12-28 10:07:14 --> Session: "sess_save_path" is empty; using "session.save_path" value from php.ini.
+INFO - 2020-12-28 10:07:14 --> Session: Class initialized using 'files' driver.
+INFO - 2020-12-28 10:07:14 --> Language file loaded: language/english/pagination_lang.php
+INFO - 2020-12-28 10:07:14 --> Pagination Class Initialized
+INFO - 2020-12-28 10:07:14 --> Email Class Initialized
+INFO - 2020-12-28 10:07:14 --> Model "M_konfig" initialized
+INFO - 2020-12-28 10:07:14 --> Model "M_reff" initialized
+INFO - 2020-12-28 10:07:14 --> Model "M_total" initialized
+INFO - 2020-12-28 10:07:14 --> Controller Class Initialized
+DEBUG - 2020-12-28 10:07:14 --> File loaded: D:\xampp72\htdocs\app_grm\application\modules/dkonis/models/Model.php
+DEBUG - 2020-12-28 16:07:14 --> File loaded: D:\xampp72\htdocs\app_grm\application\modules/dkonis/views/index.php
+INFO - 2020-12-28 16:07:15 --> Final output sent to browser
+DEBUG - 2020-12-28 16:07:15 --> Total execution time: 1.4088
+INFO - 2020-12-28 10:07:17 --> Config Class Initialized
+INFO - 2020-12-28 10:07:17 --> Hooks Class Initialized
+DEBUG - 2020-12-28 10:07:17 --> UTF-8 Support Enabled
+INFO - 2020-12-28 10:07:17 --> Utf8 Class Initialized
+INFO - 2020-12-28 10:07:17 --> URI Class Initialized
+INFO - 2020-12-28 10:07:17 --> Router Class Initialized
+INFO - 2020-12-28 10:07:17 --> Output Class Initialized
+INFO - 2020-12-28 10:07:17 --> Security Class Initialized
+DEBUG - 2020-12-28 10:07:17 --> Global POST, GET and COOKIE data sanitized
+INFO - 2020-12-28 10:07:17 --> Input Class Initialized
+INFO - 2020-12-28 10:07:17 --> Language Class Initialized
+ERROR - 2020-12-28 10:07:17 --> 404 Page Not Found: /index
+INFO - 2020-12-28 10:07:39 --> Config Class Initialized
+INFO - 2020-12-28 10:07:39 --> Hooks Class Initialized
+DEBUG - 2020-12-28 10:07:39 --> UTF-8 Support Enabled
+INFO - 2020-12-28 10:07:39 --> Utf8 Class Initialized
+INFO - 2020-12-28 10:07:39 --> URI Class Initialized
+INFO - 2020-12-28 10:07:39 --> Router Class Initialized
+INFO - 2020-12-28 10:07:39 --> Output Class Initialized
+INFO - 2020-12-28 10:07:39 --> Security Class Initialized
+DEBUG - 2020-12-28 10:07:39 --> Global POST, GET and COOKIE data sanitized
+INFO - 2020-12-28 10:07:39 --> Input Class Initialized
+INFO - 2020-12-28 10:07:39 --> Language Class Initialized
+INFO - 2020-12-28 10:07:39 --> Language Class Initialized
+INFO - 2020-12-28 10:07:39 --> Config Class Initialized
+INFO - 2020-12-28 10:07:39 --> Loader Class Initialized
+INFO - 2020-12-28 10:07:39 --> Helper loaded: url_helper
+INFO - 2020-12-28 10:07:39 --> Helper loaded: html_helper
+INFO - 2020-12-28 10:07:39 --> Helper loaded: file_helper
+INFO - 2020-12-28 10:07:39 --> Helper loaded: form_helper
+INFO - 2020-12-28 10:07:39 --> Helper loaded: security_helper
+INFO - 2020-12-28 10:07:39 --> Helper loaded: xss_helper
+INFO - 2020-12-28 10:07:39 --> Helper loaded: slug_helper
+INFO - 2020-12-28 10:07:39 --> Database Driver Class Initialized
+DEBUG - 2020-12-28 10:07:40 --> Session: "sess_save_path" is empty; using "session.save_path" value from php.ini.
+INFO - 2020-12-28 10:07:40 --> Session: Class initialized using 'files' driver.
+INFO - 2020-12-28 10:07:40 --> Language file loaded: language/english/pagination_lang.php
+INFO - 2020-12-28 10:07:40 --> Pagination Class Initialized
+INFO - 2020-12-28 10:07:40 --> Email Class Initialized
+INFO - 2020-12-28 10:07:40 --> Model "M_konfig" initialized
+INFO - 2020-12-28 10:07:40 --> Model "M_reff" initialized
+INFO - 2020-12-28 10:07:40 --> Model "M_total" initialized
+INFO - 2020-12-28 10:07:40 --> Controller Class Initialized
+DEBUG - 2020-12-28 10:07:40 --> Maps_kri MX_Controller Initialized
+DEBUG - 2020-12-28 10:07:40 --> File loaded: D:\xampp72\htdocs\app_grm\application\modules/maps_kri/models/Model.php
+INFO - 2020-12-28 16:07:40 --> Final output sent to browser
+DEBUG - 2020-12-28 16:07:40 --> Total execution time: 1.1189
+INFO - 2020-12-28 10:07:40 --> Config Class Initialized
+INFO - 2020-12-28 10:07:40 --> Hooks Class Initialized
+DEBUG - 2020-12-28 10:07:41 --> UTF-8 Support Enabled
+INFO - 2020-12-28 10:07:41 --> Utf8 Class Initialized
+INFO - 2020-12-28 10:07:41 --> URI Class Initialized
+INFO - 2020-12-28 10:07:41 --> Router Class Initialized
+INFO - 2020-12-28 10:07:41 --> Output Class Initialized
+INFO - 2020-12-28 10:07:41 --> Security Class Initialized
+DEBUG - 2020-12-28 10:07:41 --> Global POST, GET and COOKIE data sanitized
+INFO - 2020-12-28 10:07:41 --> Input Class Initialized
+INFO - 2020-12-28 10:07:41 --> Language Class Initialized
+INFO - 2020-12-28 10:07:41 --> Language Class Initialized
+INFO - 2020-12-28 10:07:41 --> Config Class Initialized
+INFO - 2020-12-28 10:07:41 --> Loader Class Initialized
+INFO - 2020-12-28 10:07:41 --> Helper loaded: url_helper
+INFO - 2020-12-28 10:07:41 --> Helper loaded: html_helper
+INFO - 2020-12-28 10:07:41 --> Helper loaded: file_helper
+INFO - 2020-12-28 10:07:41 --> Helper loaded: form_helper
+INFO - 2020-12-28 10:07:41 --> Helper loaded: security_helper
+INFO - 2020-12-28 10:07:41 --> Helper loaded: xss_helper
+INFO - 2020-12-28 10:07:41 --> Helper loaded: slug_helper
+INFO - 2020-12-28 10:07:41 --> Database Driver Class Initialized
+DEBUG - 2020-12-28 10:07:41 --> Session: "sess_save_path" is empty; using "session.save_path" value from php.ini.
+INFO - 2020-12-28 10:07:41 --> Session: Class initialized using 'files' driver.
+INFO - 2020-12-28 10:07:41 --> Language file loaded: language/english/pagination_lang.php
+INFO - 2020-12-28 10:07:41 --> Pagination Class Initialized
+INFO - 2020-12-28 10:07:41 --> Email Class Initialized
+INFO - 2020-12-28 10:07:41 --> Model "M_konfig" initialized
+INFO - 2020-12-28 10:07:41 --> Model "M_reff" initialized
+INFO - 2020-12-28 10:07:41 --> Model "M_total" initialized
+INFO - 2020-12-28 10:07:41 --> Controller Class Initialized
+DEBUG - 2020-12-28 10:07:41 --> Maps_kri MX_Controller Initialized
+DEBUG - 2020-12-28 10:07:41 --> File loaded: D:\xampp72\htdocs\app_grm\application\modules/maps_kri/models/Model.php
+INFO - 2020-12-28 16:07:42 --> Final output sent to browser
+DEBUG - 2020-12-28 16:07:42 --> Total execution time: 1.0998
+INFO - 2020-12-28 10:07:59 --> Config Class Initialized
+INFO - 2020-12-28 10:07:59 --> Hooks Class Initialized
+DEBUG - 2020-12-28 10:07:59 --> UTF-8 Support Enabled
+INFO - 2020-12-28 10:07:59 --> Utf8 Class Initialized
+INFO - 2020-12-28 10:07:59 --> URI Class Initialized
+INFO - 2020-12-28 10:07:59 --> Router Class Initialized
+INFO - 2020-12-28 10:07:59 --> Output Class Initialized
+INFO - 2020-12-28 10:07:59 --> Security Class Initialized
+DEBUG - 2020-12-28 10:07:59 --> Global POST, GET and COOKIE data sanitized
+INFO - 2020-12-28 10:07:59 --> Input Class Initialized
+INFO - 2020-12-28 10:07:59 --> Language Class Initialized
+INFO - 2020-12-28 10:07:59 --> Language Class Initialized
+INFO - 2020-12-28 10:07:59 --> Config Class Initialized
+INFO - 2020-12-28 10:07:59 --> Loader Class Initialized
+INFO - 2020-12-28 10:07:59 --> Helper loaded: url_helper
+INFO - 2020-12-28 10:07:59 --> Helper loaded: html_helper
+INFO - 2020-12-28 10:07:59 --> Helper loaded: file_helper
+INFO - 2020-12-28 10:07:59 --> Helper loaded: form_helper
+INFO - 2020-12-28 10:07:59 --> Helper loaded: security_helper
+INFO - 2020-12-28 10:07:59 --> Helper loaded: xss_helper
+INFO - 2020-12-28 10:07:59 --> Helper loaded: slug_helper
+INFO - 2020-12-28 10:07:59 --> Database Driver Class Initialized
+DEBUG - 2020-12-28 10:07:59 --> Session: "sess_save_path" is empty; using "session.save_path" value from php.ini.
+INFO - 2020-12-28 10:07:59 --> Session: Class initialized using 'files' driver.
+INFO - 2020-12-28 10:07:59 --> Language file loaded: language/english/pagination_lang.php
+INFO - 2020-12-28 10:07:59 --> Pagination Class Initialized
+INFO - 2020-12-28 10:07:59 --> Email Class Initialized
+INFO - 2020-12-28 10:07:59 --> Model "M_konfig" initialized
+INFO - 2020-12-28 10:08:00 --> Model "M_reff" initialized
+INFO - 2020-12-28 10:08:00 --> Model "M_total" initialized
+INFO - 2020-12-28 10:08:00 --> Controller Class Initialized
+DEBUG - 2020-12-28 10:08:00 --> Maps_kri MX_Controller Initialized
+DEBUG - 2020-12-28 10:08:00 --> File loaded: D:\xampp72\htdocs\app_grm\application\modules/maps_kri/models/Model.php
+INFO - 2020-12-28 16:08:00 --> Final output sent to browser
+DEBUG - 2020-12-28 16:08:00 --> Total execution time: 1.1745
+INFO - 2020-12-28 10:08:08 --> Config Class Initialized
+INFO - 2020-12-28 10:08:08 --> Hooks Class Initialized
+DEBUG - 2020-12-28 10:08:08 --> UTF-8 Support Enabled
+INFO - 2020-12-28 10:08:08 --> Utf8 Class Initialized
+INFO - 2020-12-28 10:08:08 --> URI Class Initialized
+INFO - 2020-12-28 10:08:08 --> Router Class Initialized
+INFO - 2020-12-28 10:08:08 --> Output Class Initialized
+INFO - 2020-12-28 10:08:08 --> Security Class Initialized
+DEBUG - 2020-12-28 10:08:08 --> Global POST, GET and COOKIE data sanitized
+INFO - 2020-12-28 10:08:08 --> Input Class Initialized
+INFO - 2020-12-28 10:08:08 --> Language Class Initialized
+INFO - 2020-12-28 10:08:08 --> Language Class Initialized
+INFO - 2020-12-28 10:08:08 --> Config Class Initialized
+INFO - 2020-12-28 10:08:08 --> Loader Class Initialized
+INFO - 2020-12-28 10:08:09 --> Helper loaded: url_helper
+INFO - 2020-12-28 10:08:09 --> Helper loaded: html_helper
+INFO - 2020-12-28 10:08:09 --> Helper loaded: file_helper
+INFO - 2020-12-28 10:08:09 --> Helper loaded: form_helper
+INFO - 2020-12-28 10:08:09 --> Helper loaded: security_helper
+INFO - 2020-12-28 10:08:09 --> Helper loaded: xss_helper
+INFO - 2020-12-28 10:08:09 --> Helper loaded: slug_helper
+INFO - 2020-12-28 10:08:09 --> Database Driver Class Initialized
+DEBUG - 2020-12-28 10:08:09 --> Session: "sess_save_path" is empty; using "session.save_path" value from php.ini.
+INFO - 2020-12-28 10:08:09 --> Session: Class initialized using 'files' driver.
+INFO - 2020-12-28 10:08:09 --> Language file loaded: language/english/pagination_lang.php
+INFO - 2020-12-28 10:08:09 --> Pagination Class Initialized
+INFO - 2020-12-28 10:08:09 --> Email Class Initialized
+INFO - 2020-12-28 10:08:09 --> Model "M_konfig" initialized
+INFO - 2020-12-28 10:08:09 --> Model "M_reff" initialized
+INFO - 2020-12-28 10:08:09 --> Model "M_total" initialized
+INFO - 2020-12-28 10:08:09 --> Controller Class Initialized
+DEBUG - 2020-12-28 10:08:09 --> Maps_kri MX_Controller Initialized
+DEBUG - 2020-12-28 10:08:09 --> File loaded: D:\xampp72\htdocs\app_grm\application\modules/maps_kri/models/Model.php
+INFO - 2020-12-28 16:08:09 --> Final output sent to browser
+DEBUG - 2020-12-28 16:08:09 --> Total execution time: 1.1521
+INFO - 2020-12-28 10:09:31 --> Config Class Initialized
+INFO - 2020-12-28 10:09:31 --> Hooks Class Initialized
+DEBUG - 2020-12-28 10:09:31 --> UTF-8 Support Enabled
+INFO - 2020-12-28 10:09:31 --> Utf8 Class Initialized
+INFO - 2020-12-28 10:09:31 --> URI Class Initialized
+INFO - 2020-12-28 10:09:31 --> Router Class Initialized
+INFO - 2020-12-28 10:09:31 --> Output Class Initialized
+INFO - 2020-12-28 10:09:31 --> Security Class Initialized
+DEBUG - 2020-12-28 10:09:31 --> Global POST, GET and COOKIE data sanitized
+INFO - 2020-12-28 10:09:31 --> Input Class Initialized
+INFO - 2020-12-28 10:09:31 --> Language Class Initialized
+INFO - 2020-12-28 10:09:31 --> Language Class Initialized
+INFO - 2020-12-28 10:09:31 --> Config Class Initialized
+INFO - 2020-12-28 10:09:31 --> Loader Class Initialized
+INFO - 2020-12-28 10:09:31 --> Helper loaded: url_helper
+INFO - 2020-12-28 10:09:31 --> Helper loaded: html_helper
+INFO - 2020-12-28 10:09:31 --> Helper loaded: file_helper
+INFO - 2020-12-28 10:09:31 --> Helper loaded: form_helper
+INFO - 2020-12-28 10:09:31 --> Helper loaded: security_helper
+INFO - 2020-12-28 10:09:31 --> Helper loaded: xss_helper
+INFO - 2020-12-28 10:09:31 --> Helper loaded: slug_helper
+INFO - 2020-12-28 10:09:31 --> Database Driver Class Initialized
+DEBUG - 2020-12-28 10:09:31 --> Session: "sess_save_path" is empty; using "session.save_path" value from php.ini.
+INFO - 2020-12-28 10:09:31 --> Session: Class initialized using 'files' driver.
+INFO - 2020-12-28 10:09:31 --> Language file loaded: language/english/pagination_lang.php
+INFO - 2020-12-28 10:09:31 --> Pagination Class Initialized
+INFO - 2020-12-28 10:09:31 --> Email Class Initialized
+INFO - 2020-12-28 10:09:31 --> Model "M_konfig" initialized
+INFO - 2020-12-28 10:09:32 --> Model "M_reff" initialized
+INFO - 2020-12-28 10:09:32 --> Model "M_total" initialized
+INFO - 2020-12-28 10:09:32 --> Controller Class Initialized
+DEBUG - 2020-12-28 10:09:32 --> Maps_kri MX_Controller Initialized
+DEBUG - 2020-12-28 10:09:32 --> File loaded: D:\xampp72\htdocs\app_grm\application\modules/maps_kri/models/Model.php
+DEBUG - 2020-12-28 16:09:32 --> File loaded: D:\xampp72\htdocs\app_grm\application\views\temp_maps_kri/head.php
+DEBUG - 2020-12-28 16:09:32 --> File loaded: D:\xampp72\htdocs\app_grm\application\views\temp_maps_kri/navbar.php
+DEBUG - 2020-12-28 16:09:32 --> File loaded: D:\xampp72\htdocs\app_grm\application\views\temp_maps_kri/sidebar_left.php
+DEBUG - 2020-12-28 16:09:32 --> File loaded: D:\xampp72\htdocs\app_grm\application\views\temp_maps_kri/sidebar_right.php
+DEBUG - 2020-12-28 16:09:32 --> File loaded: D:\xampp72\htdocs\app_grm\application\modules/maps_kri/views/index.php
+DEBUG - 2020-12-28 16:09:32 --> File loaded: D:\xampp72\htdocs\app_grm\application\views\temp_maps_kri/quick_bar.php
+DEBUG - 2020-12-28 16:09:32 --> File loaded: D:\xampp72\htdocs\app_grm\application\views\temp_maps_kri/toggle.php
+DEBUG - 2020-12-28 16:09:32 --> File loaded: D:\xampp72\htdocs\app_grm\application\views\temp_maps_kri/konten.php
+DEBUG - 2020-12-28 16:09:32 --> File loaded: D:\xampp72\htdocs\app_grm\application\views\temp_maps_kri/foot.php
+DEBUG - 2020-12-28 16:09:32 --> File loaded: D:\xampp72\htdocs\app_grm\application\views\temp_maps_kri/main.php
+INFO - 2020-12-28 16:09:32 --> Final output sent to browser
+DEBUG - 2020-12-28 16:09:32 --> Total execution time: 1.4935
+INFO - 2020-12-28 10:09:32 --> Config Class Initialized
+INFO - 2020-12-28 10:09:32 --> Hooks Class Initialized
+DEBUG - 2020-12-28 10:09:32 --> UTF-8 Support Enabled
+INFO - 2020-12-28 10:09:32 --> Utf8 Class Initialized
+INFO - 2020-12-28 10:09:32 --> URI Class Initialized
+INFO - 2020-12-28 10:09:32 --> Router Class Initialized
+INFO - 2020-12-28 10:09:32 --> Output Class Initialized
+INFO - 2020-12-28 10:09:32 --> Security Class Initialized
+DEBUG - 2020-12-28 10:09:32 --> Global POST, GET and COOKIE data sanitized
+INFO - 2020-12-28 10:09:32 --> Input Class Initialized
+INFO - 2020-12-28 10:09:32 --> Language Class Initialized
+ERROR - 2020-12-28 10:09:32 --> 404 Page Not Found: /index
+INFO - 2020-12-28 10:09:34 --> Config Class Initialized
+INFO - 2020-12-28 10:09:34 --> Hooks Class Initialized
+DEBUG - 2020-12-28 10:09:34 --> UTF-8 Support Enabled
+INFO - 2020-12-28 10:09:34 --> Utf8 Class Initialized
+INFO - 2020-12-28 10:09:34 --> URI Class Initialized
+INFO - 2020-12-28 10:09:34 --> Router Class Initialized
+INFO - 2020-12-28 10:09:34 --> Output Class Initialized
+INFO - 2020-12-28 10:09:34 --> Security Class Initialized
+DEBUG - 2020-12-28 10:09:34 --> Global POST, GET and COOKIE data sanitized
+INFO - 2020-12-28 10:09:34 --> Input Class Initialized
+INFO - 2020-12-28 10:09:34 --> Language Class Initialized
+INFO - 2020-12-28 10:09:34 --> Language Class Initialized
+INFO - 2020-12-28 10:09:35 --> Config Class Initialized
+INFO - 2020-12-28 10:09:35 --> Loader Class Initialized
+INFO - 2020-12-28 10:09:35 --> Helper loaded: url_helper
+INFO - 2020-12-28 10:09:35 --> Helper loaded: html_helper
+INFO - 2020-12-28 10:09:35 --> Helper loaded: file_helper
+INFO - 2020-12-28 10:09:35 --> Helper loaded: form_helper
+INFO - 2020-12-28 10:09:35 --> Helper loaded: security_helper
+INFO - 2020-12-28 10:09:35 --> Helper loaded: xss_helper
+INFO - 2020-12-28 10:09:35 --> Helper loaded: slug_helper
+INFO - 2020-12-28 10:09:35 --> Database Driver Class Initialized
+DEBUG - 2020-12-28 10:09:35 --> Session: "sess_save_path" is empty; using "session.save_path" value from php.ini.
+INFO - 2020-12-28 10:09:35 --> Session: Class initialized using 'files' driver.
+INFO - 2020-12-28 10:09:35 --> Language file loaded: language/english/pagination_lang.php
+INFO - 2020-12-28 10:09:35 --> Pagination Class Initialized
+INFO - 2020-12-28 10:09:35 --> Email Class Initialized
+INFO - 2020-12-28 10:09:35 --> Model "M_konfig" initialized
+INFO - 2020-12-28 10:09:35 --> Model "M_reff" initialized
+INFO - 2020-12-28 10:09:35 --> Model "M_total" initialized
+INFO - 2020-12-28 10:09:35 --> Controller Class Initialized
+DEBUG - 2020-12-28 10:09:35 --> Maps_kri MX_Controller Initialized
+DEBUG - 2020-12-28 10:09:36 --> File loaded: D:\xampp72\htdocs\app_grm\application\modules/maps_kri/models/Model.php
+INFO - 2020-12-28 16:09:36 --> Final output sent to browser
+DEBUG - 2020-12-28 16:09:36 --> Total execution time: 1.8867
+INFO - 2020-12-28 10:09:40 --> Config Class Initialized
+INFO - 2020-12-28 10:09:40 --> Hooks Class Initialized
+DEBUG - 2020-12-28 10:09:40 --> UTF-8 Support Enabled
+INFO - 2020-12-28 10:09:40 --> Utf8 Class Initialized
+INFO - 2020-12-28 10:09:40 --> URI Class Initialized
+INFO - 2020-12-28 10:09:40 --> Router Class Initialized
+INFO - 2020-12-28 10:09:40 --> Output Class Initialized
+INFO - 2020-12-28 10:09:41 --> Security Class Initialized
+DEBUG - 2020-12-28 10:09:41 --> Global POST, GET and COOKIE data sanitized
+INFO - 2020-12-28 10:09:41 --> Input Class Initialized
+INFO - 2020-12-28 10:09:41 --> Language Class Initialized
+INFO - 2020-12-28 10:09:41 --> Language Class Initialized
+INFO - 2020-12-28 10:09:41 --> Config Class Initialized
+INFO - 2020-12-28 10:09:41 --> Loader Class Initialized
+INFO - 2020-12-28 10:09:41 --> Helper loaded: url_helper
+INFO - 2020-12-28 10:09:41 --> Helper loaded: html_helper
+INFO - 2020-12-28 10:09:41 --> Helper loaded: file_helper
+INFO - 2020-12-28 10:09:41 --> Helper loaded: form_helper
+INFO - 2020-12-28 10:09:41 --> Helper loaded: security_helper
+INFO - 2020-12-28 10:09:41 --> Helper loaded: xss_helper
+INFO - 2020-12-28 10:09:41 --> Helper loaded: slug_helper
+INFO - 2020-12-28 10:09:41 --> Database Driver Class Initialized
+DEBUG - 2020-12-28 10:09:41 --> Session: "sess_save_path" is empty; using "session.save_path" value from php.ini.
+INFO - 2020-12-28 10:09:41 --> Session: Class initialized using 'files' driver.
+INFO - 2020-12-28 10:09:41 --> Language file loaded: language/english/pagination_lang.php
+INFO - 2020-12-28 10:09:41 --> Pagination Class Initialized
+INFO - 2020-12-28 10:09:41 --> Email Class Initialized
+INFO - 2020-12-28 10:09:41 --> Model "M_konfig" initialized
+INFO - 2020-12-28 10:09:41 --> Model "M_reff" initialized
+INFO - 2020-12-28 10:09:41 --> Model "M_total" initialized
+INFO - 2020-12-28 10:09:41 --> Controller Class Initialized
+DEBUG - 2020-12-28 10:09:41 --> Maps_kri MX_Controller Initialized
+DEBUG - 2020-12-28 10:09:41 --> File loaded: D:\xampp72\htdocs\app_grm\application\modules/maps_kri/models/Model.php
+INFO - 2020-12-28 16:09:41 --> Final output sent to browser
+DEBUG - 2020-12-28 16:09:41 --> Total execution time: 1.1992
+INFO - 2020-12-28 10:11:10 --> Config Class Initialized
+INFO - 2020-12-28 10:11:10 --> Hooks Class Initialized
+DEBUG - 2020-12-28 10:11:10 --> UTF-8 Support Enabled
+INFO - 2020-12-28 10:11:10 --> Utf8 Class Initialized
+INFO - 2020-12-28 10:11:11 --> URI Class Initialized
+INFO - 2020-12-28 10:11:11 --> Router Class Initialized
+INFO - 2020-12-28 10:11:11 --> Output Class Initialized
+INFO - 2020-12-28 10:11:11 --> Security Class Initialized
+DEBUG - 2020-12-28 10:11:11 --> Global POST, GET and COOKIE data sanitized
+INFO - 2020-12-28 10:11:11 --> Input Class Initialized
+INFO - 2020-12-28 10:11:11 --> Language Class Initialized
+INFO - 2020-12-28 10:11:11 --> Language Class Initialized
+INFO - 2020-12-28 10:11:11 --> Config Class Initialized
+INFO - 2020-12-28 10:11:11 --> Loader Class Initialized
+INFO - 2020-12-28 10:11:11 --> Helper loaded: url_helper
+INFO - 2020-12-28 10:11:11 --> Helper loaded: html_helper
+INFO - 2020-12-28 10:11:11 --> Helper loaded: file_helper
+INFO - 2020-12-28 10:11:11 --> Helper loaded: form_helper
+INFO - 2020-12-28 10:11:11 --> Helper loaded: security_helper
+INFO - 2020-12-28 10:11:11 --> Helper loaded: xss_helper
+INFO - 2020-12-28 10:11:11 --> Helper loaded: slug_helper
+INFO - 2020-12-28 10:11:11 --> Database Driver Class Initialized
+DEBUG - 2020-12-28 10:11:11 --> Session: "sess_save_path" is empty; using "session.save_path" value from php.ini.
+INFO - 2020-12-28 10:11:11 --> Session: Class initialized using 'files' driver.
+INFO - 2020-12-28 10:11:12 --> Language file loaded: language/english/pagination_lang.php
+INFO - 2020-12-28 10:11:12 --> Pagination Class Initialized
+INFO - 2020-12-28 10:11:12 --> Email Class Initialized
+INFO - 2020-12-28 10:11:12 --> Model "M_konfig" initialized
+INFO - 2020-12-28 10:11:12 --> Model "M_reff" initialized
+INFO - 2020-12-28 10:11:12 --> Model "M_total" initialized
+INFO - 2020-12-28 10:11:12 --> Controller Class Initialized
+DEBUG - 2020-12-28 10:11:12 --> Maps_kri MX_Controller Initialized
+INFO - 2020-12-28 10:11:12 --> Config Class Initialized
+INFO - 2020-12-28 10:11:12 --> Hooks Class Initialized
+DEBUG - 2020-12-28 10:11:12 --> UTF-8 Support Enabled
+INFO - 2020-12-28 10:11:12 --> Utf8 Class Initialized
+INFO - 2020-12-28 10:11:12 --> URI Class Initialized
+INFO - 2020-12-28 10:11:12 --> Router Class Initialized
+INFO - 2020-12-28 10:11:12 --> Output Class Initialized
+INFO - 2020-12-28 10:11:12 --> Security Class Initialized
+DEBUG - 2020-12-28 10:11:12 --> Global POST, GET and COOKIE data sanitized
+INFO - 2020-12-28 10:11:12 --> Input Class Initialized
+INFO - 2020-12-28 10:11:12 --> Config Class Initialized
+INFO - 2020-12-28 10:11:12 --> Hooks Class Initialized
+DEBUG - 2020-12-28 10:11:12 --> UTF-8 Support Enabled
+INFO - 2020-12-28 10:11:12 --> Utf8 Class Initialized
+INFO - 2020-12-28 10:11:12 --> URI Class Initialized
+INFO - 2020-12-28 10:11:12 --> Router Class Initialized
+INFO - 2020-12-28 10:11:12 --> Output Class Initialized
+INFO - 2020-12-28 10:11:12 --> Security Class Initialized
+DEBUG - 2020-12-28 10:11:12 --> Global POST, GET and COOKIE data sanitized
+INFO - 2020-12-28 10:11:12 --> Input Class Initialized
+INFO - 2020-12-28 10:11:12 --> Language Class Initialized
+INFO - 2020-12-28 10:11:12 --> Language Class Initialized
+INFO - 2020-12-28 10:11:12 --> Config Class Initialized
+INFO - 2020-12-28 10:11:12 --> Language Class Initialized
+INFO - 2020-12-28 10:11:12 --> Loader Class Initialized
+INFO - 2020-12-28 10:11:12 --> Helper loaded: url_helper
+INFO - 2020-12-28 10:11:12 --> Helper loaded: html_helper
+INFO - 2020-12-28 10:11:12 --> Helper loaded: file_helper
+INFO - 2020-12-28 10:11:12 --> Helper loaded: form_helper
+INFO - 2020-12-28 10:11:12 --> Helper loaded: security_helper
+INFO - 2020-12-28 10:11:12 --> Helper loaded: xss_helper
+INFO - 2020-12-28 10:11:12 --> Helper loaded: slug_helper
+INFO - 2020-12-28 10:11:12 --> Database Driver Class Initialized
+DEBUG - 2020-12-28 10:11:12 --> Session: "sess_save_path" is empty; using "session.save_path" value from php.ini.
+INFO - 2020-12-28 10:11:12 --> Session: Class initialized using 'files' driver.
+INFO - 2020-12-28 10:11:12 --> Language file loaded: language/english/pagination_lang.php
+INFO - 2020-12-28 10:11:12 --> Pagination Class Initialized
+INFO - 2020-12-28 10:11:12 --> Email Class Initialized
+INFO - 2020-12-28 10:11:12 --> Language Class Initialized
+INFO - 2020-12-28 10:11:12 --> Config Class Initialized
+INFO - 2020-12-28 10:11:12 --> Loader Class Initialized
+INFO - 2020-12-28 10:11:12 --> Helper loaded: url_helper
+INFO - 2020-12-28 10:11:12 --> Helper loaded: html_helper
+INFO - 2020-12-28 10:11:12 --> Helper loaded: file_helper
+INFO - 2020-12-28 10:11:12 --> Helper loaded: form_helper
+INFO - 2020-12-28 10:11:12 --> Helper loaded: security_helper
+INFO - 2020-12-28 10:11:12 --> Helper loaded: xss_helper
+INFO - 2020-12-28 10:11:12 --> Helper loaded: slug_helper
+INFO - 2020-12-28 10:11:12 --> Database Driver Class Initialized
+DEBUG - 2020-12-28 10:11:12 --> Session: "sess_save_path" is empty; using "session.save_path" value from php.ini.
+INFO - 2020-12-28 10:11:12 --> Session: Class initialized using 'files' driver.
+INFO - 2020-12-28 10:11:12 --> Language file loaded: language/english/pagination_lang.php
+INFO - 2020-12-28 10:11:12 --> Pagination Class Initialized
+INFO - 2020-12-28 10:11:12 --> Email Class Initialized
+INFO - 2020-12-28 10:11:12 --> Model "M_konfig" initialized
+INFO - 2020-12-28 10:11:12 --> Model "M_reff" initialized
+INFO - 2020-12-28 10:11:12 --> Model "M_total" initialized
+INFO - 2020-12-28 10:11:12 --> Controller Class Initialized
+DEBUG - 2020-12-28 10:11:12 --> File loaded: D:\xampp72\htdocs\app_grm\application\modules/auth/models/M_login.php
+INFO - 2020-12-28 10:11:12 --> Model "M_konfig" initialized
+INFO - 2020-12-28 10:11:12 --> Model "M_reff" initialized
+INFO - 2020-12-28 10:11:12 --> Model "M_total" initialized
+INFO - 2020-12-28 10:11:12 --> Controller Class Initialized
+DEBUG - 2020-12-28 10:11:12 --> Maps_kri MX_Controller Initialized
+DEBUG - 2020-12-28 10:11:12 --> File loaded: D:\xampp72\htdocs\app_grm\application\modules/maps_kri/models/Model.php
+DEBUG - 2020-12-28 16:11:12 --> File loaded: D:\xampp72\htdocs\app_grm\application\views\temp_maps_kri/head.php
+DEBUG - 2020-12-28 16:11:12 --> File loaded: D:\xampp72\htdocs\app_grm\application\views\temp_maps_kri/navbar.php
+DEBUG - 2020-12-28 16:11:12 --> File loaded: D:\xampp72\htdocs\app_grm\application\views\temp_maps_kri/sidebar_left.php
+DEBUG - 2020-12-28 16:11:12 --> File loaded: D:\xampp72\htdocs\app_grm\application\views\temp_maps_kri/sidebar_right.php
+DEBUG - 2020-12-28 16:11:12 --> File loaded: D:\xampp72\htdocs\app_grm\application\modules/maps_kri/views/index.php
+DEBUG - 2020-12-28 16:11:12 --> File loaded: D:\xampp72\htdocs\app_grm\application\views\temp_maps_kri/quick_bar.php
+DEBUG - 2020-12-28 16:11:12 --> File loaded: D:\xampp72\htdocs\app_grm\application\views\temp_maps_kri/toggle.php
+DEBUG - 2020-12-28 16:11:12 --> File loaded: D:\xampp72\htdocs\app_grm\application\views\temp_maps_kri/konten.php
+DEBUG - 2020-12-28 16:11:12 --> File loaded: D:\xampp72\htdocs\app_grm\application\views\temp_maps_kri/foot.php
+DEBUG - 2020-12-28 16:11:12 --> File loaded: D:\xampp72\htdocs\app_grm\application\views\temp_maps_kri/main.php
+INFO - 2020-12-28 16:11:12 --> Final output sent to browser
+DEBUG - 2020-12-28 16:11:12 --> Total execution time: 0.1291
+INFO - 2020-12-28 10:11:12 --> Config Class Initialized
+INFO - 2020-12-28 10:11:12 --> Hooks Class Initialized
+INFO - 2020-12-28 10:11:13 --> Config Class Initialized
+INFO - 2020-12-28 10:11:13 --> Hooks Class Initialized
+DEBUG - 2020-12-28 10:11:13 --> UTF-8 Support Enabled
+DEBUG - 2020-12-28 10:11:13 --> UTF-8 Support Enabled
+INFO - 2020-12-28 10:11:13 --> Utf8 Class Initialized
+INFO - 2020-12-28 10:11:13 --> URI Class Initialized
+INFO - 2020-12-28 10:11:13 --> Utf8 Class Initialized
+INFO - 2020-12-28 10:11:13 --> Router Class Initialized
+INFO - 2020-12-28 10:11:13 --> Output Class Initialized
+INFO - 2020-12-28 10:11:13 --> Security Class Initialized
+DEBUG - 2020-12-28 10:11:13 --> Global POST, GET and COOKIE data sanitized
+INFO - 2020-12-28 10:11:13 --> Input Class Initialized
+INFO - 2020-12-28 10:11:13 --> Language Class Initialized
+ERROR - 2020-12-28 10:11:13 --> 404 Page Not Found: /index
+INFO - 2020-12-28 10:11:13 --> URI Class Initialized
+INFO - 2020-12-28 10:11:13 --> Router Class Initialized
+INFO - 2020-12-28 10:11:13 --> Output Class Initialized
+INFO - 2020-12-28 10:11:13 --> Security Class Initialized
+DEBUG - 2020-12-28 10:11:13 --> Global POST, GET and COOKIE data sanitized
+INFO - 2020-12-28 10:11:13 --> Config Class Initialized
+INFO - 2020-12-28 10:11:13 --> Hooks Class Initialized
+DEBUG - 2020-12-28 10:11:13 --> UTF-8 Support Enabled
+INFO - 2020-12-28 10:11:13 --> Utf8 Class Initialized
+INFO - 2020-12-28 10:11:13 --> URI Class Initialized
+INFO - 2020-12-28 10:11:13 --> Router Class Initialized
+INFO - 2020-12-28 10:11:13 --> Output Class Initialized
+INFO - 2020-12-28 10:11:13 --> Security Class Initialized
+DEBUG - 2020-12-28 10:11:13 --> Global POST, GET and COOKIE data sanitized
+INFO - 2020-12-28 10:11:13 --> Input Class Initialized
+INFO - 2020-12-28 10:11:13 --> Language Class Initialized
+ERROR - 2020-12-28 10:11:13 --> 404 Page Not Found: /index
+INFO - 2020-12-28 10:11:13 --> Input Class Initialized
+INFO - 2020-12-28 10:11:13 --> Language Class Initialized
+INFO - 2020-12-28 10:11:13 --> Language Class Initialized
+INFO - 2020-12-28 10:11:13 --> Config Class Initialized
+INFO - 2020-12-28 10:11:13 --> Loader Class Initialized
+INFO - 2020-12-28 10:11:13 --> Helper loaded: url_helper
+INFO - 2020-12-28 10:11:13 --> Helper loaded: html_helper
+INFO - 2020-12-28 10:11:13 --> Helper loaded: file_helper
+INFO - 2020-12-28 10:11:13 --> Helper loaded: form_helper
+INFO - 2020-12-28 10:11:13 --> Config Class Initialized
+INFO - 2020-12-28 10:11:13 --> Hooks Class Initialized
+DEBUG - 2020-12-28 10:11:13 --> UTF-8 Support Enabled
+INFO - 2020-12-28 10:11:13 --> Utf8 Class Initialized
+INFO - 2020-12-28 10:11:13 --> URI Class Initialized
+INFO - 2020-12-28 10:11:13 --> Router Class Initialized
+INFO - 2020-12-28 10:11:13 --> Output Class Initialized
+INFO - 2020-12-28 10:11:13 --> Security Class Initialized
+DEBUG - 2020-12-28 10:11:13 --> Global POST, GET and COOKIE data sanitized
+INFO - 2020-12-28 10:11:13 --> Input Class Initialized
+INFO - 2020-12-28 10:11:13 --> Language Class Initialized
+INFO - 2020-12-28 10:11:13 --> Language Class Initialized
+INFO - 2020-12-28 10:11:13 --> Config Class Initialized
+INFO - 2020-12-28 10:11:13 --> Loader Class Initialized
+INFO - 2020-12-28 10:11:13 --> Helper loaded: url_helper
+INFO - 2020-12-28 10:11:14 --> Helper loaded: html_helper
+INFO - 2020-12-28 10:11:14 --> Helper loaded: file_helper
+INFO - 2020-12-28 10:11:14 --> Helper loaded: form_helper
+INFO - 2020-12-28 10:11:14 --> Helper loaded: security_helper
+INFO - 2020-12-28 10:11:14 --> Helper loaded: xss_helper
+INFO - 2020-12-28 10:11:14 --> Helper loaded: slug_helper
+INFO - 2020-12-28 10:11:14 --> Database Driver Class Initialized
+DEBUG - 2020-12-28 10:11:14 --> Session: "sess_save_path" is empty; using "session.save_path" value from php.ini.
+INFO - 2020-12-28 10:11:14 --> Session: Class initialized using 'files' driver.
+INFO - 2020-12-28 10:11:14 --> Language file loaded: language/english/pagination_lang.php
+INFO - 2020-12-28 10:11:14 --> Pagination Class Initialized
+INFO - 2020-12-28 10:11:14 --> Email Class Initialized
+INFO - 2020-12-28 10:11:14 --> Model "M_konfig" initialized
+INFO - 2020-12-28 10:11:14 --> Model "M_reff" initialized
+INFO - 2020-12-28 10:11:14 --> Model "M_total" initialized
+INFO - 2020-12-28 10:11:14 --> Helper loaded: security_helper
+INFO - 2020-12-28 10:11:14 --> Helper loaded: xss_helper
+INFO - 2020-12-28 10:11:14 --> Helper loaded: slug_helper
+INFO - 2020-12-28 10:11:14 --> Database Driver Class Initialized
+DEBUG - 2020-12-28 10:11:14 --> Session: "sess_save_path" is empty; using "session.save_path" value from php.ini.
+INFO - 2020-12-28 10:11:14 --> Session: Class initialized using 'files' driver.
+INFO - 2020-12-28 10:11:14 --> Language file loaded: language/english/pagination_lang.php
+INFO - 2020-12-28 10:11:14 --> Pagination Class Initialized
+INFO - 2020-12-28 10:11:14 --> Email Class Initialized
+INFO - 2020-12-28 10:11:14 --> Model "M_konfig" initialized
+INFO - 2020-12-28 10:11:14 --> Model "M_reff" initialized
+INFO - 2020-12-28 10:11:14 --> Model "M_total" initialized
+INFO - 2020-12-28 10:11:14 --> Controller Class Initialized
+DEBUG - 2020-12-28 10:11:14 --> Maps_kri MX_Controller Initialized
+INFO - 2020-12-28 10:11:14 --> Controller Class Initialized
+DEBUG - 2020-12-28 10:11:14 --> File loaded: D:\xampp72\htdocs\app_grm\application\modules/maps_kri/models/Model.php
+INFO - 2020-12-28 16:11:14 --> Final output sent to browser
+DEBUG - 2020-12-28 16:11:14 --> Total execution time: 0.1576
+DEBUG - 2020-12-28 10:11:14 --> File loaded: D:\xampp72\htdocs\app_grm\application\modules/auth/models/M_login.php
+DEBUG - 2020-12-28 16:11:14 --> File loaded: D:\xampp72\htdocs\app_grm\application\views\temp_login/head.php
+DEBUG - 2020-12-28 16:11:14 --> File loaded: D:\xampp72\htdocs\app_grm\application\modules/auth/views/index.php
+DEBUG - 2020-12-28 16:11:14 --> File loaded: D:\xampp72\htdocs\app_grm\application\views\temp_login/konten.php
+DEBUG - 2020-12-28 16:11:14 --> File loaded: D:\xampp72\htdocs\app_grm\application\views\temp_login/footer.php
+DEBUG - 2020-12-28 16:11:14 --> File loaded: D:\xampp72\htdocs\app_grm\application\views\temp_login/main.php
+INFO - 2020-12-28 16:11:14 --> Final output sent to browser
+DEBUG - 2020-12-28 16:11:14 --> Total execution time: 1.7041

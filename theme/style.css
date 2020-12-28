@@ -52,6 +52,9 @@ font-size:1.8rem;
 	background:#1572e8;
 	color:#fff;
 }
+.text-grey{
+	color:#999;
+}
 .vimg{
 	background:#f4f4f4;
 }
@@ -176,7 +179,6 @@ font-size:1.8rem;
 .tborder{
 	font-size:14px;
 }
-
 .tborder table {
   border-collapse:collapse;
   width:100%;
@@ -230,6 +232,63 @@ font-size:1.8rem;
   color:white;
   font-weight:bold;
   background-color:#009688;
+}
+
+
+/*tabel costum 2*/
+.tborder_2{
+	font-size:14px;
+}
+.tborder_2 table {
+  border-collapse:collapse;
+  width:100%;
+  margin:0 auto 25px auto;
+}
+.tborder_2 table, .tborder_2 th, .tborder_2 td {
+  border: 1px solid #cacaca;
+  padding:5px 10px;
+}
+.tborder_2 tr {
+  color:rgb(255, 255, 255);
+  font:normal 14px Arial, Helvetica, sans-serif;
+  -webkit-transition:All 1s ease;
+  -moz-transition:All 1s ease;
+  -o-transition:All 1s ease;
+  transition:All 1s ease;
+}
+.tborder_2 th {
+  color:rgb(94, 94, 94);
+  font-weight:bold;
+  background-color:#d4dadd;
+}
+.hoverlink:hover{
+	color:rgb(194, 194, 250);
+}
+.tborder_2-bottom{
+	font-size:14px;
+}
+
+.tborder_2-bottom table {
+  border-collapse:collapse;
+  width:100%;
+  margin:0 auto 25px auto;
+}
+.tborder_2-bottom table, .tborder_2-bottom th, .tborder_2-bottom td {
+  border-bottom: 1px solid #cacaca;
+  padding:5px 10px;
+}
+.tborder_2-bottom tr {
+  color:black;
+  font:normal 14px Arial, Helvetica, sans-serif;
+  -webkit-transition:All 1s ease;
+  -moz-transition:All 1s ease;
+  -o-transition:All 1s ease;
+  transition:All 1s ease;
+}
+.tborder_2-bottom th {
+	color:rgb(94, 94, 94);
+	font-weight:bold;
+	background-color:#d4dadd;
 }
 
 

@@ -101,7 +101,13 @@ function timepick(){
 
 function open_notif(){
     $('.custom-template').removeClass('open');
-    $('.sidebar-right').addClass('displaynone');
+	$('.sidebar-right').addClass('displaynone');
+	$(".quick").find("[aria-expanded='false']");
+}
+function open_quick(){
+    $('.custom-template').removeClass('open');
+	$('.sidebar-right').addClass('displaynone');
+	$(".btnmaps_notif").find("[aria-expanded='false']");
 }
 
 function sidebar_right() {
@@ -110,6 +116,7 @@ function sidebar_right() {
 		$('.sidebar-right').removeClass("displaynone");
 		$('.custom-template').removeClass('open');
 		$(".btnmaps_notif").find("[aria-expanded='false']");
+		$(".quick").find("[aria-expanded='false']");
 	}else{
 		$('.sidebar-right').addClass("displaynone");
 	}   	

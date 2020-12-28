@@ -46,89 +46,39 @@ $headername=$this->m_konfig->konfigurasi(14);
 					<ul class="navbar-nav topbar-nav ml-md-auto align-items-center">
 
 						<li class="nav-item dropdown hidden-caret">
-							<a class="nav-link" data-toggle="dropdown" href="#" aria-expanded="false">
-								<i class="fas fa-bell"></i>
-								<span class="notification">16</span>
+							<a class="nav-link dropdown-toggle" href="#" onclick="open_notif()" id="notifDropdown" role="button" data-toggle="dropdown" aria-haspopup="true" aria-expanded="false">
+								<i class="fa fa-bell"></i>
+								<span class="notification">1</span>
 							</a>
-							<div class="dropdown-menu quick-actions quick-actions-info animated fadeIn" style="width:360px">
-								<div class="quick-actions-header">
-									<span class="title mb-1">Notification</span>
-									<!--span class="subtitle op-8">Shortcuts</span-->
-								</div>
-								<div class="quick-actions-scroll scrollbar-outer">
-									<div class="quick-actions-items">
-										<div class="row m-0">
-											<div class="col-6 col-md-6 col-xs-12 p-2">
-												<h5>SEGERA</h5>
-												<ul class="list-group list-group-bordered list">
-													<li class="list-group-item" style="padding:4px 8px;">
-													<a href="#">
-													<span style="font-size:12px;">Langgar Batas <span class="badge bg-danger text-white">2</span></span>
-													</a>
-													</li>
-													<li class="list-group-item" style="padding:4px 8px;">
-													<a href="#">
-													<span style="font-size:12px;">Distress Signal <span class="badge bg-danger text-white">2</span></span>
-													</a>
-													</li>
-													<li class="list-group-item" style="padding:4px 8px;">
-													<a href="#">
-													<span style="font-size:12px;">Input Signal SSAT <span class="badge bg-danger text-white">2</span></span>
-													</a>
-													</li>
-												</ul>
-											</div>
-											<div class="col-6 col-md-6 col-xs-12 p-2">
-											<h5>RAHASIA</h5>
-												<ul class="list-group list-group-bordered list">
-													<li class="list-group-item" style="padding:4px 8px;">
-													<a href="#">
-													<span style="font-size:12px;">Update Konis <span class="badge bg-danger text-white">2</span></span>
-													</a>
-													</li>
-													<li class="list-group-item" style="padding:4px 8px;">
-													<a href="#">
-													<span style="font-size:12px;">Update Konlog <span class="badge bg-danger text-white">2</span></span>
-													</a>
-													</li>
-													<li class="list-group-item" style="padding:4px 8px;">
-													<a href="#">
-													<span style="font-size:12px;">Update Konpers <!--span class="badge bg-danger text-white">9</span--></span>
-													</a>
-													</li>
-												</ul>
-												<ul class="list-group list-group-bordered list mt-2">
-													<li class="list-group-item" style="padding:4px 8px;">
-													<a href="#">
-													<span style="font-size:12px;">Laporan Ilo <span class="badge bg-danger text-white">2</span></span>
-													</a>
-													</li>
-													<li class="list-group-item" style="padding:4px 8px;">
-													<a href="#">
-													<span style="font-size:12px;">Laporan Staf Intel <span class="badge bg-danger text-white">2</span></span>
-													</a>
-													</li>
-													<li class="list-group-item" style="padding:4px 8px;">
-													<a href="#">
-													<span style="font-size:12px;">Laporan Eksternal <span class="badge bg-danger text-white">2</span></span>
-													</a>
-													</li>
-												</ul>
-											</div>
+							<ul class="dropdown-menu notif-box animated fadeIn" aria-labelledby="notifDropdown">
+								<li>
+									<div class="dropdown-title">You have 1 new notification</div>
+								</li>
+								<li>
+									<div class="notif-scroll scrollbar-outer">
+										<div class="notif-center">
+											<a href="#">
+												<div class="notif-icon notif-primary"> <i class="fa fa-edit"></i> </div>
+												<div class="notif-content">
+													<span class="block">
+														Update Konlog now
+													</span>
+													<span class="time">5 minutes ago</span> 
+												</div>
+											</a>
 										</div>
 									</div>
-								</div>
-							</div>
+								</li>
+								<li>
+									<a class="see-all" href="javascript:void(0);">See all notifications<i class="fa fa-angle-right"></i> </a>
+								</li>
+							</ul>
 						</li>
 
-						<!--li class="nav-item">
-							<a href="javascript:sidebar_right()" class="nav-link">
-								<i class="fa fa-comments"></i>
-							</a>
-						</li-->
+						
 						
 						<li class="nav-item dropdown hidden-caret">
-							<a class="nav-link" data-toggle="dropdown" href="#" aria-expanded="false">
+							<a class="nav-link quick" data-toggle="dropdown" href="#" onclick="open_quick()" aria-expanded="false">
 								<i class="fas fa-grip-horizontal"></i>
 							</a>
 							<div class="dropdown-menu quick-actions quick-actions-info animated fadeIn">
@@ -163,36 +113,16 @@ $headername=$this->m_konfig->konfigurasi(14);
 													<span class="text">Roip</span>
 												</div>
 											</a>
-											<a class="col-6 col-md-4 p-0" href="#">
-												<div class="quick-actions-item">
-													<div class="avatar-item bg-primary rounded-circle">
-														<i class="fas fa-bullseye"></i>
-													</div>
-													<span class="text">Radar</span>
-												</div>
-											</a>
-											<a class="col-6 col-md-4 p-0" href="#">
-												<div class="quick-actions-item">
-													<div class="avatar-item bg-secondary rounded-circle">
-														<i class="fas fa-ship"></i>
-													</div>
-													<span class="text">AIS</span>
-												</div>
-											</a>
-											<a class="col-6 col-md-4 p-0" href="#">
-												<div class="quick-actions-item">
-													<div class="avatar-item bg-secondary rounded-circle">
-														<i class="fas fa-camera"></i>
-													</div>
-													<span class="text">Camera</span>
-												</div>
-											</a>
 										</div>
 									</div>
 								</div>
 							</div>
 						</li>
-										
+						<li class="nav-item">
+							<a href="#" onclick="sidebar_right()" class="nav-link">
+								<i class="fa fa-calendar"></i>
+							</a>
+						</li>				
 						<li class="nav-item">
 							<a href="#" class="nav-link quick-sidebar-toggler">
 								<i class="fa fa-comments"></i>

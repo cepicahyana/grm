@@ -3,31 +3,51 @@
   height:400px;
   width: 100%;
 }
+#top_canvas{
+    padding-top: 60px;
+}
+
+
 #m_tom_full{
     position: absolute;
     z-index: 1;
-    top:75px;
+    top:70px;
     right:10px;
 }
+
 #m_info_position{
     position: absolute;
     z-index: 1;
     bottom:20px;
     left:40%;
-    background:#fff;
+    background-color:rgb(255, 255, 255, 0.6);
     opacity: 0.8;
     color:#000;
-    font-size: 11px;
+    font-size: 10px;
     padding:4px;
     border-radius: 3px;
 }
+
 
 .btnmaps{
     background-color: rgb(255, 255, 255); border: 2px solid rgb(255, 255, 255); border-radius: 3px; box-shadow: rgba(0, 0, 0, 0.2) 0px 1px 3px;
 }
 
 
+.gm-style .gm-style-iw-c{
+    background-color: rgba(0, 0, 0, 0.4);
+}
+.gm-style .gm-style-iw-t::after{
+    opacity:0.6;
+}
+
+
+
 </style>
+<!--div id="top_canvas"></div-->
+
+  	
+
 <div id="m_tom_full">
     <button type="button" class="btn btn-icon btnmaps of" onclick="openFullscreen();" title="Fullscreen">
         <i class="icon-size-fullscreen"></i>
@@ -36,11 +56,14 @@
         <i class="icon-size-actual"></i>
     </button>
 </div>
+
 <div id="m_info_position">
     LatLong: <span id="latlong"><?php echo $this->m_konfig->konfigmaps(2)?>, <?php echo $this->m_konfig->konfigmaps(3)?></span>
 </div>
 
 <div id="map_canvas"></div>
+
+
 
 
 <script>
@@ -70,20 +93,292 @@ function closeFullscreen() {
   }
 }
 </script>
+
+<script>
+function defaultMarker(){
+    var fm = $('#customCheck1:checked').map(function(_, el) {
+        return $(el).val();
+    }).get();
+
+    var course = [];
+    $(".fm").each(function(){
+        if ($('#customCheck1').is(":checked")) {
+            course.push($(this).val());
+        }
+    });
+    course = course.toString();
+    var url = base_url+'maps_kri/get_fm';
+    if(true == $('#customCheck1').prop("checked")){ 
+        $.ajax({
+            url: url,
+            data: "fm="+fm+"&ak="+course,
+            type: 'POST',
+            dataType: 'JSON',
+            success: function(markersOnMap){
+                showMarker(markersOnMap);
+            }
+        });
+    }
+}
+
+</script>
 <script type="text/javascript">
 $(document).ready(function(){
     
+    $('#customCheck1').change(function() { 
+        var fm = $('#customCheck1:checked').map(function(_, el) {
+            return $(el).val();
+        }).get();
+
+        var course = [];
+        $(".fm").each(function(){
+            if ($(this).is(":checked")) {
+                course.push($(this).val());
+            }
+        });
+        course = course.toString();
+
+        var url = base_url+'maps_kri/get_fm';
+        if(true == $(this).prop("checked")){ 
+            $.ajax({
+                url: url,
+                data: "fm="+fm+"&ak="+course,
+                type: 'POST',
+                dataType: 'JSON',
+                success: function(markersOnMap){
+                    showMarker(markersOnMap);
+                }
+            });
+        }else{
+            hideMarkersOfType(3);
+            closeOtherInfo();
+        }
+    });	
+
+    $('#customCheck2').change(function() { 
+        var fm = $('#customCheck2:checked').map(function(_, el) {
+            return $(el).val();
+        }).get();
+
+        var course = [];
+        $(".fm").each(function(){
+            if ($(this).is(":checked")) {
+                course.push($(this).val());
+            }
+        });
+        course = course.toString();
+
+        var url = base_url+'maps_kri/get_fm';
+        if(true == $(this).prop("checked")){ 
+            $.ajax({
+                url: url,
+                data: "fm="+fm+"&ak="+course,
+                type: 'POST',
+                dataType: 'JSON',
+                success: function(markersOnMap){
+                    showMarker(markersOnMap);
+                }
+            });
+        }else{
+            hideMarkersOfType(4);
+            closeOtherInfo();
+        }
+    });
+
+	$('#customCheck3').change(function() { 
+        var fm = $('#customCheck3:checked').map(function(_, el) {
+            return $(el).val();
+        }).get();
+
+        var course = [];
+        $(".fm").each(function(){
+            if ($(this).is(":checked")) {
+                course.push($(this).val());
+            }
+        });
+        course = course.toString();
+
+        var url = base_url+'maps_kri/get_fm';
+        if(true == $(this).prop("checked")){ 
+            $.ajax({
+                url: url,
+                data: "fm="+fm+"&ak="+course,
+                type: 'POST',
+                dataType: 'JSON',
+                success: function(markersOnMap){
+                    showMarker(markersOnMap);
+                }
+            });
+        }else{
+            hideMarkersOfType(5);
+            closeOtherInfo();
+        }
+    });
+
+	$('#customCheck4').change(function() { 
+        var fm = $('#customCheck4:checked').map(function(_, el) {
+            return $(el).val();
+        }).get();
+
+        var course = [];
+        $(".fm").each(function(){
+            if ($(this).is(":checked")) {
+                course.push($(this).val());
+            }
+        });
+        course = course.toString();
+
+        var url = base_url+'maps_kri/get_fm';
+        if(true == $(this).prop("checked")){ 
+            $.ajax({
+                url: url,
+                data: "fm="+fm+"&ak="+course,
+                type: 'POST',
+                dataType: 'JSON',
+                success: function(markersOnMap){
+                    showMarker(markersOnMap);
+                }
+            });
+        }else{
+            hideMarkersOfType(6);
+            closeOtherInfo();
+        }
+    });
+
+	$('#customCheck5').change(function() { 
+        var fm = $('#customCheck5:checked').map(function(_, el) {
+            return $(el).val();
+        }).get();
+
+        var course = [];
+        $(".fm").each(function(){
+            if ($(this).is(":checked")) {
+                course.push($(this).val());
+            }
+        });
+        course = course.toString();
+
+        var url = base_url+'maps_kri/get_fm';
+        if(true == $(this).prop("checked")){ 
+            $.ajax({
+                url: url,
+                data: "fm="+fm+"&ak="+course,
+                type: 'POST',
+                dataType: 'JSON',
+                success: function(markersOnMap){
+                    showMarker(markersOnMap);
+                }
+            });
+        }else{
+            hideMarkersOfType(7);
+            closeOtherInfo();
+        }
+    });
+	
+	$('#customCheck6').change(function() { 
+        var fm = $('#customCheck6:checked').map(function(_, el) {
+            return $(el).val();
+        }).get();
+
+        var course = [];
+        $(".fm").each(function(){
+            if ($(this).is(":checked")) {
+                course.push($(this).val());
+            }
+        });
+        course = course.toString();
+
+        var url = base_url+'maps_kri/get_fm';
+        if(true == $(this).prop("checked")){ 
+            $.ajax({
+                url: url,
+                data: "fm="+fm+"&ak="+course,
+                type: 'POST',
+                dataType: 'JSON',
+                success: function(markersOnMap){
+                    showMarker(markersOnMap);
+                }
+            });
+        }else{
+            hideMarkersOfType(8);
+            closeOtherInfo();
+        }
+    });
+	
+	$('#customCheck7').change(function() { 
+        var fm = $('#customCheck7:checked').map(function(_, el) {
+            return $(el).val();
+        }).get();
+
+        var course = [];
+        $(".fm").each(function(){
+            if ($(this).is(":checked")) {
+                course.push($(this).val());
+            }
+        });
+        course = course.toString();
+
+        var url = base_url+'maps_kri/get_fm';
+        if(true == $(this).prop("checked")){ 
+            $.ajax({
+                url: url,
+                data: "fm="+fm+"&ak="+course,
+                type: 'POST',
+                dataType: 'JSON',
+                success: function(markersOnMap){
+                    showMarker(markersOnMap);
+                }
+            });
+        }else{
+            hideMarkersOfType(9);
+            closeOtherInfo();
+        }
+    });
+	
+	$('#customCheck8').change(function() { 
+        var fm = $('#customCheck8:checked').map(function(_, el) {
+            return $(el).val();
+        }).get();
+
+        var course = [];
+        $(".fm").each(function(){
+            if ($(this).is(":checked")) {
+                course.push($(this).val());
+            }
+        });
+        course = course.toString();
+
+        var url = base_url+'maps_kri/get_fm';
+        if(true == $(this).prop("checked")){ 
+            $.ajax({
+                url: url,
+                data: "fm="+fm+"&ak="+course,
+                type: 'POST',
+                dataType: 'JSON',
+                success: function(markersOnMap){
+                    showMarker(markersOnMap);
+                }
+            });
+        }else{
+            hideMarkersOfType(10);
+            closeOtherInfo();
+        }
+    });
+
+
     $(".resAll").on('click', function(){
         resetMarker();
+        removeLine();
+        removeGone();
     });
-  
+   
 });
 </script>
 <script>
-    function history_track_kri(id){
+    function history_range_kri(id){
         //alert('history');
         var form = $("#"+id);
-        var url = base_url+'maps_kri/history_track_kri';
+        var url = base_url+'maps_kri/history_range_kri';
         $.ajax({
             url: url,
             data: $(form).serialize(),
@@ -96,9 +391,35 @@ $(document).ready(function(){
                 $('#msg_'+id+'').removeClass('fa fa-spinner fa-spin');
                 if(markersOnMap.length >= 1){
                 resetMarker();
+                removeLine();
                 showPline(markersOnMap);
                 }else{
-                    alert('No history');
+                    //alert('No history');
+                    toastr['info']("No History this day");
+                }
+            }
+        });
+    }
+    function history_track_kri(id){
+        //alert('history');
+        var url = base_url+'maps_kri/history_track_kri';
+        $.ajax({
+            url: url,
+            data: "id="+id,
+            type: 'POST',
+            dataType: 'JSON',
+            beforeSend: function() {
+		        $('#msg_'+id+'').addClass('fa fa-spinner fa-spin');
+		    },
+            success: function(markersOnMap){
+                $('#msg_'+id+'').removeClass('fa fa-spinner fa-spin');
+                if(markersOnMap.length >= 1){
+                resetMarker();
+                removeLine();
+                showPline(markersOnMap);
+                }else{
+                    //alert('No history');
+                    toastr['info']("No History this day");
                 }
             }
         });
@@ -111,9 +432,12 @@ $(document).ready(function(){
     var markersOnMap; 
     var markers = [];
     var line = [];
-    
-    window.onload = function () { 
-        initMap(); singleMarker();
+    var gone = [];
+
+    window.onload = function () {
+        initMap();
+        $('#customCheck1').prop("checked", true);
+        defaultMarker();
     };
     function CenterControl(controlDiv, map) {
         // Set CSS for the control border.
@@ -123,7 +447,7 @@ $(document).ready(function(){
         controlUI.style.borderRadius = "3px";
         controlUI.style.boxShadow = "0 1px 3px rgba(0,0,0,.2)";
         controlUI.style.cursor = "pointer";
-        controlUI.style.marginTop = "70px";
+        controlUI.style.marginTop = "60px";
         controlUI.style.marginRight = "10px";
         controlUI.style.marginBottom = "5px";
         controlUI.style.textAlign = "center";
@@ -145,6 +469,9 @@ $(document).ready(function(){
             map.setCenter({ lat: <?php echo $this->m_konfig->konfigmaps(2)?>, lng: <?php echo $this->m_konfig->konfigmaps(3)?> });
         });
     }
+
+    
+
     function initMap() {
         map = new google.maps.Map(document.getElementById('map_canvas'), {
             zoom: 5,
@@ -174,20 +501,8 @@ $(document).ready(function(){
             document.getElementById('latlong').innerHTML = event.latLng.lat() + ', ' + event.latLng.lng()
         });	
     }
-    function singleMarker(){
-        var fm = 'fm';
-        var course = 'fm';
-        var url = base_url+'maps_kri/get_fm';
-        $.ajax({
-            url: url,
-            data: "fm="+fm+"&ak="+course,
-            type: 'POST',
-            dataType: 'JSON',
-            success: function(markersOnMap){
-                showMarker(markersOnMap);
-            }
-        });
-    }
+
+
     /*function addMarkerInfo() {
         for (var i = 0; i < markersOnMap.length; i++) {
             var contentString = '<div id="content"><h3>' + markersOnMap[i].placeName + '</h3>' + markersOnMap[i].descCription;
@@ -262,7 +577,7 @@ $(document).ready(function(){
             });
             const infowindow = new google.maps.InfoWindow({
                 content: contentString,
-                maxWidth: 400
+                maxWidth: 360
             });
             marker.addListener('click', function () {
                 closeOtherInfo();
@@ -348,7 +663,7 @@ $(document).ready(function(){
                         map: map
                     });
                     const infowindow = new google.maps.InfoWindow({
-                        content: "<div style='height:auto;'><h3>"+placeName+"</h3><div class='tborder'><table style='font-size:10px'><tbody><tr style='font-size:11px'><td class='text-left'>Lat</td><td class='text-left'>"+aa+"</td></tr><tr style='font-size:11px'><td class='text-left'>Long</td><td class='text-left'>"+bb+"</td></tr><tr style='font-size:11px'><td class='text-left'>Date</td><td class='text-left'>"+tgin+"</td></tr><tr style='font-size:11px'><td class='text-left'>Time</td><td class='text-left'>"+tm_in+"</td></tr></tbody></table></div></div>",
+                        content: "<div style='height:auto;'><h3>"+placeName+"</h3><div class='tborder_2'><table style='font-size:10px'><tbody><tr style='font-size:11px'><td class='text-left'>Lat</td><td class='text-left'>"+aa+"</td></tr><tr style='font-size:11px'><td class='text-left'>Long</td><td class='text-left'>"+bb+"</td></tr><tr style='font-size:11px'><td class='text-left'>Date</td><td class='text-left'>"+tgin+"</td></tr><tr style='font-size:11px'><td class='text-left'>Time</td><td class='text-left'>"+tm_in+"</td></tr></tbody></table></div></div>",
                         maxWidth: 400
                     });
                     marker.addListener('click', function () {
@@ -385,11 +700,67 @@ $(document).ready(function(){
     function resetMarker(){
         $(".fm").prop('checked', false); //change "select all" checked status to false
         hideMarkerAll();
-        removeLine();
-        singleMarker();
     }
-</script>
 
+    var dgon_nd;
+    var dgon_lw;
+    var dgon_bw;
+    function showPgon(gonLL,nd,lw,bw){
+        removeGone();
+        dgon_nd=nd;
+        dgon_lw=lw;
+        dgon_bw=bw;
+
+        var gonCoords=[];
+        var n = gonLL.split(';');
+        for (i=0; i<n.length; i++) 
+        {         
+            var [latitude, longitude] = n[i].split(',');
+            var gonlatLng = new google.maps.LatLng(latitude, longitude);
+            gonCoords.push(gonlatLng);
+        }
+        // Construct the polygon.
+        const consPolygon = new google.maps.Polygon({
+            paths: gonCoords,
+            strokeColor: "#FFFFFF",
+            strokeOpacity: 0.8,
+            strokeWeight: 3,
+            fillColor: "#f9bb00",
+            fillOpacity: 0.35,
+        });
+        consPolygon.setMap(map);
+        gone.push(consPolygon);
+        // Add a listener for the click event.
+        consPolygon.addListener("click", showArrgon);
+        infoWindow = new google.maps.InfoWindow({maxWidth: 400});
+    }
+    function showArrgon(event) {
+        // MVCArray of LatLngs.
+        const polygon = this;
+        const vertices = polygon.getPath();
+        let contentString = "<div class='tborder_2'><table style='font-size:10px'><tbody><tr style='font-size:11px' valign='top'><td class='text-left' style='width:100px'>Wilayah Kerja</td><td class='text-left'><b>"+dgon_nd+"</b></td></tr><tr style='font-size:11px' valign='top'><td class='text-left'>Luas Wilayah</td><td class='text-left'>"+dgon_lw+"</td></tr><tr style='font-size:11px' valign='top'><td class='text-left'>Batas Wilayah</td><td class='text-left'>"+dgon_bw+"</td></tbody></table></div>";
+        // tampil coordinate polygon 
+        /*for (let i = 0; i < vertices.getLength(); i++) {
+            const xy = vertices.getAt(i);
+            contentString +=
+            "<div style='font-size:10px'><br>" + "Coordinate " + i + ":<br>" + xy.lat() + "," + xy.lng()+"</div>";
+        }*/
+        // Replace the info window's content and position.
+        infoWindow.setContent(contentString);
+        infoWindow.setPosition(event.latLng);
+        infoWindow.open(map);
+    }
+    function removeGone() {
+        for (i=0; i<gone.length; i++) 
+        {                           
+            gone[i].setMap(null);
+        }
+    }
+
+
+
+
+</script>
 
 
 
@@ -419,9 +790,147 @@ function update_tracking_kri(){
             if(data["table"]==true){
                 toastr['success']("Successfully update");
             }else{
-                notif("<b>Proscess Failed!!</b>");
+                toastr['danger']("Successfully update");
             }
         }		
     });
 }
 </script>
+
+<script>
+function konlog(){ 
+	$("#title_mdl_konlog").html("DATA KONLOG");
+	$("#mdl_formSubmit_konlog").modal({backdrop: 'static', keyboard: false});
+	$("#konlog_page").html('<center>Please wait..</center>');
+	$.post(base_url+"maps_kri/page_konlog",function(data){
+		$("#konlog_page").html(data);
+		//$("#formSubmit_page")[0].reset();
+		//$("#inputpreview_img").attr("src", '<.?php echo base_url()?>theme/images/user/img_not.png');
+	});	
+}
+function close_modal(){
+	$('.nav-item').removeClass('active');
+}
+
+function history_konlog()
+{ 
+	$("#konlog_page").html('<center>Please wait..</center>');
+	$.post("<?php echo site_url("maps_kri/history_konlog"); ?>",function(data){
+		$("#konlog_page").html(data);
+	});	
+}
+function back_konlog(){
+	$("#konlog_page").html('<center>Please wait..</center>');
+	$.post("<?php echo site_url("maps_kri/page_konlog"); ?>",function(data){
+		$("#konlog_page").html(data);
+	});	
+}	
+
+</script>
+<!-- modal -->
+<div class="modal fade" id="mdl_formSubmit_konlog">
+<div class="modal-dialog modal-lg" id="area_formSubmit_konlog"> 
+  <div class="modal-content">
+	<div class="modal-header">
+	  <h4 class="modal-title" id="title_mdl_konlog">Default Modal</h4>
+	  <button type="button" onclick="close_modal()" class="close" data-dismiss="modal" aria-label="Close">
+		<span aria-hidden="true">&times;</span>
+	  </button>
+	</div>
+	<form class="form-horizontal" id="formSubmit_konlog" action="javascript:submitForm('formSubmit_konlog')" method="post">
+	<div class="modal-body">
+        <div class="row align-items-center mb-3">
+            <div class="col">
+            </div>
+            <div class="col-auto">
+                <a href="javascript:history_konlog()" class="btn btn-light btn-border btn-sm">
+                    <i class="fas fa-clock"></i> History
+                </a>
+            </div>
+        </div>
+        <div class="row">
+            <div class="col-md-12">
+                <div id="konlog_page"></div>
+            </div>
+        </div>
+	</div>
+	<div class="modal-footer justify-content-between">
+	  <button type="button" onclick="close_modal()" class="btn btn-default" data-dismiss="modal">Close</button>
+	  <!--button  title="Save" id="submit" onclick="submitForm('formSubmit_page')" class="btn btn-primary"><i id="msg_formSubmit_page"></i>&nbsp;&nbsp;<i class='fa fa-save'></i> Save changes</button-->
+	</div>
+	</form>
+  </div>
+  <!-- /.modal-content -->
+</div>
+<!-- /.modal-dialog -->
+</div>
+<!-- /.modal -->
+
+
+<script>
+function konis(){ 
+	$("#title_mdl_konis").html("DATA KONIS");
+	$("#mdl_formSubmit_konis").modal({backdrop: 'static', keyboard: false});
+	$("#konis_page").html('<center>Please wait..</center>');
+	$.post(base_url+"maps_kri/page_konis",function(data){
+		$("#konis_page").html(data);
+		//$("#formSubmit_page")[0].reset();
+		//$("#inputpreview_img").attr("src", '<.?php echo base_url()?>theme/images/user/img_not.png');
+	});	
+}
+function close_modal(){
+	$('.nav-item').removeClass('active');
+}
+
+function history_konis()
+{ 
+	$("#konis_page").html('<center>Please wait..</center>');
+	$.post("<?php echo site_url("maps_kri/history_konis"); ?>",function(data){
+		$("#konis_page").html(data);
+	});	
+}
+function back_konis(){
+	$("#konis_page").html('<center>Please wait..</center>');
+	$.post("<?php echo site_url("maps_kri/page_konis"); ?>",function(data){
+		$("#konis_page").html(data);
+	});	
+}	
+</script>
+<!-- modal -->
+<div class="modal fade" id="mdl_formSubmit_konis">
+<div class="modal-dialog modal-lg" id="area_formSubmit_konis"> 
+  <div class="modal-content">
+	<div class="modal-header">
+	  <h4 class="modal-title" id="title_mdl_konis">Default Modal</h4>
+	  <button type="button" onclick="close_modal()" class="close" data-dismiss="modal" aria-label="Close">
+		<span aria-hidden="true">&times;</span>
+	  </button>
+	</div>
+	<form class="form-horizontal" id="formSubmit_konis" action="javascript:submitForm('formSubmit_konis')" method="post">
+	<div class="modal-body">
+        <div class="row align-items-center mb-3">
+            <div class="col">
+            </div>
+            <div class="col-auto">
+                <a href="javascript:history_konis()" class="btn btn-light btn-border btn-sm">
+                    <i class="fas fa-clock"></i> History
+                </a>
+            </div>
+        </div>
+        <div class="row">
+            <div class="col-md-12">
+                <div id="konis_page"></div>
+            </div>
+        </div>
+	</div>
+	<div class="modal-footer justify-content-between">
+	  <button type="button" onclick="close_modal()" class="btn btn-default" data-dismiss="modal">Close</button>
+	  <!--button  title="Save" id="submit" onclick="submitForm('formSubmit_page')" class="btn btn-primary"><i id="msg_formSubmit_page"></i>&nbsp;&nbsp;<i class='fa fa-save'></i> Save changes</button-->
+	</div>
+	</form>
+  </div>
+  <!-- /.modal-content -->
+</div>
+<!-- /.modal-dialog -->
+</div>
+<!-- /.modal -->

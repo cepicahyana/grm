@@ -50,10 +50,10 @@
     z-index: 1;
     bottom:20px;
     left:40%;
-    background:#fff;
+    background-color:rgb(255, 255, 255, 0.6);
     opacity: 0.8;
     color:#000;
-    font-size: 11px;
+    font-size: 10px;
     padding:4px;
     border-radius: 3px;
 }
@@ -805,7 +805,7 @@ $(document).ready(function(){
                         map: map
                     });
                     const infowindow = new google.maps.InfoWindow({
-                        content: "<div style='height:auto;'><h3>"+placeName+"</h3><div class='tborder'><table style='font-size:10px'><tbody><tr style='font-size:11px'><td class='text-left'>Lat</td><td class='text-left'>"+aa+"</td></tr><tr style='font-size:11px'><td class='text-left'>Long</td><td class='text-left'>"+bb+"</td></tr><tr style='font-size:11px'><td class='text-left'>Date</td><td class='text-left'>"+tgin+"</td></tr><tr style='font-size:11px'><td class='text-left'>Time</td><td class='text-left'>"+tm_in+"</td></tr></tbody></table></div></div>",
+                        content: "<div style='height:auto;'><h3>"+placeName+"</h3><div class='tborder_2'><table style='font-size:10px'><tbody><tr style='font-size:11px'><td class='text-left'>Lat</td><td class='text-left'>"+aa+"</td></tr><tr style='font-size:11px'><td class='text-left'>Long</td><td class='text-left'>"+bb+"</td></tr><tr style='font-size:11px'><td class='text-left'>Date</td><td class='text-left'>"+tgin+"</td></tr><tr style='font-size:11px'><td class='text-left'>Time</td><td class='text-left'>"+tm_in+"</td></tr></tbody></table></div></div>",
                         maxWidth: 400
                     });
                     marker.addListener('click', function () {
@@ -880,7 +880,7 @@ $(document).ready(function(){
         // MVCArray of LatLngs.
         const polygon = this;
         const vertices = polygon.getPath();
-        let contentString = "<div class='tborder'><table style='font-size:10px'><tbody><tr style='font-size:11px' valign='top'><td class='text-left' style='width:100px'>Wilayah Kerja</td><td class='text-left'><b>"+dgon_nd+"</b></td></tr><tr style='font-size:11px' valign='top'><td class='text-left'>Luas Wilayah</td><td class='text-left'>"+dgon_lw+"</td></tr><tr style='font-size:11px' valign='top'><td class='text-left'>Batas Wilayah</td><td class='text-left'>"+dgon_bw+"</td></tbody></table></div>";
+        let contentString = "<div class='tborder_2'><table style='font-size:10px'><tbody><tr style='font-size:11px' valign='top'><td class='text-left' style='width:100px'>Wilayah Kerja</td><td class='text-left'><b>"+dgon_nd+"</b></td></tr><tr style='font-size:11px' valign='top'><td class='text-left'>Luas Wilayah</td><td class='text-left'>"+dgon_lw+"</td></tr><tr style='font-size:11px' valign='top'><td class='text-left'>Batas Wilayah</td><td class='text-left'>"+dgon_bw+"</td></tbody></table></div>";
         // tampil coordinate polygon 
         /*for (let i = 0; i < vertices.getLength(); i++) {
             const xy = vertices.getAt(i);

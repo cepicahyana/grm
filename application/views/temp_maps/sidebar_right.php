@@ -19,7 +19,14 @@ if ($levelsession == '1' || $levelsession == '2') {
 <div class="sidebar-maps-right sidebar-right displaynone">
 	<div class="sidebar-wrapper scrollbar scrollbar-inner">
 		<div class="sidebar-content p-3">
-			<h4>HISTORY KRI</h4>
+			<div class="row">
+				<div class="col-12">
+				<h4 class="float-left">HISTORY KRI</h4>
+				<a href="#" onclick="sidebar_right()" class="float-right close-quick-sidebar text-grey">
+					<i class="flaticon-cross"></i>
+				</a>
+				</div>
+			</div>
 			<form id="formSubmit_History" action="javascript:history_range_kri('formSubmit_History')" method="post">
 			<div class="form-group">
 				<label>Tanggal awal</label>
