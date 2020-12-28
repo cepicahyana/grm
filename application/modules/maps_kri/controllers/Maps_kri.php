@@ -77,38 +77,42 @@ class Maps_kri extends MX_Controller
 			} 
 			$infomarker='';
 			if($dbicon->nama=='kri'){
-				$infomarker.="<div style='min-height:280px;'><h3 class='text-white'>".strval($namadata)."</h3>
+				$idsession=$this->session->userdata('id');
+				if($id==$idsession){
+				$infomarker.="<div style='min-height:200px;'><h3 class='text-white'>".strval($namadata)."</h3>
 				<table style='width:100%;'>
 				<tr>
-					<td colspan='2' class='text-left text-white'>
+					<td class='text-left text-white'>
+						<p style='font-size:11px;font-weight:bold'>Latlong ".$level.", ".$lng."</p>
+					</td>
+				</tr>
+				<tr valign='top'>
+					<td style='width:100%'><img style='width:95%;margin:0 auto;' class='card-img-top rounded' src='".$img_1."'></td>
+				</tr>
+				</table>
+				</div>";
+				}else{
+					$infomarker.="<div style='min-height:200px;'><h3 class='text-white'>".strval($namadata)."</h3>
+				<table style='width:100%;'>
+				<tr>
+					<td colspan='3' class='text-left text-white'>
 						<p style='font-size:11px;font-weight:bold'>Latlong ".$lat.", ".$lng."</p>
 					</td>
 				</tr>
 				<tr valign='top'>
 					<td style='width:45%'><img style='width:95%;margin:0 auto;' class='card-img-top rounded' src='".$img_1."'></td>
-					<td style='width:55%'>
-						<button class='btn btn-primary btn-block btn-sm' onclick='konis()'>KONIS</button>
-						<button class='btn btn-primary btn-block btn-sm' onclick='konlog()'>KONLOG</button>
-						<button class='btn btn-primary btn-block btn-sm'>KONPERS</button></td>
-				</tr>
-				</table>
-
-				<table style='width:100%;margin-top:5px;'>
-				<tr valign='top'>
-					<td><button class='btn btn-black btn-block btn-sm'>RADAR</button>
-						<button class='btn btn-black btn-block btn-sm'>AIS</button>
-						<button class='btn btn-black btn-block btn-sm'>CAMERA</button></td>
-					<td style='padding-left:6px;padding-right:6px;'>
-						<button class='btn btn-secondary btn-block btn-sm' onclick='history_track_kri(".$id.")'>HISTORY</button>
-						<button class='btn btn-secondary btn-block btn-sm'>COVERAGE</button></td>
-					<td><button class='btn btn-success btn-block btn-sm'>CHAT</button>
+					<td style='width:25%;padding-right:6px;'>
+						<button class='btn btn-success btn-block btn-sm'>CHAT</button>
 						<button class='btn btn-success btn-block btn-sm'>VICALL</button>
+					</td>
+					<td style='width:25%'>
 						<button class='btn btn-success btn-block btn-sm'>VOIP</button>
-						<button class='btn btn-success btn-block btn-sm'>ROIP</button></td>
+						<button class='btn btn-success btn-block btn-sm'>ROIP</button>
+					</td>
 				</tr>
 				</table>
-					
 				</div>";
+				}
 			}else if($dbicon->nama=='lantamal'){
 				$wilayah_kerja=isset($dataDB->wilayah_kerja)?($dataDB->wilayah_kerja):'';
 				$luas_wilayah=isset($dataDB->luas_wilayah)?($dataDB->luas_wilayah):'';
