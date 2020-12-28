@@ -25,6 +25,8 @@
 .btnmaps{
     background-color: rgb(255, 255, 255); border: 2px solid rgb(255, 255, 255); border-radius: 3px; box-shadow: rgba(0, 0, 0, 0.2) 0px 1px 3px;
 }
+
+
 </style>
 <div id="m_tom_full">
     <button type="button" class="btn btn-icon btnmaps of" onclick="openFullscreen();" title="Fullscreen">

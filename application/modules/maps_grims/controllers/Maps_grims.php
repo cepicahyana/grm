@@ -121,7 +121,7 @@ class Maps_grims extends MX_Controller
 				<table style='width:100%;'>
 				<tr>
 					<td colspan='2' class='text-left'>
-						<p style='font-size:12px'>Latlong ".$lat.", ".$lng."</p>
+						<p style='font-size:11px;font-weight:bold'>Latlong ".$lat.", ".$lng."</p>
 					</td>
 				</tr>
 				<tr valign='top'>
@@ -149,7 +149,7 @@ class Maps_grims extends MX_Controller
 				<table style='width:100%;'>
 				<tr>
 					<td colspan='2' class='text-left'>
-						<p style='font-size:12px'>Latlong ".$lat.", ".$lng."</p>
+						<p style='font-size:11px;font-weight:bold'>Latlong ".$lat.", ".$lng."</p>
 					</td>
 				</tr>
 				<tr valign='top'>
