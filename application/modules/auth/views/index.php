@@ -13,6 +13,10 @@ filter: progid:DXImageTransform.Microsoft.gradient(startColorstr='#6893b3',endCo
 			<img class="text-white pb-4" src="<?php echo $img_3;?>" alt="Logo" style="max-width:200px">
 			<h1 class="title fw-bold text-white mb-3">JALA WIBAWA GUNDALA</h1>
 			<p class="subtitle text-white op-7">GUGUS TEMPUR LAUT</p>
+			<script>
+				var lding = "<img src='<?php echo base_url();?>theme/images/loader/loadingblue.gif'>";
+				var base_url = "<?php echo base_url();?>";
+			</script>
 		</div>
 		<div class="login-aside w-50 d-flex align-items-center justify-content-center bg-white">
 			<div class="container container-login container-transparent animated fadeIn">
@@ -67,62 +71,7 @@ filter: progid:DXImageTransform.Microsoft.gradient(startColorstr='#6893b3',endCo
 			</a>
 		  </span>
 		</div-->
-				
-        
 
-
-
-
-
-<script>
-/*function show_hide_password() {
-	if($('#show_hide_password input').attr("type") == "text"){
-		$('#show_hide_password input').attr('type', 'password');
-		$('#show_hide_password i').addClass( "fa-eye-slash" );
-		$('#show_hide_password i').removeClass( "fa-eye" );
-	}else if($('#show_hide_password input').attr("type") == "password"){
-		$('#show_hide_password input').attr('type', 'text');
-		$('#show_hide_password i').removeClass( "fa-eye-slash" );
-		$('#show_hide_password i').addClass( "fa-eye" );
-	}
-}*/
-
-function login()
-{
-	$('#msg').html("<img src='<?php echo base_url();?>theme/images/loader/loadingblue.gif'> Please wait...");
-	$.ajax({
-	url:"<?php echo base_url();?>auth/cekLogin",
-	type: "POST",
-	data: $('#formlogin').serialize(),
-	dataType: "JSON",
-	success: function(data)
-		{
-			$('#msg').html("");
-		   //if success close modal and reload ajax table
-		   if(data["upass"]==false){
-			  $('#msg_res').html("<div class='alert alert-danger alert-dismissible fade show' role='alert'><i class='fas fa-cancel-circle'></i>&nbsp;Username/Password Salah!<button type='button' class='close' data-dismiss='alert' aria-label='Close'><span aria-hidden='true'>&times;</span></button></div>"); 
-			  return false;
-		   }
-
-		   
-
-		   if(data["validasi"]==true){
-			$('#msg_res').html("<div class='alert alert-success alert-dismissible fade show' role='alert'><i class='fas fa-cancel-circle'></i>&nbsp;Login Berhasil, Mohon Tunggu...<button type='button' class='close' data-dismiss='alert' aria-label='Close'><span aria-hidden='true'>&times;</span></button></div>");	
-				window.location.href="<?php echo base_url();?>"+data["direct"]; 
-		   }else{
-				window.location.href="<?php echo base_url();?>auth/logout"; 
-		   }
-		},
-		error: function (jqXHR, textStatus, errorThrown)
-		{
-			alert('Try Again!');
-			$('#msg').html("");
-			return false;
-		}
-	});
- 
-}
-</script>
 
 
  	
