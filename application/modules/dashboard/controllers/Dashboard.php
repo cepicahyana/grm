@@ -44,8 +44,10 @@ class Dashboard extends MX_Controller
 			$lat=isset($dataDB->lat)?($dataDB->lat):'';
 			$lng=isset($dataDB->lng)?($dataDB->lng):'';
 			$datenow=date('Y-m-d');
-			$dbkonlog=$this->db->get_where('data_konlog',array('id_kri'=>$id,'tanggal'=>`.$datenow.`))->row();
+			$dbkonlog=$this->db->get_where('data_konlog',array('id_kri'=>$id,'tanggal'=>$datenow))->row();
 			$kondisilog=isset($dbkonlog->kondisi)?($dbkonlog->kondisi):'';
+			$dbkonis=$this->db->get_where('data_konis',array('id_kri'=>$id,'tanggal'=>$datenow))->row();
+			$kondisinis=isset($dbkonis->kondisi)?($dbkonis->kondisi):'';
 			/*$tgl_lahir=isset($dataDB->tanggal_lahir)?($dataDB->tanggal_lahir):'';
 			if($tgl_lahir!=''){$tanggal_lahir=$this->tanggal->ind($tgl_lahir,0);}else{$tanggal_lahir="";}*/
 			/*$kelasDB=$this->db->where("kode",$kd_kelas);
@@ -58,7 +60,6 @@ class Dashboard extends MX_Controller
 				$img_1=''.base_url().'theme/images/no-image.png';
 			}
 			
-			
 			$tombol='
 					<button type="button" onclick="edit(`'.$id.'`)" class="btn bg-info btn-sm">EDIT</button>
 					<button type="button" onclick="del(`'.$id.'`,`'.$namadata.'`)" class="btn bg-danger btn-sm">DELETE</button>
@@ -67,7 +68,7 @@ class Dashboard extends MX_Controller
 			$row[] = "<span class='size' >".$no++."</span>";
 			$row[] = "<span class='size' >".$namadata."</span>";	
 			$row[] = "<span class='size' >".$kondisilog."</span>";
-			$row[] = "<span class='size' ></span>";
+			$row[] = "<span class='size' >".$kondisinis."</span>";
 			$row[] = "<span class='size' ></span>";
 			
 			 
