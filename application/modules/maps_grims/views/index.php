@@ -104,7 +104,7 @@ $img_1='';
     </button>
 </div>
 <div id="m_tom_notif">
-    <button type="button" class="btn btn-icon btnmaps_notif" data-toggle="dropdown" aria-expanded="false" title="Notification">
+    <button type="button" onclick="open_notif()" class="btn btn-icon btnmaps_notif" data-toggle="dropdown" aria-expanded="false" title="Notification">
         <i class="icon-bell"></i> <span class="badge bg-danger notifa">16</span>
     </button>	
     <div class="dropdown-menu quick-actions quick-actions-info animated fadeIn" style="width:340px;margin-left:-225px;">
@@ -906,7 +906,6 @@ $(document).ready(function(){
 
 
 
-
 <script>
 $(document).ready(function(e) {
 	var hheight = $(window).height();
@@ -968,6 +967,7 @@ function back_konlog(){
 		$("#konlog_page").html(data);
 	});	
 }	
+
 </script>
 <!-- modal -->
 <div class="modal fade" id="mdl_formSubmit_konlog">

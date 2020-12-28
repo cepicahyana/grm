@@ -74,7 +74,7 @@ $headername=$this->m_konfig->konfigurasi(14);
 							</a>
 						</li-->
 						<li class="nav-item dropdown hidden-caret">
-							<a class="nav-link" data-toggle="dropdown" href="#" aria-expanded="false">
+							<a class="nav-link"  data-toggle="dropdown" href="#" aria-expanded="false">
 								<i class="fa fa-bell"></i>
 								<span class="notification bg-danger">16</span>
 							</a>

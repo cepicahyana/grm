@@ -99,14 +99,22 @@ function timepick(){
 
 */
 
+function open_notif(){
+    $('.custom-template').removeClass('open');
+    $('.sidebar-right').addClass('displaynone');
+}
+
 function sidebar_right() {
 	var cek = $('.sidebar-right').hasClass('displaynone');
 	if(cek==true){
 		$('.sidebar-right').removeClass("displaynone");
+		$('.custom-template').removeClass('open');
+		$(".btnmaps_notif").find("[aria-expanded='false']");
 	}else{
 		$('.sidebar-right').addClass("displaynone");
 	}   	
 }
+
 
 function activemenu(){
 	//activemenu
