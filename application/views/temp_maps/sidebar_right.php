@@ -55,9 +55,9 @@ if ($levelsession == '1' || $levelsession == '2') {
 				<select id="basic" name="fkri" class="form-control" style="width:100%" required>
 					<option value="">=== Choose ===</option>
 					<?php 
-					$db=$this->db->get_where("admin",array('level'=>3))->result();
+					$db=$this->db->get_where("data_kri",array('level'=>3))->result();
 					foreach($db as $val){
-						echo "<option value='".$val->id_admin."'>".$val->profilename."</option>";
+						echo "<option value='".$val->id."'>".$val->profilename."</option>";
 					}
 					?>
 				</select>

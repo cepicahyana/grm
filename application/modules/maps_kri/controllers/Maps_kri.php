@@ -85,7 +85,7 @@ class Maps_kri extends MX_Controller
 					}else{
 						$icon_1=''.base_url().'theme/images/marker/default.png';
 					}
-				$infomarker.="<div style='min-height:200px;'><h3 class='text-white'>".strval($namadata)."</h3>
+				$infomarker.="<div style='min-height:230px;padding:18px;'><h3 class='text-white'>".strval($namadata)."</h3>
 				<table style='width:100%;'>
 				<tr>
 					<td class='text-left text-white'>
@@ -98,7 +98,7 @@ class Maps_kri extends MX_Controller
 				</table>
 				</div>";
 				}else{
-					$infomarker.="<div style='min-height:200px;'><h3 class='text-white'>".strval($namadata)."</h3>
+					$infomarker.="<div style='min-height:230px;padding:18px;'><h3 class='text-white'>".strval($namadata)."</h3>
 				<table style='width:100%;'>
 				<tr>
 					<td colspan='3' class='text-left text-white'>
@@ -127,7 +127,7 @@ class Maps_kri extends MX_Controller
 				$dgon_nd=json_encode($namadata);
 				$dgon_lw=json_encode($luas_wilayah);
 				$dgon_bw=json_encode($batas_wilayah);
-				$infomarker.="<div style='min-height:240px;'><h3 class='text-white'>".strval($namadata)."</h3>
+				$infomarker.="<div style='min-height:260px;padding:18px;'><h3 class='text-white'>".strval($namadata)."</h3>
 				<table style='width:100%;'>
 				<tr>
 					<td colspan='2' class='text-left text-white'>
@@ -155,7 +155,7 @@ class Maps_kri extends MX_Controller
 
 				</div>";
 			}else{
-				$infomarker.="<div style='min-height:240px;'><h3 class='text-white'>".strval($namadata)."</h3>
+				$infomarker.="<div style='min-height:260px;padding:18px;'><h3 class='text-white'>".strval($namadata)."</h3>
 				<table style='width:100%;'>
 				<tr>
 					<td colspan='2' class='text-left text-white'>

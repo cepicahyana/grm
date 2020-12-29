@@ -52,6 +52,7 @@ var base_url = '<?php echo base_url(); ?>';
 var site_url = '<?php echo site_url(); ?>';
 var load_tbl = '<i class="fa fa-spinner fa-pulse fa-2x fa-fw text-success"></i><span class="sr-only"> Loading...</span> <br><b style="color:white;background:#33AFFF">Data sedang di tampilkan..</b>';
 var load_content = '<div id="loading_content_area"><div class="loading_content"><h1>LOADING</h1><span></span><span></span><span></span></div></div>';
+
 </script>
 
 
