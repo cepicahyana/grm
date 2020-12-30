@@ -37,6 +37,7 @@
 <link rel="stylesheet" type="text/css" href="<?php echo base_url()?>theme/plugin/bootstrap-daterangepicker/daterangepicker-bs3.css"/>
 <link rel="stylesheet" type="text/css" href="<?php echo base_url()?>theme/plugin/bootstrap-datepicker/css/bootstrap-datepicker3.min.css"/>
 <link rel="stylesheet" type="text/css" href="<?php echo base_url()?>theme/plugin/bootstrap-timepicker/css/bootstrap-timepicker.min.css"/>
+<script src="../../assets/js/plugin/datepicker/bootstrap-datetimepicker.min.js"></script>
 <!-- datatables -->
 <link rel="stylesheet" type="text/css" href="<?php echo base_url()?>theme/plugin/datatables/css.css"/>
 <!-- lightbox -->
@@ -76,8 +77,10 @@ var load_content = '<div id="loading_content_area"><div class="loading_content">
 <script type="text/javascript" src="<?php echo base_url()?>theme/plugin/select2/select2.full.min.js"></script>
 <!-- InputMask -->
 <script type="text/javascript" src="<?php echo base_url()?>theme/plugin/inputmask/min/jquery.inputmask.bundle.min.js"></script>
-<!-- lightbox -->
-<script type="text/javascript" src="<?php echo base_url()?>theme/plugin/lightbox-master/dist/ekko-lightbox.js"></script>
+<!---Texteditor-->
+<script type="text/javascript" src="<?php echo base_url()?>/theme/plugin/ckeditor/ckeditor.js"></script>
+<script type="text/javascript" src="<?php echo base_url()?>/theme/plugin/ckeditor/adapters/jquery.js"></script>
+<script type="text/javascript" src="<?php echo base_url()?>/theme/plugin/ckfinder/ckfinder.js"></script>
 </head>
 <body>
 	<div class="wrapper"> 

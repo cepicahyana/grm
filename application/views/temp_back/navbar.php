@@ -222,6 +222,11 @@ $headername=$this->m_konfig->konfigurasi(14);
 								</div>
 							</div>
 						</li-->
+						<li class="nav-item">
+							<a href="<?php echo site_url('pengumuman')?>" class="nav-link menuclick">
+								<i class="fa fas fa-bullhorn"></i>
+							</a>
+						</li>
 						<li class="nav-item dropdown hidden-caret">
 							<?php $img2=$profileimg;
 							if($img2!=''){

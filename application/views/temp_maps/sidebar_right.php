@@ -71,9 +71,7 @@ if ($levelsession == '1' || $levelsession == '2') {
 	</div>
 </div>
 <!-- End Sidebar -->
-<script>
 
-</script>
 <script>
 	var date = new Date();
 	$('#date_1').daterangepicker({

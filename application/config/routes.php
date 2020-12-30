@@ -59,6 +59,7 @@ $route['login/logout'] = 'auth/logout';
 $route['index'] = 'dashboard';
 $route['profile'] = 'uprofile';
 $route['profile/new_password'] = 'uprofile/new_password';
+$route['pengumuman'] = 'apengumuman';
 $route['maps'] = 'maps_grims';
 $route['mapskri'] = 'maps_kri';
 $route['page_kri'] = 'dkri';

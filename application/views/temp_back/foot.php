@@ -19,19 +19,17 @@
 	<!-- Bootstrap Toggle -->
 	<script src="<?php echo base_url(); ?>theme/atlantis/js/plugin/bootstrap-toggle/bootstrap-toggle.min.js"></script>
 
-
-
 	<!-- Bootstrap Tagsinput -->
 	<script src="<?php echo base_url(); ?>theme/atlantis/js/plugin/bootstrap-tagsinput/bootstrap-tagsinput.min.js"></script>
 
-	<!-- Bootstrap Wizard -->
-	<script src="<?php echo base_url(); ?>theme/atlantis/js/plugin/bootstrap-wizard/bootstrapwizard.js"></script>
+	<!-- Bootstrap Wizard 
+	<script src="<.?php echo base_url(); ?>theme/atlantis/js/plugin/bootstrap-wizard/bootstrapwizard.js"></script>-->
 
-	<!-- jQuery Validation -->
-	<script src="<?php echo base_url(); ?>theme/atlantis/js/plugin/jquery.validate/jquery.validate.min.js"></script>
+	<!-- jQuery Validation 
+	<script src="<.?php echo base_url(); ?>theme/atlantis/js/plugin/jquery.validate/jquery.validate.min.js"></script>-->
 
-	<!-- Summernote -->
-	<script src="<?php echo base_url(); ?>theme/atlantis/js/plugin/summernote/summernote-bs4.min.js"></script>
+	<!-- Summernote 
+	<script src="<.?php echo base_url(); ?>theme/atlantis/js/plugin/summernote/summernote-bs4.min.js"></script>-->
 
 	<!-- Sweet Alert -->
 	<script src="<?php echo base_url(); ?>theme/atlantis/js/plugin/sweetalert/sweetalert.min.js"></script>
@@ -39,8 +37,8 @@
 	<!-- Owl Carousel -->
 	<script src="<?php echo base_url(); ?>theme/atlantis/js/plugin/owl-carousel/owl.carousel.min.js"></script>
 
-	<!-- Magnific Popup -->
-	<script src="<?php echo base_url(); ?>theme/atlantis/js/plugin/jquery.magnific-popup/jquery.magnific-popup.min.js"></script>
+	<!-- Magnific Popup 
+	<script src="<.?php echo base_url(); ?>theme/atlantis/js/plugin/jquery.magnific-popup/jquery.magnific-popup.min.js"></script>-->
 
 	<!-- Atlantis JS -->
 	<script src="<?php echo base_url(); ?>theme/atlantis/js/atlantis.min.js"></script>
@@ -85,7 +83,9 @@
 </script> 
 		
 <script>
-jQuery(document).ready(function(){ });
+jQuery(document).ready(function(){ 
+	
+});
 
 
 var uri_1='<?php echo $this->uri->segment(1) ?>';
