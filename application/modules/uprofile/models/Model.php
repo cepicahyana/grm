@@ -57,7 +57,7 @@ class Model extends ci_Model
 
 		///
 		if($code_level==1 || $code_level==2){
-			$img1=$this->m_reff->upload_file("profileimg","theme/images/user/","fileadmin","JPG,JPEG,PNG","1000000",$profileimg_b);
+			$img1=$this->m_reff->upload_file("profileimg","theme/images/user","fileadmin","JPG,JPEG,PNG","1000000",$profileimg_b);
 			if($img1['validasi']==true){
 				$this->db->set("profileimg",$img1['name']);
 			}
@@ -66,7 +66,7 @@ class Model extends ci_Model
 			$this->db->update($this->admin);
 			
 		}elseif($code_level==3){
-			$img2=$this->m_reff->upload_file("profileimg","theme/images/user/","filemember","JPG,JPEG,PNG","1000000",$profileimg_b);
+			$img2=$this->m_reff->upload_file("profileimg","theme/images/user","filemember","JPG,JPEG,PNG","1000000",$profileimg_b);
 			if($img2['validasi']==true){
 				$this->db->set("profileimg",$img2['name']);
 			}
