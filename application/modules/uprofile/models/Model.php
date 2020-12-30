@@ -57,23 +57,22 @@ class Model extends ci_Model
 
 		///
 		if($code_level==1 || $code_level==2){
-			$img=$this->m_reff->upload_file("profileimg","theme/images/user/","fileadmin","JPG,JPEG,PNG","500000",$profileimg_b);
-			if($img['validasi']==true){
-				$this->db->set("profileimg",$img['name']);
+			$img1=$this->m_reff->upload_file("profileimg","theme/images/user/","fileadmin","JPG,JPEG,PNG","1000000",$profileimg_b);
+			if($img1['validasi']==true){
+				$this->db->set("profileimg",$img1['name']);
 			}
 			$this->db->set($datainputan); 
-			//if($password!=''){$this->db->set("password",$password);}
 			$this->db->where("id_admin",$idu);
 			$this->db->update($this->admin);
+			
 		}elseif($code_level==3){
-			$img=$this->m_reff->upload_file("profileimg","theme/images/user/","filemember","JPG,JPEG,PNG","500000",$profileimg_b);
-			if($img['validasi']==true){
-				$this->db->set("profileimg",$img['name']);
+			$img2=$this->m_reff->upload_file("profileimg","theme/images/user/","filemember","JPG,JPEG,PNG","1000000",$profileimg_b);
+			if($img2['validasi']==true){
+				$this->db->set("profileimg",$img2['name']);
 			}
 			$this->db->set($datainputan); 
-			//if($password!=''){$this->db->set("password",$password);}
 			$this->db->where("id",$idu);
-			$this->db->update($this->data_kri);
+			$this->db->update($this->data_kiri);
 		}
 		return $var;
 	}

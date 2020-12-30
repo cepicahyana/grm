@@ -21,6 +21,7 @@ function submitFormRefresh(id)
 					}else{
 						//$("#"+id)[0].reset();
 						window.location.reload();
+						reload_content();
 						toastr['success']("Successfully Saved");
 					} 		 
 				}		

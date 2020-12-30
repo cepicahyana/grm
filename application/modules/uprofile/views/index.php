@@ -17,10 +17,12 @@ if($profileimg!=''){
 ?>
 				<div class="page-inner">
 					<h4 class="page-title">User Profile</h4>
-					<div id="area_lod" class="row">
+					<div id="area_lod" >
+					<form class="form-horizontal" id="formSubmit_edit" action="javascript:submitFormRefresh('formSubmit_edit')" method="post" enctype="multipart/form-data">
+					<div class="row">
 						<div class="col-md-8">
 							<div class="card card-with-nav">
-							<form class="form-horizontal" id="formSubmit_edit" action="javascript:submitFormRefresh('formSubmit_edit')" method="post" enctype="multipart/form-data">
+							
 							<input name="username_b" type="hidden" value="<?php echo $username ?>">
 							<input name="profileimg_b" type="hidden" value="<?php echo $profileimg ?>">
 								<div class="card-header">
@@ -74,7 +76,7 @@ if($profileimg!=''){
 										<!--button class="btn btn-danger">Reset</button-->
 									</div>
 								</div>
-							</form>
+							
 							</div>
 						</div>
 						<div class="col-md-4">
@@ -91,7 +93,7 @@ if($profileimg!=''){
 										<div class="name"><?php echo $profilename;?></div>
 										<div class="job">Group User : <?php echo $level;?></div>
 										<div class="mt-3">
-										<input type="file" class="form-control form-control-file btn btn-primary btn-round btn-lg" onchange="editpreviewFile(this)" id="editprofileimg" name="editprofileimg" accept="image/*" required="">
+										<input type="file" class="form-control form-control-file btn btn-primary btn-round btn-lg" onchange="editpreviewFile(this)" id="editprofileimg" name="profileimg" >
 										</div>
 									</div>
 								</div>
@@ -113,6 +115,9 @@ if($profileimg!=''){
 								</div-->
 							</div>
 						</div>
+						
+					</div>
+					</form>
 					</div>
 				</div>
 
