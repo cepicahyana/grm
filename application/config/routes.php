@@ -74,5 +74,5 @@ $route['page_settingmaps'] = 'asettingmaps';
 $route['page_konlog'] = 'dkonlog';
 $route['page_konis'] = 'dkonis';
 $route['page_konpers'] = 'dkonpers';
-
+//$route['page_pengumuman'] = 'apengumuman';
 $route['master_iconmarker'] = 'mimarker';

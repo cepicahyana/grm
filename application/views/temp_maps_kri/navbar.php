@@ -76,7 +76,11 @@ $headername=$this->m_konfig->konfigurasi(14);
 						</li>
 
 						
-						
+						<li class="nav-item">
+							<a href="#" class="nav-link menuclick" url="<?php echo site_url('pengumuman')?>" title="PENGUMUMAN">
+								<i class="fa fa-bullhorn"></i><span class="notification">1</span>
+							</a>
+						</li>
 						<li class="nav-item dropdown hidden-caret">
 							<a class="nav-link quick" data-toggle="dropdown" href="#" onclick="open_quick()" aria-expanded="false">
 								<i class="fas fa-grip-horizontal"></i>

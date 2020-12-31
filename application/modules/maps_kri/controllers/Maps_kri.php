@@ -447,4 +447,11 @@ class Maps_kri extends MX_Controller
 		echo json_encode($output);
 	}
 
+
+	function page_pengumuman()
+	{
+		echo $this->load->view("page_pengumuman");
+	}
+	
+
 }

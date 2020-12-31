@@ -31,7 +31,6 @@
 										</div>
 										</div>
 									</div>
-									
 								</div>
 								<div class="card-body">
 									<div id="area_lod">
@@ -41,10 +40,10 @@
 												<th class='thead' >&nbsp;</th>
 												<th class='thead' style="width:2px">ID</th>			
 												<th class='thead' style="width:2px">&nbsp;NO</th>
-												<th class='thead' style="min-width:70px">JUDUL</th>
-												<th class='thead' style="min-width:200px">SUBJEK </th>
-												<th class='thead' style="min-width:60px">TANGGAL & WAKTU </th>
-												<th class='thead' style="min-width:100px">AKSI</th>
+												<th class='thead' style="min-width:100px">JUDUL</th>
+												<th class='thead' style="min-width:50px">STATUS</th>
+												<th class='thead' style="min-width:50px">VIEWER</th>
+												<th class='thead' style="min-width:80px">AKSI</th>
 											</thead>
 										</table>
 										</div>
@@ -104,8 +103,8 @@
 			},
 		 "order": [[ 1, "desc" ]],
 		 "lengthMenu":
-		 [[10 , 30,50,100,200,300], 
-		 [10 , 30,50,100,200,300]], 
+		 [[10 , 30,50,100,200], 
+		 [10 , 30,50,100,200]], 
 		dom: 'Blfrtip',
 		buttons: [
 			{
@@ -204,11 +203,20 @@ function edit(id)
 }
 function priview(id)
 {	
-	$("#title_mdl_view").html("PRIVIEW DATA PENGUMUMAN");    
+	$("#title_mdl_view").html("VIEW DATA PENGUMUMAN");    
     $("#mdl_formSubmit_view").modal({backdrop: 'static', keyboard: false});	
 	$("#view_page").html('<center>Please wait..</center>');
 	$.post("<?php echo site_url("apengumuman/view_data"); ?>",{id:id},function(data){
 		$("#view_page").html(data);
+	});
+}
+function viewer(id)
+{	
+	$("#title_mdl_viewer").html("VIEWER");    
+    $("#mdl_formSubmit_viewer").modal({backdrop: 'static', keyboard: false});	
+	$("#viewer_page").html('<center>Please wait..</center>');
+	$.post("<?php echo site_url("apengumuman/viewer_data"); ?>",{id:id},function(data){
+		$("#viewer_page").html(data);
 	});
 }
 function del(id,name){
@@ -260,7 +268,7 @@ function downloadXL()
 	var f1 = $('#f1').val();		
 	var s = $('.whatever').val();		
 	 window.open(
-	  "<?php echo base_url()?>data_member/downloadXL/?f1="+f1+"&s="+s,
+	  "<?php echo base_url()?>apengumuman/downloadXL/?f1="+f1+"&s="+s,
 	  '_blank' // <- This is what makes it open in a new window.
 	 );
 }
@@ -306,10 +314,10 @@ function downloadXL()
 	
 <script>
   $(function (){
-	 $('.select2').select2({
+	/*$('.select2').select2({
       theme: 'bootstrap'
     });
-	/*$('[data-mask]').inputmask();
+	$('[data-mask]').inputmask();
 	$(".tanggal_mulai").on("change keyup paste keypress", function(data){
 		var tgl_1 = $(this).val();
 		var tgl_2 = $(".tanggal_selesai").val();
@@ -375,7 +383,7 @@ function downloadXL()
 
 <!-- modal -->
 <div class="modal fade" id="mdl_formSubmit_view">
-<div class="modal-dialog" id="area_formSubmit_view">
+<div class="modal-dialog modal-lg" id="area_formSubmit_view">
   <div class="modal-content">
 	<div class="modal-header">
 	  <h4 class="modal-title" id="title_mdl_view">Default Modal</h4>
@@ -391,6 +399,30 @@ function downloadXL()
 	  <button type="button" class="btn btn-default" data-dismiss="modal">Close</button>
 	</div>
 	</form>
+  </div>
+  <!-- /.modal-content -->
+</div>
+<!-- /.modal-dialog -->
+</div>
+<!-- /.modal -->
+
+
+<!-- modal -->
+<div class="modal fade" id="mdl_formSubmit_viewer">
+<div class="modal-dialog modal-lg" id="area_formSubmit_viewer">
+  <div class="modal-content">
+	<div class="modal-header">
+	  <h4 class="modal-title" id="title_mdl_viewer">Default Modal</h4>
+	  <button type="button" class="close" data-dismiss="modal" aria-label="Close">
+		<span aria-hidden="true">&times;</span>
+	  </button>
+	</div>
+	<div class="modal-body">
+			<div id="viewer_page"></div>
+	</div>
+	<div class="modal-footer justify-content-between">
+	  <button type="button" class="btn btn-default" data-dismiss="modal">Close</button>
+	</div>
   </div>
   <!-- /.modal-content -->
 </div>

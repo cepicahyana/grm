@@ -224,7 +224,7 @@ $headername=$this->m_konfig->konfigurasi(14);
 						</li-->
 						<li class="nav-item">
 							<a href="<?php echo site_url('pengumuman')?>" class="nav-link menuclick">
-								<i class="fa fas fa-bullhorn"></i>
+								<i class="fas fa-bullhorn"></i>
 							</a>
 						</li>
 						<li class="nav-item dropdown hidden-caret">

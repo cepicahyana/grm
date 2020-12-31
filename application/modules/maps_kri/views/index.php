@@ -867,70 +867,8 @@ function back_konlog(){
 <!-- /.modal -->
 
 
-<script>
-function konis(){ 
-	$("#title_mdl_konis").html("DATA KONIS");
-	$("#mdl_formSubmit_konis").modal({backdrop: 'static', keyboard: false});
-	$("#konis_page").html('<center>Please wait..</center>');
-	$.post(base_url+"maps_kri/page_konis",function(data){
-		$("#konis_page").html(data);
-		//$("#formSubmit_page")[0].reset();
-		//$("#inputpreview_img").attr("src", '<.?php echo base_url()?>theme/images/user/img_not.png');
-	});	
-}
-function close_modal(){
-	$('.nav-item').removeClass('active');
-}
 
-function history_konis()
-{ 
-	$("#konis_page").html('<center>Please wait..</center>');
-	$.post("<?php echo site_url("maps_kri/history_konis"); ?>",function(data){
-		$("#konis_page").html(data);
-	});	
-}
-function back_konis(){
-	$("#konis_page").html('<center>Please wait..</center>');
-	$.post("<?php echo site_url("maps_kri/page_konis"); ?>",function(data){
-		$("#konis_page").html(data);
-	});	
-}	
-</script>
-<!-- modal -->
-<div class="modal fade" id="mdl_formSubmit_konis">
-<div class="modal-dialog modal-lg" id="area_formSubmit_konis"> 
-  <div class="modal-content">
-	<div class="modal-header">
-	  <h4 class="modal-title" id="title_mdl_konis">Default Modal</h4>
-	  <button type="button" onclick="close_modal()" class="close" data-dismiss="modal" aria-label="Close">
-		<span aria-hidden="true">&times;</span>
-	  </button>
-	</div>
-	<form class="form-horizontal" id="formSubmit_konis" action="javascript:submitForm('formSubmit_konis')" method="post">
-	<div class="modal-body">
-        <div class="row align-items-center mb-3">
-            <div class="col">
-            </div>
-            <div class="col-auto">
-                <a href="javascript:history_konis()" class="btn btn-light btn-border btn-sm">
-                    <i class="fas fa-clock"></i> History
-                </a>
-            </div>
-        </div>
-        <div class="row">
-            <div class="col-md-12">
-                <div id="konis_page"></div>
-            </div>
-        </div>
-	</div>
-	<div class="modal-footer justify-content-between">
-	  <button type="button" onclick="close_modal()" class="btn btn-default" data-dismiss="modal">Close</button>
-	  <!--button  title="Save" id="submit" onclick="submitForm('formSubmit_page')" class="btn btn-primary"><i id="msg_formSubmit_page"></i>&nbsp;&nbsp;<i class='fa fa-save'></i> Save changes</button-->
-	</div>
-	</form>
-  </div>
-  <!-- /.modal-content -->
-</div>
-<!-- /.modal-dialog -->
-</div>
-<!-- /.modal -->
+
+
+
+

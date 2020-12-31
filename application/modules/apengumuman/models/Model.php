@@ -24,8 +24,7 @@ class Model extends ci_Model
 			$searchkey=$_POST['search']['value'];
 				  
 				$query=array(
-				"judul"=>$searchkey,
-				"subjek"=>$searchkey
+				"judul"=>$searchkey
 				);
 				$this->db->group_start()
                         ->or_like($query)
@@ -43,6 +42,8 @@ class Model extends ci_Model
 		return $this->db->get()->num_rows();
 	}
 	
+
+	
 	
 
 	function insert_data()
@@ -53,8 +54,10 @@ class Model extends ci_Model
 		$input=$this->input->post("f");
 		$datainputan=$this->security->xss_clean($input);
 		
-		$tanggal_tayang=$this->input->post("tanggal_tayang");
+		/*$tanggal_tayang=$this->input->post("tanggal_tayang");
 		$tgl_tayang=$this->tanggal->eng_($tanggal_tayang,0);
+		$waktu_tayang=$this->input->post("waktu_tayang");
+		$wkt_tayang=''.$waktu_tayang.':00';*/
 		$judul=$this->input->post("f[judul]");
 		//cek dulu
 		$this->db->where("judul",$judul);
@@ -73,6 +76,8 @@ class Model extends ci_Model
 		if($img['validasi']==true){
 			$this->db->set("img",$img['name']);
 		}
+		//$this->db->set("tanggal",$tgl_tayang);
+		//$this->db->set("waktu",$wkt_tayang);
 		$this->db->set("_ctime",$ctime);
 		$this->db->set("_cid",$idu);
 		$this->db->set($datainputan);
@@ -97,29 +102,34 @@ class Model extends ci_Model
 		$input=$this->input->post("f");
 		$datainputan=$this->security->xss_clean($input);
 		
-		$namadata=$this->input->post("f[namadata]");
-		$namadata_b=$this->input->post("namadata_b");
-		$imgdata_b=$this->input->post("imgdata_b");
+		$judul=$this->input->post("f[judul]");
+		$judul_b=$this->input->post("judul_b");
+		/*$tanggal_tayang=$this->input->post("tanggal_tayang");
+		$tgl_tayang=$this->tanggal->eng_($tanggal_tayang,0);
+		$waktu_tayang=$this->input->post("waktu_tayang");
+		$wkt_tayang=''.$waktu_tayang.':00';*/
+		$img_b=$this->input->post("img_b");
 
 		//$tanggal_lahir=$this->input->post("tanggal_lahir");
 		//$tgl_lahir=$this->tanggal->eng_($tanggal_lahir,0);
 		//cek dulu
-		$this->db->where("namadata!=",$namadata_b);
-		$this->db->where('namadata',$namadata);
+		$this->db->where("judul!=",$judul_b);
+		$this->db->where('judul',$judul);
 		$cek=$this->db->get($this->tbl)->num_rows();
 		if($cek)
 		{
 			$var['gagal']=false;
-			$var['info']="Tidak diizinkan, nama sudah ada.";
+			$var['info']="Tidak diizinkan, judul sudah dibuat.";
 			return $var;
 		}
 
 		$utime=date("Y-m-d H:i:s"); 
-		$img=$this->m_reff->upload_file("imgdata","theme/images/data/","filelantamal","JPG,JPEG,PNG","10000",$imgdata_b);
+		$img=$this->m_reff->upload_file("img","theme/images/pengumuman/","file","JPG,JPEG,PNG","100000",$img_b);
 		if($img['validasi']==true){
-			$this->db->set("imgdata",$img['name']);
+			$this->db->set("img",$img['name']);
 		}
-		$this->db->set("level","7");
+		//$this->db->set("tanggal",$tgl_tayang);
+		//$this->db->set("waktu",$wkt_tayang);
 		$this->db->set("_utime",$utime);
 		$this->db->set("_uid",$idu);
 		$this->db->set($datainputan);  
@@ -167,9 +177,9 @@ class Model extends ci_Model
 
 		$del=$this->db->query("SELECT * FROM ".$this->tbl." WHERE id IN (".$arrayct_a.")")->result();
 		foreach($del as $d){
-			$image=isset($d->imgdata)?($d->imgdata):'';
+			$image=isset($d->img)?($d->img):'';
 			if($image!=null){
-				$structure = './theme/images/data/'.$image.'';
+				$structure = './theme/images/pengumuman/'.$image.'';
 				if(file_exists($structure)){
 					unlink($structure);
 				}
@@ -188,6 +198,41 @@ class Model extends ci_Model
 			return $var;
 		}*/
 		
+	}
+
+
+
+	/*===================================*/
+	public function get_data_pengumuman()
+	{
+		$this->_get_datatables_pengumuman();
+		if($this->input->post("length") != -1) 
+		$this->db->limit($this->input->post("length"),$this->input->post("start"));
+	 	return $this->db->get()->result();
+	}
+	private function _get_datatables_pengumuman()
+	{	
+		 $this->db->where("sts","Publish"); 
+		 if(isset($_POST['search']['value'])){
+			$searchkey=$_POST['search']['value'];
+				  
+				$query=array(
+				"judul"=>$searchkey
+				);
+				$this->db->group_start()
+                        ->or_like($query)
+                ->group_end();
+				  
+			}
+		$this->db->order_by("id","desc"); 
+		$query=$this->db->from($this->tbl);
+		return $query;
+	
+	}	
+	public function count_data_pengumuman()
+	{		
+		$this->_get_datatables_pengumuman();
+		return $this->db->get()->num_rows();
 	}
 	
 	/*

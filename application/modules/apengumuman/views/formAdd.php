@@ -8,15 +8,9 @@
 					</div>
 				</div>
 				<div class="form-group">
-					<label class="black control-label">Subjek</label>
-					<div>
-						<input required type="text" class="form-control" name="f[subjek]" placeholder="">
-					</div>
-				</div>
-				<div class="form-group">
 					<label class="black control-label">Isi</label>
 					<div>
-						<textarea id="ckeditorbasic" class="form-control" rows="2" name="f[isi]" rows="45" placeholder=""></textarea>
+						<textarea id="ckeditorbasic1" class="form-control" rows="2" name="f[isi]" rows="45" placeholder=""></textarea>
 					</div>
 				</div>
 				<!--div class="form-group">
@@ -33,10 +27,10 @@
 				</div-->
 			</div>
 			<div class="col-md-4">
-				<div class="form-group">
+				<!--div class="form-group">
 					<label class="black control-label">Tanggal Tayang</label>
 					<div class="input-group">
-						<input id="date_1" name="tanggal_tayang" type="text" class="form-control form-control-inline date_posting" value="<?php echo date('d/m/Y'); ?>">
+						<input id="date1" name="tanggal_tayang" type="text" class="form-control form-control-inline date_posting" value="<?php echo date('d/m/Y'); ?>">
 						<div class="input-group-append">
 							<span class="input-group-text">
 								<i class="fa fa-calendar"></i>
@@ -47,16 +41,28 @@
 				<div class="form-group">
 					<label class="black control-label">Waktu Tayang</label>
 					<div class="input-group">
-						<input type="text" name="waktu_tayang" class="form-control timepicker timepicker-24" id="timepicker" >
+						<input type="text" name="waktu_tayang" class="form-control" id="timepicker1" >
 						<div class="input-group-append">
 							<span class="input-group-text">
 								<i class="fa fa-clock"></i>
 							</span>
 						</div>
 					</div>
-				</div>
+				</div-->
 
-				
+				<div class="form-group">
+					<label class="black control-label">Status</label>
+					<div>
+						<label class="form-radio-label">
+							<input class="form-radio-input" type="radio" name="f[sts]" value="Publish">
+							<span class="form-radio-sign">Publish</span>
+						</label>
+						<label class="form-radio-label ml-3">
+							<input class="form-radio-input" type="radio" name="f[sts]" value="Draft">
+							<span class="form-radio-sign">Draft</span>
+						</label>
+					</div>
+				</div>
 
 				<div class="form-group">
 					<label class="black control-label">Image</label>
@@ -77,8 +83,8 @@
   $(function () {
 	//$('[data-mask]').inputmask();
 	//$('.select2').select2();
-	var date = new Date();
-	$('#date_1').daterangepicker({
+	/*var date = new Date();
+	$('#date1').daterangepicker({
 		startDate: moment(date), 
 		format: 'DD/MM/YYYY',	
 		singleDatePicker: true,
@@ -86,15 +92,15 @@
 		minYear: 1901,
 		maxYear: parseInt(moment().format('YYYY'),10)
 	});
-	$('.timepicker').timepicker({
+	$('#timepicker1').timepicker({
 		timeFormat: 'HH:mm',
 		minTime: '11:45',
 		template: 'modal',
 		defaultTIme: true,
 		showInputs: true,
 		showMeridian: false //24hr mode
-	});
-	CKEDITOR.replace( 'ckeditorbasic', {
+	});*/
+	CKEDITOR.replace( 'ckeditorbasic1', {
 		uiColor: '#f4f4f4',
 		toolbar: [
 		['Format','Font','FontSize'],

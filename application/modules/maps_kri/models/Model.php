@@ -16,6 +16,7 @@ class Model extends ci_Model
 
 	var $data_konlog="data_konlog";
 	var $data_konis="data_konis";
+	var $data_pengumuman="pengumuman";
 	public function __construct() {
         parent::__construct();
     }
@@ -191,6 +192,41 @@ class Model extends ci_Model
 	public function count_data_konis()
 	{		
 		$this->_get_datatables_konis();
+		return $this->db->get()->num_rows();
+	}
+
+
+
+	/*===================================*/
+	public function get_data_pengumuman()
+	{
+		$this->_get_datatables_pengumuman();
+		if($this->input->post("length") != -1) 
+		$this->db->limit($this->input->post("length"),$this->input->post("start"));
+	 	return $this->db->get()->result();
+	}
+	private function _get_datatables_pengumuman()
+	{	
+		 //$this->db->where("level","3"); 
+		 /*if(isset($_POST['search']['value'])){
+			$searchkey=$_POST['search']['value'];
+				  
+				$query=array(
+				"namadata"=>$searchkey
+				);
+				$this->db->group_start()
+                        ->or_like($query)
+                ->group_end();
+				  
+			}*/
+		$this->db->order_by("id","asc"); 
+		$query=$this->db->from($this->data_pengumuman);
+		return $query;
+	
+	}	
+	public function count_data_pengumuman()
+	{		
+		$this->_get_datatables_pengumuman();
 		return $this->db->get()->num_rows();
 	}
 	

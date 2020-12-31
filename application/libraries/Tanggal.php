@@ -11,6 +11,20 @@ class tanggal
 		}
 		return $pecah[2]."/".$pecah[1]."/".$pecah[0];
 	}
+	function inddatetime($id,$di)
+	{
+		$splitTimeStamp = explode(" ",$id);
+		if(count($splitTimeStamp)<2)
+		{
+		return false;
+		}
+		$datetamp = $splitTimeStamp[0];
+		$timetamp = $splitTimeStamp[1];
+		
+		$date = date('d-m-Y',strtotime($datetamp));
+		$time = date('H:i:s',strtotime($timetamp));
+		return $date.$di.$time;
+	}
 	function rangeindo($tgl,$ambil) //unuk database
 	{
 		//30/03/2016 - 23/05/2016

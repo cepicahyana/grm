@@ -6,7 +6,7 @@ class Apengumuman extends CI_Controller {
 	public function __construct()
 	{
 		parent::__construct();	
-		$this->m_konfig->validasi_session(array("super","admin"));
+		$this->m_konfig->validasi_session(array("super","admin","kri"));
 		$this->load->model("model","mdl");		
 		date_default_timezone_set('Asia/Jakarta');
 	}
@@ -18,14 +18,27 @@ class Apengumuman extends CI_Controller {
 	 
 	public function index()
 	{	
-		$ajax=$this->input->get_post("ajax");
-		if($ajax=="yes")
-		{
-			echo $this->load->view("index");
-		}else{
-			$data['konten']="index";
-			$this->_template($data);
+		$levelsession=$this->session->userdata('level');
+		if($levelsession==1 || $levelsession==2){
+			$ajax=$this->input->get_post("ajax");
+			if($ajax=="yes")
+			{
+				echo $this->load->view("index");
+			}else{
+				$data['konten']="index";
+				$this->_template($data);
+			}
+		}elseif($levelsession==3){
+			$ajax=$this->input->get_post("ajax");
+			if($ajax=="yes")
+			{
+				echo $this->load->view("pengumuman");
+			}else{
+				$data['konten']="pengumuman";
+				$this->_template($data);
+			}
 		}
+		
 		
 	}
 	function data_tables()
@@ -38,15 +51,34 @@ class Apengumuman extends CI_Controller {
 
 			$id=isset($dataDB->id)?($dataDB->id):'';
 			$judul=isset($dataDB->judul)?($dataDB->judul):'';
-			$subjek=isset($dataDB->subjek)?($dataDB->subjek):'';
-			$tanggal=isset($dataDB->tanggal)?($dataDB->tanggal):'';
-			$waktu=isset($dataDB->waktu)?($dataDB->waktu):'';
+			$sts=isset($dataDB->sts)?($dataDB->sts):'';
 			$isi=isset($dataDB->isi)?($dataDB->isi):'';
-			$tujuan=isset($dataDB->tujuan)?($dataDB->tujuan):'';
+			$viewer=isset($dataDB->viewer)?($dataDB->viewer):'0';
+
+			$arraysatu=explode(",",$viewer); //potong
+			$d = "";
+			foreach($arraysatu as $i=>$array_satu):
+				$d .= ",'".$array_satu."'";
+			endforeach;
+			$arraysatu_d = substr($d,1); //convert
 			
-			if($tanggal!=''){$tanggal_=$this->tanggal->ind($tanggal,0);}else{$tanggal_="";}
+			$arraysatu1=$arraysatu[0]; //array awal
+			if($viewer>0){
+				$jmlrow=count($arraysatu); //jumlah row	
+				$jmlrowsatu=$jmlrow-1;
+			}else{
+				$jmlrowsatu='0'; //jumlah row	
+			}
 			
-			/*$tgl_lahir=isset($dataDB->tanggal_lahir)?($dataDB->tanggal_lahir):'';
+			/*if($tanggal!=''){$tanggal_=$this->tanggal->ind($tanggal,0);}else{$tanggal_="";}
+			if($waktu!=''){
+				$cwkt=explode(':',$waktu);
+				$cwkt1=$cwkt[0];	
+				$cwkt2=$cwkt[1];
+				$wkt=''.$cwkt1.':'.$cwkt2.'';
+			}else{
+				$wkt='';
+			}
 			/*$kelasDB=$this->db->where("kode",$kd_kelas);
 			$kelasDB=$this->db->get("tm_kelas")->row();
 			$kelas=isset($kelasDB->kelas)?($kelasDB->kelas):'';
@@ -66,8 +98,8 @@ class Apengumuman extends CI_Controller {
 			$row[] = $id;	
 			$row[] = "<span class='size' >".$no++."</span>";	
 			$row[] = "<span class='size' ><a href='javascript:priview(".$id.")'>".$judul."</a></span>";
-			$row[] = "<span class='size' >".$subjek."</span>";
-			$row[] = "<span class='size' >".$tanggal_." <br> ".$waktu."</span>";
+			$row[] = "<span class='size' >".$sts."</span>";
+			$row[] = "<span class='size' ><a href='javascript:viewer(".$id.")'>Viewer (".$jmlrowsatu.")</a></span>";
 			$row[] = $tombol ;
 			 
 			  
@@ -121,6 +153,11 @@ class Apengumuman extends CI_Controller {
 		$data["data"]=$this->mdl->edit_data();
 		echo $this->load->view("formView",$data);
 	}
+	function viewer_data()
+	{
+		$data["data"]=$this->mdl->edit_data();
+		echo $this->load->view("formViewer",$data);
+	}
 	function import_Data()
 	{
 		$data=$this->mdl->import_Data();
@@ -136,11 +173,91 @@ class Apengumuman extends CI_Controller {
 			//$this->db->where("level",$cf1);
 		}
 		
-		$this->db->where("level","3");
-		//$this->db->order_by("id_admin","asc"); 
-		$data["data"]=$this->db->get("data_member")->result();
+		//$this->db->where("level","3");
+		$this->db->order_by("id","asc"); 
+		$data["data"]=$this->db->get("pengumuman")->result();
 		$this->load->view("downloadXL",$data);
 	    return true;
+	}
+
+	function data_tables_pengumuman()
+	{
+		$list = $this->mdl->get_data_pengumuman();
+		$data = array();
+		$no = $_POST['start'];
+		$no =$no+1;
+		foreach ($list as $dataDB) {
+
+			$id=isset($dataDB->id)?($dataDB->id):'';
+			$judul=isset($dataDB->judul)?($dataDB->judul):'';
+			$sts=isset($dataDB->sts)?($dataDB->sts):'';
+			$isi=isset($dataDB->isi)?($dataDB->isi):'';
+			$viewer=isset($dataDB->viewer)?($dataDB->viewer):'0';
+
+			$arraysatu=explode(",",$viewer); //potong
+			$d = "";
+			foreach($arraysatu as $i=>$array_satu):
+				$d .= ",'".$array_satu."'";
+			endforeach;
+			$arraysatu_d = substr($d,1); //convert
+			
+			$arraysatu1=$arraysatu[0]; //array awal
+			if($viewer>0){
+				$jmlrow=count($arraysatu); //jumlah row	
+				$jmlrowsatu=$jmlrow-1;
+			}else{
+				$jmlrowsatu='0'; //jumlah row	
+			}
+			
+			/*if($tanggal!=''){$tanggal_=$this->tanggal->ind($tanggal,0);}else{$tanggal_="";}
+			if($waktu!=''){
+				$cwkt=explode(':',$waktu);
+				$cwkt1=$cwkt[0];	
+				$cwkt2=$cwkt[1];
+				$wkt=''.$cwkt1.':'.$cwkt2.'';
+			}else{
+				$wkt='';
+			}
+			/*$kelasDB=$this->db->where("kode",$kd_kelas);
+			$kelasDB=$this->db->get("tm_kelas")->row();
+			$kelas=isset($kelasDB->kelas)?($kelasDB->kelas):'';
+			if($imgdata!=''){
+				$img_1=''.base_url().'theme/images/data/'.$imgdata.'';
+			}else{
+				$img_1=''.base_url().'theme/images/no-image.png';
+			}*/
+			
+			
+			//$tombol='
+					//<button type="button" onclick="edit(`'.$id.'`)" class="btn bg-info btn-sm">EDIT</button>
+					//<button type="button" onclick="del(`'.$id.'`,`'.$judul.'`)" class="btn bg-danger btn-sm">DELETE</button>
+			//';
+			$row = array();
+			$row[] = "<span class='size' >".$no++."</span>";	
+			$row[] = "<span class='size' ><a href='javascript:detail(".$id.")'>".$judul."</a></span>";
+			//$row[] = $tombol ;
+			 
+			  
+			//add html for action
+			$data[] = $row;
+			}
+			
+		//$csrf_name = $this->security->get_csrf_token_name();
+		//$csrf_hash = $this->security->get_csrf_hash(); 
+		$output = array(
+		"draw" => $_POST['draw'],
+		"recordsTotal" => $c=$this->mdl->count_data_pengumuman(),
+		"recordsFiltered" =>$c,
+		"data" => $data,
+		);
+		//output to json format
+		//$output[$csrf_name] = $csrf_hash;
+		echo json_encode($output);
+	}
+	function view_pengumuman()
+	{
+		$data["data"]=$this->mdl->edit_data();
+		echo $this->load->view("view_pengumuman",$data);
 	}
 /*	
 	function priview_PDF()
