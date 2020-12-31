@@ -19,18 +19,18 @@
 						<textarea id="ckeditorbasic" class="form-control" rows="2" name="f[isi]" rows="45" placeholder=""></textarea>
 					</div>
 				</div>
-				<div class="form-group">
+				<!--div class="form-group">
 					<label class="black control-label">Tujuan</label>
 					<div>
 						<select name="tujuan[]" multiple="multiple" class="select2" data-placeholder="" style="width: 100%;">                              
-						<?php $db=$this->db->get_where("data_kri",array('level'=>3))->result();
+						<.?php $db=$this->db->get_where("data_kri",array('level'=>3))->result();
 						foreach($db as $us){?>                                              
-							<option value="<?php echo $us->id ?>"><?php echo $us->profilename ?>
+							<option value="<.?php echo $us->id ?>"><.?php echo $us->profilename ?>
 							</option>                              
-						<?php } ?>
+						<.?php } ?>
 						</select>    
 					</div>
-				</div>
+				</div-->
 			</div>
 			<div class="col-md-4">
 				<div class="form-group">
@@ -61,7 +61,7 @@
 				<div class="form-group">
 					<label class="black control-label">Image</label>
 					<div>
-						<input type="file" class="form-control" name="imgdata" id="inputimgdata" onchange="inputpreviewFile(this)">
+						<input type="file" class="form-control" name="img" id="inputimgdata" onchange="inputpreviewFile(this)">
 					</div>
 					<div class="mt-2">
 						<img class="rounded" width="140px" height="120px" id="inputpreview_img">
@@ -76,7 +76,7 @@
 <script>
   $(function () {
 	//$('[data-mask]').inputmask();
-	$('.select2').select2();
+	//$('.select2').select2();
 	var date = new Date();
 	$('#date_1').daterangepicker({
 		startDate: moment(date), 

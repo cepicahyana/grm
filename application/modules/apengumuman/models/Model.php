@@ -53,27 +53,26 @@ class Model extends ci_Model
 		$input=$this->input->post("f");
 		$datainputan=$this->security->xss_clean($input);
 		
-		//$tanggal_lahir=$this->input->post("tanggal_lahir");
-		//$tgl_lahir=$this->tanggal->eng_($tanggal_lahir,0);
-		$namadata=$this->input->post("f[namadata]");
+		$tanggal_tayang=$this->input->post("tanggal_tayang");
+		$tgl_tayang=$this->tanggal->eng_($tanggal_tayang,0);
+		$judul=$this->input->post("f[judul]");
 		//cek dulu
-		$this->db->where("namadata",$namadata);
+		$this->db->where("judul",$judul);
 		$cek=$this->db->get($this->tbl)->num_rows();
 		if($cek)
 		{
 			$var['gagal']=false;
-			$var['info']="Tidak diizinkan, nama sudah ada.";
+			$var['info']="Tidak diizinkan, judul sudah dibuat.";
 			return $var;
 		}
 		$ctime=date("Y-m-d H:i:s"); 
 		//$kode_sistem=$this->mdl->kode_sistem(); 
 		//$this->db->set("tanggal_selesai",$tgl_selesai);
 
-		$img=$this->m_reff->upload_file("imgdata","theme/images/data/","filelantamal","JPG,JPEG,PNG","10000",null);
+		$img=$this->m_reff->upload_file("img","theme/images/pengumuman/","file","JPG,JPEG,PNG","100000",null);
 		if($img['validasi']==true){
-			$this->db->set("imgdata",$img['name']);
+			$this->db->set("img",$img['name']);
 		}
-		$this->db->set("level","7");
 		$this->db->set("_ctime",$ctime);
 		$this->db->set("_cid",$idu);
 		$this->db->set($datainputan);
@@ -135,13 +134,13 @@ class Model extends ci_Model
 	{
 		$var=array();
 	    $id=$this->input->get_post("id");
-		$this->db->select("imgdata");
+		$this->db->select("img");
 		$this->db->where("id",$id);
 		$del=$this->db->get($this->tbl)->row();
-		$image=isset($del->imgdata)?($del->imgdata):'';
+		$image=isset($del->img)?($del->img):'';
 		
 		if($image!=null){
-			$structure = './theme/images/data/'.$image.'';
+			$structure = './theme/images/pengumuman/'.$image.'';
 			if(file_exists($structure)){
 				unlink($structure);
 			}
