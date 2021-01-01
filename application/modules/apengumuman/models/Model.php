@@ -31,7 +31,7 @@ class Model extends ci_Model
                 ->group_end();
 				  
 			}
-		$this->db->order_by("id","asc"); 
+		$this->db->order_by("id","desc"); 
 		$query=$this->db->from($this->tbl);
 		return $query;
 	
@@ -136,6 +136,27 @@ class Model extends ci_Model
 		$this->db->where("id",$id);
 		$this->db->update($this->tbl);
 		$var['table']=true;
+		return $var;
+	}
+
+
+	function update_viewer()
+	{
+		$var=array();
+
+		$idsession=$this->session->userdata("id");
+		$id=$this->input->post("id");
+		$data=$this->db->get_where($this->tbl,array('id'=>$id))->row();
+		$viewer=isset($data->viewer)?($data->viewer):'0';
+		if (strpos($viewer, $idsession.",") !== false) {
+			return false;
+		}else{
+			$array=$viewer.$idsession.",";
+			$this->db->set("viewer",$array);
+			$this->db->where("id",$id);
+			$this->db->update($this->tbl);
+		}
+		//$var['table']=true;
 		return $var;
 	}
 	

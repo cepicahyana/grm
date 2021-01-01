@@ -97,9 +97,9 @@ class Apengumuman extends CI_Controller {
 			$row[] = "";
 			$row[] = $id;	
 			$row[] = "<span class='size' >".$no++."</span>";	
-			$row[] = "<span class='size' ><a href='javascript:priview(".$id.")'>".$judul."</a></span>";
+			$row[] = "<span class='size' ><a href='#' onclick='priview(".$id.")'>".$judul."</a></span>";
 			$row[] = "<span class='size' >".$sts."</span>";
-			$row[] = "<span class='size' ><a href='javascript:viewer(".$id.")'>Viewer (".$jmlrowsatu.")</a></span>";
+			$row[] = "<span class='size' ><a href='#' onclick='viewer(".$id.")'>Viewer (".$jmlrowsatu.")</a></span>";
 			$row[] = $tombol ;
 			 
 			  
@@ -180,6 +180,7 @@ class Apengumuman extends CI_Controller {
 	    return true;
 	}
 
+	/*--------------------------member------------------------*/
 	function data_tables_pengumuman()
 	{
 		$list = $this->mdl->get_data_pengumuman();
@@ -193,6 +194,7 @@ class Apengumuman extends CI_Controller {
 			$sts=isset($dataDB->sts)?($dataDB->sts):'';
 			$isi=isset($dataDB->isi)?($dataDB->isi):'';
 			$viewer=isset($dataDB->viewer)?($dataDB->viewer):'0';
+			$idsession=$this->session->userdata('id');
 
 			$arraysatu=explode(",",$viewer); //potong
 			$d = "";
@@ -208,36 +210,24 @@ class Apengumuman extends CI_Controller {
 			}else{
 				$jmlrowsatu='0'; //jumlah row	
 			}
-			
-			/*if($tanggal!=''){$tanggal_=$this->tanggal->ind($tanggal,0);}else{$tanggal_="";}
-			if($waktu!=''){
-				$cwkt=explode(':',$waktu);
-				$cwkt1=$cwkt[0];	
-				$cwkt2=$cwkt[1];
-				$wkt=''.$cwkt1.':'.$cwkt2.'';
+			$colRow='read';
+			if (strpos($viewer, $idsession.",") !== false) {
+				$colRow='read';
 			}else{
-				$wkt='';
+				$colRow='no';
 			}
-			/*$kelasDB=$this->db->where("kode",$kd_kelas);
-			$kelasDB=$this->db->get("tm_kelas")->row();
-			$kelas=isset($kelasDB->kelas)?($kelasDB->kelas):'';
-			if($imgdata!=''){
-				$img_1=''.base_url().'theme/images/data/'.$imgdata.'';
-			}else{
-				$img_1=''.base_url().'theme/images/no-image.png';
-			}*/
-			
 			
 			//$tombol='
 					//<button type="button" onclick="edit(`'.$id.'`)" class="btn bg-info btn-sm">EDIT</button>
 					//<button type="button" onclick="del(`'.$id.'`,`'.$judul.'`)" class="btn bg-danger btn-sm">DELETE</button>
 			//';
 			$row = array();
+			$row[] = $colRow;
 			$row[] = "<span class='size' >".$no++."</span>";	
-			$row[] = "<span class='size' ><a href='javascript:detail(".$id.")'>".$judul."</a></span>";
+			$row[] = "<span class='size' ><a href='#' onclick='detail(".$id.")'>".$judul."</a></span>";
+			$row[] = "<span class='size text-muted' ><i>".$colRow."</i></span>";
 			//$row[] = $tombol ;
-			 
-			  
+ 
 			//add html for action
 			$data[] = $row;
 			}
@@ -256,6 +246,7 @@ class Apengumuman extends CI_Controller {
 	}
 	function view_pengumuman()
 	{
+		$this->mdl->update_viewer();
 		$data["data"]=$this->mdl->edit_data();
 		echo $this->load->view("view_pengumuman",$data);
 	}
