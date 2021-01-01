@@ -68,8 +68,20 @@ $(window).on('load', function(){
 <script>
   $(function () {
 	activemenu();
+	count();
   })
 </script>
+<script>
+	setInterval(function(){ count(); }, 5000);
+	function count(){
+		$.ajax({
+		  type: "GET",
+		  url: site_url+"apengumuman/count_pengumuman",
+		  success: function(data){ $(".amount_a").html(data);},
+		  error: function(jqXHR, textStatus, errorThrown){ return false; }                  
+		}); 
+	}
+</script>	
 <script>
 		function notifin(msg){
 			$("#notifin_msg").html(msg);

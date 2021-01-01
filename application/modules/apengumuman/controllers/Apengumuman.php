@@ -250,6 +250,11 @@ class Apengumuman extends CI_Controller {
 		$data["data"]=$this->mdl->edit_data();
 		echo $this->load->view("view_pengumuman",$data);
 	}
+	function count_pengumuman(){
+		$db_a=$this->mdl->count_pengumuman();
+		$db_a=isset($db_a)?($db_a):"0";
+		echo $db_a;
+	}
 /*	
 	function priview_PDF()
 	{

@@ -7413,3 +7413,15225 @@ DEBUG - 2021-01-01 04:09:01 --> File loaded: D:\xampp72\htdocs\app_grm\applicati
 DEBUG - 2021-01-01 10:09:01 --> File loaded: D:\xampp72\htdocs\app_grm\application\modules/apengumuman/views/view_pengumuman.php
 INFO - 2021-01-01 10:09:01 --> Final output sent to browser
 DEBUG - 2021-01-01 10:09:01 --> Total execution time: 0.6449
+INFO - 2021-01-01 04:14:26 --> Config Class Initialized
+INFO - 2021-01-01 04:14:26 --> Hooks Class Initialized
+DEBUG - 2021-01-01 04:14:26 --> UTF-8 Support Enabled
+INFO - 2021-01-01 04:14:26 --> Utf8 Class Initialized
+INFO - 2021-01-01 04:14:26 --> URI Class Initialized
+INFO - 2021-01-01 04:14:26 --> Router Class Initialized
+INFO - 2021-01-01 04:14:26 --> Output Class Initialized
+INFO - 2021-01-01 04:14:26 --> Security Class Initialized
+DEBUG - 2021-01-01 04:14:26 --> Global POST, GET and COOKIE data sanitized
+INFO - 2021-01-01 04:14:26 --> Input Class Initialized
+INFO - 2021-01-01 04:14:26 --> Language Class Initialized
+INFO - 2021-01-01 04:14:26 --> Language Class Initialized
+INFO - 2021-01-01 04:14:26 --> Config Class Initialized
+INFO - 2021-01-01 04:14:26 --> Loader Class Initialized
+INFO - 2021-01-01 04:14:26 --> Helper loaded: url_helper
+INFO - 2021-01-01 04:14:26 --> Helper loaded: html_helper
+INFO - 2021-01-01 04:14:26 --> Helper loaded: file_helper
+INFO - 2021-01-01 04:14:26 --> Helper loaded: form_helper
+INFO - 2021-01-01 04:14:26 --> Helper loaded: security_helper
+INFO - 2021-01-01 04:14:26 --> Helper loaded: xss_helper
+INFO - 2021-01-01 04:14:26 --> Helper loaded: slug_helper
+INFO - 2021-01-01 04:14:26 --> Database Driver Class Initialized
+DEBUG - 2021-01-01 04:14:26 --> Session: "sess_save_path" is empty; using "session.save_path" value from php.ini.
+INFO - 2021-01-01 04:14:26 --> Session: Class initialized using 'files' driver.
+INFO - 2021-01-01 04:14:26 --> Language file loaded: language/english/pagination_lang.php
+INFO - 2021-01-01 04:14:26 --> Pagination Class Initialized
+INFO - 2021-01-01 04:14:26 --> Email Class Initialized
+INFO - 2021-01-01 04:14:26 --> Model "M_konfig" initialized
+INFO - 2021-01-01 04:14:26 --> Model "M_reff" initialized
+INFO - 2021-01-01 04:14:26 --> Model "M_total" initialized
+INFO - 2021-01-01 04:14:26 --> Controller Class Initialized
+DEBUG - 2021-01-01 04:14:26 --> File loaded: D:\xampp72\htdocs\app_grm\application\modules/apengumuman/models/Model.php
+DEBUG - 2021-01-01 10:14:26 --> File loaded: D:\xampp72\htdocs\app_grm\application\modules/apengumuman/views/pengumuman.php
+INFO - 2021-01-01 10:14:26 --> Final output sent to browser
+DEBUG - 2021-01-01 10:14:26 --> Total execution time: 0.5693
+INFO - 2021-01-01 04:14:26 --> Config Class Initialized
+INFO - 2021-01-01 04:14:26 --> Hooks Class Initialized
+DEBUG - 2021-01-01 04:14:26 --> UTF-8 Support Enabled
+INFO - 2021-01-01 04:14:26 --> Utf8 Class Initialized
+INFO - 2021-01-01 04:14:26 --> URI Class Initialized
+INFO - 2021-01-01 04:14:26 --> Router Class Initialized
+INFO - 2021-01-01 04:14:26 --> Output Class Initialized
+INFO - 2021-01-01 04:14:26 --> Security Class Initialized
+DEBUG - 2021-01-01 04:14:26 --> Global POST, GET and COOKIE data sanitized
+INFO - 2021-01-01 04:14:26 --> Input Class Initialized
+INFO - 2021-01-01 04:14:26 --> Language Class Initialized
+INFO - 2021-01-01 04:14:26 --> Language Class Initialized
+INFO - 2021-01-01 04:14:27 --> Config Class Initialized
+INFO - 2021-01-01 04:14:27 --> Loader Class Initialized
+INFO - 2021-01-01 04:14:27 --> Helper loaded: url_helper
+INFO - 2021-01-01 04:14:27 --> Helper loaded: html_helper
+INFO - 2021-01-01 04:14:27 --> Helper loaded: file_helper
+INFO - 2021-01-01 04:14:27 --> Helper loaded: form_helper
+INFO - 2021-01-01 04:14:27 --> Helper loaded: security_helper
+INFO - 2021-01-01 04:14:27 --> Helper loaded: xss_helper
+INFO - 2021-01-01 04:14:27 --> Helper loaded: slug_helper
+INFO - 2021-01-01 04:14:27 --> Database Driver Class Initialized
+DEBUG - 2021-01-01 04:14:27 --> Session: "sess_save_path" is empty; using "session.save_path" value from php.ini.
+INFO - 2021-01-01 04:14:27 --> Session: Class initialized using 'files' driver.
+INFO - 2021-01-01 04:14:27 --> Language file loaded: language/english/pagination_lang.php
+INFO - 2021-01-01 04:14:27 --> Pagination Class Initialized
+INFO - 2021-01-01 04:14:27 --> Email Class Initialized
+INFO - 2021-01-01 04:14:27 --> Model "M_konfig" initialized
+INFO - 2021-01-01 04:14:27 --> Model "M_reff" initialized
+INFO - 2021-01-01 04:14:27 --> Model "M_total" initialized
+INFO - 2021-01-01 04:14:27 --> Controller Class Initialized
+DEBUG - 2021-01-01 04:14:27 --> File loaded: D:\xampp72\htdocs\app_grm\application\modules/apengumuman/models/Model.php
+INFO - 2021-01-01 10:14:27 --> Final output sent to browser
+DEBUG - 2021-01-01 10:14:27 --> Total execution time: 0.5606
+INFO - 2021-01-01 04:14:54 --> Config Class Initialized
+INFO - 2021-01-01 04:14:54 --> Hooks Class Initialized
+DEBUG - 2021-01-01 04:14:54 --> UTF-8 Support Enabled
+INFO - 2021-01-01 04:14:54 --> Utf8 Class Initialized
+INFO - 2021-01-01 04:14:54 --> URI Class Initialized
+INFO - 2021-01-01 04:14:54 --> Router Class Initialized
+INFO - 2021-01-01 04:14:54 --> Output Class Initialized
+INFO - 2021-01-01 04:14:54 --> Security Class Initialized
+DEBUG - 2021-01-01 04:14:54 --> Global POST, GET and COOKIE data sanitized
+INFO - 2021-01-01 04:14:54 --> Input Class Initialized
+INFO - 2021-01-01 04:14:54 --> Language Class Initialized
+INFO - 2021-01-01 04:14:54 --> Language Class Initialized
+INFO - 2021-01-01 04:14:54 --> Config Class Initialized
+INFO - 2021-01-01 04:14:54 --> Loader Class Initialized
+INFO - 2021-01-01 04:14:54 --> Helper loaded: url_helper
+INFO - 2021-01-01 04:14:54 --> Helper loaded: html_helper
+INFO - 2021-01-01 04:14:54 --> Helper loaded: file_helper
+INFO - 2021-01-01 04:14:54 --> Helper loaded: form_helper
+INFO - 2021-01-01 04:14:54 --> Helper loaded: security_helper
+INFO - 2021-01-01 04:14:54 --> Helper loaded: xss_helper
+INFO - 2021-01-01 04:14:54 --> Helper loaded: slug_helper
+INFO - 2021-01-01 04:14:54 --> Database Driver Class Initialized
+DEBUG - 2021-01-01 04:14:54 --> Session: "sess_save_path" is empty; using "session.save_path" value from php.ini.
+INFO - 2021-01-01 04:14:54 --> Session: Class initialized using 'files' driver.
+INFO - 2021-01-01 04:14:54 --> Language file loaded: language/english/pagination_lang.php
+INFO - 2021-01-01 04:14:54 --> Pagination Class Initialized
+INFO - 2021-01-01 04:14:54 --> Email Class Initialized
+INFO - 2021-01-01 04:14:54 --> Model "M_konfig" initialized
+INFO - 2021-01-01 04:14:54 --> Model "M_reff" initialized
+INFO - 2021-01-01 04:14:54 --> Model "M_total" initialized
+INFO - 2021-01-01 04:14:54 --> Controller Class Initialized
+DEBUG - 2021-01-01 04:14:54 --> File loaded: D:\xampp72\htdocs\app_grm\application\modules/apengumuman/models/Model.php
+DEBUG - 2021-01-01 10:14:54 --> File loaded: D:\xampp72\htdocs\app_grm\application\modules/apengumuman/views/pengumuman.php
+INFO - 2021-01-01 10:14:54 --> Final output sent to browser
+DEBUG - 2021-01-01 10:14:54 --> Total execution time: 0.7175
+INFO - 2021-01-01 04:14:55 --> Config Class Initialized
+INFO - 2021-01-01 04:14:55 --> Hooks Class Initialized
+DEBUG - 2021-01-01 04:14:55 --> UTF-8 Support Enabled
+INFO - 2021-01-01 04:14:55 --> Utf8 Class Initialized
+INFO - 2021-01-01 04:14:55 --> URI Class Initialized
+INFO - 2021-01-01 04:14:55 --> Router Class Initialized
+INFO - 2021-01-01 04:14:55 --> Output Class Initialized
+INFO - 2021-01-01 04:14:55 --> Security Class Initialized
+DEBUG - 2021-01-01 04:14:55 --> Global POST, GET and COOKIE data sanitized
+INFO - 2021-01-01 04:14:55 --> Input Class Initialized
+INFO - 2021-01-01 04:14:55 --> Language Class Initialized
+INFO - 2021-01-01 04:14:55 --> Language Class Initialized
+INFO - 2021-01-01 04:14:55 --> Config Class Initialized
+INFO - 2021-01-01 04:14:55 --> Loader Class Initialized
+INFO - 2021-01-01 04:14:55 --> Helper loaded: url_helper
+INFO - 2021-01-01 04:14:55 --> Helper loaded: html_helper
+INFO - 2021-01-01 04:14:55 --> Helper loaded: file_helper
+INFO - 2021-01-01 04:14:55 --> Helper loaded: form_helper
+INFO - 2021-01-01 04:14:55 --> Helper loaded: security_helper
+INFO - 2021-01-01 04:14:55 --> Helper loaded: xss_helper
+INFO - 2021-01-01 04:14:55 --> Helper loaded: slug_helper
+INFO - 2021-01-01 04:14:55 --> Database Driver Class Initialized
+DEBUG - 2021-01-01 04:14:55 --> Session: "sess_save_path" is empty; using "session.save_path" value from php.ini.
+INFO - 2021-01-01 04:14:55 --> Session: Class initialized using 'files' driver.
+INFO - 2021-01-01 04:14:55 --> Language file loaded: language/english/pagination_lang.php
+INFO - 2021-01-01 04:14:55 --> Pagination Class Initialized
+INFO - 2021-01-01 04:14:55 --> Email Class Initialized
+INFO - 2021-01-01 04:14:55 --> Model "M_konfig" initialized
+INFO - 2021-01-01 04:14:55 --> Model "M_reff" initialized
+INFO - 2021-01-01 04:14:55 --> Model "M_total" initialized
+INFO - 2021-01-01 04:14:55 --> Controller Class Initialized
+DEBUG - 2021-01-01 04:14:55 --> File loaded: D:\xampp72\htdocs\app_grm\application\modules/apengumuman/models/Model.php
+INFO - 2021-01-01 10:14:55 --> Final output sent to browser
+DEBUG - 2021-01-01 10:14:55 --> Total execution time: 0.5932
+INFO - 2021-01-01 04:15:41 --> Config Class Initialized
+INFO - 2021-01-01 04:15:41 --> Hooks Class Initialized
+DEBUG - 2021-01-01 04:15:41 --> UTF-8 Support Enabled
+INFO - 2021-01-01 04:15:41 --> Utf8 Class Initialized
+INFO - 2021-01-01 04:15:41 --> URI Class Initialized
+INFO - 2021-01-01 04:15:41 --> Router Class Initialized
+INFO - 2021-01-01 04:15:41 --> Output Class Initialized
+INFO - 2021-01-01 04:15:41 --> Security Class Initialized
+DEBUG - 2021-01-01 04:15:41 --> Global POST, GET and COOKIE data sanitized
+INFO - 2021-01-01 04:15:41 --> Input Class Initialized
+INFO - 2021-01-01 04:15:41 --> Language Class Initialized
+INFO - 2021-01-01 04:15:41 --> Language Class Initialized
+INFO - 2021-01-01 04:15:41 --> Config Class Initialized
+INFO - 2021-01-01 04:15:41 --> Loader Class Initialized
+INFO - 2021-01-01 04:15:41 --> Helper loaded: url_helper
+INFO - 2021-01-01 04:15:41 --> Helper loaded: html_helper
+INFO - 2021-01-01 04:15:41 --> Helper loaded: file_helper
+INFO - 2021-01-01 04:15:41 --> Helper loaded: form_helper
+INFO - 2021-01-01 04:15:41 --> Helper loaded: security_helper
+INFO - 2021-01-01 04:15:42 --> Helper loaded: xss_helper
+INFO - 2021-01-01 04:15:42 --> Helper loaded: slug_helper
+INFO - 2021-01-01 04:15:42 --> Database Driver Class Initialized
+DEBUG - 2021-01-01 04:15:42 --> Session: "sess_save_path" is empty; using "session.save_path" value from php.ini.
+INFO - 2021-01-01 04:15:42 --> Session: Class initialized using 'files' driver.
+INFO - 2021-01-01 04:15:42 --> Language file loaded: language/english/pagination_lang.php
+INFO - 2021-01-01 04:15:42 --> Pagination Class Initialized
+INFO - 2021-01-01 04:15:42 --> Email Class Initialized
+INFO - 2021-01-01 04:15:42 --> Model "M_konfig" initialized
+INFO - 2021-01-01 04:15:42 --> Model "M_reff" initialized
+INFO - 2021-01-01 04:15:42 --> Model "M_total" initialized
+INFO - 2021-01-01 04:15:42 --> Controller Class Initialized
+DEBUG - 2021-01-01 04:15:42 --> File loaded: D:\xampp72\htdocs\app_grm\application\modules/apengumuman/models/Model.php
+DEBUG - 2021-01-01 10:15:42 --> File loaded: D:\xampp72\htdocs\app_grm\application\modules/apengumuman/views/pengumuman.php
+INFO - 2021-01-01 10:15:42 --> Final output sent to browser
+DEBUG - 2021-01-01 10:15:42 --> Total execution time: 0.7014
+INFO - 2021-01-01 04:15:42 --> Config Class Initialized
+INFO - 2021-01-01 04:15:42 --> Hooks Class Initialized
+DEBUG - 2021-01-01 04:15:42 --> UTF-8 Support Enabled
+INFO - 2021-01-01 04:15:42 --> Utf8 Class Initialized
+INFO - 2021-01-01 04:15:42 --> URI Class Initialized
+INFO - 2021-01-01 04:15:42 --> Router Class Initialized
+INFO - 2021-01-01 04:15:42 --> Output Class Initialized
+INFO - 2021-01-01 04:15:42 --> Security Class Initialized
+DEBUG - 2021-01-01 04:15:42 --> Global POST, GET and COOKIE data sanitized
+INFO - 2021-01-01 04:15:42 --> Input Class Initialized
+INFO - 2021-01-01 04:15:42 --> Language Class Initialized
+INFO - 2021-01-01 04:15:42 --> Language Class Initialized
+INFO - 2021-01-01 04:15:42 --> Config Class Initialized
+INFO - 2021-01-01 04:15:42 --> Loader Class Initialized
+INFO - 2021-01-01 04:15:42 --> Helper loaded: url_helper
+INFO - 2021-01-01 04:15:42 --> Helper loaded: html_helper
+INFO - 2021-01-01 04:15:42 --> Helper loaded: file_helper
+INFO - 2021-01-01 04:15:42 --> Helper loaded: form_helper
+INFO - 2021-01-01 04:15:42 --> Helper loaded: security_helper
+INFO - 2021-01-01 04:15:42 --> Helper loaded: xss_helper
+INFO - 2021-01-01 04:15:42 --> Helper loaded: slug_helper
+INFO - 2021-01-01 04:15:42 --> Database Driver Class Initialized
+DEBUG - 2021-01-01 04:15:42 --> Session: "sess_save_path" is empty; using "session.save_path" value from php.ini.
+INFO - 2021-01-01 04:15:42 --> Session: Class initialized using 'files' driver.
+INFO - 2021-01-01 04:15:42 --> Language file loaded: language/english/pagination_lang.php
+INFO - 2021-01-01 04:15:42 --> Pagination Class Initialized
+INFO - 2021-01-01 04:15:42 --> Email Class Initialized
+INFO - 2021-01-01 04:15:42 --> Model "M_konfig" initialized
+INFO - 2021-01-01 04:15:42 --> Model "M_reff" initialized
+INFO - 2021-01-01 04:15:42 --> Model "M_total" initialized
+INFO - 2021-01-01 04:15:42 --> Controller Class Initialized
+DEBUG - 2021-01-01 04:15:42 --> File loaded: D:\xampp72\htdocs\app_grm\application\modules/apengumuman/models/Model.php
+INFO - 2021-01-01 10:15:42 --> Final output sent to browser
+DEBUG - 2021-01-01 10:15:42 --> Total execution time: 0.5804
+INFO - 2021-01-01 04:16:15 --> Config Class Initialized
+INFO - 2021-01-01 04:16:15 --> Hooks Class Initialized
+DEBUG - 2021-01-01 04:16:15 --> UTF-8 Support Enabled
+INFO - 2021-01-01 04:16:15 --> Utf8 Class Initialized
+INFO - 2021-01-01 04:16:15 --> URI Class Initialized
+INFO - 2021-01-01 04:16:15 --> Router Class Initialized
+INFO - 2021-01-01 04:16:15 --> Output Class Initialized
+INFO - 2021-01-01 04:16:16 --> Security Class Initialized
+DEBUG - 2021-01-01 04:16:16 --> Global POST, GET and COOKIE data sanitized
+INFO - 2021-01-01 04:16:16 --> Input Class Initialized
+INFO - 2021-01-01 04:16:16 --> Language Class Initialized
+INFO - 2021-01-01 04:16:16 --> Language Class Initialized
+INFO - 2021-01-01 04:16:16 --> Config Class Initialized
+INFO - 2021-01-01 04:16:16 --> Loader Class Initialized
+INFO - 2021-01-01 04:16:16 --> Helper loaded: url_helper
+INFO - 2021-01-01 04:16:16 --> Helper loaded: html_helper
+INFO - 2021-01-01 04:16:16 --> Helper loaded: file_helper
+INFO - 2021-01-01 04:16:16 --> Helper loaded: form_helper
+INFO - 2021-01-01 04:16:16 --> Helper loaded: security_helper
+INFO - 2021-01-01 04:16:16 --> Helper loaded: xss_helper
+INFO - 2021-01-01 04:16:16 --> Helper loaded: slug_helper
+INFO - 2021-01-01 04:16:16 --> Database Driver Class Initialized
+DEBUG - 2021-01-01 04:16:16 --> Session: "sess_save_path" is empty; using "session.save_path" value from php.ini.
+INFO - 2021-01-01 04:16:16 --> Session: Class initialized using 'files' driver.
+INFO - 2021-01-01 04:16:16 --> Language file loaded: language/english/pagination_lang.php
+INFO - 2021-01-01 04:16:16 --> Pagination Class Initialized
+INFO - 2021-01-01 04:16:16 --> Email Class Initialized
+INFO - 2021-01-01 04:16:16 --> Model "M_konfig" initialized
+INFO - 2021-01-01 04:16:16 --> Model "M_reff" initialized
+INFO - 2021-01-01 04:16:16 --> Model "M_total" initialized
+INFO - 2021-01-01 04:16:16 --> Controller Class Initialized
+DEBUG - 2021-01-01 04:16:16 --> File loaded: D:\xampp72\htdocs\app_grm\application\modules/apengumuman/models/Model.php
+DEBUG - 2021-01-01 10:16:16 --> File loaded: D:\xampp72\htdocs\app_grm\application\modules/apengumuman/views/pengumuman.php
+INFO - 2021-01-01 10:16:16 --> Final output sent to browser
+DEBUG - 2021-01-01 10:16:16 --> Total execution time: 0.7320
+INFO - 2021-01-01 04:16:16 --> Config Class Initialized
+INFO - 2021-01-01 04:16:16 --> Hooks Class Initialized
+DEBUG - 2021-01-01 04:16:16 --> UTF-8 Support Enabled
+INFO - 2021-01-01 04:16:16 --> Utf8 Class Initialized
+INFO - 2021-01-01 04:16:16 --> URI Class Initialized
+INFO - 2021-01-01 04:16:16 --> Router Class Initialized
+INFO - 2021-01-01 04:16:16 --> Output Class Initialized
+INFO - 2021-01-01 04:16:16 --> Security Class Initialized
+DEBUG - 2021-01-01 04:16:16 --> Global POST, GET and COOKIE data sanitized
+INFO - 2021-01-01 04:16:16 --> Input Class Initialized
+INFO - 2021-01-01 04:16:16 --> Language Class Initialized
+INFO - 2021-01-01 04:16:16 --> Language Class Initialized
+INFO - 2021-01-01 04:16:16 --> Config Class Initialized
+INFO - 2021-01-01 04:16:16 --> Loader Class Initialized
+INFO - 2021-01-01 04:16:16 --> Helper loaded: url_helper
+INFO - 2021-01-01 04:16:16 --> Helper loaded: html_helper
+INFO - 2021-01-01 04:16:16 --> Helper loaded: file_helper
+INFO - 2021-01-01 04:16:16 --> Helper loaded: form_helper
+INFO - 2021-01-01 04:16:16 --> Helper loaded: security_helper
+INFO - 2021-01-01 04:16:17 --> Helper loaded: xss_helper
+INFO - 2021-01-01 04:16:17 --> Helper loaded: slug_helper
+INFO - 2021-01-01 04:16:17 --> Database Driver Class Initialized
+DEBUG - 2021-01-01 04:16:17 --> Session: "sess_save_path" is empty; using "session.save_path" value from php.ini.
+INFO - 2021-01-01 04:16:17 --> Session: Class initialized using 'files' driver.
+INFO - 2021-01-01 04:16:17 --> Language file loaded: language/english/pagination_lang.php
+INFO - 2021-01-01 04:16:17 --> Pagination Class Initialized
+INFO - 2021-01-01 04:16:17 --> Email Class Initialized
+INFO - 2021-01-01 04:16:17 --> Model "M_konfig" initialized
+INFO - 2021-01-01 04:16:17 --> Model "M_reff" initialized
+INFO - 2021-01-01 04:16:17 --> Model "M_total" initialized
+INFO - 2021-01-01 04:16:17 --> Controller Class Initialized
+DEBUG - 2021-01-01 04:16:17 --> File loaded: D:\xampp72\htdocs\app_grm\application\modules/apengumuman/models/Model.php
+INFO - 2021-01-01 10:16:17 --> Final output sent to browser
+DEBUG - 2021-01-01 10:16:17 --> Total execution time: 0.6214
+INFO - 2021-01-01 04:16:25 --> Config Class Initialized
+INFO - 2021-01-01 04:16:25 --> Hooks Class Initialized
+DEBUG - 2021-01-01 04:16:25 --> UTF-8 Support Enabled
+INFO - 2021-01-01 04:16:25 --> Utf8 Class Initialized
+INFO - 2021-01-01 04:16:25 --> URI Class Initialized
+INFO - 2021-01-01 04:16:25 --> Router Class Initialized
+INFO - 2021-01-01 04:16:25 --> Output Class Initialized
+INFO - 2021-01-01 04:16:25 --> Security Class Initialized
+DEBUG - 2021-01-01 04:16:25 --> Global POST, GET and COOKIE data sanitized
+INFO - 2021-01-01 04:16:25 --> Input Class Initialized
+INFO - 2021-01-01 04:16:25 --> Language Class Initialized
+INFO - 2021-01-01 04:16:25 --> Language Class Initialized
+INFO - 2021-01-01 04:16:25 --> Config Class Initialized
+INFO - 2021-01-01 04:16:25 --> Loader Class Initialized
+INFO - 2021-01-01 04:16:25 --> Helper loaded: url_helper
+INFO - 2021-01-01 04:16:25 --> Helper loaded: html_helper
+INFO - 2021-01-01 04:16:25 --> Helper loaded: file_helper
+INFO - 2021-01-01 04:16:25 --> Helper loaded: form_helper
+INFO - 2021-01-01 04:16:25 --> Helper loaded: security_helper
+INFO - 2021-01-01 04:16:25 --> Helper loaded: xss_helper
+INFO - 2021-01-01 04:16:25 --> Helper loaded: slug_helper
+INFO - 2021-01-01 04:16:25 --> Database Driver Class Initialized
+DEBUG - 2021-01-01 04:16:25 --> Session: "sess_save_path" is empty; using "session.save_path" value from php.ini.
+INFO - 2021-01-01 04:16:25 --> Session: Class initialized using 'files' driver.
+INFO - 2021-01-01 04:16:25 --> Language file loaded: language/english/pagination_lang.php
+INFO - 2021-01-01 04:16:25 --> Pagination Class Initialized
+INFO - 2021-01-01 04:16:25 --> Email Class Initialized
+INFO - 2021-01-01 04:16:25 --> Model "M_konfig" initialized
+INFO - 2021-01-01 04:16:25 --> Model "M_reff" initialized
+INFO - 2021-01-01 04:16:25 --> Model "M_total" initialized
+INFO - 2021-01-01 04:16:25 --> Controller Class Initialized
+DEBUG - 2021-01-01 04:16:25 --> File loaded: D:\xampp72\htdocs\app_grm\application\modules/apengumuman/models/Model.php
+DEBUG - 2021-01-01 10:16:25 --> File loaded: D:\xampp72\htdocs\app_grm\application\modules/apengumuman/views/pengumuman.php
+INFO - 2021-01-01 10:16:25 --> Final output sent to browser
+DEBUG - 2021-01-01 10:16:26 --> Total execution time: 0.7308
+INFO - 2021-01-01 04:16:26 --> Config Class Initialized
+INFO - 2021-01-01 04:16:26 --> Hooks Class Initialized
+DEBUG - 2021-01-01 04:16:26 --> UTF-8 Support Enabled
+INFO - 2021-01-01 04:16:26 --> Utf8 Class Initialized
+INFO - 2021-01-01 04:16:26 --> URI Class Initialized
+INFO - 2021-01-01 04:16:26 --> Router Class Initialized
+INFO - 2021-01-01 04:16:26 --> Output Class Initialized
+INFO - 2021-01-01 04:16:26 --> Security Class Initialized
+DEBUG - 2021-01-01 04:16:26 --> Global POST, GET and COOKIE data sanitized
+INFO - 2021-01-01 04:16:26 --> Input Class Initialized
+INFO - 2021-01-01 04:16:26 --> Language Class Initialized
+INFO - 2021-01-01 04:16:26 --> Language Class Initialized
+INFO - 2021-01-01 04:16:26 --> Config Class Initialized
+INFO - 2021-01-01 04:16:26 --> Loader Class Initialized
+INFO - 2021-01-01 04:16:26 --> Helper loaded: url_helper
+INFO - 2021-01-01 04:16:26 --> Helper loaded: html_helper
+INFO - 2021-01-01 04:16:26 --> Helper loaded: file_helper
+INFO - 2021-01-01 04:16:26 --> Helper loaded: form_helper
+INFO - 2021-01-01 04:16:26 --> Helper loaded: security_helper
+INFO - 2021-01-01 04:16:26 --> Helper loaded: xss_helper
+INFO - 2021-01-01 04:16:26 --> Helper loaded: slug_helper
+INFO - 2021-01-01 04:16:26 --> Database Driver Class Initialized
+DEBUG - 2021-01-01 04:16:26 --> Session: "sess_save_path" is empty; using "session.save_path" value from php.ini.
+INFO - 2021-01-01 04:16:26 --> Session: Class initialized using 'files' driver.
+INFO - 2021-01-01 04:16:26 --> Language file loaded: language/english/pagination_lang.php
+INFO - 2021-01-01 04:16:26 --> Pagination Class Initialized
+INFO - 2021-01-01 04:16:26 --> Email Class Initialized
+INFO - 2021-01-01 04:16:26 --> Model "M_konfig" initialized
+INFO - 2021-01-01 04:16:26 --> Model "M_reff" initialized
+INFO - 2021-01-01 04:16:26 --> Model "M_total" initialized
+INFO - 2021-01-01 04:16:26 --> Controller Class Initialized
+DEBUG - 2021-01-01 04:16:26 --> File loaded: D:\xampp72\htdocs\app_grm\application\modules/apengumuman/models/Model.php
+INFO - 2021-01-01 10:16:26 --> Final output sent to browser
+DEBUG - 2021-01-01 10:16:26 --> Total execution time: 0.5866
+INFO - 2021-01-01 04:38:36 --> Config Class Initialized
+INFO - 2021-01-01 04:38:36 --> Hooks Class Initialized
+DEBUG - 2021-01-01 04:38:36 --> UTF-8 Support Enabled
+INFO - 2021-01-01 04:38:36 --> Utf8 Class Initialized
+INFO - 2021-01-01 04:38:36 --> URI Class Initialized
+INFO - 2021-01-01 04:38:36 --> Router Class Initialized
+INFO - 2021-01-01 04:38:36 --> Output Class Initialized
+INFO - 2021-01-01 04:38:36 --> Security Class Initialized
+DEBUG - 2021-01-01 04:38:36 --> Global POST, GET and COOKIE data sanitized
+INFO - 2021-01-01 04:38:36 --> Input Class Initialized
+INFO - 2021-01-01 04:38:36 --> Language Class Initialized
+INFO - 2021-01-01 04:38:36 --> Language Class Initialized
+INFO - 2021-01-01 04:38:36 --> Config Class Initialized
+INFO - 2021-01-01 04:38:36 --> Loader Class Initialized
+INFO - 2021-01-01 04:38:36 --> Helper loaded: url_helper
+INFO - 2021-01-01 04:38:36 --> Helper loaded: html_helper
+INFO - 2021-01-01 04:38:36 --> Helper loaded: file_helper
+INFO - 2021-01-01 04:38:36 --> Helper loaded: form_helper
+INFO - 2021-01-01 04:38:36 --> Helper loaded: security_helper
+INFO - 2021-01-01 04:38:36 --> Helper loaded: xss_helper
+INFO - 2021-01-01 04:38:36 --> Helper loaded: slug_helper
+INFO - 2021-01-01 04:38:36 --> Database Driver Class Initialized
+DEBUG - 2021-01-01 04:38:36 --> Session: "sess_save_path" is empty; using "session.save_path" value from php.ini.
+INFO - 2021-01-01 04:38:36 --> Session: Class initialized using 'files' driver.
+INFO - 2021-01-01 04:38:36 --> Language file loaded: language/english/pagination_lang.php
+INFO - 2021-01-01 04:38:36 --> Pagination Class Initialized
+INFO - 2021-01-01 04:38:36 --> Email Class Initialized
+INFO - 2021-01-01 04:38:36 --> Model "M_konfig" initialized
+INFO - 2021-01-01 04:38:36 --> Model "M_reff" initialized
+INFO - 2021-01-01 04:38:36 --> Model "M_total" initialized
+INFO - 2021-01-01 04:38:36 --> Controller Class Initialized
+DEBUG - 2021-01-01 04:38:36 --> File loaded: D:\xampp72\htdocs\app_grm\application\modules/apengumuman/models/Model.php
+DEBUG - 2021-01-01 10:38:36 --> File loaded: D:\xampp72\htdocs\app_grm\application\modules/apengumuman/views/pengumuman.php
+INFO - 2021-01-01 10:38:36 --> Final output sent to browser
+DEBUG - 2021-01-01 10:38:36 --> Total execution time: 0.7157
+INFO - 2021-01-01 04:38:36 --> Config Class Initialized
+INFO - 2021-01-01 04:38:36 --> Hooks Class Initialized
+DEBUG - 2021-01-01 04:38:36 --> UTF-8 Support Enabled
+INFO - 2021-01-01 04:38:36 --> Utf8 Class Initialized
+INFO - 2021-01-01 04:38:37 --> URI Class Initialized
+INFO - 2021-01-01 04:38:37 --> Router Class Initialized
+INFO - 2021-01-01 04:38:37 --> Output Class Initialized
+INFO - 2021-01-01 04:38:37 --> Security Class Initialized
+DEBUG - 2021-01-01 04:38:37 --> Global POST, GET and COOKIE data sanitized
+INFO - 2021-01-01 04:38:37 --> Input Class Initialized
+INFO - 2021-01-01 04:38:37 --> Language Class Initialized
+INFO - 2021-01-01 04:38:37 --> Language Class Initialized
+INFO - 2021-01-01 04:38:37 --> Config Class Initialized
+INFO - 2021-01-01 04:38:37 --> Loader Class Initialized
+INFO - 2021-01-01 04:38:37 --> Helper loaded: url_helper
+INFO - 2021-01-01 04:38:37 --> Helper loaded: html_helper
+INFO - 2021-01-01 04:38:37 --> Helper loaded: file_helper
+INFO - 2021-01-01 04:38:37 --> Helper loaded: form_helper
+INFO - 2021-01-01 04:38:37 --> Helper loaded: security_helper
+INFO - 2021-01-01 04:38:37 --> Helper loaded: xss_helper
+INFO - 2021-01-01 04:38:37 --> Helper loaded: slug_helper
+INFO - 2021-01-01 04:38:37 --> Database Driver Class Initialized
+DEBUG - 2021-01-01 04:38:37 --> Session: "sess_save_path" is empty; using "session.save_path" value from php.ini.
+INFO - 2021-01-01 04:38:37 --> Session: Class initialized using 'files' driver.
+INFO - 2021-01-01 04:38:37 --> Language file loaded: language/english/pagination_lang.php
+INFO - 2021-01-01 04:38:37 --> Pagination Class Initialized
+INFO - 2021-01-01 04:38:37 --> Email Class Initialized
+INFO - 2021-01-01 04:38:37 --> Model "M_konfig" initialized
+INFO - 2021-01-01 04:38:37 --> Model "M_reff" initialized
+INFO - 2021-01-01 04:38:37 --> Model "M_total" initialized
+INFO - 2021-01-01 04:38:37 --> Controller Class Initialized
+DEBUG - 2021-01-01 04:38:37 --> File loaded: D:\xampp72\htdocs\app_grm\application\modules/apengumuman/models/Model.php
+INFO - 2021-01-01 10:38:37 --> Final output sent to browser
+DEBUG - 2021-01-01 10:38:37 --> Total execution time: 0.5928
+INFO - 2021-01-01 04:38:59 --> Config Class Initialized
+INFO - 2021-01-01 04:38:59 --> Hooks Class Initialized
+DEBUG - 2021-01-01 04:38:59 --> UTF-8 Support Enabled
+INFO - 2021-01-01 04:38:59 --> Utf8 Class Initialized
+INFO - 2021-01-01 04:38:59 --> URI Class Initialized
+INFO - 2021-01-01 04:38:59 --> Router Class Initialized
+INFO - 2021-01-01 04:38:59 --> Output Class Initialized
+INFO - 2021-01-01 04:38:59 --> Security Class Initialized
+DEBUG - 2021-01-01 04:38:59 --> Global POST, GET and COOKIE data sanitized
+INFO - 2021-01-01 04:38:59 --> Input Class Initialized
+INFO - 2021-01-01 04:38:59 --> Language Class Initialized
+INFO - 2021-01-01 04:38:59 --> Language Class Initialized
+INFO - 2021-01-01 04:38:59 --> Config Class Initialized
+INFO - 2021-01-01 04:38:59 --> Loader Class Initialized
+INFO - 2021-01-01 04:38:59 --> Helper loaded: url_helper
+INFO - 2021-01-01 04:38:59 --> Helper loaded: html_helper
+INFO - 2021-01-01 04:38:59 --> Helper loaded: file_helper
+INFO - 2021-01-01 04:38:59 --> Helper loaded: form_helper
+INFO - 2021-01-01 04:38:59 --> Helper loaded: security_helper
+INFO - 2021-01-01 04:38:59 --> Helper loaded: xss_helper
+INFO - 2021-01-01 04:38:59 --> Helper loaded: slug_helper
+INFO - 2021-01-01 04:38:59 --> Database Driver Class Initialized
+DEBUG - 2021-01-01 04:38:59 --> Session: "sess_save_path" is empty; using "session.save_path" value from php.ini.
+INFO - 2021-01-01 04:38:59 --> Session: Class initialized using 'files' driver.
+INFO - 2021-01-01 04:38:59 --> Language file loaded: language/english/pagination_lang.php
+INFO - 2021-01-01 04:38:59 --> Pagination Class Initialized
+INFO - 2021-01-01 04:38:59 --> Email Class Initialized
+INFO - 2021-01-01 04:38:59 --> Model "M_konfig" initialized
+INFO - 2021-01-01 04:38:59 --> Model "M_reff" initialized
+INFO - 2021-01-01 04:38:59 --> Model "M_total" initialized
+INFO - 2021-01-01 04:38:59 --> Controller Class Initialized
+DEBUG - 2021-01-01 04:38:59 --> File loaded: D:\xampp72\htdocs\app_grm\application\modules/apengumuman/models/Model.php
+DEBUG - 2021-01-01 10:38:59 --> File loaded: D:\xampp72\htdocs\app_grm\application\modules/apengumuman/views/pengumuman.php
+INFO - 2021-01-01 10:38:59 --> Final output sent to browser
+DEBUG - 2021-01-01 10:38:59 --> Total execution time: 0.7185
+INFO - 2021-01-01 04:38:59 --> Config Class Initialized
+INFO - 2021-01-01 04:39:00 --> Hooks Class Initialized
+DEBUG - 2021-01-01 04:39:00 --> UTF-8 Support Enabled
+INFO - 2021-01-01 04:39:00 --> Utf8 Class Initialized
+INFO - 2021-01-01 04:39:00 --> URI Class Initialized
+INFO - 2021-01-01 04:39:00 --> Router Class Initialized
+INFO - 2021-01-01 04:39:00 --> Output Class Initialized
+INFO - 2021-01-01 04:39:00 --> Security Class Initialized
+DEBUG - 2021-01-01 04:39:00 --> Global POST, GET and COOKIE data sanitized
+INFO - 2021-01-01 04:39:00 --> Input Class Initialized
+INFO - 2021-01-01 04:39:00 --> Language Class Initialized
+INFO - 2021-01-01 04:39:00 --> Language Class Initialized
+INFO - 2021-01-01 04:39:00 --> Config Class Initialized
+INFO - 2021-01-01 04:39:00 --> Loader Class Initialized
+INFO - 2021-01-01 04:39:00 --> Helper loaded: url_helper
+INFO - 2021-01-01 04:39:00 --> Helper loaded: html_helper
+INFO - 2021-01-01 04:39:00 --> Helper loaded: file_helper
+INFO - 2021-01-01 04:39:00 --> Helper loaded: form_helper
+INFO - 2021-01-01 04:39:00 --> Helper loaded: security_helper
+INFO - 2021-01-01 04:39:00 --> Helper loaded: xss_helper
+INFO - 2021-01-01 04:39:00 --> Helper loaded: slug_helper
+INFO - 2021-01-01 04:39:00 --> Database Driver Class Initialized
+DEBUG - 2021-01-01 04:39:00 --> Session: "sess_save_path" is empty; using "session.save_path" value from php.ini.
+INFO - 2021-01-01 04:39:00 --> Session: Class initialized using 'files' driver.
+INFO - 2021-01-01 04:39:00 --> Language file loaded: language/english/pagination_lang.php
+INFO - 2021-01-01 04:39:00 --> Pagination Class Initialized
+INFO - 2021-01-01 04:39:00 --> Email Class Initialized
+INFO - 2021-01-01 04:39:00 --> Model "M_konfig" initialized
+INFO - 2021-01-01 04:39:00 --> Model "M_reff" initialized
+INFO - 2021-01-01 04:39:00 --> Model "M_total" initialized
+INFO - 2021-01-01 04:39:00 --> Controller Class Initialized
+DEBUG - 2021-01-01 04:39:00 --> File loaded: D:\xampp72\htdocs\app_grm\application\modules/apengumuman/models/Model.php
+INFO - 2021-01-01 10:39:00 --> Final output sent to browser
+DEBUG - 2021-01-01 10:39:00 --> Total execution time: 0.5944
+INFO - 2021-01-01 04:40:56 --> Config Class Initialized
+INFO - 2021-01-01 04:40:56 --> Hooks Class Initialized
+DEBUG - 2021-01-01 04:40:56 --> UTF-8 Support Enabled
+INFO - 2021-01-01 04:40:56 --> Utf8 Class Initialized
+INFO - 2021-01-01 04:40:56 --> URI Class Initialized
+INFO - 2021-01-01 04:40:56 --> Router Class Initialized
+INFO - 2021-01-01 04:40:56 --> Output Class Initialized
+INFO - 2021-01-01 04:40:56 --> Security Class Initialized
+DEBUG - 2021-01-01 04:40:56 --> Global POST, GET and COOKIE data sanitized
+INFO - 2021-01-01 04:40:56 --> Input Class Initialized
+INFO - 2021-01-01 04:40:56 --> Language Class Initialized
+INFO - 2021-01-01 04:40:56 --> Language Class Initialized
+INFO - 2021-01-01 04:40:56 --> Config Class Initialized
+INFO - 2021-01-01 04:40:56 --> Loader Class Initialized
+INFO - 2021-01-01 04:40:56 --> Helper loaded: url_helper
+INFO - 2021-01-01 04:40:56 --> Helper loaded: html_helper
+INFO - 2021-01-01 04:40:56 --> Helper loaded: file_helper
+INFO - 2021-01-01 04:40:56 --> Helper loaded: form_helper
+INFO - 2021-01-01 04:40:56 --> Helper loaded: security_helper
+INFO - 2021-01-01 04:40:56 --> Helper loaded: xss_helper
+INFO - 2021-01-01 04:40:56 --> Helper loaded: slug_helper
+INFO - 2021-01-01 04:40:56 --> Database Driver Class Initialized
+DEBUG - 2021-01-01 04:40:56 --> Session: "sess_save_path" is empty; using "session.save_path" value from php.ini.
+INFO - 2021-01-01 04:40:56 --> Session: Class initialized using 'files' driver.
+INFO - 2021-01-01 04:40:56 --> Language file loaded: language/english/pagination_lang.php
+INFO - 2021-01-01 04:40:56 --> Pagination Class Initialized
+INFO - 2021-01-01 04:40:56 --> Email Class Initialized
+INFO - 2021-01-01 04:40:56 --> Model "M_konfig" initialized
+INFO - 2021-01-01 04:40:56 --> Model "M_reff" initialized
+INFO - 2021-01-01 04:40:56 --> Model "M_total" initialized
+INFO - 2021-01-01 04:40:57 --> Controller Class Initialized
+DEBUG - 2021-01-01 04:40:57 --> File loaded: D:\xampp72\htdocs\app_grm\application\modules/apengumuman/models/Model.php
+DEBUG - 2021-01-01 10:40:57 --> File loaded: D:\xampp72\htdocs\app_grm\application\modules/apengumuman/views/view_pengumuman.php
+INFO - 2021-01-01 10:40:57 --> Final output sent to browser
+DEBUG - 2021-01-01 10:40:57 --> Total execution time: 0.6479
+INFO - 2021-01-01 04:40:58 --> Config Class Initialized
+INFO - 2021-01-01 04:40:58 --> Hooks Class Initialized
+DEBUG - 2021-01-01 04:40:58 --> UTF-8 Support Enabled
+INFO - 2021-01-01 04:40:58 --> Utf8 Class Initialized
+INFO - 2021-01-01 04:40:58 --> URI Class Initialized
+INFO - 2021-01-01 04:40:58 --> Router Class Initialized
+INFO - 2021-01-01 04:40:58 --> Output Class Initialized
+INFO - 2021-01-01 04:40:58 --> Security Class Initialized
+DEBUG - 2021-01-01 04:40:58 --> Global POST, GET and COOKIE data sanitized
+INFO - 2021-01-01 04:40:58 --> Input Class Initialized
+INFO - 2021-01-01 04:40:58 --> Language Class Initialized
+INFO - 2021-01-01 04:40:58 --> Language Class Initialized
+INFO - 2021-01-01 04:40:58 --> Config Class Initialized
+INFO - 2021-01-01 04:40:58 --> Loader Class Initialized
+INFO - 2021-01-01 04:40:58 --> Helper loaded: url_helper
+INFO - 2021-01-01 04:40:58 --> Helper loaded: html_helper
+INFO - 2021-01-01 04:40:58 --> Helper loaded: file_helper
+INFO - 2021-01-01 04:40:58 --> Helper loaded: form_helper
+INFO - 2021-01-01 04:40:58 --> Helper loaded: security_helper
+INFO - 2021-01-01 04:40:58 --> Helper loaded: xss_helper
+INFO - 2021-01-01 04:40:58 --> Helper loaded: slug_helper
+INFO - 2021-01-01 04:40:58 --> Database Driver Class Initialized
+DEBUG - 2021-01-01 04:40:58 --> Session: "sess_save_path" is empty; using "session.save_path" value from php.ini.
+INFO - 2021-01-01 04:40:58 --> Session: Class initialized using 'files' driver.
+INFO - 2021-01-01 04:40:58 --> Language file loaded: language/english/pagination_lang.php
+INFO - 2021-01-01 04:40:58 --> Pagination Class Initialized
+INFO - 2021-01-01 04:40:58 --> Email Class Initialized
+INFO - 2021-01-01 04:40:58 --> Model "M_konfig" initialized
+INFO - 2021-01-01 04:40:58 --> Model "M_reff" initialized
+INFO - 2021-01-01 04:40:58 --> Model "M_total" initialized
+INFO - 2021-01-01 04:40:58 --> Controller Class Initialized
+DEBUG - 2021-01-01 04:40:58 --> File loaded: D:\xampp72\htdocs\app_grm\application\modules/apengumuman/models/Model.php
+DEBUG - 2021-01-01 10:40:58 --> File loaded: D:\xampp72\htdocs\app_grm\application\modules/apengumuman/views/pengumuman.php
+INFO - 2021-01-01 10:40:58 --> Final output sent to browser
+DEBUG - 2021-01-01 10:40:58 --> Total execution time: 0.6334
+INFO - 2021-01-01 04:40:59 --> Config Class Initialized
+INFO - 2021-01-01 04:40:59 --> Hooks Class Initialized
+DEBUG - 2021-01-01 04:40:59 --> UTF-8 Support Enabled
+INFO - 2021-01-01 04:40:59 --> Utf8 Class Initialized
+INFO - 2021-01-01 04:40:59 --> URI Class Initialized
+INFO - 2021-01-01 04:40:59 --> Router Class Initialized
+INFO - 2021-01-01 04:40:59 --> Output Class Initialized
+INFO - 2021-01-01 04:40:59 --> Security Class Initialized
+DEBUG - 2021-01-01 04:40:59 --> Global POST, GET and COOKIE data sanitized
+INFO - 2021-01-01 04:40:59 --> Input Class Initialized
+INFO - 2021-01-01 04:40:59 --> Language Class Initialized
+INFO - 2021-01-01 04:40:59 --> Language Class Initialized
+INFO - 2021-01-01 04:40:59 --> Config Class Initialized
+INFO - 2021-01-01 04:40:59 --> Loader Class Initialized
+INFO - 2021-01-01 04:40:59 --> Helper loaded: url_helper
+INFO - 2021-01-01 04:40:59 --> Helper loaded: html_helper
+INFO - 2021-01-01 04:40:59 --> Helper loaded: file_helper
+INFO - 2021-01-01 04:40:59 --> Helper loaded: form_helper
+INFO - 2021-01-01 04:40:59 --> Helper loaded: security_helper
+INFO - 2021-01-01 04:40:59 --> Helper loaded: xss_helper
+INFO - 2021-01-01 04:40:59 --> Helper loaded: slug_helper
+INFO - 2021-01-01 04:40:59 --> Database Driver Class Initialized
+DEBUG - 2021-01-01 04:40:59 --> Session: "sess_save_path" is empty; using "session.save_path" value from php.ini.
+INFO - 2021-01-01 04:40:59 --> Session: Class initialized using 'files' driver.
+INFO - 2021-01-01 04:40:59 --> Language file loaded: language/english/pagination_lang.php
+INFO - 2021-01-01 04:40:59 --> Pagination Class Initialized
+INFO - 2021-01-01 04:40:59 --> Email Class Initialized
+INFO - 2021-01-01 04:40:59 --> Model "M_konfig" initialized
+INFO - 2021-01-01 04:40:59 --> Model "M_reff" initialized
+INFO - 2021-01-01 04:40:59 --> Model "M_total" initialized
+INFO - 2021-01-01 04:40:59 --> Controller Class Initialized
+DEBUG - 2021-01-01 04:40:59 --> File loaded: D:\xampp72\htdocs\app_grm\application\modules/apengumuman/models/Model.php
+INFO - 2021-01-01 10:40:59 --> Final output sent to browser
+DEBUG - 2021-01-01 10:40:59 --> Total execution time: 0.5932
+INFO - 2021-01-01 04:41:23 --> Config Class Initialized
+INFO - 2021-01-01 04:41:23 --> Hooks Class Initialized
+DEBUG - 2021-01-01 04:41:23 --> UTF-8 Support Enabled
+INFO - 2021-01-01 04:41:23 --> Utf8 Class Initialized
+INFO - 2021-01-01 04:41:23 --> URI Class Initialized
+INFO - 2021-01-01 04:41:23 --> Router Class Initialized
+INFO - 2021-01-01 04:41:23 --> Output Class Initialized
+INFO - 2021-01-01 04:41:23 --> Security Class Initialized
+DEBUG - 2021-01-01 04:41:23 --> Global POST, GET and COOKIE data sanitized
+INFO - 2021-01-01 04:41:23 --> Input Class Initialized
+INFO - 2021-01-01 04:41:23 --> Language Class Initialized
+INFO - 2021-01-01 04:41:23 --> Language Class Initialized
+INFO - 2021-01-01 04:41:23 --> Config Class Initialized
+INFO - 2021-01-01 04:41:23 --> Loader Class Initialized
+INFO - 2021-01-01 04:41:23 --> Helper loaded: url_helper
+INFO - 2021-01-01 04:41:23 --> Helper loaded: html_helper
+INFO - 2021-01-01 04:41:23 --> Helper loaded: file_helper
+INFO - 2021-01-01 04:41:23 --> Helper loaded: form_helper
+INFO - 2021-01-01 04:41:23 --> Helper loaded: security_helper
+INFO - 2021-01-01 04:41:23 --> Helper loaded: xss_helper
+INFO - 2021-01-01 04:41:23 --> Helper loaded: slug_helper
+INFO - 2021-01-01 04:41:23 --> Database Driver Class Initialized
+DEBUG - 2021-01-01 04:41:23 --> Session: "sess_save_path" is empty; using "session.save_path" value from php.ini.
+INFO - 2021-01-01 04:41:23 --> Session: Class initialized using 'files' driver.
+INFO - 2021-01-01 04:41:23 --> Language file loaded: language/english/pagination_lang.php
+INFO - 2021-01-01 04:41:23 --> Pagination Class Initialized
+INFO - 2021-01-01 04:41:23 --> Email Class Initialized
+INFO - 2021-01-01 04:41:23 --> Model "M_konfig" initialized
+INFO - 2021-01-01 04:41:23 --> Model "M_reff" initialized
+INFO - 2021-01-01 04:41:23 --> Model "M_total" initialized
+INFO - 2021-01-01 04:41:24 --> Controller Class Initialized
+DEBUG - 2021-01-01 04:41:24 --> File loaded: D:\xampp72\htdocs\app_grm\application\modules/apengumuman/models/Model.php
+DEBUG - 2021-01-01 10:41:24 --> File loaded: D:\xampp72\htdocs\app_grm\application\modules/apengumuman/views/pengumuman.php
+INFO - 2021-01-01 10:41:24 --> Final output sent to browser
+DEBUG - 2021-01-01 10:41:24 --> Total execution time: 0.7164
+INFO - 2021-01-01 04:41:24 --> Config Class Initialized
+INFO - 2021-01-01 04:41:24 --> Hooks Class Initialized
+DEBUG - 2021-01-01 04:41:24 --> UTF-8 Support Enabled
+INFO - 2021-01-01 04:41:24 --> Utf8 Class Initialized
+INFO - 2021-01-01 04:41:24 --> URI Class Initialized
+INFO - 2021-01-01 04:41:24 --> Router Class Initialized
+INFO - 2021-01-01 04:41:24 --> Output Class Initialized
+INFO - 2021-01-01 04:41:24 --> Security Class Initialized
+DEBUG - 2021-01-01 04:41:24 --> Global POST, GET and COOKIE data sanitized
+INFO - 2021-01-01 04:41:24 --> Input Class Initialized
+INFO - 2021-01-01 04:41:24 --> Language Class Initialized
+INFO - 2021-01-01 04:41:24 --> Language Class Initialized
+INFO - 2021-01-01 04:41:24 --> Config Class Initialized
+INFO - 2021-01-01 04:41:24 --> Loader Class Initialized
+INFO - 2021-01-01 04:41:24 --> Helper loaded: url_helper
+INFO - 2021-01-01 04:41:24 --> Helper loaded: html_helper
+INFO - 2021-01-01 04:41:24 --> Helper loaded: file_helper
+INFO - 2021-01-01 04:41:24 --> Helper loaded: form_helper
+INFO - 2021-01-01 04:41:24 --> Helper loaded: security_helper
+INFO - 2021-01-01 04:41:24 --> Helper loaded: xss_helper
+INFO - 2021-01-01 04:41:24 --> Helper loaded: slug_helper
+INFO - 2021-01-01 04:41:24 --> Database Driver Class Initialized
+DEBUG - 2021-01-01 04:41:24 --> Session: "sess_save_path" is empty; using "session.save_path" value from php.ini.
+INFO - 2021-01-01 04:41:24 --> Session: Class initialized using 'files' driver.
+INFO - 2021-01-01 04:41:24 --> Language file loaded: language/english/pagination_lang.php
+INFO - 2021-01-01 04:41:24 --> Pagination Class Initialized
+INFO - 2021-01-01 04:41:24 --> Email Class Initialized
+INFO - 2021-01-01 04:41:24 --> Model "M_konfig" initialized
+INFO - 2021-01-01 04:41:24 --> Model "M_reff" initialized
+INFO - 2021-01-01 04:41:24 --> Model "M_total" initialized
+INFO - 2021-01-01 04:41:24 --> Controller Class Initialized
+DEBUG - 2021-01-01 04:41:24 --> File loaded: D:\xampp72\htdocs\app_grm\application\modules/apengumuman/models/Model.php
+INFO - 2021-01-01 10:41:24 --> Final output sent to browser
+DEBUG - 2021-01-01 10:41:24 --> Total execution time: 0.6185
+INFO - 2021-01-01 04:44:57 --> Config Class Initialized
+INFO - 2021-01-01 04:44:57 --> Hooks Class Initialized
+DEBUG - 2021-01-01 04:44:57 --> UTF-8 Support Enabled
+INFO - 2021-01-01 04:44:57 --> Utf8 Class Initialized
+INFO - 2021-01-01 04:44:57 --> URI Class Initialized
+INFO - 2021-01-01 04:44:57 --> Router Class Initialized
+INFO - 2021-01-01 04:44:57 --> Output Class Initialized
+INFO - 2021-01-01 04:44:57 --> Security Class Initialized
+DEBUG - 2021-01-01 04:44:57 --> Global POST, GET and COOKIE data sanitized
+INFO - 2021-01-01 04:44:57 --> Input Class Initialized
+INFO - 2021-01-01 04:44:57 --> Language Class Initialized
+INFO - 2021-01-01 04:44:57 --> Language Class Initialized
+INFO - 2021-01-01 04:44:57 --> Config Class Initialized
+INFO - 2021-01-01 04:44:57 --> Loader Class Initialized
+INFO - 2021-01-01 04:44:57 --> Helper loaded: url_helper
+INFO - 2021-01-01 04:44:57 --> Helper loaded: html_helper
+INFO - 2021-01-01 04:44:57 --> Helper loaded: file_helper
+INFO - 2021-01-01 04:44:57 --> Helper loaded: form_helper
+INFO - 2021-01-01 04:44:57 --> Helper loaded: security_helper
+INFO - 2021-01-01 04:44:57 --> Helper loaded: xss_helper
+INFO - 2021-01-01 04:44:57 --> Helper loaded: slug_helper
+INFO - 2021-01-01 04:44:57 --> Database Driver Class Initialized
+DEBUG - 2021-01-01 04:44:57 --> Session: "sess_save_path" is empty; using "session.save_path" value from php.ini.
+INFO - 2021-01-01 04:44:57 --> Session: Class initialized using 'files' driver.
+INFO - 2021-01-01 04:44:57 --> Language file loaded: language/english/pagination_lang.php
+INFO - 2021-01-01 04:44:57 --> Pagination Class Initialized
+INFO - 2021-01-01 04:44:57 --> Email Class Initialized
+INFO - 2021-01-01 04:44:57 --> Model "M_konfig" initialized
+INFO - 2021-01-01 04:44:57 --> Model "M_reff" initialized
+INFO - 2021-01-01 04:44:58 --> Model "M_total" initialized
+INFO - 2021-01-01 04:44:58 --> Controller Class Initialized
+DEBUG - 2021-01-01 04:44:58 --> Maps_kri MX_Controller Initialized
+DEBUG - 2021-01-01 04:44:58 --> File loaded: D:\xampp72\htdocs\app_grm\application\modules/maps_kri/models/Model.php
+DEBUG - 2021-01-01 10:44:58 --> File loaded: D:\xampp72\htdocs\app_grm\application\views\temp_maps_kri/head.php
+DEBUG - 2021-01-01 10:44:58 --> File loaded: D:\xampp72\htdocs\app_grm\application\views\temp_maps_kri/navbar.php
+DEBUG - 2021-01-01 10:44:58 --> File loaded: D:\xampp72\htdocs\app_grm\application\views\temp_maps_kri/sidebar_left.php
+DEBUG - 2021-01-01 10:44:58 --> File loaded: D:\xampp72\htdocs\app_grm\application\views\temp_maps_kri/sidebar_right.php
+DEBUG - 2021-01-01 10:44:58 --> File loaded: D:\xampp72\htdocs\app_grm\application\modules/maps_kri/views/index.php
+DEBUG - 2021-01-01 10:44:58 --> File loaded: D:\xampp72\htdocs\app_grm\application\views\temp_maps_kri/quick_bar.php
+DEBUG - 2021-01-01 10:44:58 --> File loaded: D:\xampp72\htdocs\app_grm\application\views\temp_maps_kri/toggle.php
+DEBUG - 2021-01-01 10:44:58 --> File loaded: D:\xampp72\htdocs\app_grm\application\views\temp_maps_kri/konten.php
+DEBUG - 2021-01-01 10:44:58 --> File loaded: D:\xampp72\htdocs\app_grm\application\views\temp_maps_kri/foot.php
+DEBUG - 2021-01-01 10:44:58 --> File loaded: D:\xampp72\htdocs\app_grm\application\views\temp_maps_kri/main.php
+INFO - 2021-01-01 10:44:58 --> Final output sent to browser
+DEBUG - 2021-01-01 10:44:58 --> Total execution time: 1.0639
+INFO - 2021-01-01 04:45:02 --> Config Class Initialized
+INFO - 2021-01-01 04:45:02 --> Hooks Class Initialized
+DEBUG - 2021-01-01 04:45:02 --> UTF-8 Support Enabled
+INFO - 2021-01-01 04:45:02 --> Utf8 Class Initialized
+INFO - 2021-01-01 04:45:02 --> URI Class Initialized
+INFO - 2021-01-01 04:45:02 --> Router Class Initialized
+INFO - 2021-01-01 04:45:02 --> Output Class Initialized
+INFO - 2021-01-01 04:45:02 --> Security Class Initialized
+DEBUG - 2021-01-01 04:45:02 --> Global POST, GET and COOKIE data sanitized
+INFO - 2021-01-01 04:45:02 --> Input Class Initialized
+INFO - 2021-01-01 04:45:02 --> Language Class Initialized
+INFO - 2021-01-01 04:45:02 --> Language Class Initialized
+INFO - 2021-01-01 04:45:02 --> Config Class Initialized
+INFO - 2021-01-01 04:45:02 --> Loader Class Initialized
+INFO - 2021-01-01 04:45:02 --> Helper loaded: url_helper
+INFO - 2021-01-01 04:45:02 --> Helper loaded: html_helper
+INFO - 2021-01-01 04:45:02 --> Helper loaded: file_helper
+INFO - 2021-01-01 04:45:02 --> Helper loaded: form_helper
+INFO - 2021-01-01 04:45:02 --> Helper loaded: security_helper
+INFO - 2021-01-01 04:45:02 --> Helper loaded: xss_helper
+INFO - 2021-01-01 04:45:02 --> Helper loaded: slug_helper
+INFO - 2021-01-01 04:45:02 --> Database Driver Class Initialized
+DEBUG - 2021-01-01 04:45:02 --> Session: "sess_save_path" is empty; using "session.save_path" value from php.ini.
+INFO - 2021-01-01 04:45:02 --> Session: Class initialized using 'files' driver.
+INFO - 2021-01-01 04:45:03 --> Language file loaded: language/english/pagination_lang.php
+INFO - 2021-01-01 04:45:03 --> Pagination Class Initialized
+INFO - 2021-01-01 04:45:03 --> Email Class Initialized
+INFO - 2021-01-01 04:45:03 --> Model "M_konfig" initialized
+INFO - 2021-01-01 04:45:03 --> Model "M_reff" initialized
+INFO - 2021-01-01 04:45:03 --> Model "M_total" initialized
+INFO - 2021-01-01 04:45:03 --> Controller Class Initialized
+DEBUG - 2021-01-01 04:45:03 --> Maps_kri MX_Controller Initialized
+DEBUG - 2021-01-01 04:45:03 --> File loaded: D:\xampp72\htdocs\app_grm\application\modules/maps_kri/models/Model.php
+INFO - 2021-01-01 10:45:03 --> Final output sent to browser
+DEBUG - 2021-01-01 10:45:03 --> Total execution time: 0.9965
+INFO - 2021-01-01 04:47:43 --> Config Class Initialized
+INFO - 2021-01-01 04:47:43 --> Hooks Class Initialized
+DEBUG - 2021-01-01 04:47:43 --> UTF-8 Support Enabled
+INFO - 2021-01-01 04:47:43 --> Utf8 Class Initialized
+INFO - 2021-01-01 04:47:43 --> URI Class Initialized
+INFO - 2021-01-01 04:47:43 --> Router Class Initialized
+INFO - 2021-01-01 04:47:43 --> Output Class Initialized
+INFO - 2021-01-01 04:47:43 --> Security Class Initialized
+DEBUG - 2021-01-01 04:47:44 --> Global POST, GET and COOKIE data sanitized
+INFO - 2021-01-01 04:47:44 --> Input Class Initialized
+INFO - 2021-01-01 04:47:44 --> Language Class Initialized
+INFO - 2021-01-01 04:47:44 --> Language Class Initialized
+INFO - 2021-01-01 04:47:44 --> Config Class Initialized
+INFO - 2021-01-01 04:47:44 --> Loader Class Initialized
+INFO - 2021-01-01 04:47:44 --> Helper loaded: url_helper
+INFO - 2021-01-01 04:47:44 --> Helper loaded: html_helper
+INFO - 2021-01-01 04:47:44 --> Helper loaded: file_helper
+INFO - 2021-01-01 04:47:44 --> Helper loaded: form_helper
+INFO - 2021-01-01 04:47:44 --> Helper loaded: security_helper
+INFO - 2021-01-01 04:47:44 --> Helper loaded: xss_helper
+INFO - 2021-01-01 04:47:44 --> Helper loaded: slug_helper
+INFO - 2021-01-01 04:47:44 --> Database Driver Class Initialized
+DEBUG - 2021-01-01 04:47:44 --> Session: "sess_save_path" is empty; using "session.save_path" value from php.ini.
+INFO - 2021-01-01 04:47:44 --> Session: Class initialized using 'files' driver.
+INFO - 2021-01-01 04:47:44 --> Language file loaded: language/english/pagination_lang.php
+INFO - 2021-01-01 04:47:44 --> Pagination Class Initialized
+INFO - 2021-01-01 04:47:44 --> Email Class Initialized
+INFO - 2021-01-01 04:47:44 --> Model "M_konfig" initialized
+INFO - 2021-01-01 04:47:44 --> Model "M_reff" initialized
+INFO - 2021-01-01 04:47:44 --> Model "M_total" initialized
+INFO - 2021-01-01 04:47:44 --> Controller Class Initialized
+DEBUG - 2021-01-01 04:47:44 --> Maps_kri MX_Controller Initialized
+DEBUG - 2021-01-01 04:47:44 --> File loaded: D:\xampp72\htdocs\app_grm\application\modules/maps_kri/models/Model.php
+DEBUG - 2021-01-01 10:47:44 --> File loaded: D:\xampp72\htdocs\app_grm\application\views\temp_maps_kri/head.php
+DEBUG - 2021-01-01 10:47:44 --> File loaded: D:\xampp72\htdocs\app_grm\application\views\temp_maps_kri/navbar.php
+DEBUG - 2021-01-01 10:47:44 --> File loaded: D:\xampp72\htdocs\app_grm\application\views\temp_maps_kri/sidebar_left.php
+DEBUG - 2021-01-01 10:47:44 --> File loaded: D:\xampp72\htdocs\app_grm\application\views\temp_maps_kri/sidebar_right.php
+DEBUG - 2021-01-01 10:47:44 --> File loaded: D:\xampp72\htdocs\app_grm\application\modules/maps_kri/views/index.php
+DEBUG - 2021-01-01 10:47:44 --> File loaded: D:\xampp72\htdocs\app_grm\application\views\temp_maps_kri/quick_bar.php
+DEBUG - 2021-01-01 10:47:44 --> File loaded: D:\xampp72\htdocs\app_grm\application\views\temp_maps_kri/toggle.php
+DEBUG - 2021-01-01 10:47:44 --> File loaded: D:\xampp72\htdocs\app_grm\application\views\temp_maps_kri/konten.php
+DEBUG - 2021-01-01 10:47:44 --> File loaded: D:\xampp72\htdocs\app_grm\application\views\temp_maps_kri/foot.php
+DEBUG - 2021-01-01 10:47:44 --> File loaded: D:\xampp72\htdocs\app_grm\application\views\temp_maps_kri/main.php
+INFO - 2021-01-01 10:47:44 --> Final output sent to browser
+DEBUG - 2021-01-01 10:47:44 --> Total execution time: 0.8258
+INFO - 2021-01-01 04:47:45 --> Config Class Initialized
+INFO - 2021-01-01 04:47:45 --> Hooks Class Initialized
+DEBUG - 2021-01-01 04:47:45 --> UTF-8 Support Enabled
+INFO - 2021-01-01 04:47:45 --> Config Class Initialized
+INFO - 2021-01-01 04:47:45 --> Hooks Class Initialized
+DEBUG - 2021-01-01 04:47:45 --> UTF-8 Support Enabled
+INFO - 2021-01-01 04:47:45 --> Utf8 Class Initialized
+INFO - 2021-01-01 04:47:45 --> URI Class Initialized
+INFO - 2021-01-01 04:47:45 --> Router Class Initialized
+INFO - 2021-01-01 04:47:45 --> Output Class Initialized
+INFO - 2021-01-01 04:47:45 --> Security Class Initialized
+DEBUG - 2021-01-01 04:47:45 --> Global POST, GET and COOKIE data sanitized
+INFO - 2021-01-01 04:47:45 --> Input Class Initialized
+INFO - 2021-01-01 04:47:45 --> Language Class Initialized
+INFO - 2021-01-01 04:47:45 --> Language Class Initialized
+INFO - 2021-01-01 04:47:45 --> Config Class Initialized
+INFO - 2021-01-01 04:47:45 --> Loader Class Initialized
+INFO - 2021-01-01 04:47:45 --> Helper loaded: url_helper
+INFO - 2021-01-01 04:47:45 --> Helper loaded: html_helper
+INFO - 2021-01-01 04:47:45 --> Utf8 Class Initialized
+INFO - 2021-01-01 04:47:45 --> Helper loaded: file_helper
+INFO - 2021-01-01 04:47:45 --> Helper loaded: form_helper
+INFO - 2021-01-01 04:47:45 --> Helper loaded: security_helper
+INFO - 2021-01-01 04:47:45 --> Helper loaded: xss_helper
+INFO - 2021-01-01 04:47:45 --> Helper loaded: slug_helper
+INFO - 2021-01-01 04:47:45 --> Database Driver Class Initialized
+DEBUG - 2021-01-01 04:47:45 --> Session: "sess_save_path" is empty; using "session.save_path" value from php.ini.
+INFO - 2021-01-01 04:47:45 --> Session: Class initialized using 'files' driver.
+INFO - 2021-01-01 04:47:45 --> Language file loaded: language/english/pagination_lang.php
+INFO - 2021-01-01 04:47:45 --> Pagination Class Initialized
+INFO - 2021-01-01 04:47:45 --> Email Class Initialized
+INFO - 2021-01-01 04:47:45 --> Model "M_konfig" initialized
+INFO - 2021-01-01 04:47:45 --> Model "M_reff" initialized
+INFO - 2021-01-01 04:47:45 --> URI Class Initialized
+INFO - 2021-01-01 04:47:45 --> Router Class Initialized
+INFO - 2021-01-01 04:47:45 --> Output Class Initialized
+INFO - 2021-01-01 04:47:45 --> Security Class Initialized
+DEBUG - 2021-01-01 04:47:45 --> Global POST, GET and COOKIE data sanitized
+INFO - 2021-01-01 04:47:45 --> Input Class Initialized
+INFO - 2021-01-01 04:47:45 --> Language Class Initialized
+INFO - 2021-01-01 04:47:45 --> Model "M_total" initialized
+INFO - 2021-01-01 04:47:45 --> Language Class Initialized
+INFO - 2021-01-01 04:47:45 --> Config Class Initialized
+INFO - 2021-01-01 04:47:46 --> Loader Class Initialized
+INFO - 2021-01-01 04:47:46 --> Helper loaded: url_helper
+INFO - 2021-01-01 04:47:46 --> Helper loaded: html_helper
+INFO - 2021-01-01 04:47:46 --> Helper loaded: file_helper
+INFO - 2021-01-01 04:47:46 --> Helper loaded: form_helper
+INFO - 2021-01-01 04:47:46 --> Helper loaded: security_helper
+INFO - 2021-01-01 04:47:46 --> Helper loaded: xss_helper
+INFO - 2021-01-01 04:47:46 --> Helper loaded: slug_helper
+INFO - 2021-01-01 04:47:46 --> Controller Class Initialized
+INFO - 2021-01-01 04:47:46 --> Database Driver Class Initialized
+DEBUG - 2021-01-01 04:47:46 --> Session: "sess_save_path" is empty; using "session.save_path" value from php.ini.
+DEBUG - 2021-01-01 04:47:46 --> File loaded: D:\xampp72\htdocs\app_grm\application\modules/apengumuman/models/Model.php
+INFO - 2021-01-01 10:47:46 --> Final output sent to browser
+DEBUG - 2021-01-01 10:47:46 --> Total execution time: 0.2491
+INFO - 2021-01-01 04:47:46 --> Session: Class initialized using 'files' driver.
+INFO - 2021-01-01 04:47:46 --> Language file loaded: language/english/pagination_lang.php
+INFO - 2021-01-01 04:47:46 --> Pagination Class Initialized
+INFO - 2021-01-01 04:47:46 --> Email Class Initialized
+INFO - 2021-01-01 04:47:46 --> Model "M_konfig" initialized
+INFO - 2021-01-01 04:47:46 --> Model "M_reff" initialized
+INFO - 2021-01-01 04:47:46 --> Model "M_total" initialized
+INFO - 2021-01-01 04:47:46 --> Controller Class Initialized
+DEBUG - 2021-01-01 04:47:46 --> Maps_kri MX_Controller Initialized
+DEBUG - 2021-01-01 04:47:46 --> File loaded: D:\xampp72\htdocs\app_grm\application\modules/maps_kri/models/Model.php
+INFO - 2021-01-01 10:47:46 --> Final output sent to browser
+DEBUG - 2021-01-01 10:47:46 --> Total execution time: 0.6290
+INFO - 2021-01-01 04:48:05 --> Config Class Initialized
+INFO - 2021-01-01 04:48:05 --> Hooks Class Initialized
+DEBUG - 2021-01-01 04:48:05 --> UTF-8 Support Enabled
+INFO - 2021-01-01 04:48:05 --> Utf8 Class Initialized
+INFO - 2021-01-01 04:48:05 --> URI Class Initialized
+INFO - 2021-01-01 04:48:05 --> Router Class Initialized
+INFO - 2021-01-01 04:48:05 --> Output Class Initialized
+INFO - 2021-01-01 04:48:05 --> Security Class Initialized
+DEBUG - 2021-01-01 04:48:06 --> Global POST, GET and COOKIE data sanitized
+INFO - 2021-01-01 04:48:06 --> Input Class Initialized
+INFO - 2021-01-01 04:48:06 --> Language Class Initialized
+INFO - 2021-01-01 04:48:06 --> Language Class Initialized
+INFO - 2021-01-01 04:48:06 --> Config Class Initialized
+INFO - 2021-01-01 04:48:06 --> Loader Class Initialized
+INFO - 2021-01-01 04:48:06 --> Helper loaded: url_helper
+INFO - 2021-01-01 04:48:06 --> Helper loaded: html_helper
+INFO - 2021-01-01 04:48:06 --> Helper loaded: file_helper
+INFO - 2021-01-01 04:48:06 --> Helper loaded: form_helper
+INFO - 2021-01-01 04:48:06 --> Helper loaded: security_helper
+INFO - 2021-01-01 04:48:06 --> Helper loaded: xss_helper
+INFO - 2021-01-01 04:48:06 --> Helper loaded: slug_helper
+INFO - 2021-01-01 04:48:06 --> Database Driver Class Initialized
+DEBUG - 2021-01-01 04:48:06 --> Session: "sess_save_path" is empty; using "session.save_path" value from php.ini.
+INFO - 2021-01-01 04:48:06 --> Session: Class initialized using 'files' driver.
+INFO - 2021-01-01 04:48:06 --> Language file loaded: language/english/pagination_lang.php
+INFO - 2021-01-01 04:48:06 --> Pagination Class Initialized
+INFO - 2021-01-01 04:48:06 --> Email Class Initialized
+INFO - 2021-01-01 04:48:06 --> Model "M_konfig" initialized
+INFO - 2021-01-01 04:48:06 --> Model "M_reff" initialized
+INFO - 2021-01-01 04:48:06 --> Model "M_total" initialized
+INFO - 2021-01-01 04:48:06 --> Controller Class Initialized
+DEBUG - 2021-01-01 04:48:06 --> Maps_kri MX_Controller Initialized
+DEBUG - 2021-01-01 04:48:06 --> File loaded: D:\xampp72\htdocs\app_grm\application\modules/maps_kri/models/Model.php
+DEBUG - 2021-01-01 10:48:06 --> File loaded: D:\xampp72\htdocs\app_grm\application\views\temp_maps_kri/head.php
+DEBUG - 2021-01-01 10:48:06 --> File loaded: D:\xampp72\htdocs\app_grm\application\views\temp_maps_kri/navbar.php
+DEBUG - 2021-01-01 10:48:06 --> File loaded: D:\xampp72\htdocs\app_grm\application\views\temp_maps_kri/sidebar_left.php
+DEBUG - 2021-01-01 10:48:06 --> File loaded: D:\xampp72\htdocs\app_grm\application\views\temp_maps_kri/sidebar_right.php
+DEBUG - 2021-01-01 10:48:06 --> File loaded: D:\xampp72\htdocs\app_grm\application\modules/maps_kri/views/index.php
+DEBUG - 2021-01-01 10:48:06 --> File loaded: D:\xampp72\htdocs\app_grm\application\views\temp_maps_kri/quick_bar.php
+DEBUG - 2021-01-01 10:48:06 --> File loaded: D:\xampp72\htdocs\app_grm\application\views\temp_maps_kri/toggle.php
+DEBUG - 2021-01-01 10:48:06 --> File loaded: D:\xampp72\htdocs\app_grm\application\views\temp_maps_kri/konten.php
+DEBUG - 2021-01-01 10:48:06 --> File loaded: D:\xampp72\htdocs\app_grm\application\views\temp_maps_kri/foot.php
+DEBUG - 2021-01-01 10:48:06 --> File loaded: D:\xampp72\htdocs\app_grm\application\views\temp_maps_kri/main.php
+INFO - 2021-01-01 10:48:06 --> Final output sent to browser
+DEBUG - 2021-01-01 10:48:06 --> Total execution time: 0.9175
+INFO - 2021-01-01 04:48:07 --> Config Class Initialized
+INFO - 2021-01-01 04:48:07 --> Hooks Class Initialized
+DEBUG - 2021-01-01 04:48:07 --> UTF-8 Support Enabled
+INFO - 2021-01-01 04:48:07 --> Config Class Initialized
+INFO - 2021-01-01 04:48:07 --> Hooks Class Initialized
+DEBUG - 2021-01-01 04:48:08 --> UTF-8 Support Enabled
+INFO - 2021-01-01 04:48:08 --> Utf8 Class Initialized
+INFO - 2021-01-01 04:48:08 --> URI Class Initialized
+INFO - 2021-01-01 04:48:08 --> Router Class Initialized
+INFO - 2021-01-01 04:48:08 --> Output Class Initialized
+INFO - 2021-01-01 04:48:08 --> Security Class Initialized
+DEBUG - 2021-01-01 04:48:08 --> Global POST, GET and COOKIE data sanitized
+INFO - 2021-01-01 04:48:08 --> Input Class Initialized
+INFO - 2021-01-01 04:48:08 --> Language Class Initialized
+INFO - 2021-01-01 04:48:08 --> Language Class Initialized
+INFO - 2021-01-01 04:48:08 --> Config Class Initialized
+INFO - 2021-01-01 04:48:08 --> Loader Class Initialized
+INFO - 2021-01-01 04:48:08 --> Helper loaded: url_helper
+INFO - 2021-01-01 04:48:08 --> Utf8 Class Initialized
+INFO - 2021-01-01 04:48:08 --> URI Class Initialized
+INFO - 2021-01-01 04:48:08 --> Router Class Initialized
+INFO - 2021-01-01 04:48:08 --> Output Class Initialized
+INFO - 2021-01-01 04:48:08 --> Security Class Initialized
+DEBUG - 2021-01-01 04:48:08 --> Global POST, GET and COOKIE data sanitized
+INFO - 2021-01-01 04:48:08 --> Input Class Initialized
+INFO - 2021-01-01 04:48:08 --> Language Class Initialized
+INFO - 2021-01-01 04:48:08 --> Helper loaded: html_helper
+INFO - 2021-01-01 04:48:08 --> Language Class Initialized
+INFO - 2021-01-01 04:48:08 --> Config Class Initialized
+INFO - 2021-01-01 04:48:08 --> Loader Class Initialized
+INFO - 2021-01-01 04:48:08 --> Helper loaded: url_helper
+INFO - 2021-01-01 04:48:08 --> Helper loaded: html_helper
+INFO - 2021-01-01 04:48:08 --> Helper loaded: file_helper
+INFO - 2021-01-01 04:48:08 --> Helper loaded: form_helper
+INFO - 2021-01-01 04:48:08 --> Helper loaded: security_helper
+INFO - 2021-01-01 04:48:08 --> Helper loaded: xss_helper
+INFO - 2021-01-01 04:48:08 --> Helper loaded: slug_helper
+INFO - 2021-01-01 04:48:08 --> Helper loaded: file_helper
+INFO - 2021-01-01 04:48:08 --> Database Driver Class Initialized
+DEBUG - 2021-01-01 04:48:08 --> Session: "sess_save_path" is empty; using "session.save_path" value from php.ini.
+INFO - 2021-01-01 04:48:08 --> Session: Class initialized using 'files' driver.
+INFO - 2021-01-01 04:48:08 --> Language file loaded: language/english/pagination_lang.php
+INFO - 2021-01-01 04:48:08 --> Pagination Class Initialized
+INFO - 2021-01-01 04:48:08 --> Email Class Initialized
+INFO - 2021-01-01 04:48:08 --> Model "M_konfig" initialized
+INFO - 2021-01-01 04:48:08 --> Model "M_reff" initialized
+INFO - 2021-01-01 04:48:08 --> Model "M_total" initialized
+INFO - 2021-01-01 04:48:08 --> Controller Class Initialized
+DEBUG - 2021-01-01 04:48:08 --> Maps_kri MX_Controller Initialized
+DEBUG - 2021-01-01 04:48:08 --> File loaded: D:\xampp72\htdocs\app_grm\application\modules/maps_kri/models/Model.php
+INFO - 2021-01-01 10:48:08 --> Final output sent to browser
+DEBUG - 2021-01-01 10:48:08 --> Total execution time: 0.2112
+INFO - 2021-01-01 04:48:08 --> Helper loaded: form_helper
+INFO - 2021-01-01 04:48:08 --> Helper loaded: security_helper
+INFO - 2021-01-01 04:48:08 --> Helper loaded: xss_helper
+INFO - 2021-01-01 04:48:08 --> Helper loaded: slug_helper
+INFO - 2021-01-01 04:48:08 --> Database Driver Class Initialized
+DEBUG - 2021-01-01 04:48:08 --> Session: "sess_save_path" is empty; using "session.save_path" value from php.ini.
+INFO - 2021-01-01 04:48:08 --> Session: Class initialized using 'files' driver.
+INFO - 2021-01-01 04:48:08 --> Language file loaded: language/english/pagination_lang.php
+INFO - 2021-01-01 04:48:08 --> Pagination Class Initialized
+INFO - 2021-01-01 04:48:08 --> Email Class Initialized
+INFO - 2021-01-01 04:48:08 --> Model "M_konfig" initialized
+INFO - 2021-01-01 04:48:08 --> Model "M_reff" initialized
+INFO - 2021-01-01 04:48:08 --> Model "M_total" initialized
+INFO - 2021-01-01 04:48:08 --> Controller Class Initialized
+DEBUG - 2021-01-01 04:48:08 --> File loaded: D:\xampp72\htdocs\app_grm\application\modules/apengumuman/models/Model.php
+INFO - 2021-01-01 10:48:08 --> Final output sent to browser
+DEBUG - 2021-01-01 10:48:08 --> Total execution time: 0.7123
+INFO - 2021-01-01 04:49:04 --> Config Class Initialized
+INFO - 2021-01-01 04:49:04 --> Hooks Class Initialized
+DEBUG - 2021-01-01 04:49:04 --> UTF-8 Support Enabled
+INFO - 2021-01-01 04:49:04 --> Utf8 Class Initialized
+INFO - 2021-01-01 04:49:04 --> URI Class Initialized
+INFO - 2021-01-01 04:49:04 --> Router Class Initialized
+INFO - 2021-01-01 04:49:04 --> Output Class Initialized
+INFO - 2021-01-01 04:49:04 --> Security Class Initialized
+DEBUG - 2021-01-01 04:49:05 --> Global POST, GET and COOKIE data sanitized
+INFO - 2021-01-01 04:49:05 --> Input Class Initialized
+INFO - 2021-01-01 04:49:05 --> Language Class Initialized
+INFO - 2021-01-01 04:49:05 --> Language Class Initialized
+INFO - 2021-01-01 04:49:05 --> Config Class Initialized
+INFO - 2021-01-01 04:49:05 --> Loader Class Initialized
+INFO - 2021-01-01 04:49:05 --> Helper loaded: url_helper
+INFO - 2021-01-01 04:49:05 --> Helper loaded: html_helper
+INFO - 2021-01-01 04:49:05 --> Helper loaded: file_helper
+INFO - 2021-01-01 04:49:05 --> Helper loaded: form_helper
+INFO - 2021-01-01 04:49:05 --> Helper loaded: security_helper
+INFO - 2021-01-01 04:49:05 --> Helper loaded: xss_helper
+INFO - 2021-01-01 04:49:05 --> Helper loaded: slug_helper
+INFO - 2021-01-01 04:49:05 --> Database Driver Class Initialized
+DEBUG - 2021-01-01 04:49:05 --> Session: "sess_save_path" is empty; using "session.save_path" value from php.ini.
+INFO - 2021-01-01 04:49:05 --> Session: Class initialized using 'files' driver.
+INFO - 2021-01-01 04:49:05 --> Language file loaded: language/english/pagination_lang.php
+INFO - 2021-01-01 04:49:05 --> Pagination Class Initialized
+INFO - 2021-01-01 04:49:05 --> Email Class Initialized
+INFO - 2021-01-01 04:49:05 --> Model "M_konfig" initialized
+INFO - 2021-01-01 04:49:05 --> Model "M_reff" initialized
+INFO - 2021-01-01 04:49:05 --> Model "M_total" initialized
+INFO - 2021-01-01 04:49:05 --> Controller Class Initialized
+DEBUG - 2021-01-01 04:49:05 --> Maps_kri MX_Controller Initialized
+DEBUG - 2021-01-01 04:49:05 --> File loaded: D:\xampp72\htdocs\app_grm\application\modules/maps_kri/models/Model.php
+DEBUG - 2021-01-01 10:49:05 --> File loaded: D:\xampp72\htdocs\app_grm\application\views\temp_maps_kri/head.php
+DEBUG - 2021-01-01 10:49:05 --> File loaded: D:\xampp72\htdocs\app_grm\application\views\temp_maps_kri/navbar.php
+DEBUG - 2021-01-01 10:49:05 --> File loaded: D:\xampp72\htdocs\app_grm\application\views\temp_maps_kri/sidebar_left.php
+DEBUG - 2021-01-01 10:49:05 --> File loaded: D:\xampp72\htdocs\app_grm\application\views\temp_maps_kri/sidebar_right.php
+DEBUG - 2021-01-01 10:49:05 --> File loaded: D:\xampp72\htdocs\app_grm\application\modules/maps_kri/views/index.php
+DEBUG - 2021-01-01 10:49:05 --> File loaded: D:\xampp72\htdocs\app_grm\application\views\temp_maps_kri/quick_bar.php
+DEBUG - 2021-01-01 10:49:05 --> File loaded: D:\xampp72\htdocs\app_grm\application\views\temp_maps_kri/toggle.php
+DEBUG - 2021-01-01 10:49:05 --> File loaded: D:\xampp72\htdocs\app_grm\application\views\temp_maps_kri/konten.php
+DEBUG - 2021-01-01 10:49:05 --> File loaded: D:\xampp72\htdocs\app_grm\application\views\temp_maps_kri/foot.php
+DEBUG - 2021-01-01 10:49:05 --> File loaded: D:\xampp72\htdocs\app_grm\application\views\temp_maps_kri/main.php
+INFO - 2021-01-01 10:49:05 --> Final output sent to browser
+DEBUG - 2021-01-01 10:49:05 --> Total execution time: 0.9765
+INFO - 2021-01-01 04:49:06 --> Config Class Initialized
+INFO - 2021-01-01 04:49:06 --> Hooks Class Initialized
+DEBUG - 2021-01-01 04:49:07 --> UTF-8 Support Enabled
+INFO - 2021-01-01 04:49:07 --> Utf8 Class Initialized
+INFO - 2021-01-01 04:49:07 --> URI Class Initialized
+INFO - 2021-01-01 04:49:07 --> Router Class Initialized
+INFO - 2021-01-01 04:49:07 --> Output Class Initialized
+INFO - 2021-01-01 04:49:07 --> Security Class Initialized
+DEBUG - 2021-01-01 04:49:07 --> Global POST, GET and COOKIE data sanitized
+INFO - 2021-01-01 04:49:07 --> Input Class Initialized
+INFO - 2021-01-01 04:49:07 --> Language Class Initialized
+INFO - 2021-01-01 04:49:07 --> Language Class Initialized
+INFO - 2021-01-01 04:49:07 --> Config Class Initialized
+INFO - 2021-01-01 04:49:07 --> Loader Class Initialized
+INFO - 2021-01-01 04:49:07 --> Helper loaded: url_helper
+INFO - 2021-01-01 04:49:07 --> Helper loaded: html_helper
+INFO - 2021-01-01 04:49:07 --> Helper loaded: file_helper
+INFO - 2021-01-01 04:49:07 --> Helper loaded: form_helper
+INFO - 2021-01-01 04:49:07 --> Helper loaded: security_helper
+INFO - 2021-01-01 04:49:07 --> Helper loaded: xss_helper
+INFO - 2021-01-01 04:49:07 --> Helper loaded: slug_helper
+INFO - 2021-01-01 04:49:07 --> Database Driver Class Initialized
+DEBUG - 2021-01-01 04:49:07 --> Session: "sess_save_path" is empty; using "session.save_path" value from php.ini.
+INFO - 2021-01-01 04:49:07 --> Session: Class initialized using 'files' driver.
+INFO - 2021-01-01 04:49:07 --> Language file loaded: language/english/pagination_lang.php
+INFO - 2021-01-01 04:49:07 --> Pagination Class Initialized
+INFO - 2021-01-01 04:49:07 --> Email Class Initialized
+INFO - 2021-01-01 04:49:07 --> Model "M_konfig" initialized
+INFO - 2021-01-01 04:49:07 --> Model "M_reff" initialized
+INFO - 2021-01-01 04:49:07 --> Model "M_total" initialized
+INFO - 2021-01-01 04:49:07 --> Config Class Initialized
+INFO - 2021-01-01 04:49:07 --> Hooks Class Initialized
+DEBUG - 2021-01-01 04:49:07 --> UTF-8 Support Enabled
+INFO - 2021-01-01 04:49:07 --> Utf8 Class Initialized
+INFO - 2021-01-01 04:49:07 --> URI Class Initialized
+INFO - 2021-01-01 04:49:07 --> Router Class Initialized
+INFO - 2021-01-01 04:49:07 --> Output Class Initialized
+INFO - 2021-01-01 04:49:07 --> Security Class Initialized
+DEBUG - 2021-01-01 04:49:07 --> Global POST, GET and COOKIE data sanitized
+INFO - 2021-01-01 04:49:07 --> Input Class Initialized
+INFO - 2021-01-01 04:49:07 --> Language Class Initialized
+INFO - 2021-01-01 04:49:07 --> Language Class Initialized
+INFO - 2021-01-01 04:49:07 --> Config Class Initialized
+INFO - 2021-01-01 04:49:07 --> Loader Class Initialized
+INFO - 2021-01-01 04:49:07 --> Helper loaded: url_helper
+INFO - 2021-01-01 04:49:07 --> Helper loaded: html_helper
+INFO - 2021-01-01 04:49:07 --> Helper loaded: file_helper
+INFO - 2021-01-01 04:49:07 --> Helper loaded: form_helper
+INFO - 2021-01-01 04:49:07 --> Helper loaded: security_helper
+INFO - 2021-01-01 04:49:07 --> Helper loaded: xss_helper
+INFO - 2021-01-01 04:49:07 --> Helper loaded: slug_helper
+INFO - 2021-01-01 04:49:07 --> Controller Class Initialized
+INFO - 2021-01-01 04:49:07 --> Database Driver Class Initialized
+DEBUG - 2021-01-01 04:49:07 --> Session: "sess_save_path" is empty; using "session.save_path" value from php.ini.
+DEBUG - 2021-01-01 04:49:08 --> File loaded: D:\xampp72\htdocs\app_grm\application\modules/apengumuman/models/Model.php
+INFO - 2021-01-01 10:49:08 --> Final output sent to browser
+DEBUG - 2021-01-01 10:49:08 --> Total execution time: 1.0733
+INFO - 2021-01-01 04:49:08 --> Session: Class initialized using 'files' driver.
+INFO - 2021-01-01 04:49:08 --> Language file loaded: language/english/pagination_lang.php
+INFO - 2021-01-01 04:49:08 --> Pagination Class Initialized
+INFO - 2021-01-01 04:49:08 --> Email Class Initialized
+INFO - 2021-01-01 04:49:08 --> Model "M_konfig" initialized
+INFO - 2021-01-01 04:49:08 --> Model "M_reff" initialized
+INFO - 2021-01-01 04:49:08 --> Model "M_total" initialized
+INFO - 2021-01-01 04:49:08 --> Controller Class Initialized
+DEBUG - 2021-01-01 04:49:08 --> Maps_kri MX_Controller Initialized
+DEBUG - 2021-01-01 04:49:08 --> File loaded: D:\xampp72\htdocs\app_grm\application\modules/maps_kri/models/Model.php
+INFO - 2021-01-01 10:49:08 --> Final output sent to browser
+DEBUG - 2021-01-01 10:49:08 --> Total execution time: 0.5172
+INFO - 2021-01-01 04:52:56 --> Config Class Initialized
+INFO - 2021-01-01 04:52:56 --> Hooks Class Initialized
+DEBUG - 2021-01-01 04:52:56 --> UTF-8 Support Enabled
+INFO - 2021-01-01 04:52:56 --> Utf8 Class Initialized
+INFO - 2021-01-01 04:52:56 --> URI Class Initialized
+INFO - 2021-01-01 04:52:56 --> Router Class Initialized
+INFO - 2021-01-01 04:52:56 --> Output Class Initialized
+INFO - 2021-01-01 04:52:56 --> Security Class Initialized
+DEBUG - 2021-01-01 04:52:56 --> Global POST, GET and COOKIE data sanitized
+INFO - 2021-01-01 04:52:56 --> Input Class Initialized
+INFO - 2021-01-01 04:52:56 --> Language Class Initialized
+INFO - 2021-01-01 04:52:56 --> Language Class Initialized
+INFO - 2021-01-01 04:52:56 --> Config Class Initialized
+INFO - 2021-01-01 04:52:56 --> Loader Class Initialized
+INFO - 2021-01-01 04:52:56 --> Helper loaded: url_helper
+INFO - 2021-01-01 04:52:56 --> Helper loaded: html_helper
+INFO - 2021-01-01 04:52:57 --> Helper loaded: file_helper
+INFO - 2021-01-01 04:52:57 --> Helper loaded: form_helper
+INFO - 2021-01-01 04:52:57 --> Helper loaded: security_helper
+INFO - 2021-01-01 04:52:57 --> Helper loaded: xss_helper
+INFO - 2021-01-01 04:52:57 --> Helper loaded: slug_helper
+INFO - 2021-01-01 04:52:57 --> Database Driver Class Initialized
+DEBUG - 2021-01-01 04:52:57 --> Session: "sess_save_path" is empty; using "session.save_path" value from php.ini.
+INFO - 2021-01-01 04:52:57 --> Session: Class initialized using 'files' driver.
+INFO - 2021-01-01 04:52:57 --> Language file loaded: language/english/pagination_lang.php
+INFO - 2021-01-01 04:52:57 --> Pagination Class Initialized
+INFO - 2021-01-01 04:52:57 --> Email Class Initialized
+INFO - 2021-01-01 04:52:57 --> Model "M_konfig" initialized
+INFO - 2021-01-01 04:52:57 --> Model "M_reff" initialized
+INFO - 2021-01-01 04:52:57 --> Model "M_total" initialized
+INFO - 2021-01-01 04:52:57 --> Controller Class Initialized
+DEBUG - 2021-01-01 04:52:57 --> Maps_kri MX_Controller Initialized
+DEBUG - 2021-01-01 04:52:57 --> File loaded: D:\xampp72\htdocs\app_grm\application\modules/maps_kri/models/Model.php
+DEBUG - 2021-01-01 10:52:57 --> File loaded: D:\xampp72\htdocs\app_grm\application\views\temp_maps_kri/head.php
+DEBUG - 2021-01-01 10:52:57 --> File loaded: D:\xampp72\htdocs\app_grm\application\views\temp_maps_kri/navbar.php
+DEBUG - 2021-01-01 10:52:57 --> File loaded: D:\xampp72\htdocs\app_grm\application\views\temp_maps_kri/sidebar_left.php
+DEBUG - 2021-01-01 10:52:57 --> File loaded: D:\xampp72\htdocs\app_grm\application\views\temp_maps_kri/sidebar_right.php
+DEBUG - 2021-01-01 10:52:57 --> File loaded: D:\xampp72\htdocs\app_grm\application\modules/maps_kri/views/index.php
+DEBUG - 2021-01-01 10:52:57 --> File loaded: D:\xampp72\htdocs\app_grm\application\views\temp_maps_kri/quick_bar.php
+DEBUG - 2021-01-01 10:52:57 --> File loaded: D:\xampp72\htdocs\app_grm\application\views\temp_maps_kri/toggle.php
+DEBUG - 2021-01-01 10:52:57 --> File loaded: D:\xampp72\htdocs\app_grm\application\views\temp_maps_kri/konten.php
+DEBUG - 2021-01-01 10:52:57 --> File loaded: D:\xampp72\htdocs\app_grm\application\views\temp_maps_kri/foot.php
+DEBUG - 2021-01-01 10:52:57 --> File loaded: D:\xampp72\htdocs\app_grm\application\views\temp_maps_kri/main.php
+INFO - 2021-01-01 10:52:57 --> Final output sent to browser
+DEBUG - 2021-01-01 10:52:57 --> Total execution time: 0.9698
+INFO - 2021-01-01 04:52:59 --> Config Class Initialized
+INFO - 2021-01-01 04:52:59 --> Hooks Class Initialized
+DEBUG - 2021-01-01 04:52:59 --> UTF-8 Support Enabled
+INFO - 2021-01-01 04:52:59 --> Utf8 Class Initialized
+INFO - 2021-01-01 04:52:59 --> URI Class Initialized
+INFO - 2021-01-01 04:52:59 --> Router Class Initialized
+INFO - 2021-01-01 04:52:59 --> Output Class Initialized
+INFO - 2021-01-01 04:52:59 --> Security Class Initialized
+DEBUG - 2021-01-01 04:52:59 --> Global POST, GET and COOKIE data sanitized
+INFO - 2021-01-01 04:52:59 --> Input Class Initialized
+INFO - 2021-01-01 04:52:59 --> Language Class Initialized
+INFO - 2021-01-01 04:52:59 --> Language Class Initialized
+INFO - 2021-01-01 04:52:59 --> Config Class Initialized
+INFO - 2021-01-01 04:52:59 --> Loader Class Initialized
+INFO - 2021-01-01 04:52:59 --> Helper loaded: url_helper
+INFO - 2021-01-01 04:52:59 --> Helper loaded: html_helper
+INFO - 2021-01-01 04:52:59 --> Helper loaded: file_helper
+INFO - 2021-01-01 04:52:59 --> Helper loaded: form_helper
+INFO - 2021-01-01 04:52:59 --> Helper loaded: security_helper
+INFO - 2021-01-01 04:52:59 --> Helper loaded: xss_helper
+INFO - 2021-01-01 04:53:00 --> Helper loaded: slug_helper
+INFO - 2021-01-01 04:53:00 --> Database Driver Class Initialized
+DEBUG - 2021-01-01 04:53:00 --> Session: "sess_save_path" is empty; using "session.save_path" value from php.ini.
+INFO - 2021-01-01 04:53:00 --> Session: Class initialized using 'files' driver.
+INFO - 2021-01-01 04:53:00 --> Language file loaded: language/english/pagination_lang.php
+INFO - 2021-01-01 04:53:00 --> Pagination Class Initialized
+INFO - 2021-01-01 04:53:00 --> Email Class Initialized
+INFO - 2021-01-01 04:53:00 --> Model "M_konfig" initialized
+INFO - 2021-01-01 04:53:00 --> Model "M_reff" initialized
+INFO - 2021-01-01 04:53:00 --> Model "M_total" initialized
+INFO - 2021-01-01 04:53:00 --> Controller Class Initialized
+DEBUG - 2021-01-01 04:53:00 --> File loaded: D:\xampp72\htdocs\app_grm\application\modules/apengumuman/models/Model.php
+INFO - 2021-01-01 10:53:00 --> Final output sent to browser
+DEBUG - 2021-01-01 10:53:00 --> Total execution time: 1.1820
+INFO - 2021-01-01 04:53:02 --> Config Class Initialized
+INFO - 2021-01-01 04:53:02 --> Hooks Class Initialized
+DEBUG - 2021-01-01 04:53:02 --> UTF-8 Support Enabled
+INFO - 2021-01-01 04:53:02 --> Utf8 Class Initialized
+INFO - 2021-01-01 04:53:02 --> URI Class Initialized
+INFO - 2021-01-01 04:53:02 --> Router Class Initialized
+INFO - 2021-01-01 04:53:02 --> Output Class Initialized
+INFO - 2021-01-01 04:53:02 --> Security Class Initialized
+DEBUG - 2021-01-01 04:53:02 --> Global POST, GET and COOKIE data sanitized
+INFO - 2021-01-01 04:53:02 --> Input Class Initialized
+INFO - 2021-01-01 04:53:02 --> Language Class Initialized
+INFO - 2021-01-01 04:53:02 --> Language Class Initialized
+INFO - 2021-01-01 04:53:02 --> Config Class Initialized
+INFO - 2021-01-01 04:53:02 --> Loader Class Initialized
+INFO - 2021-01-01 04:53:02 --> Helper loaded: url_helper
+INFO - 2021-01-01 04:53:02 --> Helper loaded: html_helper
+INFO - 2021-01-01 04:53:02 --> Helper loaded: file_helper
+INFO - 2021-01-01 04:53:02 --> Helper loaded: form_helper
+INFO - 2021-01-01 04:53:02 --> Helper loaded: security_helper
+INFO - 2021-01-01 04:53:02 --> Helper loaded: xss_helper
+INFO - 2021-01-01 04:53:02 --> Helper loaded: slug_helper
+INFO - 2021-01-01 04:53:02 --> Config Class Initialized
+INFO - 2021-01-01 04:53:02 --> Hooks Class Initialized
+DEBUG - 2021-01-01 04:53:02 --> UTF-8 Support Enabled
+INFO - 2021-01-01 04:53:02 --> Utf8 Class Initialized
+INFO - 2021-01-01 04:53:02 --> URI Class Initialized
+INFO - 2021-01-01 04:53:02 --> Router Class Initialized
+INFO - 2021-01-01 04:53:02 --> Output Class Initialized
+INFO - 2021-01-01 04:53:02 --> Security Class Initialized
+DEBUG - 2021-01-01 04:53:02 --> Global POST, GET and COOKIE data sanitized
+INFO - 2021-01-01 04:53:02 --> Input Class Initialized
+INFO - 2021-01-01 04:53:02 --> Language Class Initialized
+ERROR - 2021-01-01 04:53:02 --> 404 Page Not Found: /index
+INFO - 2021-01-01 04:53:02 --> Database Driver Class Initialized
+DEBUG - 2021-01-01 04:53:02 --> Session: "sess_save_path" is empty; using "session.save_path" value from php.ini.
+INFO - 2021-01-01 04:53:02 --> Session: Class initialized using 'files' driver.
+INFO - 2021-01-01 04:53:02 --> Language file loaded: language/english/pagination_lang.php
+INFO - 2021-01-01 04:53:02 --> Pagination Class Initialized
+INFO - 2021-01-01 04:53:02 --> Email Class Initialized
+INFO - 2021-01-01 04:53:02 --> Model "M_konfig" initialized
+INFO - 2021-01-01 04:53:02 --> Model "M_reff" initialized
+INFO - 2021-01-01 04:53:03 --> Model "M_total" initialized
+INFO - 2021-01-01 04:53:03 --> Controller Class Initialized
+DEBUG - 2021-01-01 04:53:03 --> Maps_kri MX_Controller Initialized
+DEBUG - 2021-01-01 04:53:03 --> File loaded: D:\xampp72\htdocs\app_grm\application\modules/maps_kri/models/Model.php
+INFO - 2021-01-01 10:53:03 --> Final output sent to browser
+DEBUG - 2021-01-01 10:53:03 --> Total execution time: 1.0301
+INFO - 2021-01-01 04:53:04 --> Config Class Initialized
+INFO - 2021-01-01 04:53:04 --> Hooks Class Initialized
+DEBUG - 2021-01-01 04:53:04 --> UTF-8 Support Enabled
+INFO - 2021-01-01 04:53:04 --> Utf8 Class Initialized
+INFO - 2021-01-01 04:53:04 --> URI Class Initialized
+INFO - 2021-01-01 04:53:04 --> Router Class Initialized
+INFO - 2021-01-01 04:53:04 --> Output Class Initialized
+INFO - 2021-01-01 04:53:04 --> Security Class Initialized
+DEBUG - 2021-01-01 04:53:04 --> Global POST, GET and COOKIE data sanitized
+INFO - 2021-01-01 04:53:04 --> Input Class Initialized
+INFO - 2021-01-01 04:53:04 --> Language Class Initialized
+INFO - 2021-01-01 04:53:04 --> Language Class Initialized
+INFO - 2021-01-01 04:53:04 --> Config Class Initialized
+INFO - 2021-01-01 04:53:04 --> Loader Class Initialized
+INFO - 2021-01-01 04:53:04 --> Helper loaded: url_helper
+INFO - 2021-01-01 04:53:04 --> Helper loaded: html_helper
+INFO - 2021-01-01 04:53:04 --> Helper loaded: file_helper
+INFO - 2021-01-01 04:53:04 --> Helper loaded: form_helper
+INFO - 2021-01-01 04:53:04 --> Helper loaded: security_helper
+INFO - 2021-01-01 04:53:04 --> Helper loaded: xss_helper
+INFO - 2021-01-01 04:53:04 --> Helper loaded: slug_helper
+INFO - 2021-01-01 04:53:04 --> Database Driver Class Initialized
+DEBUG - 2021-01-01 04:53:04 --> Session: "sess_save_path" is empty; using "session.save_path" value from php.ini.
+INFO - 2021-01-01 04:53:04 --> Session: Class initialized using 'files' driver.
+INFO - 2021-01-01 04:53:04 --> Language file loaded: language/english/pagination_lang.php
+INFO - 2021-01-01 04:53:04 --> Pagination Class Initialized
+INFO - 2021-01-01 04:53:04 --> Email Class Initialized
+INFO - 2021-01-01 04:53:04 --> Model "M_konfig" initialized
+INFO - 2021-01-01 04:53:04 --> Model "M_reff" initialized
+INFO - 2021-01-01 04:53:05 --> Model "M_total" initialized
+INFO - 2021-01-01 04:53:05 --> Controller Class Initialized
+DEBUG - 2021-01-01 04:53:05 --> File loaded: D:\xampp72\htdocs\app_grm\application\modules/apengumuman/models/Model.php
+INFO - 2021-01-01 10:53:05 --> Final output sent to browser
+DEBUG - 2021-01-01 10:53:05 --> Total execution time: 1.0189
+INFO - 2021-01-01 04:53:08 --> Config Class Initialized
+INFO - 2021-01-01 04:53:08 --> Hooks Class Initialized
+DEBUG - 2021-01-01 04:53:08 --> UTF-8 Support Enabled
+INFO - 2021-01-01 04:53:09 --> Utf8 Class Initialized
+INFO - 2021-01-01 04:53:09 --> URI Class Initialized
+INFO - 2021-01-01 04:53:09 --> Router Class Initialized
+INFO - 2021-01-01 04:53:09 --> Output Class Initialized
+INFO - 2021-01-01 04:53:09 --> Security Class Initialized
+DEBUG - 2021-01-01 04:53:09 --> Global POST, GET and COOKIE data sanitized
+INFO - 2021-01-01 04:53:09 --> Input Class Initialized
+INFO - 2021-01-01 04:53:09 --> Language Class Initialized
+INFO - 2021-01-01 04:53:09 --> Language Class Initialized
+INFO - 2021-01-01 04:53:09 --> Config Class Initialized
+INFO - 2021-01-01 04:53:09 --> Loader Class Initialized
+INFO - 2021-01-01 04:53:09 --> Helper loaded: url_helper
+INFO - 2021-01-01 04:53:09 --> Helper loaded: html_helper
+INFO - 2021-01-01 04:53:09 --> Helper loaded: file_helper
+INFO - 2021-01-01 04:53:09 --> Helper loaded: form_helper
+INFO - 2021-01-01 04:53:09 --> Helper loaded: security_helper
+INFO - 2021-01-01 04:53:09 --> Helper loaded: xss_helper
+INFO - 2021-01-01 04:53:09 --> Helper loaded: slug_helper
+INFO - 2021-01-01 04:53:09 --> Database Driver Class Initialized
+DEBUG - 2021-01-01 04:53:09 --> Session: "sess_save_path" is empty; using "session.save_path" value from php.ini.
+INFO - 2021-01-01 04:53:09 --> Session: Class initialized using 'files' driver.
+INFO - 2021-01-01 04:53:09 --> Language file loaded: language/english/pagination_lang.php
+INFO - 2021-01-01 04:53:09 --> Pagination Class Initialized
+INFO - 2021-01-01 04:53:09 --> Email Class Initialized
+INFO - 2021-01-01 04:53:09 --> Model "M_konfig" initialized
+INFO - 2021-01-01 04:53:09 --> Model "M_reff" initialized
+INFO - 2021-01-01 04:53:09 --> Model "M_total" initialized
+INFO - 2021-01-01 04:53:09 --> Controller Class Initialized
+DEBUG - 2021-01-01 04:53:09 --> File loaded: D:\xampp72\htdocs\app_grm\application\modules/apengumuman/models/Model.php
+INFO - 2021-01-01 10:53:09 --> Final output sent to browser
+DEBUG - 2021-01-01 10:53:09 --> Total execution time: 0.6166
+INFO - 2021-01-01 04:53:13 --> Config Class Initialized
+INFO - 2021-01-01 04:53:13 --> Hooks Class Initialized
+DEBUG - 2021-01-01 04:53:13 --> UTF-8 Support Enabled
+INFO - 2021-01-01 04:53:13 --> Utf8 Class Initialized
+INFO - 2021-01-01 04:53:14 --> URI Class Initialized
+INFO - 2021-01-01 04:53:14 --> Router Class Initialized
+INFO - 2021-01-01 04:53:14 --> Output Class Initialized
+INFO - 2021-01-01 04:53:14 --> Security Class Initialized
+DEBUG - 2021-01-01 04:53:14 --> Global POST, GET and COOKIE data sanitized
+INFO - 2021-01-01 04:53:14 --> Input Class Initialized
+INFO - 2021-01-01 04:53:14 --> Language Class Initialized
+INFO - 2021-01-01 04:53:14 --> Language Class Initialized
+INFO - 2021-01-01 04:53:14 --> Config Class Initialized
+INFO - 2021-01-01 04:53:14 --> Loader Class Initialized
+INFO - 2021-01-01 04:53:14 --> Helper loaded: url_helper
+INFO - 2021-01-01 04:53:14 --> Helper loaded: html_helper
+INFO - 2021-01-01 04:53:14 --> Helper loaded: file_helper
+INFO - 2021-01-01 04:53:14 --> Helper loaded: form_helper
+INFO - 2021-01-01 04:53:14 --> Helper loaded: security_helper
+INFO - 2021-01-01 04:53:14 --> Helper loaded: xss_helper
+INFO - 2021-01-01 04:53:14 --> Helper loaded: slug_helper
+INFO - 2021-01-01 04:53:14 --> Database Driver Class Initialized
+DEBUG - 2021-01-01 04:53:14 --> Session: "sess_save_path" is empty; using "session.save_path" value from php.ini.
+INFO - 2021-01-01 04:53:14 --> Session: Class initialized using 'files' driver.
+INFO - 2021-01-01 04:53:14 --> Language file loaded: language/english/pagination_lang.php
+INFO - 2021-01-01 04:53:14 --> Pagination Class Initialized
+INFO - 2021-01-01 04:53:14 --> Email Class Initialized
+INFO - 2021-01-01 04:53:14 --> Model "M_konfig" initialized
+INFO - 2021-01-01 04:53:14 --> Model "M_reff" initialized
+INFO - 2021-01-01 04:53:14 --> Model "M_total" initialized
+INFO - 2021-01-01 04:53:14 --> Controller Class Initialized
+DEBUG - 2021-01-01 04:53:14 --> File loaded: D:\xampp72\htdocs\app_grm\application\modules/apengumuman/models/Model.php
+INFO - 2021-01-01 10:53:14 --> Final output sent to browser
+DEBUG - 2021-01-01 10:53:14 --> Total execution time: 0.7169
+INFO - 2021-01-01 04:53:23 --> Config Class Initialized
+INFO - 2021-01-01 04:53:23 --> Hooks Class Initialized
+DEBUG - 2021-01-01 04:53:23 --> UTF-8 Support Enabled
+INFO - 2021-01-01 04:53:23 --> Utf8 Class Initialized
+INFO - 2021-01-01 04:53:23 --> URI Class Initialized
+INFO - 2021-01-01 04:53:23 --> Router Class Initialized
+INFO - 2021-01-01 04:53:23 --> Output Class Initialized
+INFO - 2021-01-01 04:53:23 --> Security Class Initialized
+DEBUG - 2021-01-01 04:53:23 --> Global POST, GET and COOKIE data sanitized
+INFO - 2021-01-01 04:53:23 --> Input Class Initialized
+INFO - 2021-01-01 04:53:23 --> Language Class Initialized
+INFO - 2021-01-01 04:53:23 --> Language Class Initialized
+INFO - 2021-01-01 04:53:23 --> Config Class Initialized
+INFO - 2021-01-01 04:53:23 --> Loader Class Initialized
+INFO - 2021-01-01 04:53:23 --> Helper loaded: url_helper
+INFO - 2021-01-01 04:53:23 --> Helper loaded: html_helper
+INFO - 2021-01-01 04:53:23 --> Helper loaded: file_helper
+INFO - 2021-01-01 04:53:23 --> Helper loaded: form_helper
+INFO - 2021-01-01 04:53:23 --> Helper loaded: security_helper
+INFO - 2021-01-01 04:53:23 --> Helper loaded: xss_helper
+INFO - 2021-01-01 04:53:23 --> Helper loaded: slug_helper
+INFO - 2021-01-01 04:53:23 --> Database Driver Class Initialized
+DEBUG - 2021-01-01 04:53:23 --> Session: "sess_save_path" is empty; using "session.save_path" value from php.ini.
+INFO - 2021-01-01 04:53:23 --> Session: Class initialized using 'files' driver.
+INFO - 2021-01-01 04:53:23 --> Language file loaded: language/english/pagination_lang.php
+INFO - 2021-01-01 04:53:23 --> Pagination Class Initialized
+INFO - 2021-01-01 04:53:23 --> Email Class Initialized
+INFO - 2021-01-01 04:53:23 --> Model "M_konfig" initialized
+INFO - 2021-01-01 04:53:23 --> Model "M_reff" initialized
+INFO - 2021-01-01 04:53:23 --> Model "M_total" initialized
+INFO - 2021-01-01 04:53:23 --> Controller Class Initialized
+DEBUG - 2021-01-01 04:53:23 --> File loaded: D:\xampp72\htdocs\app_grm\application\modules/apengumuman/models/Model.php
+INFO - 2021-01-01 10:53:24 --> Final output sent to browser
+DEBUG - 2021-01-01 10:53:24 --> Total execution time: 0.7854
+INFO - 2021-01-01 04:53:24 --> Config Class Initialized
+INFO - 2021-01-01 04:53:24 --> Hooks Class Initialized
+DEBUG - 2021-01-01 04:53:24 --> UTF-8 Support Enabled
+INFO - 2021-01-01 04:53:24 --> Utf8 Class Initialized
+INFO - 2021-01-01 04:53:24 --> URI Class Initialized
+INFO - 2021-01-01 04:53:24 --> Router Class Initialized
+INFO - 2021-01-01 04:53:24 --> Output Class Initialized
+INFO - 2021-01-01 04:53:24 --> Security Class Initialized
+DEBUG - 2021-01-01 04:53:24 --> Global POST, GET and COOKIE data sanitized
+INFO - 2021-01-01 04:53:24 --> Input Class Initialized
+INFO - 2021-01-01 04:53:24 --> Language Class Initialized
+INFO - 2021-01-01 04:53:24 --> Language Class Initialized
+INFO - 2021-01-01 04:53:24 --> Config Class Initialized
+INFO - 2021-01-01 04:53:24 --> Loader Class Initialized
+INFO - 2021-01-01 04:53:24 --> Helper loaded: url_helper
+INFO - 2021-01-01 04:53:24 --> Helper loaded: html_helper
+INFO - 2021-01-01 04:53:24 --> Helper loaded: file_helper
+INFO - 2021-01-01 04:53:24 --> Helper loaded: form_helper
+INFO - 2021-01-01 04:53:24 --> Helper loaded: security_helper
+INFO - 2021-01-01 04:53:25 --> Helper loaded: xss_helper
+INFO - 2021-01-01 04:53:25 --> Helper loaded: slug_helper
+INFO - 2021-01-01 04:53:25 --> Database Driver Class Initialized
+DEBUG - 2021-01-01 04:53:25 --> Session: "sess_save_path" is empty; using "session.save_path" value from php.ini.
+INFO - 2021-01-01 04:53:25 --> Session: Class initialized using 'files' driver.
+INFO - 2021-01-01 04:53:25 --> Language file loaded: language/english/pagination_lang.php
+INFO - 2021-01-01 04:53:25 --> Pagination Class Initialized
+INFO - 2021-01-01 04:53:25 --> Email Class Initialized
+INFO - 2021-01-01 04:53:25 --> Model "M_konfig" initialized
+INFO - 2021-01-01 04:53:25 --> Model "M_reff" initialized
+INFO - 2021-01-01 04:53:25 --> Model "M_total" initialized
+INFO - 2021-01-01 04:53:25 --> Controller Class Initialized
+DEBUG - 2021-01-01 04:53:25 --> Maps_kri MX_Controller Initialized
+DEBUG - 2021-01-01 04:53:25 --> File loaded: D:\xampp72\htdocs\app_grm\application\modules/maps_kri/models/Model.php
+DEBUG - 2021-01-01 10:53:25 --> File loaded: D:\xampp72\htdocs\app_grm\application\views\temp_maps_kri/head.php
+DEBUG - 2021-01-01 10:53:25 --> File loaded: D:\xampp72\htdocs\app_grm\application\views\temp_maps_kri/navbar.php
+DEBUG - 2021-01-01 10:53:25 --> File loaded: D:\xampp72\htdocs\app_grm\application\views\temp_maps_kri/sidebar_left.php
+DEBUG - 2021-01-01 10:53:25 --> File loaded: D:\xampp72\htdocs\app_grm\application\views\temp_maps_kri/sidebar_right.php
+DEBUG - 2021-01-01 10:53:25 --> File loaded: D:\xampp72\htdocs\app_grm\application\modules/maps_kri/views/index.php
+DEBUG - 2021-01-01 10:53:25 --> File loaded: D:\xampp72\htdocs\app_grm\application\views\temp_maps_kri/quick_bar.php
+DEBUG - 2021-01-01 10:53:25 --> File loaded: D:\xampp72\htdocs\app_grm\application\views\temp_maps_kri/toggle.php
+DEBUG - 2021-01-01 10:53:25 --> File loaded: D:\xampp72\htdocs\app_grm\application\views\temp_maps_kri/konten.php
+DEBUG - 2021-01-01 10:53:25 --> File loaded: D:\xampp72\htdocs\app_grm\application\views\temp_maps_kri/foot.php
+DEBUG - 2021-01-01 10:53:25 --> File loaded: D:\xampp72\htdocs\app_grm\application\views\temp_maps_kri/main.php
+INFO - 2021-01-01 10:53:25 --> Final output sent to browser
+DEBUG - 2021-01-01 10:53:25 --> Total execution time: 1.0043
+INFO - 2021-01-01 04:53:27 --> Config Class Initialized
+INFO - 2021-01-01 04:53:27 --> Hooks Class Initialized
+DEBUG - 2021-01-01 04:53:28 --> UTF-8 Support Enabled
+INFO - 2021-01-01 04:53:28 --> Utf8 Class Initialized
+INFO - 2021-01-01 04:53:28 --> URI Class Initialized
+INFO - 2021-01-01 04:53:28 --> Router Class Initialized
+INFO - 2021-01-01 04:53:28 --> Output Class Initialized
+INFO - 2021-01-01 04:53:28 --> Security Class Initialized
+DEBUG - 2021-01-01 04:53:28 --> Global POST, GET and COOKIE data sanitized
+INFO - 2021-01-01 04:53:28 --> Input Class Initialized
+INFO - 2021-01-01 04:53:28 --> Language Class Initialized
+INFO - 2021-01-01 04:53:28 --> Config Class Initialized
+INFO - 2021-01-01 04:53:28 --> Hooks Class Initialized
+DEBUG - 2021-01-01 04:53:28 --> UTF-8 Support Enabled
+INFO - 2021-01-01 04:53:28 --> Utf8 Class Initialized
+INFO - 2021-01-01 04:53:28 --> URI Class Initialized
+INFO - 2021-01-01 04:53:28 --> Router Class Initialized
+INFO - 2021-01-01 04:53:28 --> Config Class Initialized
+INFO - 2021-01-01 04:53:28 --> Hooks Class Initialized
+INFO - 2021-01-01 04:53:28 --> Output Class Initialized
+DEBUG - 2021-01-01 04:53:28 --> UTF-8 Support Enabled
+INFO - 2021-01-01 04:53:28 --> Utf8 Class Initialized
+INFO - 2021-01-01 04:53:28 --> Security Class Initialized
+INFO - 2021-01-01 04:53:28 --> URI Class Initialized
+INFO - 2021-01-01 04:53:28 --> Router Class Initialized
+DEBUG - 2021-01-01 04:53:28 --> Global POST, GET and COOKIE data sanitized
+INFO - 2021-01-01 04:53:28 --> Input Class Initialized
+INFO - 2021-01-01 04:53:28 --> Output Class Initialized
+INFO - 2021-01-01 04:53:28 --> Language Class Initialized
+INFO - 2021-01-01 04:53:28 --> Security Class Initialized
+ERROR - 2021-01-01 04:53:28 --> 404 Page Not Found: /index
+DEBUG - 2021-01-01 04:53:28 --> Global POST, GET and COOKIE data sanitized
+INFO - 2021-01-01 04:53:28 --> Input Class Initialized
+INFO - 2021-01-01 04:53:28 --> Language Class Initialized
+INFO - 2021-01-01 04:53:28 --> Language Class Initialized
+INFO - 2021-01-01 04:53:28 --> Config Class Initialized
+INFO - 2021-01-01 04:53:28 --> Loader Class Initialized
+INFO - 2021-01-01 04:53:28 --> Helper loaded: url_helper
+INFO - 2021-01-01 04:53:28 --> Helper loaded: html_helper
+INFO - 2021-01-01 04:53:28 --> Helper loaded: file_helper
+INFO - 2021-01-01 04:53:28 --> Helper loaded: form_helper
+INFO - 2021-01-01 04:53:28 --> Helper loaded: security_helper
+INFO - 2021-01-01 04:53:28 --> Helper loaded: xss_helper
+INFO - 2021-01-01 04:53:28 --> Helper loaded: slug_helper
+INFO - 2021-01-01 04:53:28 --> Language Class Initialized
+INFO - 2021-01-01 04:53:28 --> Config Class Initialized
+INFO - 2021-01-01 04:53:28 --> Loader Class Initialized
+INFO - 2021-01-01 04:53:28 --> Database Driver Class Initialized
+DEBUG - 2021-01-01 04:53:28 --> Session: "sess_save_path" is empty; using "session.save_path" value from php.ini.
+INFO - 2021-01-01 04:53:28 --> Session: Class initialized using 'files' driver.
+INFO - 2021-01-01 04:53:28 --> Language file loaded: language/english/pagination_lang.php
+INFO - 2021-01-01 04:53:28 --> Pagination Class Initialized
+INFO - 2021-01-01 04:53:28 --> Email Class Initialized
+INFO - 2021-01-01 04:53:28 --> Model "M_konfig" initialized
+INFO - 2021-01-01 04:53:28 --> Model "M_reff" initialized
+INFO - 2021-01-01 04:53:28 --> Model "M_total" initialized
+INFO - 2021-01-01 04:53:28 --> Controller Class Initialized
+DEBUG - 2021-01-01 04:53:28 --> Maps_kri MX_Controller Initialized
+DEBUG - 2021-01-01 04:53:28 --> File loaded: D:\xampp72\htdocs\app_grm\application\modules/maps_kri/models/Model.php
+INFO - 2021-01-01 10:53:28 --> Final output sent to browser
+DEBUG - 2021-01-01 10:53:28 --> Total execution time: 0.2088
+INFO - 2021-01-01 04:53:28 --> Helper loaded: url_helper
+INFO - 2021-01-01 04:53:28 --> Helper loaded: html_helper
+INFO - 2021-01-01 04:53:28 --> Helper loaded: file_helper
+INFO - 2021-01-01 04:53:28 --> Helper loaded: form_helper
+INFO - 2021-01-01 04:53:28 --> Helper loaded: security_helper
+INFO - 2021-01-01 04:53:28 --> Helper loaded: xss_helper
+INFO - 2021-01-01 04:53:28 --> Helper loaded: slug_helper
+INFO - 2021-01-01 04:53:28 --> Database Driver Class Initialized
+DEBUG - 2021-01-01 04:53:28 --> Session: "sess_save_path" is empty; using "session.save_path" value from php.ini.
+INFO - 2021-01-01 04:53:29 --> Session: Class initialized using 'files' driver.
+INFO - 2021-01-01 04:53:29 --> Language file loaded: language/english/pagination_lang.php
+INFO - 2021-01-01 04:53:29 --> Pagination Class Initialized
+INFO - 2021-01-01 04:53:29 --> Email Class Initialized
+INFO - 2021-01-01 04:53:29 --> Model "M_konfig" initialized
+INFO - 2021-01-01 04:53:29 --> Model "M_reff" initialized
+INFO - 2021-01-01 04:53:29 --> Model "M_total" initialized
+INFO - 2021-01-01 04:53:29 --> Controller Class Initialized
+DEBUG - 2021-01-01 04:53:29 --> File loaded: D:\xampp72\htdocs\app_grm\application\modules/apengumuman/models/Model.php
+INFO - 2021-01-01 10:53:29 --> Final output sent to browser
+DEBUG - 2021-01-01 10:53:29 --> Total execution time: 1.3713
+INFO - 2021-01-01 04:53:31 --> Config Class Initialized
+INFO - 2021-01-01 04:53:31 --> Hooks Class Initialized
+DEBUG - 2021-01-01 04:53:31 --> UTF-8 Support Enabled
+INFO - 2021-01-01 04:53:31 --> Utf8 Class Initialized
+INFO - 2021-01-01 04:53:31 --> URI Class Initialized
+INFO - 2021-01-01 04:53:32 --> Router Class Initialized
+INFO - 2021-01-01 04:53:32 --> Output Class Initialized
+INFO - 2021-01-01 04:53:32 --> Security Class Initialized
+DEBUG - 2021-01-01 04:53:32 --> Global POST, GET and COOKIE data sanitized
+INFO - 2021-01-01 04:53:32 --> Input Class Initialized
+INFO - 2021-01-01 04:53:32 --> Language Class Initialized
+INFO - 2021-01-01 04:53:32 --> Language Class Initialized
+INFO - 2021-01-01 04:53:32 --> Config Class Initialized
+INFO - 2021-01-01 04:53:32 --> Loader Class Initialized
+INFO - 2021-01-01 04:53:32 --> Helper loaded: url_helper
+INFO - 2021-01-01 04:53:32 --> Helper loaded: html_helper
+INFO - 2021-01-01 04:53:32 --> Helper loaded: file_helper
+INFO - 2021-01-01 04:53:32 --> Helper loaded: form_helper
+INFO - 2021-01-01 04:53:32 --> Helper loaded: security_helper
+INFO - 2021-01-01 04:53:32 --> Helper loaded: xss_helper
+INFO - 2021-01-01 04:53:32 --> Helper loaded: slug_helper
+INFO - 2021-01-01 04:53:32 --> Database Driver Class Initialized
+DEBUG - 2021-01-01 04:53:32 --> Session: "sess_save_path" is empty; using "session.save_path" value from php.ini.
+INFO - 2021-01-01 04:53:32 --> Session: Class initialized using 'files' driver.
+INFO - 2021-01-01 04:53:32 --> Language file loaded: language/english/pagination_lang.php
+INFO - 2021-01-01 04:53:32 --> Pagination Class Initialized
+INFO - 2021-01-01 04:53:32 --> Email Class Initialized
+INFO - 2021-01-01 04:53:32 --> Model "M_konfig" initialized
+INFO - 2021-01-01 04:53:32 --> Model "M_reff" initialized
+INFO - 2021-01-01 04:53:32 --> Model "M_total" initialized
+INFO - 2021-01-01 04:53:32 --> Controller Class Initialized
+DEBUG - 2021-01-01 04:53:32 --> File loaded: D:\xampp72\htdocs\app_grm\application\modules/apengumuman/models/Model.php
+INFO - 2021-01-01 10:53:32 --> Final output sent to browser
+DEBUG - 2021-01-01 10:53:32 --> Total execution time: 0.9618
+INFO - 2021-01-01 04:53:35 --> Config Class Initialized
+INFO - 2021-01-01 04:53:35 --> Hooks Class Initialized
+DEBUG - 2021-01-01 04:53:35 --> UTF-8 Support Enabled
+INFO - 2021-01-01 04:53:35 --> Utf8 Class Initialized
+INFO - 2021-01-01 04:53:35 --> URI Class Initialized
+INFO - 2021-01-01 04:53:35 --> Router Class Initialized
+INFO - 2021-01-01 04:53:35 --> Output Class Initialized
+INFO - 2021-01-01 04:53:35 --> Security Class Initialized
+DEBUG - 2021-01-01 04:53:35 --> Global POST, GET and COOKIE data sanitized
+INFO - 2021-01-01 04:53:35 --> Input Class Initialized
+INFO - 2021-01-01 04:53:35 --> Language Class Initialized
+INFO - 2021-01-01 04:53:36 --> Language Class Initialized
+INFO - 2021-01-01 04:53:36 --> Config Class Initialized
+INFO - 2021-01-01 04:53:36 --> Loader Class Initialized
+INFO - 2021-01-01 04:53:36 --> Helper loaded: url_helper
+INFO - 2021-01-01 04:53:36 --> Helper loaded: html_helper
+INFO - 2021-01-01 04:53:36 --> Helper loaded: file_helper
+INFO - 2021-01-01 04:53:36 --> Helper loaded: form_helper
+INFO - 2021-01-01 04:53:36 --> Helper loaded: security_helper
+INFO - 2021-01-01 04:53:36 --> Helper loaded: xss_helper
+INFO - 2021-01-01 04:53:36 --> Helper loaded: slug_helper
+INFO - 2021-01-01 04:53:36 --> Database Driver Class Initialized
+DEBUG - 2021-01-01 04:53:36 --> Session: "sess_save_path" is empty; using "session.save_path" value from php.ini.
+INFO - 2021-01-01 04:53:36 --> Session: Class initialized using 'files' driver.
+INFO - 2021-01-01 04:53:36 --> Language file loaded: language/english/pagination_lang.php
+INFO - 2021-01-01 04:53:36 --> Pagination Class Initialized
+INFO - 2021-01-01 04:53:36 --> Email Class Initialized
+INFO - 2021-01-01 04:53:36 --> Model "M_konfig" initialized
+INFO - 2021-01-01 04:53:36 --> Model "M_reff" initialized
+INFO - 2021-01-01 04:53:36 --> Model "M_total" initialized
+INFO - 2021-01-01 04:53:36 --> Controller Class Initialized
+DEBUG - 2021-01-01 04:53:36 --> File loaded: D:\xampp72\htdocs\app_grm\application\modules/apengumuman/models/Model.php
+DEBUG - 2021-01-01 10:53:36 --> File loaded: D:\xampp72\htdocs\app_grm\application\modules/apengumuman/views/pengumuman.php
+INFO - 2021-01-01 10:53:36 --> Final output sent to browser
+DEBUG - 2021-01-01 10:53:36 --> Total execution time: 0.9705
+INFO - 2021-01-01 04:53:36 --> Config Class Initialized
+INFO - 2021-01-01 04:53:36 --> Hooks Class Initialized
+DEBUG - 2021-01-01 04:53:36 --> UTF-8 Support Enabled
+INFO - 2021-01-01 04:53:36 --> Utf8 Class Initialized
+INFO - 2021-01-01 04:53:36 --> URI Class Initialized
+INFO - 2021-01-01 04:53:36 --> Router Class Initialized
+INFO - 2021-01-01 04:53:36 --> Output Class Initialized
+INFO - 2021-01-01 04:53:36 --> Security Class Initialized
+DEBUG - 2021-01-01 04:53:36 --> Global POST, GET and COOKIE data sanitized
+INFO - 2021-01-01 04:53:36 --> Input Class Initialized
+INFO - 2021-01-01 04:53:36 --> Language Class Initialized
+INFO - 2021-01-01 04:53:36 --> Config Class Initialized
+INFO - 2021-01-01 04:53:36 --> Hooks Class Initialized
+DEBUG - 2021-01-01 04:53:36 --> UTF-8 Support Enabled
+INFO - 2021-01-01 04:53:36 --> Utf8 Class Initialized
+INFO - 2021-01-01 04:53:36 --> URI Class Initialized
+INFO - 2021-01-01 04:53:36 --> Router Class Initialized
+INFO - 2021-01-01 04:53:36 --> Output Class Initialized
+INFO - 2021-01-01 04:53:36 --> Security Class Initialized
+DEBUG - 2021-01-01 04:53:36 --> Global POST, GET and COOKIE data sanitized
+INFO - 2021-01-01 04:53:36 --> Input Class Initialized
+INFO - 2021-01-01 04:53:36 --> Language Class Initialized
+INFO - 2021-01-01 04:53:36 --> Language Class Initialized
+INFO - 2021-01-01 04:53:36 --> Language Class Initialized
+INFO - 2021-01-01 04:53:36 --> Config Class Initialized
+INFO - 2021-01-01 04:53:36 --> Loader Class Initialized
+INFO - 2021-01-01 04:53:36 --> Helper loaded: url_helper
+INFO - 2021-01-01 04:53:36 --> Helper loaded: html_helper
+INFO - 2021-01-01 04:53:36 --> Helper loaded: file_helper
+INFO - 2021-01-01 04:53:36 --> Helper loaded: form_helper
+INFO - 2021-01-01 04:53:36 --> Helper loaded: security_helper
+INFO - 2021-01-01 04:53:36 --> Helper loaded: xss_helper
+INFO - 2021-01-01 04:53:36 --> Helper loaded: slug_helper
+INFO - 2021-01-01 04:53:36 --> Database Driver Class Initialized
+INFO - 2021-01-01 04:53:36 --> Config Class Initialized
+DEBUG - 2021-01-01 04:53:36 --> Session: "sess_save_path" is empty; using "session.save_path" value from php.ini.
+INFO - 2021-01-01 04:53:36 --> Session: Class initialized using 'files' driver.
+INFO - 2021-01-01 04:53:36 --> Language file loaded: language/english/pagination_lang.php
+INFO - 2021-01-01 04:53:36 --> Pagination Class Initialized
+INFO - 2021-01-01 04:53:36 --> Email Class Initialized
+INFO - 2021-01-01 04:53:36 --> Model "M_konfig" initialized
+INFO - 2021-01-01 04:53:36 --> Model "M_reff" initialized
+INFO - 2021-01-01 04:53:36 --> Model "M_total" initialized
+INFO - 2021-01-01 04:53:36 --> Controller Class Initialized
+DEBUG - 2021-01-01 04:53:36 --> File loaded: D:\xampp72\htdocs\app_grm\application\modules/apengumuman/models/Model.php
+INFO - 2021-01-01 10:53:36 --> Final output sent to browser
+DEBUG - 2021-01-01 10:53:36 --> Total execution time: 0.2846
+INFO - 2021-01-01 04:53:36 --> Loader Class Initialized
+INFO - 2021-01-01 04:53:36 --> Helper loaded: url_helper
+INFO - 2021-01-01 04:53:36 --> Helper loaded: html_helper
+INFO - 2021-01-01 04:53:37 --> Helper loaded: file_helper
+INFO - 2021-01-01 04:53:37 --> Helper loaded: form_helper
+INFO - 2021-01-01 04:53:37 --> Helper loaded: security_helper
+INFO - 2021-01-01 04:53:37 --> Helper loaded: xss_helper
+INFO - 2021-01-01 04:53:37 --> Helper loaded: slug_helper
+INFO - 2021-01-01 04:53:37 --> Database Driver Class Initialized
+DEBUG - 2021-01-01 04:53:37 --> Session: "sess_save_path" is empty; using "session.save_path" value from php.ini.
+INFO - 2021-01-01 04:53:37 --> Session: Class initialized using 'files' driver.
+INFO - 2021-01-01 04:53:37 --> Language file loaded: language/english/pagination_lang.php
+INFO - 2021-01-01 04:53:37 --> Pagination Class Initialized
+INFO - 2021-01-01 04:53:37 --> Email Class Initialized
+INFO - 2021-01-01 04:53:37 --> Model "M_konfig" initialized
+INFO - 2021-01-01 04:53:37 --> Model "M_reff" initialized
+INFO - 2021-01-01 04:53:37 --> Model "M_total" initialized
+INFO - 2021-01-01 04:53:37 --> Controller Class Initialized
+DEBUG - 2021-01-01 04:53:37 --> File loaded: D:\xampp72\htdocs\app_grm\application\modules/apengumuman/models/Model.php
+INFO - 2021-01-01 10:53:37 --> Final output sent to browser
+DEBUG - 2021-01-01 10:53:37 --> Total execution time: 0.4601
+INFO - 2021-01-01 04:53:41 --> Config Class Initialized
+INFO - 2021-01-01 04:53:41 --> Hooks Class Initialized
+DEBUG - 2021-01-01 04:53:41 --> UTF-8 Support Enabled
+INFO - 2021-01-01 04:53:41 --> Utf8 Class Initialized
+INFO - 2021-01-01 04:53:41 --> URI Class Initialized
+INFO - 2021-01-01 04:53:41 --> Router Class Initialized
+INFO - 2021-01-01 04:53:41 --> Output Class Initialized
+INFO - 2021-01-01 04:53:42 --> Security Class Initialized
+DEBUG - 2021-01-01 04:53:42 --> Global POST, GET and COOKIE data sanitized
+INFO - 2021-01-01 04:53:42 --> Input Class Initialized
+INFO - 2021-01-01 04:53:42 --> Language Class Initialized
+INFO - 2021-01-01 04:53:42 --> Language Class Initialized
+INFO - 2021-01-01 04:53:42 --> Config Class Initialized
+INFO - 2021-01-01 04:53:42 --> Loader Class Initialized
+INFO - 2021-01-01 04:53:42 --> Helper loaded: url_helper
+INFO - 2021-01-01 04:53:42 --> Helper loaded: html_helper
+INFO - 2021-01-01 04:53:42 --> Helper loaded: file_helper
+INFO - 2021-01-01 04:53:42 --> Helper loaded: form_helper
+INFO - 2021-01-01 04:53:42 --> Helper loaded: security_helper
+INFO - 2021-01-01 04:53:42 --> Helper loaded: xss_helper
+INFO - 2021-01-01 04:53:42 --> Helper loaded: slug_helper
+INFO - 2021-01-01 04:53:42 --> Database Driver Class Initialized
+DEBUG - 2021-01-01 04:53:42 --> Session: "sess_save_path" is empty; using "session.save_path" value from php.ini.
+INFO - 2021-01-01 04:53:42 --> Session: Class initialized using 'files' driver.
+INFO - 2021-01-01 04:53:42 --> Language file loaded: language/english/pagination_lang.php
+INFO - 2021-01-01 04:53:42 --> Pagination Class Initialized
+INFO - 2021-01-01 04:53:42 --> Email Class Initialized
+INFO - 2021-01-01 04:53:42 --> Model "M_konfig" initialized
+INFO - 2021-01-01 04:53:42 --> Model "M_reff" initialized
+INFO - 2021-01-01 04:53:42 --> Model "M_total" initialized
+INFO - 2021-01-01 04:53:42 --> Controller Class Initialized
+DEBUG - 2021-01-01 04:53:42 --> File loaded: D:\xampp72\htdocs\app_grm\application\modules/apengumuman/models/Model.php
+INFO - 2021-01-01 10:53:42 --> Final output sent to browser
+DEBUG - 2021-01-01 10:53:42 --> Total execution time: 0.6375
+INFO - 2021-01-01 04:53:47 --> Config Class Initialized
+INFO - 2021-01-01 04:53:47 --> Hooks Class Initialized
+DEBUG - 2021-01-01 04:53:47 --> UTF-8 Support Enabled
+INFO - 2021-01-01 04:53:47 --> Utf8 Class Initialized
+INFO - 2021-01-01 04:53:47 --> URI Class Initialized
+INFO - 2021-01-01 04:53:47 --> Router Class Initialized
+INFO - 2021-01-01 04:53:47 --> Output Class Initialized
+INFO - 2021-01-01 04:53:47 --> Security Class Initialized
+DEBUG - 2021-01-01 04:53:47 --> Global POST, GET and COOKIE data sanitized
+INFO - 2021-01-01 04:53:47 --> Input Class Initialized
+INFO - 2021-01-01 04:53:47 --> Language Class Initialized
+INFO - 2021-01-01 04:53:47 --> Language Class Initialized
+INFO - 2021-01-01 04:53:47 --> Config Class Initialized
+INFO - 2021-01-01 04:53:47 --> Loader Class Initialized
+INFO - 2021-01-01 04:53:47 --> Helper loaded: url_helper
+INFO - 2021-01-01 04:53:47 --> Helper loaded: html_helper
+INFO - 2021-01-01 04:53:47 --> Helper loaded: file_helper
+INFO - 2021-01-01 04:53:47 --> Helper loaded: form_helper
+INFO - 2021-01-01 04:53:47 --> Helper loaded: security_helper
+INFO - 2021-01-01 04:53:47 --> Helper loaded: xss_helper
+INFO - 2021-01-01 04:53:47 --> Helper loaded: slug_helper
+INFO - 2021-01-01 04:53:47 --> Database Driver Class Initialized
+DEBUG - 2021-01-01 04:53:47 --> Session: "sess_save_path" is empty; using "session.save_path" value from php.ini.
+INFO - 2021-01-01 04:53:47 --> Session: Class initialized using 'files' driver.
+INFO - 2021-01-01 04:53:47 --> Language file loaded: language/english/pagination_lang.php
+INFO - 2021-01-01 04:53:47 --> Pagination Class Initialized
+INFO - 2021-01-01 04:53:47 --> Email Class Initialized
+INFO - 2021-01-01 04:53:47 --> Model "M_konfig" initialized
+INFO - 2021-01-01 04:53:47 --> Model "M_reff" initialized
+INFO - 2021-01-01 04:53:47 --> Model "M_total" initialized
+INFO - 2021-01-01 04:53:47 --> Controller Class Initialized
+DEBUG - 2021-01-01 04:53:47 --> File loaded: D:\xampp72\htdocs\app_grm\application\modules/apengumuman/models/Model.php
+INFO - 2021-01-01 10:53:47 --> Final output sent to browser
+DEBUG - 2021-01-01 10:53:47 --> Total execution time: 0.6771
+INFO - 2021-01-01 04:53:51 --> Config Class Initialized
+INFO - 2021-01-01 04:53:51 --> Hooks Class Initialized
+DEBUG - 2021-01-01 04:53:51 --> UTF-8 Support Enabled
+INFO - 2021-01-01 04:53:51 --> Utf8 Class Initialized
+INFO - 2021-01-01 04:53:51 --> URI Class Initialized
+INFO - 2021-01-01 04:53:52 --> Router Class Initialized
+INFO - 2021-01-01 04:53:52 --> Output Class Initialized
+INFO - 2021-01-01 04:53:52 --> Security Class Initialized
+DEBUG - 2021-01-01 04:53:52 --> Global POST, GET and COOKIE data sanitized
+INFO - 2021-01-01 04:53:52 --> Input Class Initialized
+INFO - 2021-01-01 04:53:52 --> Language Class Initialized
+INFO - 2021-01-01 04:53:52 --> Language Class Initialized
+INFO - 2021-01-01 04:53:52 --> Config Class Initialized
+INFO - 2021-01-01 04:53:52 --> Loader Class Initialized
+INFO - 2021-01-01 04:53:52 --> Helper loaded: url_helper
+INFO - 2021-01-01 04:53:52 --> Helper loaded: html_helper
+INFO - 2021-01-01 04:53:52 --> Helper loaded: file_helper
+INFO - 2021-01-01 04:53:52 --> Helper loaded: form_helper
+INFO - 2021-01-01 04:53:52 --> Helper loaded: security_helper
+INFO - 2021-01-01 04:53:52 --> Helper loaded: xss_helper
+INFO - 2021-01-01 04:53:52 --> Helper loaded: slug_helper
+INFO - 2021-01-01 04:53:52 --> Database Driver Class Initialized
+DEBUG - 2021-01-01 04:53:52 --> Session: "sess_save_path" is empty; using "session.save_path" value from php.ini.
+INFO - 2021-01-01 04:53:52 --> Session: Class initialized using 'files' driver.
+INFO - 2021-01-01 04:53:52 --> Language file loaded: language/english/pagination_lang.php
+INFO - 2021-01-01 04:53:52 --> Pagination Class Initialized
+INFO - 2021-01-01 04:53:52 --> Email Class Initialized
+INFO - 2021-01-01 04:53:52 --> Model "M_konfig" initialized
+INFO - 2021-01-01 04:53:52 --> Model "M_reff" initialized
+INFO - 2021-01-01 04:53:52 --> Model "M_total" initialized
+INFO - 2021-01-01 04:53:52 --> Controller Class Initialized
+DEBUG - 2021-01-01 04:53:52 --> File loaded: D:\xampp72\htdocs\app_grm\application\modules/apengumuman/models/Model.php
+INFO - 2021-01-01 10:53:52 --> Final output sent to browser
+DEBUG - 2021-01-01 10:53:52 --> Total execution time: 0.7000
+INFO - 2021-01-01 04:53:56 --> Config Class Initialized
+INFO - 2021-01-01 04:53:56 --> Hooks Class Initialized
+DEBUG - 2021-01-01 04:53:56 --> UTF-8 Support Enabled
+INFO - 2021-01-01 04:53:56 --> Utf8 Class Initialized
+INFO - 2021-01-01 04:53:56 --> URI Class Initialized
+INFO - 2021-01-01 04:53:57 --> Router Class Initialized
+INFO - 2021-01-01 04:53:57 --> Output Class Initialized
+INFO - 2021-01-01 04:53:57 --> Security Class Initialized
+DEBUG - 2021-01-01 04:53:57 --> Global POST, GET and COOKIE data sanitized
+INFO - 2021-01-01 04:53:57 --> Input Class Initialized
+INFO - 2021-01-01 04:53:57 --> Language Class Initialized
+INFO - 2021-01-01 04:53:57 --> Language Class Initialized
+INFO - 2021-01-01 04:53:57 --> Config Class Initialized
+INFO - 2021-01-01 04:53:57 --> Loader Class Initialized
+INFO - 2021-01-01 04:53:57 --> Helper loaded: url_helper
+INFO - 2021-01-01 04:53:57 --> Helper loaded: html_helper
+INFO - 2021-01-01 04:53:57 --> Helper loaded: file_helper
+INFO - 2021-01-01 04:53:57 --> Helper loaded: form_helper
+INFO - 2021-01-01 04:53:57 --> Helper loaded: security_helper
+INFO - 2021-01-01 04:53:57 --> Helper loaded: xss_helper
+INFO - 2021-01-01 04:53:57 --> Helper loaded: slug_helper
+INFO - 2021-01-01 04:53:57 --> Database Driver Class Initialized
+DEBUG - 2021-01-01 04:53:57 --> Session: "sess_save_path" is empty; using "session.save_path" value from php.ini.
+INFO - 2021-01-01 04:53:57 --> Session: Class initialized using 'files' driver.
+INFO - 2021-01-01 04:53:57 --> Language file loaded: language/english/pagination_lang.php
+INFO - 2021-01-01 04:53:57 --> Pagination Class Initialized
+INFO - 2021-01-01 04:53:57 --> Email Class Initialized
+INFO - 2021-01-01 04:53:57 --> Model "M_konfig" initialized
+INFO - 2021-01-01 04:53:57 --> Model "M_reff" initialized
+INFO - 2021-01-01 04:53:57 --> Model "M_total" initialized
+INFO - 2021-01-01 04:53:57 --> Controller Class Initialized
+DEBUG - 2021-01-01 04:53:57 --> File loaded: D:\xampp72\htdocs\app_grm\application\modules/apengumuman/models/Model.php
+INFO - 2021-01-01 10:53:57 --> Final output sent to browser
+DEBUG - 2021-01-01 10:53:57 --> Total execution time: 0.9116
+INFO - 2021-01-01 04:54:02 --> Config Class Initialized
+INFO - 2021-01-01 04:54:02 --> Hooks Class Initialized
+DEBUG - 2021-01-01 04:54:02 --> UTF-8 Support Enabled
+INFO - 2021-01-01 04:54:02 --> Utf8 Class Initialized
+INFO - 2021-01-01 04:54:02 --> URI Class Initialized
+INFO - 2021-01-01 04:54:02 --> Router Class Initialized
+INFO - 2021-01-01 04:54:02 --> Output Class Initialized
+INFO - 2021-01-01 04:54:02 --> Security Class Initialized
+DEBUG - 2021-01-01 04:54:02 --> Global POST, GET and COOKIE data sanitized
+INFO - 2021-01-01 04:54:02 --> Input Class Initialized
+INFO - 2021-01-01 04:54:02 --> Language Class Initialized
+INFO - 2021-01-01 04:54:02 --> Language Class Initialized
+INFO - 2021-01-01 04:54:02 --> Config Class Initialized
+INFO - 2021-01-01 04:54:02 --> Loader Class Initialized
+INFO - 2021-01-01 04:54:02 --> Helper loaded: url_helper
+INFO - 2021-01-01 04:54:02 --> Helper loaded: html_helper
+INFO - 2021-01-01 04:54:02 --> Helper loaded: file_helper
+INFO - 2021-01-01 04:54:02 --> Helper loaded: form_helper
+INFO - 2021-01-01 04:54:02 --> Helper loaded: security_helper
+INFO - 2021-01-01 04:54:02 --> Helper loaded: xss_helper
+INFO - 2021-01-01 04:54:02 --> Helper loaded: slug_helper
+INFO - 2021-01-01 04:54:02 --> Database Driver Class Initialized
+DEBUG - 2021-01-01 04:54:02 --> Session: "sess_save_path" is empty; using "session.save_path" value from php.ini.
+INFO - 2021-01-01 04:54:02 --> Session: Class initialized using 'files' driver.
+INFO - 2021-01-01 04:54:02 --> Language file loaded: language/english/pagination_lang.php
+INFO - 2021-01-01 04:54:02 --> Pagination Class Initialized
+INFO - 2021-01-01 04:54:02 --> Email Class Initialized
+INFO - 2021-01-01 04:54:02 --> Model "M_konfig" initialized
+INFO - 2021-01-01 04:54:02 --> Model "M_reff" initialized
+INFO - 2021-01-01 04:54:02 --> Model "M_total" initialized
+INFO - 2021-01-01 04:54:02 --> Controller Class Initialized
+DEBUG - 2021-01-01 04:54:02 --> File loaded: D:\xampp72\htdocs\app_grm\application\modules/apengumuman/models/Model.php
+INFO - 2021-01-01 10:54:02 --> Final output sent to browser
+DEBUG - 2021-01-01 10:54:02 --> Total execution time: 0.6207
+INFO - 2021-01-01 04:54:06 --> Config Class Initialized
+INFO - 2021-01-01 04:54:06 --> Hooks Class Initialized
+DEBUG - 2021-01-01 04:54:06 --> UTF-8 Support Enabled
+INFO - 2021-01-01 04:54:06 --> Utf8 Class Initialized
+INFO - 2021-01-01 04:54:06 --> URI Class Initialized
+INFO - 2021-01-01 04:54:07 --> Router Class Initialized
+INFO - 2021-01-01 04:54:07 --> Output Class Initialized
+INFO - 2021-01-01 04:54:07 --> Security Class Initialized
+DEBUG - 2021-01-01 04:54:07 --> Global POST, GET and COOKIE data sanitized
+INFO - 2021-01-01 04:54:07 --> Input Class Initialized
+INFO - 2021-01-01 04:54:07 --> Language Class Initialized
+INFO - 2021-01-01 04:54:07 --> Language Class Initialized
+INFO - 2021-01-01 04:54:07 --> Config Class Initialized
+INFO - 2021-01-01 04:54:07 --> Loader Class Initialized
+INFO - 2021-01-01 04:54:07 --> Helper loaded: url_helper
+INFO - 2021-01-01 04:54:07 --> Helper loaded: html_helper
+INFO - 2021-01-01 04:54:07 --> Helper loaded: file_helper
+INFO - 2021-01-01 04:54:07 --> Helper loaded: form_helper
+INFO - 2021-01-01 04:54:07 --> Helper loaded: security_helper
+INFO - 2021-01-01 04:54:07 --> Helper loaded: xss_helper
+INFO - 2021-01-01 04:54:07 --> Helper loaded: slug_helper
+INFO - 2021-01-01 04:54:07 --> Database Driver Class Initialized
+DEBUG - 2021-01-01 04:54:07 --> Session: "sess_save_path" is empty; using "session.save_path" value from php.ini.
+INFO - 2021-01-01 04:54:07 --> Session: Class initialized using 'files' driver.
+INFO - 2021-01-01 04:54:07 --> Language file loaded: language/english/pagination_lang.php
+INFO - 2021-01-01 04:54:07 --> Pagination Class Initialized
+INFO - 2021-01-01 04:54:07 --> Email Class Initialized
+INFO - 2021-01-01 04:54:07 --> Model "M_konfig" initialized
+INFO - 2021-01-01 04:54:07 --> Model "M_reff" initialized
+INFO - 2021-01-01 04:54:07 --> Model "M_total" initialized
+INFO - 2021-01-01 04:54:07 --> Controller Class Initialized
+DEBUG - 2021-01-01 04:54:07 --> File loaded: D:\xampp72\htdocs\app_grm\application\modules/apengumuman/models/Model.php
+INFO - 2021-01-01 10:54:07 --> Final output sent to browser
+DEBUG - 2021-01-01 10:54:07 --> Total execution time: 0.6443
+INFO - 2021-01-01 04:54:11 --> Config Class Initialized
+INFO - 2021-01-01 04:54:11 --> Hooks Class Initialized
+DEBUG - 2021-01-01 04:54:11 --> UTF-8 Support Enabled
+INFO - 2021-01-01 04:54:11 --> Utf8 Class Initialized
+INFO - 2021-01-01 04:54:12 --> URI Class Initialized
+INFO - 2021-01-01 04:54:12 --> Router Class Initialized
+INFO - 2021-01-01 04:54:12 --> Output Class Initialized
+INFO - 2021-01-01 04:54:12 --> Security Class Initialized
+DEBUG - 2021-01-01 04:54:12 --> Global POST, GET and COOKIE data sanitized
+INFO - 2021-01-01 04:54:12 --> Input Class Initialized
+INFO - 2021-01-01 04:54:12 --> Language Class Initialized
+INFO - 2021-01-01 04:54:12 --> Language Class Initialized
+INFO - 2021-01-01 04:54:12 --> Config Class Initialized
+INFO - 2021-01-01 04:54:12 --> Loader Class Initialized
+INFO - 2021-01-01 04:54:12 --> Helper loaded: url_helper
+INFO - 2021-01-01 04:54:12 --> Helper loaded: html_helper
+INFO - 2021-01-01 04:54:12 --> Helper loaded: file_helper
+INFO - 2021-01-01 04:54:12 --> Helper loaded: form_helper
+INFO - 2021-01-01 04:54:12 --> Helper loaded: security_helper
+INFO - 2021-01-01 04:54:12 --> Helper loaded: xss_helper
+INFO - 2021-01-01 04:54:12 --> Helper loaded: slug_helper
+INFO - 2021-01-01 04:54:12 --> Database Driver Class Initialized
+DEBUG - 2021-01-01 04:54:12 --> Session: "sess_save_path" is empty; using "session.save_path" value from php.ini.
+INFO - 2021-01-01 04:54:12 --> Session: Class initialized using 'files' driver.
+INFO - 2021-01-01 04:54:12 --> Language file loaded: language/english/pagination_lang.php
+INFO - 2021-01-01 04:54:12 --> Pagination Class Initialized
+INFO - 2021-01-01 04:54:12 --> Email Class Initialized
+INFO - 2021-01-01 04:54:12 --> Model "M_konfig" initialized
+INFO - 2021-01-01 04:54:12 --> Model "M_reff" initialized
+INFO - 2021-01-01 04:54:12 --> Model "M_total" initialized
+INFO - 2021-01-01 04:54:12 --> Controller Class Initialized
+DEBUG - 2021-01-01 04:54:12 --> File loaded: D:\xampp72\htdocs\app_grm\application\modules/apengumuman/models/Model.php
+INFO - 2021-01-01 10:54:12 --> Final output sent to browser
+DEBUG - 2021-01-01 10:54:12 --> Total execution time: 0.9235
+INFO - 2021-01-01 04:54:16 --> Config Class Initialized
+INFO - 2021-01-01 04:54:16 --> Hooks Class Initialized
+DEBUG - 2021-01-01 04:54:16 --> UTF-8 Support Enabled
+INFO - 2021-01-01 04:54:16 --> Utf8 Class Initialized
+INFO - 2021-01-01 04:54:17 --> URI Class Initialized
+INFO - 2021-01-01 04:54:17 --> Router Class Initialized
+INFO - 2021-01-01 04:54:17 --> Output Class Initialized
+INFO - 2021-01-01 04:54:17 --> Security Class Initialized
+DEBUG - 2021-01-01 04:54:17 --> Global POST, GET and COOKIE data sanitized
+INFO - 2021-01-01 04:54:17 --> Input Class Initialized
+INFO - 2021-01-01 04:54:17 --> Language Class Initialized
+INFO - 2021-01-01 04:54:17 --> Language Class Initialized
+INFO - 2021-01-01 04:54:17 --> Config Class Initialized
+INFO - 2021-01-01 04:54:17 --> Loader Class Initialized
+INFO - 2021-01-01 04:54:17 --> Helper loaded: url_helper
+INFO - 2021-01-01 04:54:17 --> Helper loaded: html_helper
+INFO - 2021-01-01 04:54:17 --> Helper loaded: file_helper
+INFO - 2021-01-01 04:54:17 --> Helper loaded: form_helper
+INFO - 2021-01-01 04:54:17 --> Helper loaded: security_helper
+INFO - 2021-01-01 04:54:17 --> Helper loaded: xss_helper
+INFO - 2021-01-01 04:54:17 --> Helper loaded: slug_helper
+INFO - 2021-01-01 04:54:17 --> Database Driver Class Initialized
+DEBUG - 2021-01-01 04:54:17 --> Session: "sess_save_path" is empty; using "session.save_path" value from php.ini.
+INFO - 2021-01-01 04:54:17 --> Session: Class initialized using 'files' driver.
+INFO - 2021-01-01 04:54:17 --> Language file loaded: language/english/pagination_lang.php
+INFO - 2021-01-01 04:54:17 --> Pagination Class Initialized
+INFO - 2021-01-01 04:54:17 --> Email Class Initialized
+INFO - 2021-01-01 04:54:17 --> Model "M_konfig" initialized
+INFO - 2021-01-01 04:54:17 --> Model "M_reff" initialized
+INFO - 2021-01-01 04:54:17 --> Model "M_total" initialized
+INFO - 2021-01-01 04:54:17 --> Controller Class Initialized
+DEBUG - 2021-01-01 04:54:17 --> File loaded: D:\xampp72\htdocs\app_grm\application\modules/apengumuman/models/Model.php
+INFO - 2021-01-01 10:54:17 --> Final output sent to browser
+DEBUG - 2021-01-01 10:54:17 --> Total execution time: 0.6310
+INFO - 2021-01-01 04:54:21 --> Config Class Initialized
+INFO - 2021-01-01 04:54:21 --> Hooks Class Initialized
+DEBUG - 2021-01-01 04:54:21 --> UTF-8 Support Enabled
+INFO - 2021-01-01 04:54:21 --> Utf8 Class Initialized
+INFO - 2021-01-01 04:54:22 --> URI Class Initialized
+INFO - 2021-01-01 04:54:22 --> Router Class Initialized
+INFO - 2021-01-01 04:54:22 --> Output Class Initialized
+INFO - 2021-01-01 04:54:22 --> Security Class Initialized
+DEBUG - 2021-01-01 04:54:22 --> Global POST, GET and COOKIE data sanitized
+INFO - 2021-01-01 04:54:22 --> Input Class Initialized
+INFO - 2021-01-01 04:54:22 --> Language Class Initialized
+INFO - 2021-01-01 04:54:22 --> Language Class Initialized
+INFO - 2021-01-01 04:54:22 --> Config Class Initialized
+INFO - 2021-01-01 04:54:22 --> Loader Class Initialized
+INFO - 2021-01-01 04:54:22 --> Helper loaded: url_helper
+INFO - 2021-01-01 04:54:22 --> Helper loaded: html_helper
+INFO - 2021-01-01 04:54:22 --> Helper loaded: file_helper
+INFO - 2021-01-01 04:54:22 --> Helper loaded: form_helper
+INFO - 2021-01-01 04:54:22 --> Helper loaded: security_helper
+INFO - 2021-01-01 04:54:22 --> Helper loaded: xss_helper
+INFO - 2021-01-01 04:54:22 --> Helper loaded: slug_helper
+INFO - 2021-01-01 04:54:22 --> Database Driver Class Initialized
+DEBUG - 2021-01-01 04:54:22 --> Session: "sess_save_path" is empty; using "session.save_path" value from php.ini.
+INFO - 2021-01-01 04:54:22 --> Session: Class initialized using 'files' driver.
+INFO - 2021-01-01 04:54:22 --> Language file loaded: language/english/pagination_lang.php
+INFO - 2021-01-01 04:54:22 --> Pagination Class Initialized
+INFO - 2021-01-01 04:54:22 --> Email Class Initialized
+INFO - 2021-01-01 04:54:22 --> Model "M_konfig" initialized
+INFO - 2021-01-01 04:54:22 --> Model "M_reff" initialized
+INFO - 2021-01-01 04:54:22 --> Model "M_total" initialized
+INFO - 2021-01-01 04:54:22 --> Controller Class Initialized
+DEBUG - 2021-01-01 04:54:22 --> File loaded: D:\xampp72\htdocs\app_grm\application\modules/apengumuman/models/Model.php
+INFO - 2021-01-01 10:54:22 --> Final output sent to browser
+DEBUG - 2021-01-01 10:54:22 --> Total execution time: 0.6475
+INFO - 2021-01-01 04:54:26 --> Config Class Initialized
+INFO - 2021-01-01 04:54:26 --> Hooks Class Initialized
+DEBUG - 2021-01-01 04:54:26 --> UTF-8 Support Enabled
+INFO - 2021-01-01 04:54:27 --> Utf8 Class Initialized
+INFO - 2021-01-01 04:54:27 --> URI Class Initialized
+INFO - 2021-01-01 04:54:27 --> Router Class Initialized
+INFO - 2021-01-01 04:54:27 --> Output Class Initialized
+INFO - 2021-01-01 04:54:27 --> Security Class Initialized
+DEBUG - 2021-01-01 04:54:27 --> Global POST, GET and COOKIE data sanitized
+INFO - 2021-01-01 04:54:27 --> Input Class Initialized
+INFO - 2021-01-01 04:54:27 --> Language Class Initialized
+INFO - 2021-01-01 04:54:27 --> Language Class Initialized
+INFO - 2021-01-01 04:54:27 --> Config Class Initialized
+INFO - 2021-01-01 04:54:27 --> Loader Class Initialized
+INFO - 2021-01-01 04:54:27 --> Helper loaded: url_helper
+INFO - 2021-01-01 04:54:27 --> Helper loaded: html_helper
+INFO - 2021-01-01 04:54:27 --> Helper loaded: file_helper
+INFO - 2021-01-01 04:54:27 --> Helper loaded: form_helper
+INFO - 2021-01-01 04:54:27 --> Helper loaded: security_helper
+INFO - 2021-01-01 04:54:27 --> Helper loaded: xss_helper
+INFO - 2021-01-01 04:54:27 --> Helper loaded: slug_helper
+INFO - 2021-01-01 04:54:27 --> Database Driver Class Initialized
+DEBUG - 2021-01-01 04:54:27 --> Session: "sess_save_path" is empty; using "session.save_path" value from php.ini.
+INFO - 2021-01-01 04:54:27 --> Session: Class initialized using 'files' driver.
+INFO - 2021-01-01 04:54:27 --> Language file loaded: language/english/pagination_lang.php
+INFO - 2021-01-01 04:54:27 --> Pagination Class Initialized
+INFO - 2021-01-01 04:54:27 --> Email Class Initialized
+INFO - 2021-01-01 04:54:27 --> Model "M_konfig" initialized
+INFO - 2021-01-01 04:54:27 --> Model "M_reff" initialized
+INFO - 2021-01-01 04:54:27 --> Model "M_total" initialized
+INFO - 2021-01-01 04:54:27 --> Controller Class Initialized
+DEBUG - 2021-01-01 04:54:27 --> File loaded: D:\xampp72\htdocs\app_grm\application\modules/apengumuman/models/Model.php
+INFO - 2021-01-01 10:54:27 --> Final output sent to browser
+DEBUG - 2021-01-01 10:54:27 --> Total execution time: 0.6333
+INFO - 2021-01-01 04:54:31 --> Config Class Initialized
+INFO - 2021-01-01 04:54:31 --> Hooks Class Initialized
+DEBUG - 2021-01-01 04:54:32 --> UTF-8 Support Enabled
+INFO - 2021-01-01 04:54:32 --> Utf8 Class Initialized
+INFO - 2021-01-01 04:54:32 --> URI Class Initialized
+INFO - 2021-01-01 04:54:32 --> Router Class Initialized
+INFO - 2021-01-01 04:54:32 --> Output Class Initialized
+INFO - 2021-01-01 04:54:32 --> Security Class Initialized
+DEBUG - 2021-01-01 04:54:32 --> Global POST, GET and COOKIE data sanitized
+INFO - 2021-01-01 04:54:32 --> Input Class Initialized
+INFO - 2021-01-01 04:54:32 --> Language Class Initialized
+INFO - 2021-01-01 04:54:32 --> Language Class Initialized
+INFO - 2021-01-01 04:54:32 --> Config Class Initialized
+INFO - 2021-01-01 04:54:32 --> Loader Class Initialized
+INFO - 2021-01-01 04:54:32 --> Helper loaded: url_helper
+INFO - 2021-01-01 04:54:32 --> Helper loaded: html_helper
+INFO - 2021-01-01 04:54:32 --> Helper loaded: file_helper
+INFO - 2021-01-01 04:54:32 --> Helper loaded: form_helper
+INFO - 2021-01-01 04:54:32 --> Helper loaded: security_helper
+INFO - 2021-01-01 04:54:32 --> Helper loaded: xss_helper
+INFO - 2021-01-01 04:54:32 --> Helper loaded: slug_helper
+INFO - 2021-01-01 04:54:32 --> Database Driver Class Initialized
+DEBUG - 2021-01-01 04:54:32 --> Session: "sess_save_path" is empty; using "session.save_path" value from php.ini.
+INFO - 2021-01-01 04:54:32 --> Session: Class initialized using 'files' driver.
+INFO - 2021-01-01 04:54:32 --> Language file loaded: language/english/pagination_lang.php
+INFO - 2021-01-01 04:54:32 --> Pagination Class Initialized
+INFO - 2021-01-01 04:54:32 --> Email Class Initialized
+INFO - 2021-01-01 04:54:32 --> Model "M_konfig" initialized
+INFO - 2021-01-01 04:54:32 --> Model "M_reff" initialized
+INFO - 2021-01-01 04:54:32 --> Model "M_total" initialized
+INFO - 2021-01-01 04:54:32 --> Controller Class Initialized
+DEBUG - 2021-01-01 04:54:32 --> File loaded: D:\xampp72\htdocs\app_grm\application\modules/apengumuman/models/Model.php
+INFO - 2021-01-01 10:54:32 --> Final output sent to browser
+DEBUG - 2021-01-01 10:54:32 --> Total execution time: 0.6453
+INFO - 2021-01-01 04:54:36 --> Config Class Initialized
+INFO - 2021-01-01 04:54:36 --> Hooks Class Initialized
+DEBUG - 2021-01-01 04:54:37 --> UTF-8 Support Enabled
+INFO - 2021-01-01 04:54:37 --> Utf8 Class Initialized
+INFO - 2021-01-01 04:54:37 --> URI Class Initialized
+INFO - 2021-01-01 04:54:37 --> Router Class Initialized
+INFO - 2021-01-01 04:54:37 --> Output Class Initialized
+INFO - 2021-01-01 04:54:37 --> Security Class Initialized
+DEBUG - 2021-01-01 04:54:37 --> Global POST, GET and COOKIE data sanitized
+INFO - 2021-01-01 04:54:37 --> Input Class Initialized
+INFO - 2021-01-01 04:54:37 --> Language Class Initialized
+INFO - 2021-01-01 04:54:37 --> Language Class Initialized
+INFO - 2021-01-01 04:54:37 --> Config Class Initialized
+INFO - 2021-01-01 04:54:37 --> Loader Class Initialized
+INFO - 2021-01-01 04:54:37 --> Helper loaded: url_helper
+INFO - 2021-01-01 04:54:37 --> Helper loaded: html_helper
+INFO - 2021-01-01 04:54:37 --> Helper loaded: file_helper
+INFO - 2021-01-01 04:54:37 --> Helper loaded: form_helper
+INFO - 2021-01-01 04:54:37 --> Helper loaded: security_helper
+INFO - 2021-01-01 04:54:37 --> Helper loaded: xss_helper
+INFO - 2021-01-01 04:54:37 --> Helper loaded: slug_helper
+INFO - 2021-01-01 04:54:37 --> Database Driver Class Initialized
+DEBUG - 2021-01-01 04:54:37 --> Session: "sess_save_path" is empty; using "session.save_path" value from php.ini.
+INFO - 2021-01-01 04:54:37 --> Session: Class initialized using 'files' driver.
+INFO - 2021-01-01 04:54:37 --> Language file loaded: language/english/pagination_lang.php
+INFO - 2021-01-01 04:54:37 --> Pagination Class Initialized
+INFO - 2021-01-01 04:54:37 --> Email Class Initialized
+INFO - 2021-01-01 04:54:37 --> Model "M_konfig" initialized
+INFO - 2021-01-01 04:54:37 --> Model "M_reff" initialized
+INFO - 2021-01-01 04:54:37 --> Model "M_total" initialized
+INFO - 2021-01-01 04:54:37 --> Controller Class Initialized
+DEBUG - 2021-01-01 04:54:37 --> File loaded: D:\xampp72\htdocs\app_grm\application\modules/apengumuman/models/Model.php
+INFO - 2021-01-01 10:54:37 --> Final output sent to browser
+DEBUG - 2021-01-01 10:54:37 --> Total execution time: 0.6958
+INFO - 2021-01-01 04:54:41 --> Config Class Initialized
+INFO - 2021-01-01 04:54:42 --> Hooks Class Initialized
+DEBUG - 2021-01-01 04:54:42 --> UTF-8 Support Enabled
+INFO - 2021-01-01 04:54:42 --> Utf8 Class Initialized
+INFO - 2021-01-01 04:54:42 --> URI Class Initialized
+INFO - 2021-01-01 04:54:42 --> Router Class Initialized
+INFO - 2021-01-01 04:54:42 --> Output Class Initialized
+INFO - 2021-01-01 04:54:42 --> Security Class Initialized
+DEBUG - 2021-01-01 04:54:42 --> Global POST, GET and COOKIE data sanitized
+INFO - 2021-01-01 04:54:42 --> Input Class Initialized
+INFO - 2021-01-01 04:54:42 --> Language Class Initialized
+INFO - 2021-01-01 04:54:42 --> Language Class Initialized
+INFO - 2021-01-01 04:54:42 --> Config Class Initialized
+INFO - 2021-01-01 04:54:42 --> Loader Class Initialized
+INFO - 2021-01-01 04:54:42 --> Helper loaded: url_helper
+INFO - 2021-01-01 04:54:42 --> Helper loaded: html_helper
+INFO - 2021-01-01 04:54:42 --> Helper loaded: file_helper
+INFO - 2021-01-01 04:54:42 --> Helper loaded: form_helper
+INFO - 2021-01-01 04:54:42 --> Helper loaded: security_helper
+INFO - 2021-01-01 04:54:42 --> Helper loaded: xss_helper
+INFO - 2021-01-01 04:54:42 --> Helper loaded: slug_helper
+INFO - 2021-01-01 04:54:42 --> Database Driver Class Initialized
+DEBUG - 2021-01-01 04:54:42 --> Session: "sess_save_path" is empty; using "session.save_path" value from php.ini.
+INFO - 2021-01-01 04:54:42 --> Session: Class initialized using 'files' driver.
+INFO - 2021-01-01 04:54:42 --> Language file loaded: language/english/pagination_lang.php
+INFO - 2021-01-01 04:54:42 --> Pagination Class Initialized
+INFO - 2021-01-01 04:54:42 --> Email Class Initialized
+INFO - 2021-01-01 04:54:42 --> Model "M_konfig" initialized
+INFO - 2021-01-01 04:54:42 --> Model "M_reff" initialized
+INFO - 2021-01-01 04:54:42 --> Model "M_total" initialized
+INFO - 2021-01-01 04:54:42 --> Controller Class Initialized
+DEBUG - 2021-01-01 04:54:42 --> File loaded: D:\xampp72\htdocs\app_grm\application\modules/apengumuman/models/Model.php
+INFO - 2021-01-01 10:54:42 --> Final output sent to browser
+DEBUG - 2021-01-01 10:54:42 --> Total execution time: 0.6809
+INFO - 2021-01-01 04:54:46 --> Config Class Initialized
+INFO - 2021-01-01 04:54:47 --> Hooks Class Initialized
+DEBUG - 2021-01-01 04:54:47 --> UTF-8 Support Enabled
+INFO - 2021-01-01 04:54:47 --> Utf8 Class Initialized
+INFO - 2021-01-01 04:54:47 --> URI Class Initialized
+INFO - 2021-01-01 04:54:47 --> Router Class Initialized
+INFO - 2021-01-01 04:54:47 --> Output Class Initialized
+INFO - 2021-01-01 04:54:47 --> Security Class Initialized
+DEBUG - 2021-01-01 04:54:47 --> Global POST, GET and COOKIE data sanitized
+INFO - 2021-01-01 04:54:47 --> Input Class Initialized
+INFO - 2021-01-01 04:54:47 --> Language Class Initialized
+INFO - 2021-01-01 04:54:47 --> Language Class Initialized
+INFO - 2021-01-01 04:54:47 --> Config Class Initialized
+INFO - 2021-01-01 04:54:47 --> Loader Class Initialized
+INFO - 2021-01-01 04:54:47 --> Helper loaded: url_helper
+INFO - 2021-01-01 04:54:47 --> Helper loaded: html_helper
+INFO - 2021-01-01 04:54:47 --> Helper loaded: file_helper
+INFO - 2021-01-01 04:54:47 --> Helper loaded: form_helper
+INFO - 2021-01-01 04:54:47 --> Helper loaded: security_helper
+INFO - 2021-01-01 04:54:47 --> Helper loaded: xss_helper
+INFO - 2021-01-01 04:54:47 --> Helper loaded: slug_helper
+INFO - 2021-01-01 04:54:47 --> Database Driver Class Initialized
+DEBUG - 2021-01-01 04:54:47 --> Session: "sess_save_path" is empty; using "session.save_path" value from php.ini.
+INFO - 2021-01-01 04:54:47 --> Session: Class initialized using 'files' driver.
+INFO - 2021-01-01 04:54:47 --> Language file loaded: language/english/pagination_lang.php
+INFO - 2021-01-01 04:54:47 --> Pagination Class Initialized
+INFO - 2021-01-01 04:54:47 --> Email Class Initialized
+INFO - 2021-01-01 04:54:47 --> Model "M_konfig" initialized
+INFO - 2021-01-01 04:54:47 --> Model "M_reff" initialized
+INFO - 2021-01-01 04:54:47 --> Model "M_total" initialized
+INFO - 2021-01-01 04:54:47 --> Controller Class Initialized
+DEBUG - 2021-01-01 04:54:47 --> File loaded: D:\xampp72\htdocs\app_grm\application\modules/apengumuman/models/Model.php
+INFO - 2021-01-01 10:54:47 --> Final output sent to browser
+DEBUG - 2021-01-01 10:54:47 --> Total execution time: 0.6691
+INFO - 2021-01-01 04:54:52 --> Config Class Initialized
+INFO - 2021-01-01 04:54:52 --> Hooks Class Initialized
+DEBUG - 2021-01-01 04:54:52 --> UTF-8 Support Enabled
+INFO - 2021-01-01 04:54:52 --> Utf8 Class Initialized
+INFO - 2021-01-01 04:54:52 --> URI Class Initialized
+INFO - 2021-01-01 04:54:52 --> Router Class Initialized
+INFO - 2021-01-01 04:54:52 --> Output Class Initialized
+INFO - 2021-01-01 04:54:52 --> Security Class Initialized
+DEBUG - 2021-01-01 04:54:52 --> Global POST, GET and COOKIE data sanitized
+INFO - 2021-01-01 04:54:52 --> Input Class Initialized
+INFO - 2021-01-01 04:54:52 --> Language Class Initialized
+INFO - 2021-01-01 04:54:52 --> Language Class Initialized
+INFO - 2021-01-01 04:54:52 --> Config Class Initialized
+INFO - 2021-01-01 04:54:52 --> Loader Class Initialized
+INFO - 2021-01-01 04:54:52 --> Helper loaded: url_helper
+INFO - 2021-01-01 04:54:52 --> Helper loaded: html_helper
+INFO - 2021-01-01 04:54:52 --> Helper loaded: file_helper
+INFO - 2021-01-01 04:54:52 --> Helper loaded: form_helper
+INFO - 2021-01-01 04:54:52 --> Helper loaded: security_helper
+INFO - 2021-01-01 04:54:52 --> Helper loaded: xss_helper
+INFO - 2021-01-01 04:54:52 --> Helper loaded: slug_helper
+INFO - 2021-01-01 04:54:52 --> Database Driver Class Initialized
+DEBUG - 2021-01-01 04:54:52 --> Session: "sess_save_path" is empty; using "session.save_path" value from php.ini.
+INFO - 2021-01-01 04:54:52 --> Session: Class initialized using 'files' driver.
+INFO - 2021-01-01 04:54:52 --> Language file loaded: language/english/pagination_lang.php
+INFO - 2021-01-01 04:54:52 --> Pagination Class Initialized
+INFO - 2021-01-01 04:54:52 --> Email Class Initialized
+INFO - 2021-01-01 04:54:52 --> Model "M_konfig" initialized
+INFO - 2021-01-01 04:54:52 --> Model "M_reff" initialized
+INFO - 2021-01-01 04:54:52 --> Model "M_total" initialized
+INFO - 2021-01-01 04:54:52 --> Controller Class Initialized
+DEBUG - 2021-01-01 04:54:52 --> File loaded: D:\xampp72\htdocs\app_grm\application\modules/apengumuman/models/Model.php
+INFO - 2021-01-01 10:54:52 --> Final output sent to browser
+DEBUG - 2021-01-01 10:54:52 --> Total execution time: 0.6901
+INFO - 2021-01-01 04:54:57 --> Config Class Initialized
+INFO - 2021-01-01 04:54:57 --> Hooks Class Initialized
+DEBUG - 2021-01-01 04:54:57 --> UTF-8 Support Enabled
+INFO - 2021-01-01 04:54:57 --> Utf8 Class Initialized
+INFO - 2021-01-01 04:54:57 --> URI Class Initialized
+INFO - 2021-01-01 04:54:57 --> Router Class Initialized
+INFO - 2021-01-01 04:54:57 --> Output Class Initialized
+INFO - 2021-01-01 04:54:57 --> Security Class Initialized
+DEBUG - 2021-01-01 04:54:57 --> Global POST, GET and COOKIE data sanitized
+INFO - 2021-01-01 04:54:57 --> Input Class Initialized
+INFO - 2021-01-01 04:54:57 --> Language Class Initialized
+INFO - 2021-01-01 04:54:57 --> Language Class Initialized
+INFO - 2021-01-01 04:54:57 --> Config Class Initialized
+INFO - 2021-01-01 04:54:57 --> Loader Class Initialized
+INFO - 2021-01-01 04:54:57 --> Helper loaded: url_helper
+INFO - 2021-01-01 04:54:57 --> Helper loaded: html_helper
+INFO - 2021-01-01 04:54:57 --> Helper loaded: file_helper
+INFO - 2021-01-01 04:54:57 --> Helper loaded: form_helper
+INFO - 2021-01-01 04:54:57 --> Helper loaded: security_helper
+INFO - 2021-01-01 04:54:57 --> Helper loaded: xss_helper
+INFO - 2021-01-01 04:54:57 --> Helper loaded: slug_helper
+INFO - 2021-01-01 04:54:57 --> Database Driver Class Initialized
+DEBUG - 2021-01-01 04:54:57 --> Session: "sess_save_path" is empty; using "session.save_path" value from php.ini.
+INFO - 2021-01-01 04:54:57 --> Session: Class initialized using 'files' driver.
+INFO - 2021-01-01 04:54:57 --> Language file loaded: language/english/pagination_lang.php
+INFO - 2021-01-01 04:54:57 --> Pagination Class Initialized
+INFO - 2021-01-01 04:54:57 --> Email Class Initialized
+INFO - 2021-01-01 04:54:57 --> Model "M_konfig" initialized
+INFO - 2021-01-01 04:54:57 --> Model "M_reff" initialized
+INFO - 2021-01-01 04:54:57 --> Model "M_total" initialized
+INFO - 2021-01-01 04:54:57 --> Controller Class Initialized
+DEBUG - 2021-01-01 04:54:57 --> File loaded: D:\xampp72\htdocs\app_grm\application\modules/apengumuman/models/Model.php
+INFO - 2021-01-01 10:54:57 --> Final output sent to browser
+DEBUG - 2021-01-01 10:54:57 --> Total execution time: 0.8609
+INFO - 2021-01-01 04:55:02 --> Config Class Initialized
+INFO - 2021-01-01 04:55:02 --> Hooks Class Initialized
+DEBUG - 2021-01-01 04:55:02 --> UTF-8 Support Enabled
+INFO - 2021-01-01 04:55:02 --> Utf8 Class Initialized
+INFO - 2021-01-01 04:55:02 --> URI Class Initialized
+INFO - 2021-01-01 04:55:02 --> Router Class Initialized
+INFO - 2021-01-01 04:55:02 --> Output Class Initialized
+INFO - 2021-01-01 04:55:02 --> Security Class Initialized
+DEBUG - 2021-01-01 04:55:02 --> Global POST, GET and COOKIE data sanitized
+INFO - 2021-01-01 04:55:02 --> Input Class Initialized
+INFO - 2021-01-01 04:55:02 --> Language Class Initialized
+INFO - 2021-01-01 04:55:02 --> Language Class Initialized
+INFO - 2021-01-01 04:55:02 --> Config Class Initialized
+INFO - 2021-01-01 04:55:02 --> Loader Class Initialized
+INFO - 2021-01-01 04:55:02 --> Helper loaded: url_helper
+INFO - 2021-01-01 04:55:02 --> Helper loaded: html_helper
+INFO - 2021-01-01 04:55:02 --> Helper loaded: file_helper
+INFO - 2021-01-01 04:55:02 --> Helper loaded: form_helper
+INFO - 2021-01-01 04:55:02 --> Helper loaded: security_helper
+INFO - 2021-01-01 04:55:02 --> Helper loaded: xss_helper
+INFO - 2021-01-01 04:55:02 --> Helper loaded: slug_helper
+INFO - 2021-01-01 04:55:02 --> Database Driver Class Initialized
+DEBUG - 2021-01-01 04:55:02 --> Session: "sess_save_path" is empty; using "session.save_path" value from php.ini.
+INFO - 2021-01-01 04:55:02 --> Session: Class initialized using 'files' driver.
+INFO - 2021-01-01 04:55:02 --> Language file loaded: language/english/pagination_lang.php
+INFO - 2021-01-01 04:55:02 --> Pagination Class Initialized
+INFO - 2021-01-01 04:55:02 --> Email Class Initialized
+INFO - 2021-01-01 04:55:02 --> Model "M_konfig" initialized
+INFO - 2021-01-01 04:55:02 --> Model "M_reff" initialized
+INFO - 2021-01-01 04:55:02 --> Model "M_total" initialized
+INFO - 2021-01-01 04:55:02 --> Controller Class Initialized
+DEBUG - 2021-01-01 04:55:02 --> File loaded: D:\xampp72\htdocs\app_grm\application\modules/apengumuman/models/Model.php
+INFO - 2021-01-01 10:55:02 --> Final output sent to browser
+DEBUG - 2021-01-01 10:55:02 --> Total execution time: 0.6619
+INFO - 2021-01-01 04:55:07 --> Config Class Initialized
+INFO - 2021-01-01 04:55:07 --> Hooks Class Initialized
+DEBUG - 2021-01-01 04:55:07 --> UTF-8 Support Enabled
+INFO - 2021-01-01 04:55:07 --> Utf8 Class Initialized
+INFO - 2021-01-01 04:55:07 --> URI Class Initialized
+INFO - 2021-01-01 04:55:07 --> Router Class Initialized
+INFO - 2021-01-01 04:55:07 --> Output Class Initialized
+INFO - 2021-01-01 04:55:07 --> Security Class Initialized
+DEBUG - 2021-01-01 04:55:07 --> Global POST, GET and COOKIE data sanitized
+INFO - 2021-01-01 04:55:07 --> Input Class Initialized
+INFO - 2021-01-01 04:55:07 --> Language Class Initialized
+INFO - 2021-01-01 04:55:07 --> Language Class Initialized
+INFO - 2021-01-01 04:55:07 --> Config Class Initialized
+INFO - 2021-01-01 04:55:07 --> Loader Class Initialized
+INFO - 2021-01-01 04:55:07 --> Helper loaded: url_helper
+INFO - 2021-01-01 04:55:07 --> Helper loaded: html_helper
+INFO - 2021-01-01 04:55:07 --> Helper loaded: file_helper
+INFO - 2021-01-01 04:55:07 --> Helper loaded: form_helper
+INFO - 2021-01-01 04:55:07 --> Helper loaded: security_helper
+INFO - 2021-01-01 04:55:07 --> Helper loaded: xss_helper
+INFO - 2021-01-01 04:55:07 --> Helper loaded: slug_helper
+INFO - 2021-01-01 04:55:07 --> Database Driver Class Initialized
+DEBUG - 2021-01-01 04:55:07 --> Session: "sess_save_path" is empty; using "session.save_path" value from php.ini.
+INFO - 2021-01-01 04:55:07 --> Session: Class initialized using 'files' driver.
+INFO - 2021-01-01 04:55:07 --> Language file loaded: language/english/pagination_lang.php
+INFO - 2021-01-01 04:55:07 --> Pagination Class Initialized
+INFO - 2021-01-01 04:55:07 --> Email Class Initialized
+INFO - 2021-01-01 04:55:07 --> Model "M_konfig" initialized
+INFO - 2021-01-01 04:55:07 --> Model "M_reff" initialized
+INFO - 2021-01-01 04:55:07 --> Model "M_total" initialized
+INFO - 2021-01-01 04:55:07 --> Controller Class Initialized
+DEBUG - 2021-01-01 04:55:07 --> File loaded: D:\xampp72\htdocs\app_grm\application\modules/apengumuman/models/Model.php
+INFO - 2021-01-01 10:55:07 --> Final output sent to browser
+DEBUG - 2021-01-01 10:55:07 --> Total execution time: 0.6428
+INFO - 2021-01-01 04:55:12 --> Config Class Initialized
+INFO - 2021-01-01 04:55:12 --> Hooks Class Initialized
+DEBUG - 2021-01-01 04:55:12 --> UTF-8 Support Enabled
+INFO - 2021-01-01 04:55:12 --> Utf8 Class Initialized
+INFO - 2021-01-01 04:55:12 --> URI Class Initialized
+INFO - 2021-01-01 04:55:12 --> Router Class Initialized
+INFO - 2021-01-01 04:55:12 --> Output Class Initialized
+INFO - 2021-01-01 04:55:12 --> Security Class Initialized
+DEBUG - 2021-01-01 04:55:12 --> Global POST, GET and COOKIE data sanitized
+INFO - 2021-01-01 04:55:12 --> Input Class Initialized
+INFO - 2021-01-01 04:55:12 --> Language Class Initialized
+INFO - 2021-01-01 04:55:12 --> Language Class Initialized
+INFO - 2021-01-01 04:55:12 --> Config Class Initialized
+INFO - 2021-01-01 04:55:12 --> Loader Class Initialized
+INFO - 2021-01-01 04:55:12 --> Helper loaded: url_helper
+INFO - 2021-01-01 04:55:12 --> Helper loaded: html_helper
+INFO - 2021-01-01 04:55:12 --> Helper loaded: file_helper
+INFO - 2021-01-01 04:55:12 --> Helper loaded: form_helper
+INFO - 2021-01-01 04:55:12 --> Helper loaded: security_helper
+INFO - 2021-01-01 04:55:12 --> Helper loaded: xss_helper
+INFO - 2021-01-01 04:55:12 --> Helper loaded: slug_helper
+INFO - 2021-01-01 04:55:12 --> Database Driver Class Initialized
+DEBUG - 2021-01-01 04:55:12 --> Session: "sess_save_path" is empty; using "session.save_path" value from php.ini.
+INFO - 2021-01-01 04:55:12 --> Session: Class initialized using 'files' driver.
+INFO - 2021-01-01 04:55:12 --> Language file loaded: language/english/pagination_lang.php
+INFO - 2021-01-01 04:55:12 --> Pagination Class Initialized
+INFO - 2021-01-01 04:55:12 --> Email Class Initialized
+INFO - 2021-01-01 04:55:12 --> Model "M_konfig" initialized
+INFO - 2021-01-01 04:55:12 --> Model "M_reff" initialized
+INFO - 2021-01-01 04:55:12 --> Model "M_total" initialized
+INFO - 2021-01-01 04:55:12 --> Controller Class Initialized
+DEBUG - 2021-01-01 04:55:12 --> File loaded: D:\xampp72\htdocs\app_grm\application\modules/apengumuman/models/Model.php
+INFO - 2021-01-01 10:55:12 --> Final output sent to browser
+DEBUG - 2021-01-01 10:55:12 --> Total execution time: 0.6562
+INFO - 2021-01-01 04:55:17 --> Config Class Initialized
+INFO - 2021-01-01 04:55:17 --> Hooks Class Initialized
+DEBUG - 2021-01-01 04:55:17 --> UTF-8 Support Enabled
+INFO - 2021-01-01 04:55:17 --> Utf8 Class Initialized
+INFO - 2021-01-01 04:55:17 --> URI Class Initialized
+INFO - 2021-01-01 04:55:17 --> Router Class Initialized
+INFO - 2021-01-01 04:55:17 --> Output Class Initialized
+INFO - 2021-01-01 04:55:17 --> Security Class Initialized
+DEBUG - 2021-01-01 04:55:17 --> Global POST, GET and COOKIE data sanitized
+INFO - 2021-01-01 04:55:17 --> Input Class Initialized
+INFO - 2021-01-01 04:55:17 --> Language Class Initialized
+INFO - 2021-01-01 04:55:17 --> Language Class Initialized
+INFO - 2021-01-01 04:55:17 --> Config Class Initialized
+INFO - 2021-01-01 04:55:17 --> Loader Class Initialized
+INFO - 2021-01-01 04:55:17 --> Helper loaded: url_helper
+INFO - 2021-01-01 04:55:17 --> Helper loaded: html_helper
+INFO - 2021-01-01 04:55:17 --> Helper loaded: file_helper
+INFO - 2021-01-01 04:55:17 --> Helper loaded: form_helper
+INFO - 2021-01-01 04:55:17 --> Helper loaded: security_helper
+INFO - 2021-01-01 04:55:17 --> Helper loaded: xss_helper
+INFO - 2021-01-01 04:55:17 --> Helper loaded: slug_helper
+INFO - 2021-01-01 04:55:17 --> Database Driver Class Initialized
+DEBUG - 2021-01-01 04:55:17 --> Session: "sess_save_path" is empty; using "session.save_path" value from php.ini.
+INFO - 2021-01-01 04:55:17 --> Session: Class initialized using 'files' driver.
+INFO - 2021-01-01 04:55:17 --> Language file loaded: language/english/pagination_lang.php
+INFO - 2021-01-01 04:55:17 --> Pagination Class Initialized
+INFO - 2021-01-01 04:55:17 --> Email Class Initialized
+INFO - 2021-01-01 04:55:17 --> Model "M_konfig" initialized
+INFO - 2021-01-01 04:55:17 --> Model "M_reff" initialized
+INFO - 2021-01-01 04:55:17 --> Model "M_total" initialized
+INFO - 2021-01-01 04:55:17 --> Controller Class Initialized
+DEBUG - 2021-01-01 04:55:17 --> File loaded: D:\xampp72\htdocs\app_grm\application\modules/apengumuman/models/Model.php
+INFO - 2021-01-01 10:55:17 --> Final output sent to browser
+DEBUG - 2021-01-01 10:55:17 --> Total execution time: 0.6477
+INFO - 2021-01-01 04:55:22 --> Config Class Initialized
+INFO - 2021-01-01 04:55:22 --> Hooks Class Initialized
+DEBUG - 2021-01-01 04:55:22 --> UTF-8 Support Enabled
+INFO - 2021-01-01 04:55:22 --> Utf8 Class Initialized
+INFO - 2021-01-01 04:55:22 --> URI Class Initialized
+INFO - 2021-01-01 04:55:22 --> Router Class Initialized
+INFO - 2021-01-01 04:55:22 --> Output Class Initialized
+INFO - 2021-01-01 04:55:22 --> Security Class Initialized
+DEBUG - 2021-01-01 04:55:22 --> Global POST, GET and COOKIE data sanitized
+INFO - 2021-01-01 04:55:22 --> Input Class Initialized
+INFO - 2021-01-01 04:55:22 --> Language Class Initialized
+INFO - 2021-01-01 04:55:22 --> Language Class Initialized
+INFO - 2021-01-01 04:55:22 --> Config Class Initialized
+INFO - 2021-01-01 04:55:22 --> Loader Class Initialized
+INFO - 2021-01-01 04:55:22 --> Helper loaded: url_helper
+INFO - 2021-01-01 04:55:22 --> Helper loaded: html_helper
+INFO - 2021-01-01 04:55:22 --> Helper loaded: file_helper
+INFO - 2021-01-01 04:55:22 --> Helper loaded: form_helper
+INFO - 2021-01-01 04:55:22 --> Helper loaded: security_helper
+INFO - 2021-01-01 04:55:22 --> Helper loaded: xss_helper
+INFO - 2021-01-01 04:55:22 --> Helper loaded: slug_helper
+INFO - 2021-01-01 04:55:22 --> Database Driver Class Initialized
+DEBUG - 2021-01-01 04:55:22 --> Session: "sess_save_path" is empty; using "session.save_path" value from php.ini.
+INFO - 2021-01-01 04:55:22 --> Session: Class initialized using 'files' driver.
+INFO - 2021-01-01 04:55:22 --> Language file loaded: language/english/pagination_lang.php
+INFO - 2021-01-01 04:55:22 --> Pagination Class Initialized
+INFO - 2021-01-01 04:55:22 --> Email Class Initialized
+INFO - 2021-01-01 04:55:22 --> Model "M_konfig" initialized
+INFO - 2021-01-01 04:55:22 --> Model "M_reff" initialized
+INFO - 2021-01-01 04:55:22 --> Model "M_total" initialized
+INFO - 2021-01-01 04:55:22 --> Controller Class Initialized
+DEBUG - 2021-01-01 04:55:22 --> File loaded: D:\xampp72\htdocs\app_grm\application\modules/apengumuman/models/Model.php
+INFO - 2021-01-01 10:55:22 --> Final output sent to browser
+DEBUG - 2021-01-01 10:55:22 --> Total execution time: 0.6600
+INFO - 2021-01-01 04:55:27 --> Config Class Initialized
+INFO - 2021-01-01 04:55:27 --> Hooks Class Initialized
+DEBUG - 2021-01-01 04:55:27 --> UTF-8 Support Enabled
+INFO - 2021-01-01 04:55:27 --> Utf8 Class Initialized
+INFO - 2021-01-01 04:55:27 --> URI Class Initialized
+INFO - 2021-01-01 04:55:27 --> Router Class Initialized
+INFO - 2021-01-01 04:55:27 --> Output Class Initialized
+INFO - 2021-01-01 04:55:27 --> Security Class Initialized
+DEBUG - 2021-01-01 04:55:27 --> Global POST, GET and COOKIE data sanitized
+INFO - 2021-01-01 04:55:27 --> Input Class Initialized
+INFO - 2021-01-01 04:55:27 --> Language Class Initialized
+INFO - 2021-01-01 04:55:27 --> Language Class Initialized
+INFO - 2021-01-01 04:55:27 --> Config Class Initialized
+INFO - 2021-01-01 04:55:27 --> Loader Class Initialized
+INFO - 2021-01-01 04:55:27 --> Helper loaded: url_helper
+INFO - 2021-01-01 04:55:27 --> Helper loaded: html_helper
+INFO - 2021-01-01 04:55:27 --> Helper loaded: file_helper
+INFO - 2021-01-01 04:55:27 --> Helper loaded: form_helper
+INFO - 2021-01-01 04:55:27 --> Helper loaded: security_helper
+INFO - 2021-01-01 04:55:27 --> Helper loaded: xss_helper
+INFO - 2021-01-01 04:55:27 --> Helper loaded: slug_helper
+INFO - 2021-01-01 04:55:27 --> Database Driver Class Initialized
+DEBUG - 2021-01-01 04:55:27 --> Session: "sess_save_path" is empty; using "session.save_path" value from php.ini.
+INFO - 2021-01-01 04:55:27 --> Session: Class initialized using 'files' driver.
+INFO - 2021-01-01 04:55:27 --> Language file loaded: language/english/pagination_lang.php
+INFO - 2021-01-01 04:55:27 --> Pagination Class Initialized
+INFO - 2021-01-01 04:55:27 --> Email Class Initialized
+INFO - 2021-01-01 04:55:27 --> Model "M_konfig" initialized
+INFO - 2021-01-01 04:55:27 --> Model "M_reff" initialized
+INFO - 2021-01-01 04:55:27 --> Model "M_total" initialized
+INFO - 2021-01-01 04:55:27 --> Controller Class Initialized
+DEBUG - 2021-01-01 04:55:27 --> File loaded: D:\xampp72\htdocs\app_grm\application\modules/apengumuman/models/Model.php
+INFO - 2021-01-01 10:55:27 --> Final output sent to browser
+DEBUG - 2021-01-01 10:55:27 --> Total execution time: 0.6540
+INFO - 2021-01-01 04:55:32 --> Config Class Initialized
+INFO - 2021-01-01 04:55:32 --> Hooks Class Initialized
+DEBUG - 2021-01-01 04:55:32 --> UTF-8 Support Enabled
+INFO - 2021-01-01 04:55:32 --> Utf8 Class Initialized
+INFO - 2021-01-01 04:55:32 --> URI Class Initialized
+INFO - 2021-01-01 04:55:32 --> Router Class Initialized
+INFO - 2021-01-01 04:55:32 --> Output Class Initialized
+INFO - 2021-01-01 04:55:32 --> Security Class Initialized
+DEBUG - 2021-01-01 04:55:32 --> Global POST, GET and COOKIE data sanitized
+INFO - 2021-01-01 04:55:32 --> Input Class Initialized
+INFO - 2021-01-01 04:55:32 --> Language Class Initialized
+INFO - 2021-01-01 04:55:32 --> Language Class Initialized
+INFO - 2021-01-01 04:55:32 --> Config Class Initialized
+INFO - 2021-01-01 04:55:32 --> Loader Class Initialized
+INFO - 2021-01-01 04:55:32 --> Helper loaded: url_helper
+INFO - 2021-01-01 04:55:32 --> Helper loaded: html_helper
+INFO - 2021-01-01 04:55:32 --> Helper loaded: file_helper
+INFO - 2021-01-01 04:55:32 --> Helper loaded: form_helper
+INFO - 2021-01-01 04:55:32 --> Helper loaded: security_helper
+INFO - 2021-01-01 04:55:32 --> Helper loaded: xss_helper
+INFO - 2021-01-01 04:55:32 --> Helper loaded: slug_helper
+INFO - 2021-01-01 04:55:32 --> Database Driver Class Initialized
+DEBUG - 2021-01-01 04:55:32 --> Session: "sess_save_path" is empty; using "session.save_path" value from php.ini.
+INFO - 2021-01-01 04:55:32 --> Session: Class initialized using 'files' driver.
+INFO - 2021-01-01 04:55:32 --> Language file loaded: language/english/pagination_lang.php
+INFO - 2021-01-01 04:55:32 --> Pagination Class Initialized
+INFO - 2021-01-01 04:55:32 --> Email Class Initialized
+INFO - 2021-01-01 04:55:32 --> Model "M_konfig" initialized
+INFO - 2021-01-01 04:55:32 --> Model "M_reff" initialized
+INFO - 2021-01-01 04:55:32 --> Model "M_total" initialized
+INFO - 2021-01-01 04:55:32 --> Controller Class Initialized
+DEBUG - 2021-01-01 04:55:32 --> File loaded: D:\xampp72\htdocs\app_grm\application\modules/apengumuman/models/Model.php
+INFO - 2021-01-01 10:55:32 --> Final output sent to browser
+DEBUG - 2021-01-01 10:55:32 --> Total execution time: 0.6505
+INFO - 2021-01-01 04:55:37 --> Config Class Initialized
+INFO - 2021-01-01 04:55:37 --> Hooks Class Initialized
+DEBUG - 2021-01-01 04:55:37 --> UTF-8 Support Enabled
+INFO - 2021-01-01 04:55:37 --> Utf8 Class Initialized
+INFO - 2021-01-01 04:55:37 --> URI Class Initialized
+INFO - 2021-01-01 04:55:37 --> Router Class Initialized
+INFO - 2021-01-01 04:55:37 --> Output Class Initialized
+INFO - 2021-01-01 04:55:37 --> Security Class Initialized
+DEBUG - 2021-01-01 04:55:37 --> Global POST, GET and COOKIE data sanitized
+INFO - 2021-01-01 04:55:37 --> Input Class Initialized
+INFO - 2021-01-01 04:55:37 --> Language Class Initialized
+INFO - 2021-01-01 04:55:37 --> Language Class Initialized
+INFO - 2021-01-01 04:55:37 --> Config Class Initialized
+INFO - 2021-01-01 04:55:37 --> Loader Class Initialized
+INFO - 2021-01-01 04:55:37 --> Helper loaded: url_helper
+INFO - 2021-01-01 04:55:37 --> Helper loaded: html_helper
+INFO - 2021-01-01 04:55:37 --> Helper loaded: file_helper
+INFO - 2021-01-01 04:55:37 --> Helper loaded: form_helper
+INFO - 2021-01-01 04:55:37 --> Helper loaded: security_helper
+INFO - 2021-01-01 04:55:37 --> Helper loaded: xss_helper
+INFO - 2021-01-01 04:55:37 --> Helper loaded: slug_helper
+INFO - 2021-01-01 04:55:37 --> Database Driver Class Initialized
+DEBUG - 2021-01-01 04:55:37 --> Session: "sess_save_path" is empty; using "session.save_path" value from php.ini.
+INFO - 2021-01-01 04:55:37 --> Session: Class initialized using 'files' driver.
+INFO - 2021-01-01 04:55:37 --> Language file loaded: language/english/pagination_lang.php
+INFO - 2021-01-01 04:55:37 --> Pagination Class Initialized
+INFO - 2021-01-01 04:55:37 --> Email Class Initialized
+INFO - 2021-01-01 04:55:37 --> Model "M_konfig" initialized
+INFO - 2021-01-01 04:55:37 --> Model "M_reff" initialized
+INFO - 2021-01-01 04:55:37 --> Model "M_total" initialized
+INFO - 2021-01-01 04:55:37 --> Controller Class Initialized
+DEBUG - 2021-01-01 04:55:37 --> File loaded: D:\xampp72\htdocs\app_grm\application\modules/apengumuman/models/Model.php
+INFO - 2021-01-01 10:55:37 --> Final output sent to browser
+DEBUG - 2021-01-01 10:55:37 --> Total execution time: 0.6911
+INFO - 2021-01-01 04:55:42 --> Config Class Initialized
+INFO - 2021-01-01 04:55:42 --> Hooks Class Initialized
+DEBUG - 2021-01-01 04:55:42 --> UTF-8 Support Enabled
+INFO - 2021-01-01 04:55:42 --> Utf8 Class Initialized
+INFO - 2021-01-01 04:55:42 --> URI Class Initialized
+INFO - 2021-01-01 04:55:42 --> Router Class Initialized
+INFO - 2021-01-01 04:55:42 --> Output Class Initialized
+INFO - 2021-01-01 04:55:42 --> Security Class Initialized
+DEBUG - 2021-01-01 04:55:42 --> Global POST, GET and COOKIE data sanitized
+INFO - 2021-01-01 04:55:42 --> Input Class Initialized
+INFO - 2021-01-01 04:55:42 --> Language Class Initialized
+INFO - 2021-01-01 04:55:42 --> Language Class Initialized
+INFO - 2021-01-01 04:55:42 --> Config Class Initialized
+INFO - 2021-01-01 04:55:42 --> Loader Class Initialized
+INFO - 2021-01-01 04:55:42 --> Helper loaded: url_helper
+INFO - 2021-01-01 04:55:42 --> Helper loaded: html_helper
+INFO - 2021-01-01 04:55:42 --> Helper loaded: file_helper
+INFO - 2021-01-01 04:55:42 --> Helper loaded: form_helper
+INFO - 2021-01-01 04:55:42 --> Helper loaded: security_helper
+INFO - 2021-01-01 04:55:42 --> Helper loaded: xss_helper
+INFO - 2021-01-01 04:55:42 --> Helper loaded: slug_helper
+INFO - 2021-01-01 04:55:42 --> Database Driver Class Initialized
+DEBUG - 2021-01-01 04:55:42 --> Session: "sess_save_path" is empty; using "session.save_path" value from php.ini.
+INFO - 2021-01-01 04:55:42 --> Session: Class initialized using 'files' driver.
+INFO - 2021-01-01 04:55:42 --> Language file loaded: language/english/pagination_lang.php
+INFO - 2021-01-01 04:55:42 --> Pagination Class Initialized
+INFO - 2021-01-01 04:55:42 --> Email Class Initialized
+INFO - 2021-01-01 04:55:42 --> Model "M_konfig" initialized
+INFO - 2021-01-01 04:55:42 --> Model "M_reff" initialized
+INFO - 2021-01-01 04:55:42 --> Model "M_total" initialized
+INFO - 2021-01-01 04:55:42 --> Controller Class Initialized
+DEBUG - 2021-01-01 04:55:42 --> File loaded: D:\xampp72\htdocs\app_grm\application\modules/apengumuman/models/Model.php
+INFO - 2021-01-01 10:55:42 --> Final output sent to browser
+DEBUG - 2021-01-01 10:55:42 --> Total execution time: 0.8234
+INFO - 2021-01-01 04:55:47 --> Config Class Initialized
+INFO - 2021-01-01 04:55:47 --> Hooks Class Initialized
+DEBUG - 2021-01-01 04:55:47 --> UTF-8 Support Enabled
+INFO - 2021-01-01 04:55:47 --> Utf8 Class Initialized
+INFO - 2021-01-01 04:55:47 --> URI Class Initialized
+INFO - 2021-01-01 04:55:47 --> Router Class Initialized
+INFO - 2021-01-01 04:55:47 --> Output Class Initialized
+INFO - 2021-01-01 04:55:47 --> Security Class Initialized
+DEBUG - 2021-01-01 04:55:47 --> Global POST, GET and COOKIE data sanitized
+INFO - 2021-01-01 04:55:47 --> Input Class Initialized
+INFO - 2021-01-01 04:55:47 --> Language Class Initialized
+INFO - 2021-01-01 04:55:47 --> Language Class Initialized
+INFO - 2021-01-01 04:55:47 --> Config Class Initialized
+INFO - 2021-01-01 04:55:47 --> Loader Class Initialized
+INFO - 2021-01-01 04:55:47 --> Helper loaded: url_helper
+INFO - 2021-01-01 04:55:47 --> Helper loaded: html_helper
+INFO - 2021-01-01 04:55:47 --> Helper loaded: file_helper
+INFO - 2021-01-01 04:55:47 --> Helper loaded: form_helper
+INFO - 2021-01-01 04:55:47 --> Helper loaded: security_helper
+INFO - 2021-01-01 04:55:47 --> Helper loaded: xss_helper
+INFO - 2021-01-01 04:55:47 --> Helper loaded: slug_helper
+INFO - 2021-01-01 04:55:47 --> Database Driver Class Initialized
+DEBUG - 2021-01-01 04:55:47 --> Session: "sess_save_path" is empty; using "session.save_path" value from php.ini.
+INFO - 2021-01-01 04:55:47 --> Session: Class initialized using 'files' driver.
+INFO - 2021-01-01 04:55:47 --> Language file loaded: language/english/pagination_lang.php
+INFO - 2021-01-01 04:55:47 --> Pagination Class Initialized
+INFO - 2021-01-01 04:55:47 --> Email Class Initialized
+INFO - 2021-01-01 04:55:47 --> Model "M_konfig" initialized
+INFO - 2021-01-01 04:55:47 --> Model "M_reff" initialized
+INFO - 2021-01-01 04:55:47 --> Model "M_total" initialized
+INFO - 2021-01-01 04:55:47 --> Controller Class Initialized
+DEBUG - 2021-01-01 04:55:47 --> File loaded: D:\xampp72\htdocs\app_grm\application\modules/apengumuman/models/Model.php
+INFO - 2021-01-01 10:55:47 --> Final output sent to browser
+DEBUG - 2021-01-01 10:55:47 --> Total execution time: 0.8338
+INFO - 2021-01-01 04:55:52 --> Config Class Initialized
+INFO - 2021-01-01 04:55:52 --> Hooks Class Initialized
+DEBUG - 2021-01-01 04:55:52 --> UTF-8 Support Enabled
+INFO - 2021-01-01 04:55:52 --> Utf8 Class Initialized
+INFO - 2021-01-01 04:55:52 --> URI Class Initialized
+INFO - 2021-01-01 04:55:52 --> Router Class Initialized
+INFO - 2021-01-01 04:55:52 --> Output Class Initialized
+INFO - 2021-01-01 04:55:52 --> Security Class Initialized
+DEBUG - 2021-01-01 04:55:52 --> Global POST, GET and COOKIE data sanitized
+INFO - 2021-01-01 04:55:52 --> Input Class Initialized
+INFO - 2021-01-01 04:55:52 --> Language Class Initialized
+INFO - 2021-01-01 04:55:52 --> Language Class Initialized
+INFO - 2021-01-01 04:55:52 --> Config Class Initialized
+INFO - 2021-01-01 04:55:52 --> Loader Class Initialized
+INFO - 2021-01-01 04:55:52 --> Helper loaded: url_helper
+INFO - 2021-01-01 04:55:52 --> Helper loaded: html_helper
+INFO - 2021-01-01 04:55:52 --> Helper loaded: file_helper
+INFO - 2021-01-01 04:55:52 --> Helper loaded: form_helper
+INFO - 2021-01-01 04:55:52 --> Helper loaded: security_helper
+INFO - 2021-01-01 04:55:52 --> Helper loaded: xss_helper
+INFO - 2021-01-01 04:55:52 --> Helper loaded: slug_helper
+INFO - 2021-01-01 04:55:52 --> Database Driver Class Initialized
+DEBUG - 2021-01-01 04:55:52 --> Session: "sess_save_path" is empty; using "session.save_path" value from php.ini.
+INFO - 2021-01-01 04:55:52 --> Session: Class initialized using 'files' driver.
+INFO - 2021-01-01 04:55:52 --> Language file loaded: language/english/pagination_lang.php
+INFO - 2021-01-01 04:55:52 --> Pagination Class Initialized
+INFO - 2021-01-01 04:55:52 --> Email Class Initialized
+INFO - 2021-01-01 04:55:52 --> Model "M_konfig" initialized
+INFO - 2021-01-01 04:55:52 --> Model "M_reff" initialized
+INFO - 2021-01-01 04:55:52 --> Model "M_total" initialized
+INFO - 2021-01-01 04:55:52 --> Controller Class Initialized
+DEBUG - 2021-01-01 04:55:52 --> File loaded: D:\xampp72\htdocs\app_grm\application\modules/apengumuman/models/Model.php
+INFO - 2021-01-01 10:55:52 --> Final output sent to browser
+DEBUG - 2021-01-01 10:55:52 --> Total execution time: 0.6537
+INFO - 2021-01-01 04:55:57 --> Config Class Initialized
+INFO - 2021-01-01 04:55:57 --> Hooks Class Initialized
+DEBUG - 2021-01-01 04:55:57 --> UTF-8 Support Enabled
+INFO - 2021-01-01 04:55:57 --> Utf8 Class Initialized
+INFO - 2021-01-01 04:55:57 --> URI Class Initialized
+INFO - 2021-01-01 04:55:57 --> Router Class Initialized
+INFO - 2021-01-01 04:55:57 --> Output Class Initialized
+INFO - 2021-01-01 04:55:57 --> Security Class Initialized
+DEBUG - 2021-01-01 04:55:57 --> Global POST, GET and COOKIE data sanitized
+INFO - 2021-01-01 04:55:57 --> Input Class Initialized
+INFO - 2021-01-01 04:55:57 --> Language Class Initialized
+INFO - 2021-01-01 04:55:57 --> Language Class Initialized
+INFO - 2021-01-01 04:55:57 --> Config Class Initialized
+INFO - 2021-01-01 04:55:57 --> Loader Class Initialized
+INFO - 2021-01-01 04:55:57 --> Helper loaded: url_helper
+INFO - 2021-01-01 04:55:57 --> Helper loaded: html_helper
+INFO - 2021-01-01 04:55:57 --> Helper loaded: file_helper
+INFO - 2021-01-01 04:55:57 --> Helper loaded: form_helper
+INFO - 2021-01-01 04:55:57 --> Helper loaded: security_helper
+INFO - 2021-01-01 04:55:57 --> Helper loaded: xss_helper
+INFO - 2021-01-01 04:55:57 --> Helper loaded: slug_helper
+INFO - 2021-01-01 04:55:57 --> Database Driver Class Initialized
+DEBUG - 2021-01-01 04:55:57 --> Session: "sess_save_path" is empty; using "session.save_path" value from php.ini.
+INFO - 2021-01-01 04:55:57 --> Session: Class initialized using 'files' driver.
+INFO - 2021-01-01 04:55:57 --> Language file loaded: language/english/pagination_lang.php
+INFO - 2021-01-01 04:55:57 --> Pagination Class Initialized
+INFO - 2021-01-01 04:55:57 --> Email Class Initialized
+INFO - 2021-01-01 04:55:57 --> Model "M_konfig" initialized
+INFO - 2021-01-01 04:55:57 --> Model "M_reff" initialized
+INFO - 2021-01-01 04:55:57 --> Model "M_total" initialized
+INFO - 2021-01-01 04:55:57 --> Controller Class Initialized
+DEBUG - 2021-01-01 04:55:57 --> File loaded: D:\xampp72\htdocs\app_grm\application\modules/apengumuman/models/Model.php
+INFO - 2021-01-01 10:55:57 --> Final output sent to browser
+DEBUG - 2021-01-01 10:55:57 --> Total execution time: 0.7014
+INFO - 2021-01-01 04:56:02 --> Config Class Initialized
+INFO - 2021-01-01 04:56:02 --> Hooks Class Initialized
+DEBUG - 2021-01-01 04:56:02 --> UTF-8 Support Enabled
+INFO - 2021-01-01 04:56:02 --> Utf8 Class Initialized
+INFO - 2021-01-01 04:56:02 --> URI Class Initialized
+INFO - 2021-01-01 04:56:02 --> Router Class Initialized
+INFO - 2021-01-01 04:56:02 --> Output Class Initialized
+INFO - 2021-01-01 04:56:02 --> Security Class Initialized
+DEBUG - 2021-01-01 04:56:02 --> Global POST, GET and COOKIE data sanitized
+INFO - 2021-01-01 04:56:02 --> Input Class Initialized
+INFO - 2021-01-01 04:56:02 --> Language Class Initialized
+INFO - 2021-01-01 04:56:02 --> Language Class Initialized
+INFO - 2021-01-01 04:56:02 --> Config Class Initialized
+INFO - 2021-01-01 04:56:02 --> Loader Class Initialized
+INFO - 2021-01-01 04:56:02 --> Helper loaded: url_helper
+INFO - 2021-01-01 04:56:02 --> Helper loaded: html_helper
+INFO - 2021-01-01 04:56:02 --> Helper loaded: file_helper
+INFO - 2021-01-01 04:56:02 --> Helper loaded: form_helper
+INFO - 2021-01-01 04:56:02 --> Helper loaded: security_helper
+INFO - 2021-01-01 04:56:02 --> Helper loaded: xss_helper
+INFO - 2021-01-01 04:56:02 --> Helper loaded: slug_helper
+INFO - 2021-01-01 04:56:02 --> Database Driver Class Initialized
+DEBUG - 2021-01-01 04:56:02 --> Session: "sess_save_path" is empty; using "session.save_path" value from php.ini.
+INFO - 2021-01-01 04:56:02 --> Session: Class initialized using 'files' driver.
+INFO - 2021-01-01 04:56:02 --> Language file loaded: language/english/pagination_lang.php
+INFO - 2021-01-01 04:56:02 --> Pagination Class Initialized
+INFO - 2021-01-01 04:56:02 --> Email Class Initialized
+INFO - 2021-01-01 04:56:02 --> Model "M_konfig" initialized
+INFO - 2021-01-01 04:56:02 --> Model "M_reff" initialized
+INFO - 2021-01-01 04:56:02 --> Model "M_total" initialized
+INFO - 2021-01-01 04:56:02 --> Controller Class Initialized
+DEBUG - 2021-01-01 04:56:02 --> File loaded: D:\xampp72\htdocs\app_grm\application\modules/apengumuman/models/Model.php
+INFO - 2021-01-01 10:56:02 --> Final output sent to browser
+DEBUG - 2021-01-01 10:56:02 --> Total execution time: 0.6576
+INFO - 2021-01-01 04:56:07 --> Config Class Initialized
+INFO - 2021-01-01 04:56:07 --> Hooks Class Initialized
+DEBUG - 2021-01-01 04:56:07 --> UTF-8 Support Enabled
+INFO - 2021-01-01 04:56:07 --> Utf8 Class Initialized
+INFO - 2021-01-01 04:56:07 --> URI Class Initialized
+INFO - 2021-01-01 04:56:07 --> Router Class Initialized
+INFO - 2021-01-01 04:56:07 --> Output Class Initialized
+INFO - 2021-01-01 04:56:07 --> Security Class Initialized
+DEBUG - 2021-01-01 04:56:07 --> Global POST, GET and COOKIE data sanitized
+INFO - 2021-01-01 04:56:07 --> Input Class Initialized
+INFO - 2021-01-01 04:56:07 --> Language Class Initialized
+INFO - 2021-01-01 04:56:07 --> Language Class Initialized
+INFO - 2021-01-01 04:56:07 --> Config Class Initialized
+INFO - 2021-01-01 04:56:07 --> Loader Class Initialized
+INFO - 2021-01-01 04:56:07 --> Helper loaded: url_helper
+INFO - 2021-01-01 04:56:07 --> Helper loaded: html_helper
+INFO - 2021-01-01 04:56:07 --> Helper loaded: file_helper
+INFO - 2021-01-01 04:56:07 --> Helper loaded: form_helper
+INFO - 2021-01-01 04:56:07 --> Helper loaded: security_helper
+INFO - 2021-01-01 04:56:07 --> Helper loaded: xss_helper
+INFO - 2021-01-01 04:56:07 --> Helper loaded: slug_helper
+INFO - 2021-01-01 04:56:07 --> Database Driver Class Initialized
+DEBUG - 2021-01-01 04:56:07 --> Session: "sess_save_path" is empty; using "session.save_path" value from php.ini.
+INFO - 2021-01-01 04:56:07 --> Session: Class initialized using 'files' driver.
+INFO - 2021-01-01 04:56:07 --> Language file loaded: language/english/pagination_lang.php
+INFO - 2021-01-01 04:56:07 --> Pagination Class Initialized
+INFO - 2021-01-01 04:56:07 --> Email Class Initialized
+INFO - 2021-01-01 04:56:07 --> Model "M_konfig" initialized
+INFO - 2021-01-01 04:56:07 --> Model "M_reff" initialized
+INFO - 2021-01-01 04:56:07 --> Model "M_total" initialized
+INFO - 2021-01-01 04:56:07 --> Controller Class Initialized
+DEBUG - 2021-01-01 04:56:07 --> File loaded: D:\xampp72\htdocs\app_grm\application\modules/apengumuman/models/Model.php
+INFO - 2021-01-01 10:56:07 --> Final output sent to browser
+DEBUG - 2021-01-01 10:56:08 --> Total execution time: 0.8058
+INFO - 2021-01-01 04:56:12 --> Config Class Initialized
+INFO - 2021-01-01 04:56:12 --> Hooks Class Initialized
+DEBUG - 2021-01-01 04:56:12 --> UTF-8 Support Enabled
+INFO - 2021-01-01 04:56:12 --> Utf8 Class Initialized
+INFO - 2021-01-01 04:56:12 --> URI Class Initialized
+INFO - 2021-01-01 04:56:12 --> Router Class Initialized
+INFO - 2021-01-01 04:56:12 --> Output Class Initialized
+INFO - 2021-01-01 04:56:12 --> Security Class Initialized
+DEBUG - 2021-01-01 04:56:12 --> Global POST, GET and COOKIE data sanitized
+INFO - 2021-01-01 04:56:12 --> Input Class Initialized
+INFO - 2021-01-01 04:56:12 --> Language Class Initialized
+INFO - 2021-01-01 04:56:12 --> Language Class Initialized
+INFO - 2021-01-01 04:56:12 --> Config Class Initialized
+INFO - 2021-01-01 04:56:12 --> Loader Class Initialized
+INFO - 2021-01-01 04:56:12 --> Helper loaded: url_helper
+INFO - 2021-01-01 04:56:12 --> Helper loaded: html_helper
+INFO - 2021-01-01 04:56:12 --> Helper loaded: file_helper
+INFO - 2021-01-01 04:56:12 --> Helper loaded: form_helper
+INFO - 2021-01-01 04:56:12 --> Helper loaded: security_helper
+INFO - 2021-01-01 04:56:12 --> Helper loaded: xss_helper
+INFO - 2021-01-01 04:56:12 --> Helper loaded: slug_helper
+INFO - 2021-01-01 04:56:12 --> Database Driver Class Initialized
+DEBUG - 2021-01-01 04:56:12 --> Session: "sess_save_path" is empty; using "session.save_path" value from php.ini.
+INFO - 2021-01-01 04:56:12 --> Session: Class initialized using 'files' driver.
+INFO - 2021-01-01 04:56:12 --> Language file loaded: language/english/pagination_lang.php
+INFO - 2021-01-01 04:56:12 --> Pagination Class Initialized
+INFO - 2021-01-01 04:56:12 --> Email Class Initialized
+INFO - 2021-01-01 04:56:12 --> Model "M_konfig" initialized
+INFO - 2021-01-01 04:56:12 --> Model "M_reff" initialized
+INFO - 2021-01-01 04:56:12 --> Model "M_total" initialized
+INFO - 2021-01-01 04:56:12 --> Controller Class Initialized
+DEBUG - 2021-01-01 04:56:12 --> File loaded: D:\xampp72\htdocs\app_grm\application\modules/apengumuman/models/Model.php
+INFO - 2021-01-01 10:56:12 --> Final output sent to browser
+DEBUG - 2021-01-01 10:56:12 --> Total execution time: 0.7034
+INFO - 2021-01-01 04:56:17 --> Config Class Initialized
+INFO - 2021-01-01 04:56:17 --> Hooks Class Initialized
+DEBUG - 2021-01-01 04:56:17 --> UTF-8 Support Enabled
+INFO - 2021-01-01 04:56:17 --> Utf8 Class Initialized
+INFO - 2021-01-01 04:56:17 --> URI Class Initialized
+INFO - 2021-01-01 04:56:17 --> Router Class Initialized
+INFO - 2021-01-01 04:56:17 --> Output Class Initialized
+INFO - 2021-01-01 04:56:17 --> Security Class Initialized
+DEBUG - 2021-01-01 04:56:17 --> Global POST, GET and COOKIE data sanitized
+INFO - 2021-01-01 04:56:17 --> Input Class Initialized
+INFO - 2021-01-01 04:56:17 --> Language Class Initialized
+INFO - 2021-01-01 04:56:17 --> Language Class Initialized
+INFO - 2021-01-01 04:56:17 --> Config Class Initialized
+INFO - 2021-01-01 04:56:17 --> Loader Class Initialized
+INFO - 2021-01-01 04:56:17 --> Helper loaded: url_helper
+INFO - 2021-01-01 04:56:17 --> Helper loaded: html_helper
+INFO - 2021-01-01 04:56:17 --> Helper loaded: file_helper
+INFO - 2021-01-01 04:56:17 --> Helper loaded: form_helper
+INFO - 2021-01-01 04:56:17 --> Helper loaded: security_helper
+INFO - 2021-01-01 04:56:17 --> Helper loaded: xss_helper
+INFO - 2021-01-01 04:56:17 --> Helper loaded: slug_helper
+INFO - 2021-01-01 04:56:17 --> Database Driver Class Initialized
+DEBUG - 2021-01-01 04:56:17 --> Session: "sess_save_path" is empty; using "session.save_path" value from php.ini.
+INFO - 2021-01-01 04:56:17 --> Session: Class initialized using 'files' driver.
+INFO - 2021-01-01 04:56:17 --> Language file loaded: language/english/pagination_lang.php
+INFO - 2021-01-01 04:56:17 --> Pagination Class Initialized
+INFO - 2021-01-01 04:56:17 --> Email Class Initialized
+INFO - 2021-01-01 04:56:17 --> Model "M_konfig" initialized
+INFO - 2021-01-01 04:56:17 --> Model "M_reff" initialized
+INFO - 2021-01-01 04:56:17 --> Model "M_total" initialized
+INFO - 2021-01-01 04:56:17 --> Controller Class Initialized
+DEBUG - 2021-01-01 04:56:17 --> File loaded: D:\xampp72\htdocs\app_grm\application\modules/apengumuman/models/Model.php
+INFO - 2021-01-01 10:56:17 --> Final output sent to browser
+DEBUG - 2021-01-01 10:56:17 --> Total execution time: 0.7023
+INFO - 2021-01-01 04:56:22 --> Config Class Initialized
+INFO - 2021-01-01 04:56:22 --> Hooks Class Initialized
+DEBUG - 2021-01-01 04:56:22 --> UTF-8 Support Enabled
+INFO - 2021-01-01 04:56:22 --> Utf8 Class Initialized
+INFO - 2021-01-01 04:56:22 --> URI Class Initialized
+INFO - 2021-01-01 04:56:22 --> Router Class Initialized
+INFO - 2021-01-01 04:56:22 --> Output Class Initialized
+INFO - 2021-01-01 04:56:22 --> Security Class Initialized
+DEBUG - 2021-01-01 04:56:22 --> Global POST, GET and COOKIE data sanitized
+INFO - 2021-01-01 04:56:22 --> Input Class Initialized
+INFO - 2021-01-01 04:56:22 --> Language Class Initialized
+INFO - 2021-01-01 04:56:22 --> Language Class Initialized
+INFO - 2021-01-01 04:56:22 --> Config Class Initialized
+INFO - 2021-01-01 04:56:22 --> Loader Class Initialized
+INFO - 2021-01-01 04:56:22 --> Helper loaded: url_helper
+INFO - 2021-01-01 04:56:22 --> Helper loaded: html_helper
+INFO - 2021-01-01 04:56:22 --> Helper loaded: file_helper
+INFO - 2021-01-01 04:56:22 --> Helper loaded: form_helper
+INFO - 2021-01-01 04:56:22 --> Helper loaded: security_helper
+INFO - 2021-01-01 04:56:22 --> Helper loaded: xss_helper
+INFO - 2021-01-01 04:56:22 --> Helper loaded: slug_helper
+INFO - 2021-01-01 04:56:22 --> Database Driver Class Initialized
+DEBUG - 2021-01-01 04:56:22 --> Session: "sess_save_path" is empty; using "session.save_path" value from php.ini.
+INFO - 2021-01-01 04:56:22 --> Session: Class initialized using 'files' driver.
+INFO - 2021-01-01 04:56:22 --> Language file loaded: language/english/pagination_lang.php
+INFO - 2021-01-01 04:56:22 --> Pagination Class Initialized
+INFO - 2021-01-01 04:56:22 --> Email Class Initialized
+INFO - 2021-01-01 04:56:22 --> Model "M_konfig" initialized
+INFO - 2021-01-01 04:56:22 --> Model "M_reff" initialized
+INFO - 2021-01-01 04:56:22 --> Model "M_total" initialized
+INFO - 2021-01-01 04:56:22 --> Controller Class Initialized
+DEBUG - 2021-01-01 04:56:22 --> File loaded: D:\xampp72\htdocs\app_grm\application\modules/apengumuman/models/Model.php
+INFO - 2021-01-01 10:56:22 --> Final output sent to browser
+DEBUG - 2021-01-01 10:56:22 --> Total execution time: 0.7608
+INFO - 2021-01-01 04:56:27 --> Config Class Initialized
+INFO - 2021-01-01 04:56:27 --> Hooks Class Initialized
+DEBUG - 2021-01-01 04:56:27 --> UTF-8 Support Enabled
+INFO - 2021-01-01 04:56:27 --> Utf8 Class Initialized
+INFO - 2021-01-01 04:56:27 --> URI Class Initialized
+INFO - 2021-01-01 04:56:27 --> Router Class Initialized
+INFO - 2021-01-01 04:56:27 --> Output Class Initialized
+INFO - 2021-01-01 04:56:27 --> Security Class Initialized
+DEBUG - 2021-01-01 04:56:27 --> Global POST, GET and COOKIE data sanitized
+INFO - 2021-01-01 04:56:27 --> Input Class Initialized
+INFO - 2021-01-01 04:56:27 --> Language Class Initialized
+INFO - 2021-01-01 04:56:27 --> Language Class Initialized
+INFO - 2021-01-01 04:56:27 --> Config Class Initialized
+INFO - 2021-01-01 04:56:27 --> Loader Class Initialized
+INFO - 2021-01-01 04:56:27 --> Helper loaded: url_helper
+INFO - 2021-01-01 04:56:27 --> Helper loaded: html_helper
+INFO - 2021-01-01 04:56:27 --> Helper loaded: file_helper
+INFO - 2021-01-01 04:56:27 --> Helper loaded: form_helper
+INFO - 2021-01-01 04:56:27 --> Helper loaded: security_helper
+INFO - 2021-01-01 04:56:27 --> Helper loaded: xss_helper
+INFO - 2021-01-01 04:56:27 --> Helper loaded: slug_helper
+INFO - 2021-01-01 04:56:27 --> Database Driver Class Initialized
+DEBUG - 2021-01-01 04:56:27 --> Session: "sess_save_path" is empty; using "session.save_path" value from php.ini.
+INFO - 2021-01-01 04:56:27 --> Session: Class initialized using 'files' driver.
+INFO - 2021-01-01 04:56:27 --> Language file loaded: language/english/pagination_lang.php
+INFO - 2021-01-01 04:56:27 --> Pagination Class Initialized
+INFO - 2021-01-01 04:56:27 --> Email Class Initialized
+INFO - 2021-01-01 04:56:27 --> Model "M_konfig" initialized
+INFO - 2021-01-01 04:56:27 --> Model "M_reff" initialized
+INFO - 2021-01-01 04:56:27 --> Model "M_total" initialized
+INFO - 2021-01-01 04:56:27 --> Controller Class Initialized
+DEBUG - 2021-01-01 04:56:28 --> File loaded: D:\xampp72\htdocs\app_grm\application\modules/apengumuman/models/Model.php
+INFO - 2021-01-01 10:56:28 --> Final output sent to browser
+DEBUG - 2021-01-01 10:56:28 --> Total execution time: 0.8419
+INFO - 2021-01-01 04:56:32 --> Config Class Initialized
+INFO - 2021-01-01 04:56:32 --> Hooks Class Initialized
+DEBUG - 2021-01-01 04:56:32 --> UTF-8 Support Enabled
+INFO - 2021-01-01 04:56:32 --> Utf8 Class Initialized
+INFO - 2021-01-01 04:56:32 --> URI Class Initialized
+INFO - 2021-01-01 04:56:32 --> Router Class Initialized
+INFO - 2021-01-01 04:56:32 --> Output Class Initialized
+INFO - 2021-01-01 04:56:32 --> Security Class Initialized
+DEBUG - 2021-01-01 04:56:32 --> Global POST, GET and COOKIE data sanitized
+INFO - 2021-01-01 04:56:32 --> Input Class Initialized
+INFO - 2021-01-01 04:56:32 --> Language Class Initialized
+INFO - 2021-01-01 04:56:32 --> Language Class Initialized
+INFO - 2021-01-01 04:56:32 --> Config Class Initialized
+INFO - 2021-01-01 04:56:32 --> Loader Class Initialized
+INFO - 2021-01-01 04:56:32 --> Helper loaded: url_helper
+INFO - 2021-01-01 04:56:32 --> Helper loaded: html_helper
+INFO - 2021-01-01 04:56:32 --> Helper loaded: file_helper
+INFO - 2021-01-01 04:56:32 --> Helper loaded: form_helper
+INFO - 2021-01-01 04:56:32 --> Helper loaded: security_helper
+INFO - 2021-01-01 04:56:32 --> Helper loaded: xss_helper
+INFO - 2021-01-01 04:56:32 --> Helper loaded: slug_helper
+INFO - 2021-01-01 04:56:32 --> Database Driver Class Initialized
+DEBUG - 2021-01-01 04:56:32 --> Session: "sess_save_path" is empty; using "session.save_path" value from php.ini.
+INFO - 2021-01-01 04:56:32 --> Session: Class initialized using 'files' driver.
+INFO - 2021-01-01 04:56:32 --> Language file loaded: language/english/pagination_lang.php
+INFO - 2021-01-01 04:56:32 --> Pagination Class Initialized
+INFO - 2021-01-01 04:56:32 --> Email Class Initialized
+INFO - 2021-01-01 04:56:32 --> Model "M_konfig" initialized
+INFO - 2021-01-01 04:56:32 --> Model "M_reff" initialized
+INFO - 2021-01-01 04:56:32 --> Model "M_total" initialized
+INFO - 2021-01-01 04:56:32 --> Controller Class Initialized
+DEBUG - 2021-01-01 04:56:32 --> File loaded: D:\xampp72\htdocs\app_grm\application\modules/apengumuman/models/Model.php
+INFO - 2021-01-01 10:56:32 --> Final output sent to browser
+DEBUG - 2021-01-01 10:56:32 --> Total execution time: 0.7001
+INFO - 2021-01-01 04:56:37 --> Config Class Initialized
+INFO - 2021-01-01 04:56:37 --> Hooks Class Initialized
+DEBUG - 2021-01-01 04:56:37 --> UTF-8 Support Enabled
+INFO - 2021-01-01 04:56:37 --> Utf8 Class Initialized
+INFO - 2021-01-01 04:56:37 --> URI Class Initialized
+INFO - 2021-01-01 04:56:37 --> Router Class Initialized
+INFO - 2021-01-01 04:56:37 --> Output Class Initialized
+INFO - 2021-01-01 04:56:37 --> Security Class Initialized
+DEBUG - 2021-01-01 04:56:37 --> Global POST, GET and COOKIE data sanitized
+INFO - 2021-01-01 04:56:37 --> Input Class Initialized
+INFO - 2021-01-01 04:56:37 --> Language Class Initialized
+INFO - 2021-01-01 04:56:37 --> Language Class Initialized
+INFO - 2021-01-01 04:56:37 --> Config Class Initialized
+INFO - 2021-01-01 04:56:37 --> Loader Class Initialized
+INFO - 2021-01-01 04:56:37 --> Helper loaded: url_helper
+INFO - 2021-01-01 04:56:37 --> Helper loaded: html_helper
+INFO - 2021-01-01 04:56:37 --> Helper loaded: file_helper
+INFO - 2021-01-01 04:56:37 --> Helper loaded: form_helper
+INFO - 2021-01-01 04:56:37 --> Helper loaded: security_helper
+INFO - 2021-01-01 04:56:37 --> Helper loaded: xss_helper
+INFO - 2021-01-01 04:56:37 --> Helper loaded: slug_helper
+INFO - 2021-01-01 04:56:37 --> Database Driver Class Initialized
+DEBUG - 2021-01-01 04:56:37 --> Session: "sess_save_path" is empty; using "session.save_path" value from php.ini.
+INFO - 2021-01-01 04:56:37 --> Session: Class initialized using 'files' driver.
+INFO - 2021-01-01 04:56:37 --> Language file loaded: language/english/pagination_lang.php
+INFO - 2021-01-01 04:56:37 --> Pagination Class Initialized
+INFO - 2021-01-01 04:56:37 --> Email Class Initialized
+INFO - 2021-01-01 04:56:37 --> Model "M_konfig" initialized
+INFO - 2021-01-01 04:56:37 --> Model "M_reff" initialized
+INFO - 2021-01-01 04:56:37 --> Model "M_total" initialized
+INFO - 2021-01-01 04:56:38 --> Controller Class Initialized
+DEBUG - 2021-01-01 04:56:38 --> File loaded: D:\xampp72\htdocs\app_grm\application\modules/apengumuman/models/Model.php
+INFO - 2021-01-01 10:56:38 --> Final output sent to browser
+DEBUG - 2021-01-01 10:56:38 --> Total execution time: 0.8310
+INFO - 2021-01-01 04:56:42 --> Config Class Initialized
+INFO - 2021-01-01 04:56:42 --> Hooks Class Initialized
+DEBUG - 2021-01-01 04:56:42 --> UTF-8 Support Enabled
+INFO - 2021-01-01 04:56:42 --> Utf8 Class Initialized
+INFO - 2021-01-01 04:56:42 --> URI Class Initialized
+INFO - 2021-01-01 04:56:42 --> Router Class Initialized
+INFO - 2021-01-01 04:56:42 --> Output Class Initialized
+INFO - 2021-01-01 04:56:42 --> Security Class Initialized
+DEBUG - 2021-01-01 04:56:42 --> Global POST, GET and COOKIE data sanitized
+INFO - 2021-01-01 04:56:42 --> Input Class Initialized
+INFO - 2021-01-01 04:56:42 --> Language Class Initialized
+INFO - 2021-01-01 04:56:42 --> Language Class Initialized
+INFO - 2021-01-01 04:56:42 --> Config Class Initialized
+INFO - 2021-01-01 04:56:42 --> Loader Class Initialized
+INFO - 2021-01-01 04:56:42 --> Helper loaded: url_helper
+INFO - 2021-01-01 04:56:42 --> Helper loaded: html_helper
+INFO - 2021-01-01 04:56:42 --> Helper loaded: file_helper
+INFO - 2021-01-01 04:56:42 --> Helper loaded: form_helper
+INFO - 2021-01-01 04:56:42 --> Helper loaded: security_helper
+INFO - 2021-01-01 04:56:42 --> Helper loaded: xss_helper
+INFO - 2021-01-01 04:56:42 --> Helper loaded: slug_helper
+INFO - 2021-01-01 04:56:42 --> Database Driver Class Initialized
+DEBUG - 2021-01-01 04:56:42 --> Session: "sess_save_path" is empty; using "session.save_path" value from php.ini.
+INFO - 2021-01-01 04:56:42 --> Session: Class initialized using 'files' driver.
+INFO - 2021-01-01 04:56:42 --> Language file loaded: language/english/pagination_lang.php
+INFO - 2021-01-01 04:56:42 --> Pagination Class Initialized
+INFO - 2021-01-01 04:56:42 --> Email Class Initialized
+INFO - 2021-01-01 04:56:42 --> Model "M_konfig" initialized
+INFO - 2021-01-01 04:56:42 --> Model "M_reff" initialized
+INFO - 2021-01-01 04:56:42 --> Model "M_total" initialized
+INFO - 2021-01-01 04:56:42 --> Controller Class Initialized
+DEBUG - 2021-01-01 04:56:42 --> File loaded: D:\xampp72\htdocs\app_grm\application\modules/apengumuman/models/Model.php
+INFO - 2021-01-01 10:56:42 --> Final output sent to browser
+DEBUG - 2021-01-01 10:56:42 --> Total execution time: 0.6760
+INFO - 2021-01-01 04:56:47 --> Config Class Initialized
+INFO - 2021-01-01 04:56:47 --> Hooks Class Initialized
+DEBUG - 2021-01-01 04:56:47 --> UTF-8 Support Enabled
+INFO - 2021-01-01 04:56:47 --> Utf8 Class Initialized
+INFO - 2021-01-01 04:56:47 --> URI Class Initialized
+INFO - 2021-01-01 04:56:47 --> Router Class Initialized
+INFO - 2021-01-01 04:56:47 --> Output Class Initialized
+INFO - 2021-01-01 04:56:47 --> Security Class Initialized
+DEBUG - 2021-01-01 04:56:47 --> Global POST, GET and COOKIE data sanitized
+INFO - 2021-01-01 04:56:47 --> Input Class Initialized
+INFO - 2021-01-01 04:56:47 --> Language Class Initialized
+INFO - 2021-01-01 04:56:47 --> Language Class Initialized
+INFO - 2021-01-01 04:56:47 --> Config Class Initialized
+INFO - 2021-01-01 04:56:47 --> Loader Class Initialized
+INFO - 2021-01-01 04:56:47 --> Helper loaded: url_helper
+INFO - 2021-01-01 04:56:47 --> Helper loaded: html_helper
+INFO - 2021-01-01 04:56:47 --> Helper loaded: file_helper
+INFO - 2021-01-01 04:56:47 --> Helper loaded: form_helper
+INFO - 2021-01-01 04:56:47 --> Helper loaded: security_helper
+INFO - 2021-01-01 04:56:47 --> Helper loaded: xss_helper
+INFO - 2021-01-01 04:56:47 --> Helper loaded: slug_helper
+INFO - 2021-01-01 04:56:47 --> Database Driver Class Initialized
+DEBUG - 2021-01-01 04:56:47 --> Session: "sess_save_path" is empty; using "session.save_path" value from php.ini.
+INFO - 2021-01-01 04:56:47 --> Session: Class initialized using 'files' driver.
+INFO - 2021-01-01 04:56:47 --> Language file loaded: language/english/pagination_lang.php
+INFO - 2021-01-01 04:56:47 --> Pagination Class Initialized
+INFO - 2021-01-01 04:56:47 --> Email Class Initialized
+INFO - 2021-01-01 04:56:47 --> Model "M_konfig" initialized
+INFO - 2021-01-01 04:56:47 --> Model "M_reff" initialized
+INFO - 2021-01-01 04:56:47 --> Model "M_total" initialized
+INFO - 2021-01-01 04:56:48 --> Controller Class Initialized
+DEBUG - 2021-01-01 04:56:48 --> File loaded: D:\xampp72\htdocs\app_grm\application\modules/apengumuman/models/Model.php
+INFO - 2021-01-01 10:56:48 --> Final output sent to browser
+DEBUG - 2021-01-01 10:56:48 --> Total execution time: 0.8346
+INFO - 2021-01-01 04:56:52 --> Config Class Initialized
+INFO - 2021-01-01 04:56:52 --> Hooks Class Initialized
+DEBUG - 2021-01-01 04:56:52 --> UTF-8 Support Enabled
+INFO - 2021-01-01 04:56:52 --> Utf8 Class Initialized
+INFO - 2021-01-01 04:56:52 --> URI Class Initialized
+INFO - 2021-01-01 04:56:52 --> Router Class Initialized
+INFO - 2021-01-01 04:56:52 --> Output Class Initialized
+INFO - 2021-01-01 04:56:52 --> Security Class Initialized
+DEBUG - 2021-01-01 04:56:52 --> Global POST, GET and COOKIE data sanitized
+INFO - 2021-01-01 04:56:52 --> Input Class Initialized
+INFO - 2021-01-01 04:56:52 --> Language Class Initialized
+INFO - 2021-01-01 04:56:52 --> Language Class Initialized
+INFO - 2021-01-01 04:56:52 --> Config Class Initialized
+INFO - 2021-01-01 04:56:52 --> Loader Class Initialized
+INFO - 2021-01-01 04:56:52 --> Helper loaded: url_helper
+INFO - 2021-01-01 04:56:52 --> Helper loaded: html_helper
+INFO - 2021-01-01 04:56:52 --> Helper loaded: file_helper
+INFO - 2021-01-01 04:56:52 --> Helper loaded: form_helper
+INFO - 2021-01-01 04:56:52 --> Helper loaded: security_helper
+INFO - 2021-01-01 04:56:52 --> Helper loaded: xss_helper
+INFO - 2021-01-01 04:56:52 --> Helper loaded: slug_helper
+INFO - 2021-01-01 04:56:52 --> Database Driver Class Initialized
+DEBUG - 2021-01-01 04:56:52 --> Session: "sess_save_path" is empty; using "session.save_path" value from php.ini.
+INFO - 2021-01-01 04:56:52 --> Session: Class initialized using 'files' driver.
+INFO - 2021-01-01 04:56:52 --> Language file loaded: language/english/pagination_lang.php
+INFO - 2021-01-01 04:56:52 --> Pagination Class Initialized
+INFO - 2021-01-01 04:56:52 --> Email Class Initialized
+INFO - 2021-01-01 04:56:52 --> Model "M_konfig" initialized
+INFO - 2021-01-01 04:56:52 --> Model "M_reff" initialized
+INFO - 2021-01-01 04:56:52 --> Model "M_total" initialized
+INFO - 2021-01-01 04:56:52 --> Controller Class Initialized
+DEBUG - 2021-01-01 04:56:52 --> File loaded: D:\xampp72\htdocs\app_grm\application\modules/apengumuman/models/Model.php
+INFO - 2021-01-01 10:56:53 --> Final output sent to browser
+DEBUG - 2021-01-01 10:56:53 --> Total execution time: 0.7924
+INFO - 2021-01-01 04:56:57 --> Config Class Initialized
+INFO - 2021-01-01 04:56:57 --> Hooks Class Initialized
+DEBUG - 2021-01-01 04:56:57 --> UTF-8 Support Enabled
+INFO - 2021-01-01 04:56:57 --> Utf8 Class Initialized
+INFO - 2021-01-01 04:56:57 --> URI Class Initialized
+INFO - 2021-01-01 04:56:57 --> Router Class Initialized
+INFO - 2021-01-01 04:56:57 --> Output Class Initialized
+INFO - 2021-01-01 04:56:57 --> Security Class Initialized
+DEBUG - 2021-01-01 04:56:57 --> Global POST, GET and COOKIE data sanitized
+INFO - 2021-01-01 04:56:57 --> Input Class Initialized
+INFO - 2021-01-01 04:56:57 --> Language Class Initialized
+INFO - 2021-01-01 04:56:57 --> Language Class Initialized
+INFO - 2021-01-01 04:56:57 --> Config Class Initialized
+INFO - 2021-01-01 04:56:57 --> Loader Class Initialized
+INFO - 2021-01-01 04:56:57 --> Helper loaded: url_helper
+INFO - 2021-01-01 04:56:57 --> Helper loaded: html_helper
+INFO - 2021-01-01 04:56:57 --> Helper loaded: file_helper
+INFO - 2021-01-01 04:56:57 --> Helper loaded: form_helper
+INFO - 2021-01-01 04:56:57 --> Helper loaded: security_helper
+INFO - 2021-01-01 04:56:57 --> Helper loaded: xss_helper
+INFO - 2021-01-01 04:56:57 --> Helper loaded: slug_helper
+INFO - 2021-01-01 04:56:57 --> Database Driver Class Initialized
+DEBUG - 2021-01-01 04:56:57 --> Session: "sess_save_path" is empty; using "session.save_path" value from php.ini.
+INFO - 2021-01-01 04:56:57 --> Session: Class initialized using 'files' driver.
+INFO - 2021-01-01 04:56:57 --> Language file loaded: language/english/pagination_lang.php
+INFO - 2021-01-01 04:56:57 --> Pagination Class Initialized
+INFO - 2021-01-01 04:56:57 --> Email Class Initialized
+INFO - 2021-01-01 04:56:57 --> Model "M_konfig" initialized
+INFO - 2021-01-01 04:56:57 --> Model "M_reff" initialized
+INFO - 2021-01-01 04:56:57 --> Model "M_total" initialized
+INFO - 2021-01-01 04:56:57 --> Controller Class Initialized
+DEBUG - 2021-01-01 04:56:57 --> File loaded: D:\xampp72\htdocs\app_grm\application\modules/apengumuman/models/Model.php
+INFO - 2021-01-01 10:56:57 --> Final output sent to browser
+DEBUG - 2021-01-01 10:56:57 --> Total execution time: 0.7313
+INFO - 2021-01-01 04:57:02 --> Config Class Initialized
+INFO - 2021-01-01 04:57:02 --> Hooks Class Initialized
+DEBUG - 2021-01-01 04:57:02 --> UTF-8 Support Enabled
+INFO - 2021-01-01 04:57:02 --> Utf8 Class Initialized
+INFO - 2021-01-01 04:57:02 --> URI Class Initialized
+INFO - 2021-01-01 04:57:02 --> Router Class Initialized
+INFO - 2021-01-01 04:57:02 --> Output Class Initialized
+INFO - 2021-01-01 04:57:02 --> Security Class Initialized
+DEBUG - 2021-01-01 04:57:02 --> Global POST, GET and COOKIE data sanitized
+INFO - 2021-01-01 04:57:02 --> Input Class Initialized
+INFO - 2021-01-01 04:57:02 --> Language Class Initialized
+INFO - 2021-01-01 04:57:02 --> Language Class Initialized
+INFO - 2021-01-01 04:57:02 --> Config Class Initialized
+INFO - 2021-01-01 04:57:02 --> Loader Class Initialized
+INFO - 2021-01-01 04:57:02 --> Helper loaded: url_helper
+INFO - 2021-01-01 04:57:02 --> Helper loaded: html_helper
+INFO - 2021-01-01 04:57:02 --> Helper loaded: file_helper
+INFO - 2021-01-01 04:57:02 --> Helper loaded: form_helper
+INFO - 2021-01-01 04:57:02 --> Helper loaded: security_helper
+INFO - 2021-01-01 04:57:02 --> Helper loaded: xss_helper
+INFO - 2021-01-01 04:57:02 --> Helper loaded: slug_helper
+INFO - 2021-01-01 04:57:02 --> Database Driver Class Initialized
+DEBUG - 2021-01-01 04:57:02 --> Session: "sess_save_path" is empty; using "session.save_path" value from php.ini.
+INFO - 2021-01-01 04:57:02 --> Session: Class initialized using 'files' driver.
+INFO - 2021-01-01 04:57:02 --> Language file loaded: language/english/pagination_lang.php
+INFO - 2021-01-01 04:57:02 --> Pagination Class Initialized
+INFO - 2021-01-01 04:57:02 --> Email Class Initialized
+INFO - 2021-01-01 04:57:02 --> Model "M_konfig" initialized
+INFO - 2021-01-01 04:57:02 --> Model "M_reff" initialized
+INFO - 2021-01-01 04:57:02 --> Model "M_total" initialized
+INFO - 2021-01-01 04:57:02 --> Controller Class Initialized
+DEBUG - 2021-01-01 04:57:02 --> File loaded: D:\xampp72\htdocs\app_grm\application\modules/apengumuman/models/Model.php
+INFO - 2021-01-01 10:57:03 --> Final output sent to browser
+DEBUG - 2021-01-01 10:57:03 --> Total execution time: 0.7711
+INFO - 2021-01-01 04:57:07 --> Config Class Initialized
+INFO - 2021-01-01 04:57:07 --> Hooks Class Initialized
+DEBUG - 2021-01-01 04:57:07 --> UTF-8 Support Enabled
+INFO - 2021-01-01 04:57:07 --> Utf8 Class Initialized
+INFO - 2021-01-01 04:57:07 --> URI Class Initialized
+INFO - 2021-01-01 04:57:07 --> Router Class Initialized
+INFO - 2021-01-01 04:57:07 --> Output Class Initialized
+INFO - 2021-01-01 04:57:07 --> Security Class Initialized
+DEBUG - 2021-01-01 04:57:07 --> Global POST, GET and COOKIE data sanitized
+INFO - 2021-01-01 04:57:07 --> Input Class Initialized
+INFO - 2021-01-01 04:57:07 --> Language Class Initialized
+INFO - 2021-01-01 04:57:07 --> Language Class Initialized
+INFO - 2021-01-01 04:57:07 --> Config Class Initialized
+INFO - 2021-01-01 04:57:07 --> Loader Class Initialized
+INFO - 2021-01-01 04:57:07 --> Helper loaded: url_helper
+INFO - 2021-01-01 04:57:07 --> Helper loaded: html_helper
+INFO - 2021-01-01 04:57:07 --> Helper loaded: file_helper
+INFO - 2021-01-01 04:57:07 --> Helper loaded: form_helper
+INFO - 2021-01-01 04:57:07 --> Helper loaded: security_helper
+INFO - 2021-01-01 04:57:07 --> Helper loaded: xss_helper
+INFO - 2021-01-01 04:57:07 --> Helper loaded: slug_helper
+INFO - 2021-01-01 04:57:07 --> Database Driver Class Initialized
+DEBUG - 2021-01-01 04:57:07 --> Session: "sess_save_path" is empty; using "session.save_path" value from php.ini.
+INFO - 2021-01-01 04:57:07 --> Session: Class initialized using 'files' driver.
+INFO - 2021-01-01 04:57:07 --> Language file loaded: language/english/pagination_lang.php
+INFO - 2021-01-01 04:57:07 --> Pagination Class Initialized
+INFO - 2021-01-01 04:57:07 --> Email Class Initialized
+INFO - 2021-01-01 04:57:07 --> Model "M_konfig" initialized
+INFO - 2021-01-01 04:57:08 --> Model "M_reff" initialized
+INFO - 2021-01-01 04:57:08 --> Model "M_total" initialized
+INFO - 2021-01-01 04:57:08 --> Controller Class Initialized
+DEBUG - 2021-01-01 04:57:08 --> File loaded: D:\xampp72\htdocs\app_grm\application\modules/apengumuman/models/Model.php
+INFO - 2021-01-01 10:57:08 --> Final output sent to browser
+DEBUG - 2021-01-01 10:57:08 --> Total execution time: 0.8444
+INFO - 2021-01-01 04:57:12 --> Config Class Initialized
+INFO - 2021-01-01 04:57:12 --> Hooks Class Initialized
+DEBUG - 2021-01-01 04:57:12 --> UTF-8 Support Enabled
+INFO - 2021-01-01 04:57:12 --> Utf8 Class Initialized
+INFO - 2021-01-01 04:57:12 --> URI Class Initialized
+INFO - 2021-01-01 04:57:12 --> Router Class Initialized
+INFO - 2021-01-01 04:57:12 --> Output Class Initialized
+INFO - 2021-01-01 04:57:12 --> Security Class Initialized
+DEBUG - 2021-01-01 04:57:12 --> Global POST, GET and COOKIE data sanitized
+INFO - 2021-01-01 04:57:12 --> Input Class Initialized
+INFO - 2021-01-01 04:57:12 --> Language Class Initialized
+INFO - 2021-01-01 04:57:12 --> Language Class Initialized
+INFO - 2021-01-01 04:57:12 --> Config Class Initialized
+INFO - 2021-01-01 04:57:12 --> Loader Class Initialized
+INFO - 2021-01-01 04:57:12 --> Helper loaded: url_helper
+INFO - 2021-01-01 04:57:12 --> Helper loaded: html_helper
+INFO - 2021-01-01 04:57:12 --> Helper loaded: file_helper
+INFO - 2021-01-01 04:57:12 --> Helper loaded: form_helper
+INFO - 2021-01-01 04:57:12 --> Helper loaded: security_helper
+INFO - 2021-01-01 04:57:12 --> Helper loaded: xss_helper
+INFO - 2021-01-01 04:57:12 --> Helper loaded: slug_helper
+INFO - 2021-01-01 04:57:12 --> Database Driver Class Initialized
+DEBUG - 2021-01-01 04:57:12 --> Session: "sess_save_path" is empty; using "session.save_path" value from php.ini.
+INFO - 2021-01-01 04:57:12 --> Session: Class initialized using 'files' driver.
+INFO - 2021-01-01 04:57:12 --> Language file loaded: language/english/pagination_lang.php
+INFO - 2021-01-01 04:57:12 --> Pagination Class Initialized
+INFO - 2021-01-01 04:57:12 --> Email Class Initialized
+INFO - 2021-01-01 04:57:12 --> Model "M_konfig" initialized
+INFO - 2021-01-01 04:57:12 --> Model "M_reff" initialized
+INFO - 2021-01-01 04:57:12 --> Model "M_total" initialized
+INFO - 2021-01-01 04:57:12 --> Controller Class Initialized
+DEBUG - 2021-01-01 04:57:12 --> File loaded: D:\xampp72\htdocs\app_grm\application\modules/apengumuman/models/Model.php
+INFO - 2021-01-01 10:57:12 --> Final output sent to browser
+DEBUG - 2021-01-01 10:57:12 --> Total execution time: 0.6905
+INFO - 2021-01-01 04:57:17 --> Config Class Initialized
+INFO - 2021-01-01 04:57:17 --> Hooks Class Initialized
+DEBUG - 2021-01-01 04:57:17 --> UTF-8 Support Enabled
+INFO - 2021-01-01 04:57:17 --> Utf8 Class Initialized
+INFO - 2021-01-01 04:57:17 --> URI Class Initialized
+INFO - 2021-01-01 04:57:17 --> Router Class Initialized
+INFO - 2021-01-01 04:57:17 --> Output Class Initialized
+INFO - 2021-01-01 04:57:17 --> Security Class Initialized
+DEBUG - 2021-01-01 04:57:17 --> Global POST, GET and COOKIE data sanitized
+INFO - 2021-01-01 04:57:17 --> Input Class Initialized
+INFO - 2021-01-01 04:57:17 --> Language Class Initialized
+INFO - 2021-01-01 04:57:17 --> Language Class Initialized
+INFO - 2021-01-01 04:57:17 --> Config Class Initialized
+INFO - 2021-01-01 04:57:17 --> Loader Class Initialized
+INFO - 2021-01-01 04:57:17 --> Helper loaded: url_helper
+INFO - 2021-01-01 04:57:17 --> Helper loaded: html_helper
+INFO - 2021-01-01 04:57:17 --> Helper loaded: file_helper
+INFO - 2021-01-01 04:57:17 --> Helper loaded: form_helper
+INFO - 2021-01-01 04:57:17 --> Helper loaded: security_helper
+INFO - 2021-01-01 04:57:17 --> Helper loaded: xss_helper
+INFO - 2021-01-01 04:57:17 --> Helper loaded: slug_helper
+INFO - 2021-01-01 04:57:17 --> Database Driver Class Initialized
+DEBUG - 2021-01-01 04:57:17 --> Session: "sess_save_path" is empty; using "session.save_path" value from php.ini.
+INFO - 2021-01-01 04:57:17 --> Session: Class initialized using 'files' driver.
+INFO - 2021-01-01 04:57:17 --> Language file loaded: language/english/pagination_lang.php
+INFO - 2021-01-01 04:57:17 --> Pagination Class Initialized
+INFO - 2021-01-01 04:57:17 --> Email Class Initialized
+INFO - 2021-01-01 04:57:17 --> Model "M_konfig" initialized
+INFO - 2021-01-01 04:57:17 --> Model "M_reff" initialized
+INFO - 2021-01-01 04:57:17 --> Model "M_total" initialized
+INFO - 2021-01-01 04:57:17 --> Controller Class Initialized
+DEBUG - 2021-01-01 04:57:17 --> File loaded: D:\xampp72\htdocs\app_grm\application\modules/apengumuman/models/Model.php
+INFO - 2021-01-01 10:57:17 --> Final output sent to browser
+DEBUG - 2021-01-01 10:57:17 --> Total execution time: 0.6764
+INFO - 2021-01-01 04:57:22 --> Config Class Initialized
+INFO - 2021-01-01 04:57:22 --> Hooks Class Initialized
+DEBUG - 2021-01-01 04:57:22 --> UTF-8 Support Enabled
+INFO - 2021-01-01 04:57:22 --> Utf8 Class Initialized
+INFO - 2021-01-01 04:57:22 --> URI Class Initialized
+INFO - 2021-01-01 04:57:22 --> Router Class Initialized
+INFO - 2021-01-01 04:57:22 --> Output Class Initialized
+INFO - 2021-01-01 04:57:22 --> Security Class Initialized
+DEBUG - 2021-01-01 04:57:22 --> Global POST, GET and COOKIE data sanitized
+INFO - 2021-01-01 04:57:22 --> Input Class Initialized
+INFO - 2021-01-01 04:57:22 --> Language Class Initialized
+INFO - 2021-01-01 04:57:22 --> Language Class Initialized
+INFO - 2021-01-01 04:57:22 --> Config Class Initialized
+INFO - 2021-01-01 04:57:22 --> Loader Class Initialized
+INFO - 2021-01-01 04:57:22 --> Helper loaded: url_helper
+INFO - 2021-01-01 04:57:22 --> Helper loaded: html_helper
+INFO - 2021-01-01 04:57:22 --> Helper loaded: file_helper
+INFO - 2021-01-01 04:57:22 --> Helper loaded: form_helper
+INFO - 2021-01-01 04:57:22 --> Helper loaded: security_helper
+INFO - 2021-01-01 04:57:22 --> Helper loaded: xss_helper
+INFO - 2021-01-01 04:57:22 --> Helper loaded: slug_helper
+INFO - 2021-01-01 04:57:22 --> Database Driver Class Initialized
+DEBUG - 2021-01-01 04:57:22 --> Session: "sess_save_path" is empty; using "session.save_path" value from php.ini.
+INFO - 2021-01-01 04:57:22 --> Session: Class initialized using 'files' driver.
+INFO - 2021-01-01 04:57:22 --> Language file loaded: language/english/pagination_lang.php
+INFO - 2021-01-01 04:57:22 --> Pagination Class Initialized
+INFO - 2021-01-01 04:57:22 --> Email Class Initialized
+INFO - 2021-01-01 04:57:22 --> Model "M_konfig" initialized
+INFO - 2021-01-01 04:57:22 --> Model "M_reff" initialized
+INFO - 2021-01-01 04:57:22 --> Model "M_total" initialized
+INFO - 2021-01-01 04:57:22 --> Controller Class Initialized
+DEBUG - 2021-01-01 04:57:22 --> File loaded: D:\xampp72\htdocs\app_grm\application\modules/apengumuman/models/Model.php
+INFO - 2021-01-01 10:57:23 --> Final output sent to browser
+DEBUG - 2021-01-01 10:57:23 --> Total execution time: 0.7448
+INFO - 2021-01-01 04:57:27 --> Config Class Initialized
+INFO - 2021-01-01 04:57:27 --> Hooks Class Initialized
+DEBUG - 2021-01-01 04:57:27 --> UTF-8 Support Enabled
+INFO - 2021-01-01 04:57:27 --> Utf8 Class Initialized
+INFO - 2021-01-01 04:57:27 --> URI Class Initialized
+INFO - 2021-01-01 04:57:27 --> Router Class Initialized
+INFO - 2021-01-01 04:57:27 --> Output Class Initialized
+INFO - 2021-01-01 04:57:27 --> Security Class Initialized
+DEBUG - 2021-01-01 04:57:27 --> Global POST, GET and COOKIE data sanitized
+INFO - 2021-01-01 04:57:27 --> Input Class Initialized
+INFO - 2021-01-01 04:57:27 --> Language Class Initialized
+INFO - 2021-01-01 04:57:27 --> Language Class Initialized
+INFO - 2021-01-01 04:57:27 --> Config Class Initialized
+INFO - 2021-01-01 04:57:27 --> Loader Class Initialized
+INFO - 2021-01-01 04:57:27 --> Helper loaded: url_helper
+INFO - 2021-01-01 04:57:27 --> Helper loaded: html_helper
+INFO - 2021-01-01 04:57:27 --> Helper loaded: file_helper
+INFO - 2021-01-01 04:57:27 --> Helper loaded: form_helper
+INFO - 2021-01-01 04:57:27 --> Helper loaded: security_helper
+INFO - 2021-01-01 04:57:27 --> Helper loaded: xss_helper
+INFO - 2021-01-01 04:57:27 --> Helper loaded: slug_helper
+INFO - 2021-01-01 04:57:27 --> Database Driver Class Initialized
+DEBUG - 2021-01-01 04:57:27 --> Session: "sess_save_path" is empty; using "session.save_path" value from php.ini.
+INFO - 2021-01-01 04:57:27 --> Session: Class initialized using 'files' driver.
+INFO - 2021-01-01 04:57:27 --> Language file loaded: language/english/pagination_lang.php
+INFO - 2021-01-01 04:57:27 --> Pagination Class Initialized
+INFO - 2021-01-01 04:57:27 --> Email Class Initialized
+INFO - 2021-01-01 04:57:27 --> Model "M_konfig" initialized
+INFO - 2021-01-01 04:57:27 --> Model "M_reff" initialized
+INFO - 2021-01-01 04:57:27 --> Model "M_total" initialized
+INFO - 2021-01-01 04:57:27 --> Controller Class Initialized
+DEBUG - 2021-01-01 04:57:27 --> File loaded: D:\xampp72\htdocs\app_grm\application\modules/apengumuman/models/Model.php
+INFO - 2021-01-01 10:57:28 --> Final output sent to browser
+DEBUG - 2021-01-01 10:57:28 --> Total execution time: 0.7348
+INFO - 2021-01-01 04:57:32 --> Config Class Initialized
+INFO - 2021-01-01 04:57:32 --> Hooks Class Initialized
+DEBUG - 2021-01-01 04:57:32 --> UTF-8 Support Enabled
+INFO - 2021-01-01 04:57:32 --> Utf8 Class Initialized
+INFO - 2021-01-01 04:57:32 --> URI Class Initialized
+INFO - 2021-01-01 04:57:32 --> Router Class Initialized
+INFO - 2021-01-01 04:57:32 --> Output Class Initialized
+INFO - 2021-01-01 04:57:32 --> Security Class Initialized
+DEBUG - 2021-01-01 04:57:32 --> Global POST, GET and COOKIE data sanitized
+INFO - 2021-01-01 04:57:32 --> Input Class Initialized
+INFO - 2021-01-01 04:57:32 --> Language Class Initialized
+INFO - 2021-01-01 04:57:32 --> Language Class Initialized
+INFO - 2021-01-01 04:57:32 --> Config Class Initialized
+INFO - 2021-01-01 04:57:32 --> Loader Class Initialized
+INFO - 2021-01-01 04:57:32 --> Helper loaded: url_helper
+INFO - 2021-01-01 04:57:32 --> Helper loaded: html_helper
+INFO - 2021-01-01 04:57:32 --> Helper loaded: file_helper
+INFO - 2021-01-01 04:57:32 --> Helper loaded: form_helper
+INFO - 2021-01-01 04:57:32 --> Helper loaded: security_helper
+INFO - 2021-01-01 04:57:32 --> Helper loaded: xss_helper
+INFO - 2021-01-01 04:57:32 --> Helper loaded: slug_helper
+INFO - 2021-01-01 04:57:32 --> Database Driver Class Initialized
+DEBUG - 2021-01-01 04:57:32 --> Session: "sess_save_path" is empty; using "session.save_path" value from php.ini.
+INFO - 2021-01-01 04:57:32 --> Session: Class initialized using 'files' driver.
+INFO - 2021-01-01 04:57:32 --> Language file loaded: language/english/pagination_lang.php
+INFO - 2021-01-01 04:57:32 --> Pagination Class Initialized
+INFO - 2021-01-01 04:57:32 --> Email Class Initialized
+INFO - 2021-01-01 04:57:32 --> Model "M_konfig" initialized
+INFO - 2021-01-01 04:57:32 --> Model "M_reff" initialized
+INFO - 2021-01-01 04:57:32 --> Model "M_total" initialized
+INFO - 2021-01-01 04:57:32 --> Controller Class Initialized
+DEBUG - 2021-01-01 04:57:32 --> File loaded: D:\xampp72\htdocs\app_grm\application\modules/apengumuman/models/Model.php
+INFO - 2021-01-01 10:57:32 --> Final output sent to browser
+DEBUG - 2021-01-01 10:57:33 --> Total execution time: 0.6931
+INFO - 2021-01-01 04:57:37 --> Config Class Initialized
+INFO - 2021-01-01 04:57:37 --> Hooks Class Initialized
+DEBUG - 2021-01-01 04:57:37 --> UTF-8 Support Enabled
+INFO - 2021-01-01 04:57:37 --> Utf8 Class Initialized
+INFO - 2021-01-01 04:57:37 --> URI Class Initialized
+INFO - 2021-01-01 04:57:37 --> Router Class Initialized
+INFO - 2021-01-01 04:57:37 --> Output Class Initialized
+INFO - 2021-01-01 04:57:37 --> Security Class Initialized
+DEBUG - 2021-01-01 04:57:37 --> Global POST, GET and COOKIE data sanitized
+INFO - 2021-01-01 04:57:37 --> Input Class Initialized
+INFO - 2021-01-01 04:57:37 --> Language Class Initialized
+INFO - 2021-01-01 04:57:37 --> Language Class Initialized
+INFO - 2021-01-01 04:57:37 --> Config Class Initialized
+INFO - 2021-01-01 04:57:37 --> Loader Class Initialized
+INFO - 2021-01-01 04:57:37 --> Helper loaded: url_helper
+INFO - 2021-01-01 04:57:37 --> Helper loaded: html_helper
+INFO - 2021-01-01 04:57:37 --> Helper loaded: file_helper
+INFO - 2021-01-01 04:57:37 --> Helper loaded: form_helper
+INFO - 2021-01-01 04:57:37 --> Helper loaded: security_helper
+INFO - 2021-01-01 04:57:37 --> Helper loaded: xss_helper
+INFO - 2021-01-01 04:57:37 --> Helper loaded: slug_helper
+INFO - 2021-01-01 04:57:37 --> Database Driver Class Initialized
+DEBUG - 2021-01-01 04:57:37 --> Session: "sess_save_path" is empty; using "session.save_path" value from php.ini.
+INFO - 2021-01-01 04:57:37 --> Session: Class initialized using 'files' driver.
+INFO - 2021-01-01 04:57:37 --> Language file loaded: language/english/pagination_lang.php
+INFO - 2021-01-01 04:57:37 --> Pagination Class Initialized
+INFO - 2021-01-01 04:57:37 --> Email Class Initialized
+INFO - 2021-01-01 04:57:37 --> Model "M_konfig" initialized
+INFO - 2021-01-01 04:57:37 --> Model "M_reff" initialized
+INFO - 2021-01-01 04:57:37 --> Model "M_total" initialized
+INFO - 2021-01-01 04:57:37 --> Controller Class Initialized
+DEBUG - 2021-01-01 04:57:37 --> File loaded: D:\xampp72\htdocs\app_grm\application\modules/apengumuman/models/Model.php
+INFO - 2021-01-01 10:57:37 --> Final output sent to browser
+DEBUG - 2021-01-01 10:57:38 --> Total execution time: 0.6755
+INFO - 2021-01-01 04:57:42 --> Config Class Initialized
+INFO - 2021-01-01 04:57:42 --> Hooks Class Initialized
+DEBUG - 2021-01-01 04:57:42 --> UTF-8 Support Enabled
+INFO - 2021-01-01 04:57:42 --> Utf8 Class Initialized
+INFO - 2021-01-01 04:57:42 --> URI Class Initialized
+INFO - 2021-01-01 04:57:42 --> Router Class Initialized
+INFO - 2021-01-01 04:57:42 --> Output Class Initialized
+INFO - 2021-01-01 04:57:42 --> Security Class Initialized
+DEBUG - 2021-01-01 04:57:42 --> Global POST, GET and COOKIE data sanitized
+INFO - 2021-01-01 04:57:42 --> Input Class Initialized
+INFO - 2021-01-01 04:57:42 --> Language Class Initialized
+INFO - 2021-01-01 04:57:42 --> Language Class Initialized
+INFO - 2021-01-01 04:57:42 --> Config Class Initialized
+INFO - 2021-01-01 04:57:42 --> Loader Class Initialized
+INFO - 2021-01-01 04:57:42 --> Helper loaded: url_helper
+INFO - 2021-01-01 04:57:42 --> Helper loaded: html_helper
+INFO - 2021-01-01 04:57:42 --> Helper loaded: file_helper
+INFO - 2021-01-01 04:57:42 --> Helper loaded: form_helper
+INFO - 2021-01-01 04:57:42 --> Helper loaded: security_helper
+INFO - 2021-01-01 04:57:42 --> Helper loaded: xss_helper
+INFO - 2021-01-01 04:57:42 --> Helper loaded: slug_helper
+INFO - 2021-01-01 04:57:42 --> Database Driver Class Initialized
+DEBUG - 2021-01-01 04:57:42 --> Session: "sess_save_path" is empty; using "session.save_path" value from php.ini.
+INFO - 2021-01-01 04:57:42 --> Session: Class initialized using 'files' driver.
+INFO - 2021-01-01 04:57:42 --> Language file loaded: language/english/pagination_lang.php
+INFO - 2021-01-01 04:57:42 --> Pagination Class Initialized
+INFO - 2021-01-01 04:57:42 --> Email Class Initialized
+INFO - 2021-01-01 04:57:42 --> Model "M_konfig" initialized
+INFO - 2021-01-01 04:57:42 --> Model "M_reff" initialized
+INFO - 2021-01-01 04:57:42 --> Model "M_total" initialized
+INFO - 2021-01-01 04:57:42 --> Controller Class Initialized
+DEBUG - 2021-01-01 04:57:42 --> File loaded: D:\xampp72\htdocs\app_grm\application\modules/apengumuman/models/Model.php
+INFO - 2021-01-01 10:57:43 --> Final output sent to browser
+DEBUG - 2021-01-01 10:57:43 --> Total execution time: 0.6880
+INFO - 2021-01-01 04:57:47 --> Config Class Initialized
+INFO - 2021-01-01 04:57:47 --> Hooks Class Initialized
+DEBUG - 2021-01-01 04:57:47 --> UTF-8 Support Enabled
+INFO - 2021-01-01 04:57:47 --> Utf8 Class Initialized
+INFO - 2021-01-01 04:57:47 --> URI Class Initialized
+INFO - 2021-01-01 04:57:47 --> Router Class Initialized
+INFO - 2021-01-01 04:57:47 --> Output Class Initialized
+INFO - 2021-01-01 04:57:47 --> Security Class Initialized
+DEBUG - 2021-01-01 04:57:47 --> Global POST, GET and COOKIE data sanitized
+INFO - 2021-01-01 04:57:47 --> Input Class Initialized
+INFO - 2021-01-01 04:57:47 --> Language Class Initialized
+INFO - 2021-01-01 04:57:47 --> Language Class Initialized
+INFO - 2021-01-01 04:57:47 --> Config Class Initialized
+INFO - 2021-01-01 04:57:47 --> Loader Class Initialized
+INFO - 2021-01-01 04:57:47 --> Helper loaded: url_helper
+INFO - 2021-01-01 04:57:47 --> Helper loaded: html_helper
+INFO - 2021-01-01 04:57:47 --> Helper loaded: file_helper
+INFO - 2021-01-01 04:57:47 --> Helper loaded: form_helper
+INFO - 2021-01-01 04:57:47 --> Helper loaded: security_helper
+INFO - 2021-01-01 04:57:47 --> Helper loaded: xss_helper
+INFO - 2021-01-01 04:57:47 --> Helper loaded: slug_helper
+INFO - 2021-01-01 04:57:47 --> Database Driver Class Initialized
+DEBUG - 2021-01-01 04:57:47 --> Session: "sess_save_path" is empty; using "session.save_path" value from php.ini.
+INFO - 2021-01-01 04:57:47 --> Session: Class initialized using 'files' driver.
+INFO - 2021-01-01 04:57:47 --> Language file loaded: language/english/pagination_lang.php
+INFO - 2021-01-01 04:57:47 --> Pagination Class Initialized
+INFO - 2021-01-01 04:57:47 --> Email Class Initialized
+INFO - 2021-01-01 04:57:47 --> Model "M_konfig" initialized
+INFO - 2021-01-01 04:57:47 --> Model "M_reff" initialized
+INFO - 2021-01-01 04:57:47 --> Model "M_total" initialized
+INFO - 2021-01-01 04:57:47 --> Controller Class Initialized
+DEBUG - 2021-01-01 04:57:47 --> File loaded: D:\xampp72\htdocs\app_grm\application\modules/apengumuman/models/Model.php
+INFO - 2021-01-01 10:57:47 --> Final output sent to browser
+DEBUG - 2021-01-01 10:57:48 --> Total execution time: 0.6717
+INFO - 2021-01-01 04:57:52 --> Config Class Initialized
+INFO - 2021-01-01 04:57:52 --> Hooks Class Initialized
+DEBUG - 2021-01-01 04:57:52 --> UTF-8 Support Enabled
+INFO - 2021-01-01 04:57:52 --> Utf8 Class Initialized
+INFO - 2021-01-01 04:57:52 --> URI Class Initialized
+INFO - 2021-01-01 04:57:52 --> Router Class Initialized
+INFO - 2021-01-01 04:57:52 --> Output Class Initialized
+INFO - 2021-01-01 04:57:52 --> Security Class Initialized
+DEBUG - 2021-01-01 04:57:52 --> Global POST, GET and COOKIE data sanitized
+INFO - 2021-01-01 04:57:52 --> Input Class Initialized
+INFO - 2021-01-01 04:57:52 --> Language Class Initialized
+INFO - 2021-01-01 04:57:52 --> Language Class Initialized
+INFO - 2021-01-01 04:57:52 --> Config Class Initialized
+INFO - 2021-01-01 04:57:52 --> Loader Class Initialized
+INFO - 2021-01-01 04:57:52 --> Helper loaded: url_helper
+INFO - 2021-01-01 04:57:52 --> Helper loaded: html_helper
+INFO - 2021-01-01 04:57:52 --> Helper loaded: file_helper
+INFO - 2021-01-01 04:57:52 --> Helper loaded: form_helper
+INFO - 2021-01-01 04:57:52 --> Helper loaded: security_helper
+INFO - 2021-01-01 04:57:52 --> Helper loaded: xss_helper
+INFO - 2021-01-01 04:57:52 --> Helper loaded: slug_helper
+INFO - 2021-01-01 04:57:52 --> Database Driver Class Initialized
+DEBUG - 2021-01-01 04:57:52 --> Session: "sess_save_path" is empty; using "session.save_path" value from php.ini.
+INFO - 2021-01-01 04:57:52 --> Session: Class initialized using 'files' driver.
+INFO - 2021-01-01 04:57:52 --> Language file loaded: language/english/pagination_lang.php
+INFO - 2021-01-01 04:57:52 --> Pagination Class Initialized
+INFO - 2021-01-01 04:57:52 --> Email Class Initialized
+INFO - 2021-01-01 04:57:52 --> Model "M_konfig" initialized
+INFO - 2021-01-01 04:57:52 --> Model "M_reff" initialized
+INFO - 2021-01-01 04:57:52 --> Model "M_total" initialized
+INFO - 2021-01-01 04:57:52 --> Controller Class Initialized
+DEBUG - 2021-01-01 04:57:52 --> File loaded: D:\xampp72\htdocs\app_grm\application\modules/apengumuman/models/Model.php
+INFO - 2021-01-01 10:57:53 --> Final output sent to browser
+DEBUG - 2021-01-01 10:57:53 --> Total execution time: 0.6817
+INFO - 2021-01-01 04:57:57 --> Config Class Initialized
+INFO - 2021-01-01 04:57:57 --> Hooks Class Initialized
+DEBUG - 2021-01-01 04:57:57 --> UTF-8 Support Enabled
+INFO - 2021-01-01 04:57:57 --> Utf8 Class Initialized
+INFO - 2021-01-01 04:57:57 --> URI Class Initialized
+INFO - 2021-01-01 04:57:57 --> Router Class Initialized
+INFO - 2021-01-01 04:57:57 --> Output Class Initialized
+INFO - 2021-01-01 04:57:57 --> Security Class Initialized
+DEBUG - 2021-01-01 04:57:57 --> Global POST, GET and COOKIE data sanitized
+INFO - 2021-01-01 04:57:57 --> Input Class Initialized
+INFO - 2021-01-01 04:57:57 --> Language Class Initialized
+INFO - 2021-01-01 04:57:57 --> Language Class Initialized
+INFO - 2021-01-01 04:57:57 --> Config Class Initialized
+INFO - 2021-01-01 04:57:57 --> Loader Class Initialized
+INFO - 2021-01-01 04:57:57 --> Helper loaded: url_helper
+INFO - 2021-01-01 04:57:57 --> Helper loaded: html_helper
+INFO - 2021-01-01 04:57:57 --> Helper loaded: file_helper
+INFO - 2021-01-01 04:57:57 --> Helper loaded: form_helper
+INFO - 2021-01-01 04:57:57 --> Helper loaded: security_helper
+INFO - 2021-01-01 04:57:57 --> Helper loaded: xss_helper
+INFO - 2021-01-01 04:57:57 --> Helper loaded: slug_helper
+INFO - 2021-01-01 04:57:57 --> Database Driver Class Initialized
+DEBUG - 2021-01-01 04:57:57 --> Session: "sess_save_path" is empty; using "session.save_path" value from php.ini.
+INFO - 2021-01-01 04:57:57 --> Session: Class initialized using 'files' driver.
+INFO - 2021-01-01 04:57:57 --> Language file loaded: language/english/pagination_lang.php
+INFO - 2021-01-01 04:57:57 --> Pagination Class Initialized
+INFO - 2021-01-01 04:57:57 --> Email Class Initialized
+INFO - 2021-01-01 04:57:57 --> Model "M_konfig" initialized
+INFO - 2021-01-01 04:57:57 --> Model "M_reff" initialized
+INFO - 2021-01-01 04:57:58 --> Model "M_total" initialized
+INFO - 2021-01-01 04:57:58 --> Controller Class Initialized
+DEBUG - 2021-01-01 04:57:58 --> File loaded: D:\xampp72\htdocs\app_grm\application\modules/apengumuman/models/Model.php
+INFO - 2021-01-01 10:57:58 --> Final output sent to browser
+DEBUG - 2021-01-01 10:57:58 --> Total execution time: 0.7116
+INFO - 2021-01-01 04:58:02 --> Config Class Initialized
+INFO - 2021-01-01 04:58:02 --> Hooks Class Initialized
+DEBUG - 2021-01-01 04:58:02 --> UTF-8 Support Enabled
+INFO - 2021-01-01 04:58:02 --> Utf8 Class Initialized
+INFO - 2021-01-01 04:58:02 --> URI Class Initialized
+INFO - 2021-01-01 04:58:02 --> Router Class Initialized
+INFO - 2021-01-01 04:58:02 --> Output Class Initialized
+INFO - 2021-01-01 04:58:02 --> Security Class Initialized
+DEBUG - 2021-01-01 04:58:02 --> Global POST, GET and COOKIE data sanitized
+INFO - 2021-01-01 04:58:02 --> Input Class Initialized
+INFO - 2021-01-01 04:58:02 --> Language Class Initialized
+INFO - 2021-01-01 04:58:02 --> Language Class Initialized
+INFO - 2021-01-01 04:58:02 --> Config Class Initialized
+INFO - 2021-01-01 04:58:02 --> Loader Class Initialized
+INFO - 2021-01-01 04:58:02 --> Helper loaded: url_helper
+INFO - 2021-01-01 04:58:02 --> Helper loaded: html_helper
+INFO - 2021-01-01 04:58:02 --> Helper loaded: file_helper
+INFO - 2021-01-01 04:58:02 --> Helper loaded: form_helper
+INFO - 2021-01-01 04:58:02 --> Helper loaded: security_helper
+INFO - 2021-01-01 04:58:02 --> Helper loaded: xss_helper
+INFO - 2021-01-01 04:58:02 --> Helper loaded: slug_helper
+INFO - 2021-01-01 04:58:02 --> Database Driver Class Initialized
+DEBUG - 2021-01-01 04:58:02 --> Session: "sess_save_path" is empty; using "session.save_path" value from php.ini.
+INFO - 2021-01-01 04:58:02 --> Session: Class initialized using 'files' driver.
+INFO - 2021-01-01 04:58:02 --> Language file loaded: language/english/pagination_lang.php
+INFO - 2021-01-01 04:58:02 --> Pagination Class Initialized
+INFO - 2021-01-01 04:58:02 --> Email Class Initialized
+INFO - 2021-01-01 04:58:02 --> Model "M_konfig" initialized
+INFO - 2021-01-01 04:58:02 --> Model "M_reff" initialized
+INFO - 2021-01-01 04:58:02 --> Model "M_total" initialized
+INFO - 2021-01-01 04:58:02 --> Controller Class Initialized
+DEBUG - 2021-01-01 04:58:03 --> File loaded: D:\xampp72\htdocs\app_grm\application\modules/apengumuman/models/Model.php
+INFO - 2021-01-01 10:58:03 --> Final output sent to browser
+DEBUG - 2021-01-01 10:58:03 --> Total execution time: 0.6867
+INFO - 2021-01-01 04:58:07 --> Config Class Initialized
+INFO - 2021-01-01 04:58:07 --> Hooks Class Initialized
+DEBUG - 2021-01-01 04:58:07 --> UTF-8 Support Enabled
+INFO - 2021-01-01 04:58:07 --> Utf8 Class Initialized
+INFO - 2021-01-01 04:58:07 --> URI Class Initialized
+INFO - 2021-01-01 04:58:07 --> Router Class Initialized
+INFO - 2021-01-01 04:58:07 --> Output Class Initialized
+INFO - 2021-01-01 04:58:07 --> Security Class Initialized
+DEBUG - 2021-01-01 04:58:07 --> Global POST, GET and COOKIE data sanitized
+INFO - 2021-01-01 04:58:07 --> Input Class Initialized
+INFO - 2021-01-01 04:58:07 --> Language Class Initialized
+INFO - 2021-01-01 04:58:07 --> Language Class Initialized
+INFO - 2021-01-01 04:58:07 --> Config Class Initialized
+INFO - 2021-01-01 04:58:07 --> Loader Class Initialized
+INFO - 2021-01-01 04:58:07 --> Helper loaded: url_helper
+INFO - 2021-01-01 04:58:07 --> Helper loaded: html_helper
+INFO - 2021-01-01 04:58:07 --> Helper loaded: file_helper
+INFO - 2021-01-01 04:58:07 --> Helper loaded: form_helper
+INFO - 2021-01-01 04:58:07 --> Helper loaded: security_helper
+INFO - 2021-01-01 04:58:07 --> Helper loaded: xss_helper
+INFO - 2021-01-01 04:58:07 --> Helper loaded: slug_helper
+INFO - 2021-01-01 04:58:07 --> Database Driver Class Initialized
+DEBUG - 2021-01-01 04:58:07 --> Session: "sess_save_path" is empty; using "session.save_path" value from php.ini.
+INFO - 2021-01-01 04:58:07 --> Session: Class initialized using 'files' driver.
+INFO - 2021-01-01 04:58:07 --> Language file loaded: language/english/pagination_lang.php
+INFO - 2021-01-01 04:58:07 --> Pagination Class Initialized
+INFO - 2021-01-01 04:58:07 --> Email Class Initialized
+INFO - 2021-01-01 04:58:07 --> Model "M_konfig" initialized
+INFO - 2021-01-01 04:58:08 --> Model "M_reff" initialized
+INFO - 2021-01-01 04:58:08 --> Model "M_total" initialized
+INFO - 2021-01-01 04:58:08 --> Controller Class Initialized
+DEBUG - 2021-01-01 04:58:08 --> File loaded: D:\xampp72\htdocs\app_grm\application\modules/apengumuman/models/Model.php
+INFO - 2021-01-01 10:58:08 --> Final output sent to browser
+DEBUG - 2021-01-01 10:58:08 --> Total execution time: 0.7256
+INFO - 2021-01-01 04:58:12 --> Config Class Initialized
+INFO - 2021-01-01 04:58:12 --> Hooks Class Initialized
+DEBUG - 2021-01-01 04:58:12 --> UTF-8 Support Enabled
+INFO - 2021-01-01 04:58:12 --> Utf8 Class Initialized
+INFO - 2021-01-01 04:58:12 --> URI Class Initialized
+INFO - 2021-01-01 04:58:12 --> Router Class Initialized
+INFO - 2021-01-01 04:58:12 --> Output Class Initialized
+INFO - 2021-01-01 04:58:12 --> Security Class Initialized
+DEBUG - 2021-01-01 04:58:12 --> Global POST, GET and COOKIE data sanitized
+INFO - 2021-01-01 04:58:12 --> Input Class Initialized
+INFO - 2021-01-01 04:58:12 --> Language Class Initialized
+INFO - 2021-01-01 04:58:12 --> Language Class Initialized
+INFO - 2021-01-01 04:58:12 --> Config Class Initialized
+INFO - 2021-01-01 04:58:12 --> Loader Class Initialized
+INFO - 2021-01-01 04:58:12 --> Helper loaded: url_helper
+INFO - 2021-01-01 04:58:12 --> Helper loaded: html_helper
+INFO - 2021-01-01 04:58:12 --> Helper loaded: file_helper
+INFO - 2021-01-01 04:58:12 --> Helper loaded: form_helper
+INFO - 2021-01-01 04:58:12 --> Helper loaded: security_helper
+INFO - 2021-01-01 04:58:12 --> Helper loaded: xss_helper
+INFO - 2021-01-01 04:58:12 --> Helper loaded: slug_helper
+INFO - 2021-01-01 04:58:12 --> Database Driver Class Initialized
+DEBUG - 2021-01-01 04:58:13 --> Session: "sess_save_path" is empty; using "session.save_path" value from php.ini.
+INFO - 2021-01-01 04:58:13 --> Session: Class initialized using 'files' driver.
+INFO - 2021-01-01 04:58:13 --> Language file loaded: language/english/pagination_lang.php
+INFO - 2021-01-01 04:58:13 --> Pagination Class Initialized
+INFO - 2021-01-01 04:58:13 --> Email Class Initialized
+INFO - 2021-01-01 04:58:13 --> Model "M_konfig" initialized
+INFO - 2021-01-01 04:58:13 --> Model "M_reff" initialized
+INFO - 2021-01-01 04:58:13 --> Model "M_total" initialized
+INFO - 2021-01-01 04:58:13 --> Controller Class Initialized
+DEBUG - 2021-01-01 04:58:13 --> File loaded: D:\xampp72\htdocs\app_grm\application\modules/apengumuman/models/Model.php
+INFO - 2021-01-01 10:58:13 --> Final output sent to browser
+DEBUG - 2021-01-01 10:58:13 --> Total execution time: 0.8741
+INFO - 2021-01-01 04:58:17 --> Config Class Initialized
+INFO - 2021-01-01 04:58:17 --> Hooks Class Initialized
+DEBUG - 2021-01-01 04:58:17 --> UTF-8 Support Enabled
+INFO - 2021-01-01 04:58:17 --> Utf8 Class Initialized
+INFO - 2021-01-01 04:58:17 --> URI Class Initialized
+INFO - 2021-01-01 04:58:17 --> Router Class Initialized
+INFO - 2021-01-01 04:58:17 --> Output Class Initialized
+INFO - 2021-01-01 04:58:17 --> Security Class Initialized
+DEBUG - 2021-01-01 04:58:17 --> Global POST, GET and COOKIE data sanitized
+INFO - 2021-01-01 04:58:17 --> Input Class Initialized
+INFO - 2021-01-01 04:58:17 --> Language Class Initialized
+INFO - 2021-01-01 04:58:17 --> Language Class Initialized
+INFO - 2021-01-01 04:58:17 --> Config Class Initialized
+INFO - 2021-01-01 04:58:17 --> Loader Class Initialized
+INFO - 2021-01-01 04:58:17 --> Helper loaded: url_helper
+INFO - 2021-01-01 04:58:17 --> Helper loaded: html_helper
+INFO - 2021-01-01 04:58:17 --> Helper loaded: file_helper
+INFO - 2021-01-01 04:58:17 --> Helper loaded: form_helper
+INFO - 2021-01-01 04:58:17 --> Helper loaded: security_helper
+INFO - 2021-01-01 04:58:17 --> Helper loaded: xss_helper
+INFO - 2021-01-01 04:58:17 --> Helper loaded: slug_helper
+INFO - 2021-01-01 04:58:17 --> Database Driver Class Initialized
+DEBUG - 2021-01-01 04:58:17 --> Session: "sess_save_path" is empty; using "session.save_path" value from php.ini.
+INFO - 2021-01-01 04:58:18 --> Session: Class initialized using 'files' driver.
+INFO - 2021-01-01 04:58:18 --> Language file loaded: language/english/pagination_lang.php
+INFO - 2021-01-01 04:58:18 --> Pagination Class Initialized
+INFO - 2021-01-01 04:58:18 --> Email Class Initialized
+INFO - 2021-01-01 04:58:18 --> Model "M_konfig" initialized
+INFO - 2021-01-01 04:58:18 --> Model "M_reff" initialized
+INFO - 2021-01-01 04:58:18 --> Model "M_total" initialized
+INFO - 2021-01-01 04:58:18 --> Controller Class Initialized
+DEBUG - 2021-01-01 04:58:18 --> File loaded: D:\xampp72\htdocs\app_grm\application\modules/apengumuman/models/Model.php
+INFO - 2021-01-01 10:58:18 --> Final output sent to browser
+DEBUG - 2021-01-01 10:58:18 --> Total execution time: 0.9700
+INFO - 2021-01-01 04:58:22 --> Config Class Initialized
+INFO - 2021-01-01 04:58:22 --> Hooks Class Initialized
+DEBUG - 2021-01-01 04:58:22 --> UTF-8 Support Enabled
+INFO - 2021-01-01 04:58:22 --> Utf8 Class Initialized
+INFO - 2021-01-01 04:58:22 --> URI Class Initialized
+INFO - 2021-01-01 04:58:22 --> Router Class Initialized
+INFO - 2021-01-01 04:58:22 --> Output Class Initialized
+INFO - 2021-01-01 04:58:22 --> Security Class Initialized
+DEBUG - 2021-01-01 04:58:22 --> Global POST, GET and COOKIE data sanitized
+INFO - 2021-01-01 04:58:22 --> Input Class Initialized
+INFO - 2021-01-01 04:58:22 --> Language Class Initialized
+INFO - 2021-01-01 04:58:22 --> Language Class Initialized
+INFO - 2021-01-01 04:58:22 --> Config Class Initialized
+INFO - 2021-01-01 04:58:22 --> Loader Class Initialized
+INFO - 2021-01-01 04:58:22 --> Helper loaded: url_helper
+INFO - 2021-01-01 04:58:22 --> Helper loaded: html_helper
+INFO - 2021-01-01 04:58:22 --> Helper loaded: file_helper
+INFO - 2021-01-01 04:58:23 --> Helper loaded: form_helper
+INFO - 2021-01-01 04:58:23 --> Helper loaded: security_helper
+INFO - 2021-01-01 04:58:23 --> Helper loaded: xss_helper
+INFO - 2021-01-01 04:58:23 --> Helper loaded: slug_helper
+INFO - 2021-01-01 04:58:23 --> Database Driver Class Initialized
+DEBUG - 2021-01-01 04:58:23 --> Session: "sess_save_path" is empty; using "session.save_path" value from php.ini.
+INFO - 2021-01-01 04:58:23 --> Session: Class initialized using 'files' driver.
+INFO - 2021-01-01 04:58:23 --> Language file loaded: language/english/pagination_lang.php
+INFO - 2021-01-01 04:58:23 --> Pagination Class Initialized
+INFO - 2021-01-01 04:58:23 --> Email Class Initialized
+INFO - 2021-01-01 04:58:23 --> Model "M_konfig" initialized
+INFO - 2021-01-01 04:58:23 --> Model "M_reff" initialized
+INFO - 2021-01-01 04:58:23 --> Model "M_total" initialized
+INFO - 2021-01-01 04:58:23 --> Controller Class Initialized
+DEBUG - 2021-01-01 04:58:23 --> File loaded: D:\xampp72\htdocs\app_grm\application\modules/apengumuman/models/Model.php
+INFO - 2021-01-01 10:58:23 --> Final output sent to browser
+DEBUG - 2021-01-01 10:58:23 --> Total execution time: 1.0946
+INFO - 2021-01-01 04:58:27 --> Config Class Initialized
+INFO - 2021-01-01 04:58:27 --> Hooks Class Initialized
+DEBUG - 2021-01-01 04:58:27 --> UTF-8 Support Enabled
+INFO - 2021-01-01 04:58:27 --> Utf8 Class Initialized
+INFO - 2021-01-01 04:58:27 --> URI Class Initialized
+INFO - 2021-01-01 04:58:27 --> Router Class Initialized
+INFO - 2021-01-01 04:58:27 --> Output Class Initialized
+INFO - 2021-01-01 04:58:27 --> Security Class Initialized
+DEBUG - 2021-01-01 04:58:27 --> Global POST, GET and COOKIE data sanitized
+INFO - 2021-01-01 04:58:27 --> Input Class Initialized
+INFO - 2021-01-01 04:58:27 --> Language Class Initialized
+INFO - 2021-01-01 04:58:27 --> Language Class Initialized
+INFO - 2021-01-01 04:58:27 --> Config Class Initialized
+INFO - 2021-01-01 04:58:27 --> Loader Class Initialized
+INFO - 2021-01-01 04:58:27 --> Helper loaded: url_helper
+INFO - 2021-01-01 04:58:27 --> Helper loaded: html_helper
+INFO - 2021-01-01 04:58:27 --> Helper loaded: file_helper
+INFO - 2021-01-01 04:58:27 --> Helper loaded: form_helper
+INFO - 2021-01-01 04:58:27 --> Helper loaded: security_helper
+INFO - 2021-01-01 04:58:27 --> Helper loaded: xss_helper
+INFO - 2021-01-01 04:58:27 --> Helper loaded: slug_helper
+INFO - 2021-01-01 04:58:27 --> Database Driver Class Initialized
+DEBUG - 2021-01-01 04:58:27 --> Session: "sess_save_path" is empty; using "session.save_path" value from php.ini.
+INFO - 2021-01-01 04:58:27 --> Session: Class initialized using 'files' driver.
+INFO - 2021-01-01 04:58:27 --> Language file loaded: language/english/pagination_lang.php
+INFO - 2021-01-01 04:58:27 --> Pagination Class Initialized
+INFO - 2021-01-01 04:58:27 --> Email Class Initialized
+INFO - 2021-01-01 04:58:27 --> Model "M_konfig" initialized
+INFO - 2021-01-01 04:58:28 --> Model "M_reff" initialized
+INFO - 2021-01-01 04:58:28 --> Model "M_total" initialized
+INFO - 2021-01-01 04:58:28 --> Controller Class Initialized
+DEBUG - 2021-01-01 04:58:28 --> File loaded: D:\xampp72\htdocs\app_grm\application\modules/apengumuman/models/Model.php
+INFO - 2021-01-01 10:58:28 --> Final output sent to browser
+DEBUG - 2021-01-01 10:58:28 --> Total execution time: 0.7406
+INFO - 2021-01-01 04:58:32 --> Config Class Initialized
+INFO - 2021-01-01 04:58:32 --> Hooks Class Initialized
+DEBUG - 2021-01-01 04:58:32 --> UTF-8 Support Enabled
+INFO - 2021-01-01 04:58:32 --> Utf8 Class Initialized
+INFO - 2021-01-01 04:58:32 --> URI Class Initialized
+INFO - 2021-01-01 04:58:32 --> Router Class Initialized
+INFO - 2021-01-01 04:58:32 --> Output Class Initialized
+INFO - 2021-01-01 04:58:32 --> Security Class Initialized
+DEBUG - 2021-01-01 04:58:32 --> Global POST, GET and COOKIE data sanitized
+INFO - 2021-01-01 04:58:32 --> Input Class Initialized
+INFO - 2021-01-01 04:58:32 --> Language Class Initialized
+INFO - 2021-01-01 04:58:32 --> Language Class Initialized
+INFO - 2021-01-01 04:58:32 --> Config Class Initialized
+INFO - 2021-01-01 04:58:32 --> Loader Class Initialized
+INFO - 2021-01-01 04:58:32 --> Helper loaded: url_helper
+INFO - 2021-01-01 04:58:32 --> Helper loaded: html_helper
+INFO - 2021-01-01 04:58:32 --> Helper loaded: file_helper
+INFO - 2021-01-01 04:58:32 --> Helper loaded: form_helper
+INFO - 2021-01-01 04:58:32 --> Helper loaded: security_helper
+INFO - 2021-01-01 04:58:32 --> Helper loaded: xss_helper
+INFO - 2021-01-01 04:58:32 --> Helper loaded: slug_helper
+INFO - 2021-01-01 04:58:32 --> Database Driver Class Initialized
+DEBUG - 2021-01-01 04:58:32 --> Session: "sess_save_path" is empty; using "session.save_path" value from php.ini.
+INFO - 2021-01-01 04:58:32 --> Session: Class initialized using 'files' driver.
+INFO - 2021-01-01 04:58:32 --> Language file loaded: language/english/pagination_lang.php
+INFO - 2021-01-01 04:58:32 --> Pagination Class Initialized
+INFO - 2021-01-01 04:58:32 --> Email Class Initialized
+INFO - 2021-01-01 04:58:32 --> Model "M_konfig" initialized
+INFO - 2021-01-01 04:58:33 --> Model "M_reff" initialized
+INFO - 2021-01-01 04:58:33 --> Model "M_total" initialized
+INFO - 2021-01-01 04:58:33 --> Controller Class Initialized
+DEBUG - 2021-01-01 04:58:33 --> File loaded: D:\xampp72\htdocs\app_grm\application\modules/apengumuman/models/Model.php
+INFO - 2021-01-01 10:58:33 --> Final output sent to browser
+DEBUG - 2021-01-01 10:58:33 --> Total execution time: 0.7280
+INFO - 2021-01-01 04:58:37 --> Config Class Initialized
+INFO - 2021-01-01 04:58:37 --> Hooks Class Initialized
+DEBUG - 2021-01-01 04:58:37 --> UTF-8 Support Enabled
+INFO - 2021-01-01 04:58:37 --> Utf8 Class Initialized
+INFO - 2021-01-01 04:58:37 --> URI Class Initialized
+INFO - 2021-01-01 04:58:37 --> Router Class Initialized
+INFO - 2021-01-01 04:58:37 --> Output Class Initialized
+INFO - 2021-01-01 04:58:37 --> Security Class Initialized
+DEBUG - 2021-01-01 04:58:37 --> Global POST, GET and COOKIE data sanitized
+INFO - 2021-01-01 04:58:37 --> Input Class Initialized
+INFO - 2021-01-01 04:58:37 --> Language Class Initialized
+INFO - 2021-01-01 04:58:37 --> Language Class Initialized
+INFO - 2021-01-01 04:58:37 --> Config Class Initialized
+INFO - 2021-01-01 04:58:37 --> Loader Class Initialized
+INFO - 2021-01-01 04:58:37 --> Helper loaded: url_helper
+INFO - 2021-01-01 04:58:37 --> Helper loaded: html_helper
+INFO - 2021-01-01 04:58:37 --> Helper loaded: file_helper
+INFO - 2021-01-01 04:58:37 --> Helper loaded: form_helper
+INFO - 2021-01-01 04:58:37 --> Helper loaded: security_helper
+INFO - 2021-01-01 04:58:37 --> Helper loaded: xss_helper
+INFO - 2021-01-01 04:58:37 --> Helper loaded: slug_helper
+INFO - 2021-01-01 04:58:37 --> Database Driver Class Initialized
+DEBUG - 2021-01-01 04:58:37 --> Session: "sess_save_path" is empty; using "session.save_path" value from php.ini.
+INFO - 2021-01-01 04:58:37 --> Session: Class initialized using 'files' driver.
+INFO - 2021-01-01 04:58:37 --> Language file loaded: language/english/pagination_lang.php
+INFO - 2021-01-01 04:58:37 --> Pagination Class Initialized
+INFO - 2021-01-01 04:58:37 --> Email Class Initialized
+INFO - 2021-01-01 04:58:37 --> Model "M_konfig" initialized
+INFO - 2021-01-01 04:58:37 --> Model "M_reff" initialized
+INFO - 2021-01-01 04:58:38 --> Model "M_total" initialized
+INFO - 2021-01-01 04:58:38 --> Controller Class Initialized
+DEBUG - 2021-01-01 04:58:38 --> File loaded: D:\xampp72\htdocs\app_grm\application\modules/apengumuman/models/Model.php
+INFO - 2021-01-01 10:58:38 --> Final output sent to browser
+DEBUG - 2021-01-01 10:58:38 --> Total execution time: 0.7110
+INFO - 2021-01-01 04:58:42 --> Config Class Initialized
+INFO - 2021-01-01 04:58:42 --> Hooks Class Initialized
+DEBUG - 2021-01-01 04:58:42 --> UTF-8 Support Enabled
+INFO - 2021-01-01 04:58:42 --> Utf8 Class Initialized
+INFO - 2021-01-01 04:58:42 --> URI Class Initialized
+INFO - 2021-01-01 04:58:42 --> Router Class Initialized
+INFO - 2021-01-01 04:58:42 --> Output Class Initialized
+INFO - 2021-01-01 04:58:42 --> Security Class Initialized
+DEBUG - 2021-01-01 04:58:42 --> Global POST, GET and COOKIE data sanitized
+INFO - 2021-01-01 04:58:42 --> Input Class Initialized
+INFO - 2021-01-01 04:58:42 --> Language Class Initialized
+INFO - 2021-01-01 04:58:42 --> Language Class Initialized
+INFO - 2021-01-01 04:58:42 --> Config Class Initialized
+INFO - 2021-01-01 04:58:42 --> Loader Class Initialized
+INFO - 2021-01-01 04:58:42 --> Helper loaded: url_helper
+INFO - 2021-01-01 04:58:42 --> Helper loaded: html_helper
+INFO - 2021-01-01 04:58:42 --> Helper loaded: file_helper
+INFO - 2021-01-01 04:58:42 --> Helper loaded: form_helper
+INFO - 2021-01-01 04:58:42 --> Helper loaded: security_helper
+INFO - 2021-01-01 04:58:42 --> Helper loaded: xss_helper
+INFO - 2021-01-01 04:58:42 --> Helper loaded: slug_helper
+INFO - 2021-01-01 04:58:42 --> Database Driver Class Initialized
+DEBUG - 2021-01-01 04:58:42 --> Session: "sess_save_path" is empty; using "session.save_path" value from php.ini.
+INFO - 2021-01-01 04:58:42 --> Session: Class initialized using 'files' driver.
+INFO - 2021-01-01 04:58:42 --> Language file loaded: language/english/pagination_lang.php
+INFO - 2021-01-01 04:58:42 --> Pagination Class Initialized
+INFO - 2021-01-01 04:58:42 --> Email Class Initialized
+INFO - 2021-01-01 04:58:43 --> Model "M_konfig" initialized
+INFO - 2021-01-01 04:58:43 --> Model "M_reff" initialized
+INFO - 2021-01-01 04:58:43 --> Model "M_total" initialized
+INFO - 2021-01-01 04:58:43 --> Controller Class Initialized
+DEBUG - 2021-01-01 04:58:43 --> File loaded: D:\xampp72\htdocs\app_grm\application\modules/apengumuman/models/Model.php
+INFO - 2021-01-01 10:58:43 --> Final output sent to browser
+DEBUG - 2021-01-01 10:58:43 --> Total execution time: 0.7150
+INFO - 2021-01-01 04:58:47 --> Config Class Initialized
+INFO - 2021-01-01 04:58:47 --> Hooks Class Initialized
+DEBUG - 2021-01-01 04:58:47 --> UTF-8 Support Enabled
+INFO - 2021-01-01 04:58:47 --> Utf8 Class Initialized
+INFO - 2021-01-01 04:58:47 --> URI Class Initialized
+INFO - 2021-01-01 04:58:47 --> Router Class Initialized
+INFO - 2021-01-01 04:58:47 --> Output Class Initialized
+INFO - 2021-01-01 04:58:47 --> Security Class Initialized
+DEBUG - 2021-01-01 04:58:47 --> Global POST, GET and COOKIE data sanitized
+INFO - 2021-01-01 04:58:47 --> Input Class Initialized
+INFO - 2021-01-01 04:58:47 --> Language Class Initialized
+INFO - 2021-01-01 04:58:47 --> Language Class Initialized
+INFO - 2021-01-01 04:58:47 --> Config Class Initialized
+INFO - 2021-01-01 04:58:47 --> Loader Class Initialized
+INFO - 2021-01-01 04:58:47 --> Helper loaded: url_helper
+INFO - 2021-01-01 04:58:47 --> Helper loaded: html_helper
+INFO - 2021-01-01 04:58:47 --> Helper loaded: file_helper
+INFO - 2021-01-01 04:58:47 --> Helper loaded: form_helper
+INFO - 2021-01-01 04:58:47 --> Helper loaded: security_helper
+INFO - 2021-01-01 04:58:47 --> Helper loaded: xss_helper
+INFO - 2021-01-01 04:58:47 --> Helper loaded: slug_helper
+INFO - 2021-01-01 04:58:47 --> Database Driver Class Initialized
+DEBUG - 2021-01-01 04:58:47 --> Session: "sess_save_path" is empty; using "session.save_path" value from php.ini.
+INFO - 2021-01-01 04:58:47 --> Session: Class initialized using 'files' driver.
+INFO - 2021-01-01 04:58:47 --> Language file loaded: language/english/pagination_lang.php
+INFO - 2021-01-01 04:58:47 --> Pagination Class Initialized
+INFO - 2021-01-01 04:58:47 --> Email Class Initialized
+INFO - 2021-01-01 04:58:47 --> Model "M_konfig" initialized
+INFO - 2021-01-01 04:58:48 --> Model "M_reff" initialized
+INFO - 2021-01-01 04:58:48 --> Model "M_total" initialized
+INFO - 2021-01-01 04:58:48 --> Controller Class Initialized
+DEBUG - 2021-01-01 04:58:48 --> File loaded: D:\xampp72\htdocs\app_grm\application\modules/apengumuman/models/Model.php
+INFO - 2021-01-01 10:58:48 --> Final output sent to browser
+DEBUG - 2021-01-01 10:58:48 --> Total execution time: 0.6937
+INFO - 2021-01-01 04:58:52 --> Config Class Initialized
+INFO - 2021-01-01 04:58:52 --> Hooks Class Initialized
+DEBUG - 2021-01-01 04:58:52 --> UTF-8 Support Enabled
+INFO - 2021-01-01 04:58:52 --> Utf8 Class Initialized
+INFO - 2021-01-01 04:58:52 --> URI Class Initialized
+INFO - 2021-01-01 04:58:52 --> Router Class Initialized
+INFO - 2021-01-01 04:58:52 --> Output Class Initialized
+INFO - 2021-01-01 04:58:52 --> Security Class Initialized
+DEBUG - 2021-01-01 04:58:52 --> Global POST, GET and COOKIE data sanitized
+INFO - 2021-01-01 04:58:52 --> Input Class Initialized
+INFO - 2021-01-01 04:58:52 --> Language Class Initialized
+INFO - 2021-01-01 04:58:52 --> Language Class Initialized
+INFO - 2021-01-01 04:58:52 --> Config Class Initialized
+INFO - 2021-01-01 04:58:52 --> Loader Class Initialized
+INFO - 2021-01-01 04:58:52 --> Helper loaded: url_helper
+INFO - 2021-01-01 04:58:52 --> Helper loaded: html_helper
+INFO - 2021-01-01 04:58:52 --> Helper loaded: file_helper
+INFO - 2021-01-01 04:58:52 --> Helper loaded: form_helper
+INFO - 2021-01-01 04:58:52 --> Helper loaded: security_helper
+INFO - 2021-01-01 04:58:52 --> Helper loaded: xss_helper
+INFO - 2021-01-01 04:58:52 --> Helper loaded: slug_helper
+INFO - 2021-01-01 04:58:53 --> Database Driver Class Initialized
+DEBUG - 2021-01-01 04:58:53 --> Session: "sess_save_path" is empty; using "session.save_path" value from php.ini.
+INFO - 2021-01-01 04:58:53 --> Session: Class initialized using 'files' driver.
+INFO - 2021-01-01 04:58:53 --> Language file loaded: language/english/pagination_lang.php
+INFO - 2021-01-01 04:58:53 --> Pagination Class Initialized
+INFO - 2021-01-01 04:58:53 --> Email Class Initialized
+INFO - 2021-01-01 04:58:53 --> Model "M_konfig" initialized
+INFO - 2021-01-01 04:58:53 --> Model "M_reff" initialized
+INFO - 2021-01-01 04:58:53 --> Model "M_total" initialized
+INFO - 2021-01-01 04:58:53 --> Controller Class Initialized
+DEBUG - 2021-01-01 04:58:53 --> File loaded: D:\xampp72\htdocs\app_grm\application\modules/apengumuman/models/Model.php
+INFO - 2021-01-01 10:58:53 --> Final output sent to browser
+DEBUG - 2021-01-01 10:58:53 --> Total execution time: 0.8593
+INFO - 2021-01-01 04:58:57 --> Config Class Initialized
+INFO - 2021-01-01 04:58:57 --> Hooks Class Initialized
+DEBUG - 2021-01-01 04:58:57 --> UTF-8 Support Enabled
+INFO - 2021-01-01 04:58:57 --> Utf8 Class Initialized
+INFO - 2021-01-01 04:58:57 --> URI Class Initialized
+INFO - 2021-01-01 04:58:57 --> Router Class Initialized
+INFO - 2021-01-01 04:58:57 --> Output Class Initialized
+INFO - 2021-01-01 04:58:57 --> Security Class Initialized
+DEBUG - 2021-01-01 04:58:57 --> Global POST, GET and COOKIE data sanitized
+INFO - 2021-01-01 04:58:57 --> Input Class Initialized
+INFO - 2021-01-01 04:58:57 --> Language Class Initialized
+INFO - 2021-01-01 04:58:57 --> Language Class Initialized
+INFO - 2021-01-01 04:58:57 --> Config Class Initialized
+INFO - 2021-01-01 04:58:57 --> Loader Class Initialized
+INFO - 2021-01-01 04:58:57 --> Helper loaded: url_helper
+INFO - 2021-01-01 04:58:57 --> Helper loaded: html_helper
+INFO - 2021-01-01 04:58:57 --> Helper loaded: file_helper
+INFO - 2021-01-01 04:58:57 --> Helper loaded: form_helper
+INFO - 2021-01-01 04:58:57 --> Helper loaded: security_helper
+INFO - 2021-01-01 04:58:57 --> Helper loaded: xss_helper
+INFO - 2021-01-01 04:58:57 --> Helper loaded: slug_helper
+INFO - 2021-01-01 04:58:57 --> Database Driver Class Initialized
+DEBUG - 2021-01-01 04:58:57 --> Session: "sess_save_path" is empty; using "session.save_path" value from php.ini.
+INFO - 2021-01-01 04:58:57 --> Session: Class initialized using 'files' driver.
+INFO - 2021-01-01 04:58:57 --> Language file loaded: language/english/pagination_lang.php
+INFO - 2021-01-01 04:58:57 --> Pagination Class Initialized
+INFO - 2021-01-01 04:58:58 --> Email Class Initialized
+INFO - 2021-01-01 04:58:58 --> Model "M_konfig" initialized
+INFO - 2021-01-01 04:58:58 --> Model "M_reff" initialized
+INFO - 2021-01-01 04:58:58 --> Model "M_total" initialized
+INFO - 2021-01-01 04:58:58 --> Controller Class Initialized
+DEBUG - 2021-01-01 04:58:58 --> File loaded: D:\xampp72\htdocs\app_grm\application\modules/apengumuman/models/Model.php
+INFO - 2021-01-01 10:58:58 --> Final output sent to browser
+DEBUG - 2021-01-01 10:58:58 --> Total execution time: 0.7890
+INFO - 2021-01-01 04:59:02 --> Config Class Initialized
+INFO - 2021-01-01 04:59:02 --> Hooks Class Initialized
+DEBUG - 2021-01-01 04:59:02 --> UTF-8 Support Enabled
+INFO - 2021-01-01 04:59:02 --> Utf8 Class Initialized
+INFO - 2021-01-01 04:59:02 --> URI Class Initialized
+INFO - 2021-01-01 04:59:02 --> Router Class Initialized
+INFO - 2021-01-01 04:59:02 --> Output Class Initialized
+INFO - 2021-01-01 04:59:02 --> Security Class Initialized
+DEBUG - 2021-01-01 04:59:02 --> Global POST, GET and COOKIE data sanitized
+INFO - 2021-01-01 04:59:02 --> Input Class Initialized
+INFO - 2021-01-01 04:59:02 --> Language Class Initialized
+INFO - 2021-01-01 04:59:02 --> Language Class Initialized
+INFO - 2021-01-01 04:59:02 --> Config Class Initialized
+INFO - 2021-01-01 04:59:02 --> Loader Class Initialized
+INFO - 2021-01-01 04:59:02 --> Helper loaded: url_helper
+INFO - 2021-01-01 04:59:02 --> Helper loaded: html_helper
+INFO - 2021-01-01 04:59:02 --> Helper loaded: file_helper
+INFO - 2021-01-01 04:59:02 --> Helper loaded: form_helper
+INFO - 2021-01-01 04:59:02 --> Helper loaded: security_helper
+INFO - 2021-01-01 04:59:02 --> Helper loaded: xss_helper
+INFO - 2021-01-01 04:59:02 --> Helper loaded: slug_helper
+INFO - 2021-01-01 04:59:02 --> Database Driver Class Initialized
+DEBUG - 2021-01-01 04:59:02 --> Session: "sess_save_path" is empty; using "session.save_path" value from php.ini.
+INFO - 2021-01-01 04:59:02 --> Session: Class initialized using 'files' driver.
+INFO - 2021-01-01 04:59:03 --> Language file loaded: language/english/pagination_lang.php
+INFO - 2021-01-01 04:59:03 --> Pagination Class Initialized
+INFO - 2021-01-01 04:59:03 --> Email Class Initialized
+INFO - 2021-01-01 04:59:03 --> Model "M_konfig" initialized
+INFO - 2021-01-01 04:59:03 --> Model "M_reff" initialized
+INFO - 2021-01-01 04:59:03 --> Model "M_total" initialized
+INFO - 2021-01-01 04:59:03 --> Controller Class Initialized
+DEBUG - 2021-01-01 04:59:03 --> File loaded: D:\xampp72\htdocs\app_grm\application\modules/apengumuman/models/Model.php
+INFO - 2021-01-01 10:59:03 --> Final output sent to browser
+DEBUG - 2021-01-01 10:59:03 --> Total execution time: 0.7946
+INFO - 2021-01-01 04:59:07 --> Config Class Initialized
+INFO - 2021-01-01 04:59:07 --> Hooks Class Initialized
+DEBUG - 2021-01-01 04:59:07 --> UTF-8 Support Enabled
+INFO - 2021-01-01 04:59:07 --> Utf8 Class Initialized
+INFO - 2021-01-01 04:59:07 --> URI Class Initialized
+INFO - 2021-01-01 04:59:07 --> Router Class Initialized
+INFO - 2021-01-01 04:59:07 --> Output Class Initialized
+INFO - 2021-01-01 04:59:07 --> Security Class Initialized
+DEBUG - 2021-01-01 04:59:07 --> Global POST, GET and COOKIE data sanitized
+INFO - 2021-01-01 04:59:07 --> Input Class Initialized
+INFO - 2021-01-01 04:59:07 --> Language Class Initialized
+INFO - 2021-01-01 04:59:07 --> Language Class Initialized
+INFO - 2021-01-01 04:59:07 --> Config Class Initialized
+INFO - 2021-01-01 04:59:07 --> Loader Class Initialized
+INFO - 2021-01-01 04:59:07 --> Helper loaded: url_helper
+INFO - 2021-01-01 04:59:07 --> Helper loaded: html_helper
+INFO - 2021-01-01 04:59:07 --> Helper loaded: file_helper
+INFO - 2021-01-01 04:59:07 --> Helper loaded: form_helper
+INFO - 2021-01-01 04:59:07 --> Helper loaded: security_helper
+INFO - 2021-01-01 04:59:07 --> Helper loaded: xss_helper
+INFO - 2021-01-01 04:59:07 --> Helper loaded: slug_helper
+INFO - 2021-01-01 04:59:07 --> Database Driver Class Initialized
+DEBUG - 2021-01-01 04:59:07 --> Session: "sess_save_path" is empty; using "session.save_path" value from php.ini.
+INFO - 2021-01-01 04:59:07 --> Session: Class initialized using 'files' driver.
+INFO - 2021-01-01 04:59:08 --> Language file loaded: language/english/pagination_lang.php
+INFO - 2021-01-01 04:59:08 --> Pagination Class Initialized
+INFO - 2021-01-01 04:59:08 --> Email Class Initialized
+INFO - 2021-01-01 04:59:08 --> Model "M_konfig" initialized
+INFO - 2021-01-01 04:59:08 --> Model "M_reff" initialized
+INFO - 2021-01-01 04:59:08 --> Model "M_total" initialized
+INFO - 2021-01-01 04:59:08 --> Controller Class Initialized
+DEBUG - 2021-01-01 04:59:08 --> File loaded: D:\xampp72\htdocs\app_grm\application\modules/apengumuman/models/Model.php
+INFO - 2021-01-01 10:59:08 --> Final output sent to browser
+DEBUG - 2021-01-01 10:59:08 --> Total execution time: 0.7889
+INFO - 2021-01-01 04:59:12 --> Config Class Initialized
+INFO - 2021-01-01 04:59:12 --> Hooks Class Initialized
+DEBUG - 2021-01-01 04:59:12 --> UTF-8 Support Enabled
+INFO - 2021-01-01 04:59:12 --> Utf8 Class Initialized
+INFO - 2021-01-01 04:59:12 --> URI Class Initialized
+INFO - 2021-01-01 04:59:12 --> Router Class Initialized
+INFO - 2021-01-01 04:59:12 --> Output Class Initialized
+INFO - 2021-01-01 04:59:12 --> Security Class Initialized
+DEBUG - 2021-01-01 04:59:12 --> Global POST, GET and COOKIE data sanitized
+INFO - 2021-01-01 04:59:12 --> Input Class Initialized
+INFO - 2021-01-01 04:59:12 --> Language Class Initialized
+INFO - 2021-01-01 04:59:12 --> Language Class Initialized
+INFO - 2021-01-01 04:59:12 --> Config Class Initialized
+INFO - 2021-01-01 04:59:12 --> Loader Class Initialized
+INFO - 2021-01-01 04:59:12 --> Helper loaded: url_helper
+INFO - 2021-01-01 04:59:12 --> Helper loaded: html_helper
+INFO - 2021-01-01 04:59:12 --> Helper loaded: file_helper
+INFO - 2021-01-01 04:59:12 --> Helper loaded: form_helper
+INFO - 2021-01-01 04:59:13 --> Helper loaded: security_helper
+INFO - 2021-01-01 04:59:13 --> Helper loaded: xss_helper
+INFO - 2021-01-01 04:59:13 --> Helper loaded: slug_helper
+INFO - 2021-01-01 04:59:13 --> Database Driver Class Initialized
+DEBUG - 2021-01-01 04:59:13 --> Session: "sess_save_path" is empty; using "session.save_path" value from php.ini.
+INFO - 2021-01-01 04:59:13 --> Session: Class initialized using 'files' driver.
+INFO - 2021-01-01 04:59:13 --> Language file loaded: language/english/pagination_lang.php
+INFO - 2021-01-01 04:59:13 --> Pagination Class Initialized
+INFO - 2021-01-01 04:59:13 --> Email Class Initialized
+INFO - 2021-01-01 04:59:13 --> Model "M_konfig" initialized
+INFO - 2021-01-01 04:59:13 --> Model "M_reff" initialized
+INFO - 2021-01-01 04:59:13 --> Model "M_total" initialized
+INFO - 2021-01-01 04:59:13 --> Controller Class Initialized
+DEBUG - 2021-01-01 04:59:13 --> File loaded: D:\xampp72\htdocs\app_grm\application\modules/apengumuman/models/Model.php
+INFO - 2021-01-01 10:59:13 --> Final output sent to browser
+DEBUG - 2021-01-01 10:59:13 --> Total execution time: 1.0837
+INFO - 2021-01-01 04:59:17 --> Config Class Initialized
+INFO - 2021-01-01 04:59:17 --> Hooks Class Initialized
+DEBUG - 2021-01-01 04:59:17 --> UTF-8 Support Enabled
+INFO - 2021-01-01 04:59:17 --> Utf8 Class Initialized
+INFO - 2021-01-01 04:59:17 --> URI Class Initialized
+INFO - 2021-01-01 04:59:17 --> Router Class Initialized
+INFO - 2021-01-01 04:59:17 --> Output Class Initialized
+INFO - 2021-01-01 04:59:17 --> Security Class Initialized
+DEBUG - 2021-01-01 04:59:17 --> Global POST, GET and COOKIE data sanitized
+INFO - 2021-01-01 04:59:17 --> Input Class Initialized
+INFO - 2021-01-01 04:59:17 --> Language Class Initialized
+INFO - 2021-01-01 04:59:17 --> Language Class Initialized
+INFO - 2021-01-01 04:59:17 --> Config Class Initialized
+INFO - 2021-01-01 04:59:17 --> Loader Class Initialized
+INFO - 2021-01-01 04:59:17 --> Helper loaded: url_helper
+INFO - 2021-01-01 04:59:17 --> Helper loaded: html_helper
+INFO - 2021-01-01 04:59:17 --> Helper loaded: file_helper
+INFO - 2021-01-01 04:59:17 --> Helper loaded: form_helper
+INFO - 2021-01-01 04:59:17 --> Helper loaded: security_helper
+INFO - 2021-01-01 04:59:17 --> Helper loaded: xss_helper
+INFO - 2021-01-01 04:59:17 --> Helper loaded: slug_helper
+INFO - 2021-01-01 04:59:17 --> Database Driver Class Initialized
+DEBUG - 2021-01-01 04:59:17 --> Session: "sess_save_path" is empty; using "session.save_path" value from php.ini.
+INFO - 2021-01-01 04:59:17 --> Session: Class initialized using 'files' driver.
+INFO - 2021-01-01 04:59:18 --> Language file loaded: language/english/pagination_lang.php
+INFO - 2021-01-01 04:59:18 --> Pagination Class Initialized
+INFO - 2021-01-01 04:59:18 --> Email Class Initialized
+INFO - 2021-01-01 04:59:18 --> Model "M_konfig" initialized
+INFO - 2021-01-01 04:59:18 --> Model "M_reff" initialized
+INFO - 2021-01-01 04:59:18 --> Model "M_total" initialized
+INFO - 2021-01-01 04:59:18 --> Controller Class Initialized
+DEBUG - 2021-01-01 04:59:18 --> File loaded: D:\xampp72\htdocs\app_grm\application\modules/apengumuman/models/Model.php
+INFO - 2021-01-01 10:59:18 --> Final output sent to browser
+DEBUG - 2021-01-01 10:59:18 --> Total execution time: 0.7920
+INFO - 2021-01-01 04:59:22 --> Config Class Initialized
+INFO - 2021-01-01 04:59:22 --> Hooks Class Initialized
+DEBUG - 2021-01-01 04:59:22 --> UTF-8 Support Enabled
+INFO - 2021-01-01 04:59:22 --> Utf8 Class Initialized
+INFO - 2021-01-01 04:59:22 --> URI Class Initialized
+INFO - 2021-01-01 04:59:22 --> Router Class Initialized
+INFO - 2021-01-01 04:59:22 --> Output Class Initialized
+INFO - 2021-01-01 04:59:22 --> Security Class Initialized
+DEBUG - 2021-01-01 04:59:22 --> Global POST, GET and COOKIE data sanitized
+INFO - 2021-01-01 04:59:22 --> Input Class Initialized
+INFO - 2021-01-01 04:59:22 --> Language Class Initialized
+INFO - 2021-01-01 04:59:22 --> Language Class Initialized
+INFO - 2021-01-01 04:59:22 --> Config Class Initialized
+INFO - 2021-01-01 04:59:22 --> Loader Class Initialized
+INFO - 2021-01-01 04:59:22 --> Helper loaded: url_helper
+INFO - 2021-01-01 04:59:22 --> Helper loaded: html_helper
+INFO - 2021-01-01 04:59:22 --> Helper loaded: file_helper
+INFO - 2021-01-01 04:59:22 --> Helper loaded: form_helper
+INFO - 2021-01-01 04:59:22 --> Helper loaded: security_helper
+INFO - 2021-01-01 04:59:22 --> Helper loaded: xss_helper
+INFO - 2021-01-01 04:59:22 --> Helper loaded: slug_helper
+INFO - 2021-01-01 04:59:22 --> Database Driver Class Initialized
+DEBUG - 2021-01-01 04:59:22 --> Session: "sess_save_path" is empty; using "session.save_path" value from php.ini.
+INFO - 2021-01-01 04:59:22 --> Session: Class initialized using 'files' driver.
+INFO - 2021-01-01 04:59:23 --> Language file loaded: language/english/pagination_lang.php
+INFO - 2021-01-01 04:59:23 --> Pagination Class Initialized
+INFO - 2021-01-01 04:59:23 --> Email Class Initialized
+INFO - 2021-01-01 04:59:23 --> Model "M_konfig" initialized
+INFO - 2021-01-01 04:59:23 --> Model "M_reff" initialized
+INFO - 2021-01-01 04:59:23 --> Model "M_total" initialized
+INFO - 2021-01-01 04:59:23 --> Controller Class Initialized
+DEBUG - 2021-01-01 04:59:23 --> File loaded: D:\xampp72\htdocs\app_grm\application\modules/apengumuman/models/Model.php
+INFO - 2021-01-01 10:59:23 --> Final output sent to browser
+DEBUG - 2021-01-01 10:59:23 --> Total execution time: 0.8612
+INFO - 2021-01-01 04:59:27 --> Config Class Initialized
+INFO - 2021-01-01 04:59:27 --> Hooks Class Initialized
+DEBUG - 2021-01-01 04:59:27 --> UTF-8 Support Enabled
+INFO - 2021-01-01 04:59:27 --> Utf8 Class Initialized
+INFO - 2021-01-01 04:59:27 --> URI Class Initialized
+INFO - 2021-01-01 04:59:27 --> Router Class Initialized
+INFO - 2021-01-01 04:59:27 --> Output Class Initialized
+INFO - 2021-01-01 04:59:27 --> Security Class Initialized
+DEBUG - 2021-01-01 04:59:27 --> Global POST, GET and COOKIE data sanitized
+INFO - 2021-01-01 04:59:27 --> Input Class Initialized
+INFO - 2021-01-01 04:59:27 --> Language Class Initialized
+INFO - 2021-01-01 04:59:27 --> Language Class Initialized
+INFO - 2021-01-01 04:59:27 --> Config Class Initialized
+INFO - 2021-01-01 04:59:27 --> Loader Class Initialized
+INFO - 2021-01-01 04:59:27 --> Helper loaded: url_helper
+INFO - 2021-01-01 04:59:27 --> Helper loaded: html_helper
+INFO - 2021-01-01 04:59:27 --> Helper loaded: file_helper
+INFO - 2021-01-01 04:59:27 --> Helper loaded: form_helper
+INFO - 2021-01-01 04:59:27 --> Helper loaded: security_helper
+INFO - 2021-01-01 04:59:27 --> Helper loaded: xss_helper
+INFO - 2021-01-01 04:59:27 --> Helper loaded: slug_helper
+INFO - 2021-01-01 04:59:27 --> Database Driver Class Initialized
+DEBUG - 2021-01-01 04:59:27 --> Session: "sess_save_path" is empty; using "session.save_path" value from php.ini.
+INFO - 2021-01-01 04:59:27 --> Session: Class initialized using 'files' driver.
+INFO - 2021-01-01 04:59:27 --> Language file loaded: language/english/pagination_lang.php
+INFO - 2021-01-01 04:59:28 --> Pagination Class Initialized
+INFO - 2021-01-01 04:59:28 --> Email Class Initialized
+INFO - 2021-01-01 04:59:28 --> Model "M_konfig" initialized
+INFO - 2021-01-01 04:59:28 --> Model "M_reff" initialized
+INFO - 2021-01-01 04:59:28 --> Model "M_total" initialized
+INFO - 2021-01-01 04:59:28 --> Controller Class Initialized
+DEBUG - 2021-01-01 04:59:28 --> File loaded: D:\xampp72\htdocs\app_grm\application\modules/apengumuman/models/Model.php
+INFO - 2021-01-01 10:59:28 --> Final output sent to browser
+DEBUG - 2021-01-01 10:59:28 --> Total execution time: 0.7439
+INFO - 2021-01-01 04:59:32 --> Config Class Initialized
+INFO - 2021-01-01 04:59:32 --> Hooks Class Initialized
+DEBUG - 2021-01-01 04:59:32 --> UTF-8 Support Enabled
+INFO - 2021-01-01 04:59:32 --> Utf8 Class Initialized
+INFO - 2021-01-01 04:59:32 --> URI Class Initialized
+INFO - 2021-01-01 04:59:32 --> Router Class Initialized
+INFO - 2021-01-01 04:59:32 --> Output Class Initialized
+INFO - 2021-01-01 04:59:32 --> Security Class Initialized
+DEBUG - 2021-01-01 04:59:32 --> Global POST, GET and COOKIE data sanitized
+INFO - 2021-01-01 04:59:32 --> Input Class Initialized
+INFO - 2021-01-01 04:59:32 --> Language Class Initialized
+INFO - 2021-01-01 04:59:32 --> Language Class Initialized
+INFO - 2021-01-01 04:59:32 --> Config Class Initialized
+INFO - 2021-01-01 04:59:32 --> Loader Class Initialized
+INFO - 2021-01-01 04:59:33 --> Helper loaded: url_helper
+INFO - 2021-01-01 04:59:33 --> Helper loaded: html_helper
+INFO - 2021-01-01 04:59:33 --> Helper loaded: file_helper
+INFO - 2021-01-01 04:59:33 --> Helper loaded: form_helper
+INFO - 2021-01-01 04:59:33 --> Helper loaded: security_helper
+INFO - 2021-01-01 04:59:33 --> Helper loaded: xss_helper
+INFO - 2021-01-01 04:59:33 --> Helper loaded: slug_helper
+INFO - 2021-01-01 04:59:33 --> Database Driver Class Initialized
+DEBUG - 2021-01-01 04:59:33 --> Session: "sess_save_path" is empty; using "session.save_path" value from php.ini.
+INFO - 2021-01-01 04:59:33 --> Session: Class initialized using 'files' driver.
+INFO - 2021-01-01 04:59:33 --> Language file loaded: language/english/pagination_lang.php
+INFO - 2021-01-01 04:59:33 --> Pagination Class Initialized
+INFO - 2021-01-01 04:59:33 --> Email Class Initialized
+INFO - 2021-01-01 04:59:33 --> Model "M_konfig" initialized
+INFO - 2021-01-01 04:59:33 --> Model "M_reff" initialized
+INFO - 2021-01-01 04:59:33 --> Model "M_total" initialized
+INFO - 2021-01-01 04:59:33 --> Controller Class Initialized
+DEBUG - 2021-01-01 04:59:33 --> File loaded: D:\xampp72\htdocs\app_grm\application\modules/apengumuman/models/Model.php
+INFO - 2021-01-01 10:59:33 --> Final output sent to browser
+DEBUG - 2021-01-01 10:59:33 --> Total execution time: 1.2954
+INFO - 2021-01-01 04:59:37 --> Config Class Initialized
+INFO - 2021-01-01 04:59:37 --> Hooks Class Initialized
+DEBUG - 2021-01-01 04:59:37 --> UTF-8 Support Enabled
+INFO - 2021-01-01 04:59:37 --> Utf8 Class Initialized
+INFO - 2021-01-01 04:59:37 --> URI Class Initialized
+INFO - 2021-01-01 04:59:37 --> Router Class Initialized
+INFO - 2021-01-01 04:59:37 --> Output Class Initialized
+INFO - 2021-01-01 04:59:37 --> Security Class Initialized
+DEBUG - 2021-01-01 04:59:37 --> Global POST, GET and COOKIE data sanitized
+INFO - 2021-01-01 04:59:37 --> Input Class Initialized
+INFO - 2021-01-01 04:59:37 --> Language Class Initialized
+INFO - 2021-01-01 04:59:37 --> Language Class Initialized
+INFO - 2021-01-01 04:59:37 --> Config Class Initialized
+INFO - 2021-01-01 04:59:37 --> Loader Class Initialized
+INFO - 2021-01-01 04:59:37 --> Helper loaded: url_helper
+INFO - 2021-01-01 04:59:37 --> Helper loaded: html_helper
+INFO - 2021-01-01 04:59:37 --> Helper loaded: file_helper
+INFO - 2021-01-01 04:59:37 --> Helper loaded: form_helper
+INFO - 2021-01-01 04:59:37 --> Helper loaded: security_helper
+INFO - 2021-01-01 04:59:37 --> Helper loaded: xss_helper
+INFO - 2021-01-01 04:59:37 --> Helper loaded: slug_helper
+INFO - 2021-01-01 04:59:37 --> Database Driver Class Initialized
+DEBUG - 2021-01-01 04:59:37 --> Session: "sess_save_path" is empty; using "session.save_path" value from php.ini.
+INFO - 2021-01-01 04:59:37 --> Session: Class initialized using 'files' driver.
+INFO - 2021-01-01 04:59:38 --> Language file loaded: language/english/pagination_lang.php
+INFO - 2021-01-01 04:59:38 --> Pagination Class Initialized
+INFO - 2021-01-01 04:59:38 --> Email Class Initialized
+INFO - 2021-01-01 04:59:38 --> Model "M_konfig" initialized
+INFO - 2021-01-01 04:59:38 --> Model "M_reff" initialized
+INFO - 2021-01-01 04:59:38 --> Model "M_total" initialized
+INFO - 2021-01-01 04:59:38 --> Controller Class Initialized
+DEBUG - 2021-01-01 04:59:38 --> File loaded: D:\xampp72\htdocs\app_grm\application\modules/apengumuman/models/Model.php
+INFO - 2021-01-01 10:59:38 --> Final output sent to browser
+DEBUG - 2021-01-01 10:59:38 --> Total execution time: 0.7618
+INFO - 2021-01-01 04:59:42 --> Config Class Initialized
+INFO - 2021-01-01 04:59:42 --> Hooks Class Initialized
+DEBUG - 2021-01-01 04:59:42 --> UTF-8 Support Enabled
+INFO - 2021-01-01 04:59:42 --> Utf8 Class Initialized
+INFO - 2021-01-01 04:59:42 --> URI Class Initialized
+INFO - 2021-01-01 04:59:42 --> Router Class Initialized
+INFO - 2021-01-01 04:59:42 --> Output Class Initialized
+INFO - 2021-01-01 04:59:42 --> Security Class Initialized
+DEBUG - 2021-01-01 04:59:42 --> Global POST, GET and COOKIE data sanitized
+INFO - 2021-01-01 04:59:42 --> Input Class Initialized
+INFO - 2021-01-01 04:59:42 --> Language Class Initialized
+INFO - 2021-01-01 04:59:42 --> Language Class Initialized
+INFO - 2021-01-01 04:59:42 --> Config Class Initialized
+INFO - 2021-01-01 04:59:42 --> Loader Class Initialized
+INFO - 2021-01-01 04:59:42 --> Helper loaded: url_helper
+INFO - 2021-01-01 04:59:42 --> Helper loaded: html_helper
+INFO - 2021-01-01 04:59:42 --> Helper loaded: file_helper
+INFO - 2021-01-01 04:59:42 --> Helper loaded: form_helper
+INFO - 2021-01-01 04:59:43 --> Helper loaded: security_helper
+INFO - 2021-01-01 04:59:43 --> Helper loaded: xss_helper
+INFO - 2021-01-01 04:59:43 --> Helper loaded: slug_helper
+INFO - 2021-01-01 04:59:43 --> Database Driver Class Initialized
+DEBUG - 2021-01-01 04:59:43 --> Session: "sess_save_path" is empty; using "session.save_path" value from php.ini.
+INFO - 2021-01-01 04:59:43 --> Session: Class initialized using 'files' driver.
+INFO - 2021-01-01 04:59:43 --> Language file loaded: language/english/pagination_lang.php
+INFO - 2021-01-01 04:59:43 --> Pagination Class Initialized
+INFO - 2021-01-01 04:59:43 --> Email Class Initialized
+INFO - 2021-01-01 04:59:43 --> Model "M_konfig" initialized
+INFO - 2021-01-01 04:59:43 --> Model "M_reff" initialized
+INFO - 2021-01-01 04:59:43 --> Model "M_total" initialized
+INFO - 2021-01-01 04:59:43 --> Controller Class Initialized
+DEBUG - 2021-01-01 04:59:43 --> File loaded: D:\xampp72\htdocs\app_grm\application\modules/apengumuman/models/Model.php
+INFO - 2021-01-01 10:59:43 --> Final output sent to browser
+DEBUG - 2021-01-01 10:59:43 --> Total execution time: 0.9236
+INFO - 2021-01-01 04:59:47 --> Config Class Initialized
+INFO - 2021-01-01 04:59:47 --> Hooks Class Initialized
+DEBUG - 2021-01-01 04:59:47 --> UTF-8 Support Enabled
+INFO - 2021-01-01 04:59:47 --> Utf8 Class Initialized
+INFO - 2021-01-01 04:59:47 --> URI Class Initialized
+INFO - 2021-01-01 04:59:47 --> Router Class Initialized
+INFO - 2021-01-01 04:59:47 --> Output Class Initialized
+INFO - 2021-01-01 04:59:47 --> Security Class Initialized
+DEBUG - 2021-01-01 04:59:47 --> Global POST, GET and COOKIE data sanitized
+INFO - 2021-01-01 04:59:47 --> Input Class Initialized
+INFO - 2021-01-01 04:59:47 --> Language Class Initialized
+INFO - 2021-01-01 04:59:47 --> Language Class Initialized
+INFO - 2021-01-01 04:59:47 --> Config Class Initialized
+INFO - 2021-01-01 04:59:47 --> Loader Class Initialized
+INFO - 2021-01-01 04:59:47 --> Helper loaded: url_helper
+INFO - 2021-01-01 04:59:47 --> Helper loaded: html_helper
+INFO - 2021-01-01 04:59:47 --> Helper loaded: file_helper
+INFO - 2021-01-01 04:59:47 --> Helper loaded: form_helper
+INFO - 2021-01-01 04:59:47 --> Helper loaded: security_helper
+INFO - 2021-01-01 04:59:47 --> Helper loaded: xss_helper
+INFO - 2021-01-01 04:59:47 --> Helper loaded: slug_helper
+INFO - 2021-01-01 04:59:47 --> Database Driver Class Initialized
+DEBUG - 2021-01-01 04:59:47 --> Session: "sess_save_path" is empty; using "session.save_path" value from php.ini.
+INFO - 2021-01-01 04:59:48 --> Session: Class initialized using 'files' driver.
+INFO - 2021-01-01 04:59:48 --> Language file loaded: language/english/pagination_lang.php
+INFO - 2021-01-01 04:59:48 --> Pagination Class Initialized
+INFO - 2021-01-01 04:59:48 --> Email Class Initialized
+INFO - 2021-01-01 04:59:48 --> Model "M_konfig" initialized
+INFO - 2021-01-01 04:59:48 --> Model "M_reff" initialized
+INFO - 2021-01-01 04:59:48 --> Model "M_total" initialized
+INFO - 2021-01-01 04:59:48 --> Controller Class Initialized
+DEBUG - 2021-01-01 04:59:48 --> File loaded: D:\xampp72\htdocs\app_grm\application\modules/apengumuman/models/Model.php
+INFO - 2021-01-01 10:59:48 --> Final output sent to browser
+DEBUG - 2021-01-01 10:59:48 --> Total execution time: 0.7880
+INFO - 2021-01-01 04:59:52 --> Config Class Initialized
+INFO - 2021-01-01 04:59:52 --> Hooks Class Initialized
+DEBUG - 2021-01-01 04:59:52 --> UTF-8 Support Enabled
+INFO - 2021-01-01 04:59:52 --> Utf8 Class Initialized
+INFO - 2021-01-01 04:59:52 --> URI Class Initialized
+INFO - 2021-01-01 04:59:52 --> Router Class Initialized
+INFO - 2021-01-01 04:59:52 --> Output Class Initialized
+INFO - 2021-01-01 04:59:52 --> Security Class Initialized
+DEBUG - 2021-01-01 04:59:52 --> Global POST, GET and COOKIE data sanitized
+INFO - 2021-01-01 04:59:52 --> Input Class Initialized
+INFO - 2021-01-01 04:59:52 --> Language Class Initialized
+INFO - 2021-01-01 04:59:52 --> Language Class Initialized
+INFO - 2021-01-01 04:59:52 --> Config Class Initialized
+INFO - 2021-01-01 04:59:52 --> Loader Class Initialized
+INFO - 2021-01-01 04:59:52 --> Helper loaded: url_helper
+INFO - 2021-01-01 04:59:52 --> Helper loaded: html_helper
+INFO - 2021-01-01 04:59:52 --> Helper loaded: file_helper
+INFO - 2021-01-01 04:59:52 --> Helper loaded: form_helper
+INFO - 2021-01-01 04:59:52 --> Helper loaded: security_helper
+INFO - 2021-01-01 04:59:52 --> Helper loaded: xss_helper
+INFO - 2021-01-01 04:59:52 --> Helper loaded: slug_helper
+INFO - 2021-01-01 04:59:52 --> Database Driver Class Initialized
+DEBUG - 2021-01-01 04:59:52 --> Session: "sess_save_path" is empty; using "session.save_path" value from php.ini.
+INFO - 2021-01-01 04:59:52 --> Session: Class initialized using 'files' driver.
+INFO - 2021-01-01 04:59:52 --> Language file loaded: language/english/pagination_lang.php
+INFO - 2021-01-01 04:59:53 --> Pagination Class Initialized
+INFO - 2021-01-01 04:59:53 --> Email Class Initialized
+INFO - 2021-01-01 04:59:53 --> Model "M_konfig" initialized
+INFO - 2021-01-01 04:59:53 --> Model "M_reff" initialized
+INFO - 2021-01-01 04:59:53 --> Model "M_total" initialized
+INFO - 2021-01-01 04:59:53 --> Controller Class Initialized
+DEBUG - 2021-01-01 04:59:53 --> File loaded: D:\xampp72\htdocs\app_grm\application\modules/apengumuman/models/Model.php
+INFO - 2021-01-01 10:59:53 --> Final output sent to browser
+DEBUG - 2021-01-01 10:59:53 --> Total execution time: 0.7318
+INFO - 2021-01-01 04:59:57 --> Config Class Initialized
+INFO - 2021-01-01 04:59:57 --> Hooks Class Initialized
+DEBUG - 2021-01-01 04:59:57 --> UTF-8 Support Enabled
+INFO - 2021-01-01 04:59:57 --> Utf8 Class Initialized
+INFO - 2021-01-01 04:59:57 --> URI Class Initialized
+INFO - 2021-01-01 04:59:57 --> Router Class Initialized
+INFO - 2021-01-01 04:59:57 --> Output Class Initialized
+INFO - 2021-01-01 04:59:57 --> Security Class Initialized
+DEBUG - 2021-01-01 04:59:57 --> Global POST, GET and COOKIE data sanitized
+INFO - 2021-01-01 04:59:57 --> Input Class Initialized
+INFO - 2021-01-01 04:59:57 --> Language Class Initialized
+INFO - 2021-01-01 04:59:57 --> Language Class Initialized
+INFO - 2021-01-01 04:59:57 --> Config Class Initialized
+INFO - 2021-01-01 04:59:57 --> Loader Class Initialized
+INFO - 2021-01-01 04:59:57 --> Helper loaded: url_helper
+INFO - 2021-01-01 04:59:57 --> Helper loaded: html_helper
+INFO - 2021-01-01 04:59:57 --> Helper loaded: file_helper
+INFO - 2021-01-01 04:59:57 --> Helper loaded: form_helper
+INFO - 2021-01-01 04:59:57 --> Helper loaded: security_helper
+INFO - 2021-01-01 04:59:57 --> Helper loaded: xss_helper
+INFO - 2021-01-01 04:59:57 --> Helper loaded: slug_helper
+INFO - 2021-01-01 04:59:57 --> Database Driver Class Initialized
+DEBUG - 2021-01-01 04:59:57 --> Session: "sess_save_path" is empty; using "session.save_path" value from php.ini.
+INFO - 2021-01-01 04:59:58 --> Session: Class initialized using 'files' driver.
+INFO - 2021-01-01 04:59:58 --> Language file loaded: language/english/pagination_lang.php
+INFO - 2021-01-01 04:59:58 --> Pagination Class Initialized
+INFO - 2021-01-01 04:59:58 --> Email Class Initialized
+INFO - 2021-01-01 04:59:58 --> Model "M_konfig" initialized
+INFO - 2021-01-01 04:59:58 --> Model "M_reff" initialized
+INFO - 2021-01-01 04:59:58 --> Model "M_total" initialized
+INFO - 2021-01-01 04:59:58 --> Controller Class Initialized
+DEBUG - 2021-01-01 04:59:58 --> File loaded: D:\xampp72\htdocs\app_grm\application\modules/apengumuman/models/Model.php
+INFO - 2021-01-01 10:59:58 --> Final output sent to browser
+DEBUG - 2021-01-01 10:59:58 --> Total execution time: 0.8216
+INFO - 2021-01-01 05:00:02 --> Config Class Initialized
+INFO - 2021-01-01 05:00:02 --> Hooks Class Initialized
+DEBUG - 2021-01-01 05:00:02 --> UTF-8 Support Enabled
+INFO - 2021-01-01 05:00:02 --> Utf8 Class Initialized
+INFO - 2021-01-01 05:00:02 --> URI Class Initialized
+INFO - 2021-01-01 05:00:02 --> Router Class Initialized
+INFO - 2021-01-01 05:00:02 --> Output Class Initialized
+INFO - 2021-01-01 05:00:02 --> Security Class Initialized
+DEBUG - 2021-01-01 05:00:02 --> Global POST, GET and COOKIE data sanitized
+INFO - 2021-01-01 05:00:02 --> Input Class Initialized
+INFO - 2021-01-01 05:00:03 --> Language Class Initialized
+INFO - 2021-01-01 05:00:03 --> Language Class Initialized
+INFO - 2021-01-01 05:00:03 --> Config Class Initialized
+INFO - 2021-01-01 05:00:03 --> Loader Class Initialized
+INFO - 2021-01-01 05:00:03 --> Helper loaded: url_helper
+INFO - 2021-01-01 05:00:03 --> Helper loaded: html_helper
+INFO - 2021-01-01 05:00:03 --> Helper loaded: file_helper
+INFO - 2021-01-01 05:00:03 --> Helper loaded: form_helper
+INFO - 2021-01-01 05:00:03 --> Helper loaded: security_helper
+INFO - 2021-01-01 05:00:03 --> Helper loaded: xss_helper
+INFO - 2021-01-01 05:00:03 --> Helper loaded: slug_helper
+INFO - 2021-01-01 05:00:03 --> Database Driver Class Initialized
+DEBUG - 2021-01-01 05:00:03 --> Session: "sess_save_path" is empty; using "session.save_path" value from php.ini.
+INFO - 2021-01-01 05:00:03 --> Session: Class initialized using 'files' driver.
+INFO - 2021-01-01 05:00:03 --> Language file loaded: language/english/pagination_lang.php
+INFO - 2021-01-01 05:00:03 --> Pagination Class Initialized
+INFO - 2021-01-01 05:00:03 --> Email Class Initialized
+INFO - 2021-01-01 05:00:03 --> Model "M_konfig" initialized
+INFO - 2021-01-01 05:00:03 --> Model "M_reff" initialized
+INFO - 2021-01-01 05:00:03 --> Model "M_total" initialized
+INFO - 2021-01-01 05:00:03 --> Controller Class Initialized
+DEBUG - 2021-01-01 05:00:03 --> File loaded: D:\xampp72\htdocs\app_grm\application\modules/apengumuman/models/Model.php
+INFO - 2021-01-01 11:00:03 --> Final output sent to browser
+DEBUG - 2021-01-01 11:00:03 --> Total execution time: 0.8162
+INFO - 2021-01-01 05:00:07 --> Config Class Initialized
+INFO - 2021-01-01 05:00:07 --> Hooks Class Initialized
+DEBUG - 2021-01-01 05:00:07 --> UTF-8 Support Enabled
+INFO - 2021-01-01 05:00:07 --> Utf8 Class Initialized
+INFO - 2021-01-01 05:00:07 --> URI Class Initialized
+INFO - 2021-01-01 05:00:07 --> Router Class Initialized
+INFO - 2021-01-01 05:00:07 --> Output Class Initialized
+INFO - 2021-01-01 05:00:07 --> Security Class Initialized
+DEBUG - 2021-01-01 05:00:08 --> Global POST, GET and COOKIE data sanitized
+INFO - 2021-01-01 05:00:08 --> Input Class Initialized
+INFO - 2021-01-01 05:00:08 --> Language Class Initialized
+INFO - 2021-01-01 05:00:08 --> Language Class Initialized
+INFO - 2021-01-01 05:00:08 --> Config Class Initialized
+INFO - 2021-01-01 05:00:08 --> Loader Class Initialized
+INFO - 2021-01-01 05:00:08 --> Helper loaded: url_helper
+INFO - 2021-01-01 05:00:08 --> Helper loaded: html_helper
+INFO - 2021-01-01 05:00:08 --> Helper loaded: file_helper
+INFO - 2021-01-01 05:00:08 --> Helper loaded: form_helper
+INFO - 2021-01-01 05:00:08 --> Helper loaded: security_helper
+INFO - 2021-01-01 05:00:08 --> Helper loaded: xss_helper
+INFO - 2021-01-01 05:00:08 --> Helper loaded: slug_helper
+INFO - 2021-01-01 05:00:08 --> Database Driver Class Initialized
+DEBUG - 2021-01-01 05:00:08 --> Session: "sess_save_path" is empty; using "session.save_path" value from php.ini.
+INFO - 2021-01-01 05:00:08 --> Session: Class initialized using 'files' driver.
+INFO - 2021-01-01 05:00:08 --> Language file loaded: language/english/pagination_lang.php
+INFO - 2021-01-01 05:00:08 --> Pagination Class Initialized
+INFO - 2021-01-01 05:00:08 --> Email Class Initialized
+INFO - 2021-01-01 05:00:08 --> Model "M_konfig" initialized
+INFO - 2021-01-01 05:00:08 --> Model "M_reff" initialized
+INFO - 2021-01-01 05:00:08 --> Model "M_total" initialized
+INFO - 2021-01-01 05:00:08 --> Controller Class Initialized
+DEBUG - 2021-01-01 05:00:08 --> File loaded: D:\xampp72\htdocs\app_grm\application\modules/apengumuman/models/Model.php
+INFO - 2021-01-01 11:00:08 --> Final output sent to browser
+DEBUG - 2021-01-01 11:00:08 --> Total execution time: 0.8269
+INFO - 2021-01-01 05:00:12 --> Config Class Initialized
+INFO - 2021-01-01 05:00:12 --> Hooks Class Initialized
+DEBUG - 2021-01-01 05:00:12 --> UTF-8 Support Enabled
+INFO - 2021-01-01 05:00:12 --> Utf8 Class Initialized
+INFO - 2021-01-01 05:00:12 --> URI Class Initialized
+INFO - 2021-01-01 05:00:12 --> Router Class Initialized
+INFO - 2021-01-01 05:00:13 --> Output Class Initialized
+INFO - 2021-01-01 05:00:13 --> Security Class Initialized
+DEBUG - 2021-01-01 05:00:13 --> Global POST, GET and COOKIE data sanitized
+INFO - 2021-01-01 05:00:13 --> Input Class Initialized
+INFO - 2021-01-01 05:00:13 --> Language Class Initialized
+INFO - 2021-01-01 05:00:13 --> Language Class Initialized
+INFO - 2021-01-01 05:00:13 --> Config Class Initialized
+INFO - 2021-01-01 05:00:13 --> Loader Class Initialized
+INFO - 2021-01-01 05:00:13 --> Helper loaded: url_helper
+INFO - 2021-01-01 05:00:13 --> Helper loaded: html_helper
+INFO - 2021-01-01 05:00:13 --> Helper loaded: file_helper
+INFO - 2021-01-01 05:00:13 --> Helper loaded: form_helper
+INFO - 2021-01-01 05:00:13 --> Helper loaded: security_helper
+INFO - 2021-01-01 05:00:13 --> Helper loaded: xss_helper
+INFO - 2021-01-01 05:00:13 --> Helper loaded: slug_helper
+INFO - 2021-01-01 05:00:13 --> Database Driver Class Initialized
+DEBUG - 2021-01-01 05:00:13 --> Session: "sess_save_path" is empty; using "session.save_path" value from php.ini.
+INFO - 2021-01-01 05:00:13 --> Session: Class initialized using 'files' driver.
+INFO - 2021-01-01 05:00:13 --> Language file loaded: language/english/pagination_lang.php
+INFO - 2021-01-01 05:00:13 --> Pagination Class Initialized
+INFO - 2021-01-01 05:00:13 --> Email Class Initialized
+INFO - 2021-01-01 05:00:13 --> Model "M_konfig" initialized
+INFO - 2021-01-01 05:00:13 --> Model "M_reff" initialized
+INFO - 2021-01-01 05:00:13 --> Model "M_total" initialized
+INFO - 2021-01-01 05:00:13 --> Controller Class Initialized
+DEBUG - 2021-01-01 05:00:13 --> File loaded: D:\xampp72\htdocs\app_grm\application\modules/apengumuman/models/Model.php
+INFO - 2021-01-01 11:00:13 --> Final output sent to browser
+DEBUG - 2021-01-01 11:00:13 --> Total execution time: 0.7335
+INFO - 2021-01-01 05:00:17 --> Config Class Initialized
+INFO - 2021-01-01 05:00:17 --> Hooks Class Initialized
+DEBUG - 2021-01-01 05:00:17 --> UTF-8 Support Enabled
+INFO - 2021-01-01 05:00:18 --> Utf8 Class Initialized
+INFO - 2021-01-01 05:00:18 --> URI Class Initialized
+INFO - 2021-01-01 05:00:18 --> Router Class Initialized
+INFO - 2021-01-01 05:00:18 --> Output Class Initialized
+INFO - 2021-01-01 05:00:18 --> Security Class Initialized
+DEBUG - 2021-01-01 05:00:18 --> Global POST, GET and COOKIE data sanitized
+INFO - 2021-01-01 05:00:18 --> Input Class Initialized
+INFO - 2021-01-01 05:00:18 --> Language Class Initialized
+INFO - 2021-01-01 05:00:18 --> Language Class Initialized
+INFO - 2021-01-01 05:00:18 --> Config Class Initialized
+INFO - 2021-01-01 05:00:18 --> Loader Class Initialized
+INFO - 2021-01-01 05:00:18 --> Helper loaded: url_helper
+INFO - 2021-01-01 05:00:18 --> Helper loaded: html_helper
+INFO - 2021-01-01 05:00:18 --> Helper loaded: file_helper
+INFO - 2021-01-01 05:00:18 --> Helper loaded: form_helper
+INFO - 2021-01-01 05:00:18 --> Helper loaded: security_helper
+INFO - 2021-01-01 05:00:18 --> Helper loaded: xss_helper
+INFO - 2021-01-01 05:00:18 --> Helper loaded: slug_helper
+INFO - 2021-01-01 05:00:18 --> Database Driver Class Initialized
+DEBUG - 2021-01-01 05:00:18 --> Session: "sess_save_path" is empty; using "session.save_path" value from php.ini.
+INFO - 2021-01-01 05:00:18 --> Session: Class initialized using 'files' driver.
+INFO - 2021-01-01 05:00:18 --> Language file loaded: language/english/pagination_lang.php
+INFO - 2021-01-01 05:00:18 --> Pagination Class Initialized
+INFO - 2021-01-01 05:00:18 --> Email Class Initialized
+INFO - 2021-01-01 05:00:18 --> Model "M_konfig" initialized
+INFO - 2021-01-01 05:00:18 --> Model "M_reff" initialized
+INFO - 2021-01-01 05:00:18 --> Model "M_total" initialized
+INFO - 2021-01-01 05:00:18 --> Controller Class Initialized
+DEBUG - 2021-01-01 05:00:18 --> File loaded: D:\xampp72\htdocs\app_grm\application\modules/apengumuman/models/Model.php
+INFO - 2021-01-01 11:00:18 --> Final output sent to browser
+DEBUG - 2021-01-01 11:00:18 --> Total execution time: 0.7013
+INFO - 2021-01-01 05:00:23 --> Config Class Initialized
+INFO - 2021-01-01 05:00:23 --> Hooks Class Initialized
+DEBUG - 2021-01-01 05:00:23 --> UTF-8 Support Enabled
+INFO - 2021-01-01 05:00:23 --> Utf8 Class Initialized
+INFO - 2021-01-01 05:00:23 --> URI Class Initialized
+INFO - 2021-01-01 05:00:23 --> Router Class Initialized
+INFO - 2021-01-01 05:00:23 --> Output Class Initialized
+INFO - 2021-01-01 05:00:23 --> Security Class Initialized
+DEBUG - 2021-01-01 05:00:23 --> Global POST, GET and COOKIE data sanitized
+INFO - 2021-01-01 05:00:23 --> Input Class Initialized
+INFO - 2021-01-01 05:00:23 --> Language Class Initialized
+INFO - 2021-01-01 05:00:23 --> Language Class Initialized
+INFO - 2021-01-01 05:00:23 --> Config Class Initialized
+INFO - 2021-01-01 05:00:23 --> Loader Class Initialized
+INFO - 2021-01-01 05:00:23 --> Helper loaded: url_helper
+INFO - 2021-01-01 05:00:23 --> Helper loaded: html_helper
+INFO - 2021-01-01 05:00:23 --> Helper loaded: file_helper
+INFO - 2021-01-01 05:00:23 --> Helper loaded: form_helper
+INFO - 2021-01-01 05:00:23 --> Helper loaded: security_helper
+INFO - 2021-01-01 05:00:23 --> Helper loaded: xss_helper
+INFO - 2021-01-01 05:00:23 --> Helper loaded: slug_helper
+INFO - 2021-01-01 05:00:23 --> Database Driver Class Initialized
+DEBUG - 2021-01-01 05:00:23 --> Session: "sess_save_path" is empty; using "session.save_path" value from php.ini.
+INFO - 2021-01-01 05:00:23 --> Session: Class initialized using 'files' driver.
+INFO - 2021-01-01 05:00:23 --> Language file loaded: language/english/pagination_lang.php
+INFO - 2021-01-01 05:00:23 --> Pagination Class Initialized
+INFO - 2021-01-01 05:00:23 --> Email Class Initialized
+INFO - 2021-01-01 05:00:23 --> Model "M_konfig" initialized
+INFO - 2021-01-01 05:00:23 --> Model "M_reff" initialized
+INFO - 2021-01-01 05:00:23 --> Model "M_total" initialized
+INFO - 2021-01-01 05:00:23 --> Controller Class Initialized
+DEBUG - 2021-01-01 05:00:23 --> File loaded: D:\xampp72\htdocs\app_grm\application\modules/apengumuman/models/Model.php
+INFO - 2021-01-01 11:00:23 --> Final output sent to browser
+DEBUG - 2021-01-01 11:00:23 --> Total execution time: 0.7062
+INFO - 2021-01-01 05:00:28 --> Config Class Initialized
+INFO - 2021-01-01 05:00:28 --> Hooks Class Initialized
+DEBUG - 2021-01-01 05:00:28 --> UTF-8 Support Enabled
+INFO - 2021-01-01 05:00:28 --> Utf8 Class Initialized
+INFO - 2021-01-01 05:00:28 --> URI Class Initialized
+INFO - 2021-01-01 05:00:28 --> Router Class Initialized
+INFO - 2021-01-01 05:00:28 --> Output Class Initialized
+INFO - 2021-01-01 05:00:28 --> Security Class Initialized
+DEBUG - 2021-01-01 05:00:28 --> Global POST, GET and COOKIE data sanitized
+INFO - 2021-01-01 05:00:28 --> Input Class Initialized
+INFO - 2021-01-01 05:00:28 --> Language Class Initialized
+INFO - 2021-01-01 05:00:28 --> Language Class Initialized
+INFO - 2021-01-01 05:00:28 --> Config Class Initialized
+INFO - 2021-01-01 05:00:28 --> Loader Class Initialized
+INFO - 2021-01-01 05:00:28 --> Helper loaded: url_helper
+INFO - 2021-01-01 05:00:28 --> Helper loaded: html_helper
+INFO - 2021-01-01 05:00:28 --> Helper loaded: file_helper
+INFO - 2021-01-01 05:00:28 --> Helper loaded: form_helper
+INFO - 2021-01-01 05:00:28 --> Helper loaded: security_helper
+INFO - 2021-01-01 05:00:28 --> Helper loaded: xss_helper
+INFO - 2021-01-01 05:00:28 --> Helper loaded: slug_helper
+INFO - 2021-01-01 05:00:28 --> Database Driver Class Initialized
+DEBUG - 2021-01-01 05:00:28 --> Session: "sess_save_path" is empty; using "session.save_path" value from php.ini.
+INFO - 2021-01-01 05:00:28 --> Session: Class initialized using 'files' driver.
+INFO - 2021-01-01 05:00:28 --> Language file loaded: language/english/pagination_lang.php
+INFO - 2021-01-01 05:00:28 --> Pagination Class Initialized
+INFO - 2021-01-01 05:00:28 --> Email Class Initialized
+INFO - 2021-01-01 05:00:28 --> Model "M_konfig" initialized
+INFO - 2021-01-01 05:00:28 --> Model "M_reff" initialized
+INFO - 2021-01-01 05:00:28 --> Model "M_total" initialized
+INFO - 2021-01-01 05:00:28 --> Controller Class Initialized
+DEBUG - 2021-01-01 05:00:28 --> File loaded: D:\xampp72\htdocs\app_grm\application\modules/apengumuman/models/Model.php
+INFO - 2021-01-01 11:00:28 --> Final output sent to browser
+DEBUG - 2021-01-01 11:00:28 --> Total execution time: 0.7626
+INFO - 2021-01-01 05:00:33 --> Config Class Initialized
+INFO - 2021-01-01 05:00:33 --> Hooks Class Initialized
+DEBUG - 2021-01-01 05:00:33 --> UTF-8 Support Enabled
+INFO - 2021-01-01 05:00:33 --> Utf8 Class Initialized
+INFO - 2021-01-01 05:00:33 --> URI Class Initialized
+INFO - 2021-01-01 05:00:33 --> Router Class Initialized
+INFO - 2021-01-01 05:00:33 --> Output Class Initialized
+INFO - 2021-01-01 05:00:33 --> Security Class Initialized
+DEBUG - 2021-01-01 05:00:33 --> Global POST, GET and COOKIE data sanitized
+INFO - 2021-01-01 05:00:33 --> Input Class Initialized
+INFO - 2021-01-01 05:00:33 --> Language Class Initialized
+INFO - 2021-01-01 05:00:33 --> Language Class Initialized
+INFO - 2021-01-01 05:00:33 --> Config Class Initialized
+INFO - 2021-01-01 05:00:33 --> Loader Class Initialized
+INFO - 2021-01-01 05:00:33 --> Helper loaded: url_helper
+INFO - 2021-01-01 05:00:33 --> Helper loaded: html_helper
+INFO - 2021-01-01 05:00:33 --> Helper loaded: file_helper
+INFO - 2021-01-01 05:00:33 --> Helper loaded: form_helper
+INFO - 2021-01-01 05:00:33 --> Helper loaded: security_helper
+INFO - 2021-01-01 05:00:33 --> Helper loaded: xss_helper
+INFO - 2021-01-01 05:00:33 --> Helper loaded: slug_helper
+INFO - 2021-01-01 05:00:33 --> Database Driver Class Initialized
+DEBUG - 2021-01-01 05:00:33 --> Session: "sess_save_path" is empty; using "session.save_path" value from php.ini.
+INFO - 2021-01-01 05:00:33 --> Session: Class initialized using 'files' driver.
+INFO - 2021-01-01 05:00:33 --> Language file loaded: language/english/pagination_lang.php
+INFO - 2021-01-01 05:00:33 --> Pagination Class Initialized
+INFO - 2021-01-01 05:00:33 --> Email Class Initialized
+INFO - 2021-01-01 05:00:33 --> Model "M_konfig" initialized
+INFO - 2021-01-01 05:00:33 --> Model "M_reff" initialized
+INFO - 2021-01-01 05:00:34 --> Model "M_total" initialized
+INFO - 2021-01-01 05:00:34 --> Controller Class Initialized
+DEBUG - 2021-01-01 05:00:34 --> File loaded: D:\xampp72\htdocs\app_grm\application\modules/apengumuman/models/Model.php
+INFO - 2021-01-01 11:00:34 --> Final output sent to browser
+DEBUG - 2021-01-01 11:00:34 --> Total execution time: 0.7289
+INFO - 2021-01-01 05:00:38 --> Config Class Initialized
+INFO - 2021-01-01 05:00:38 --> Hooks Class Initialized
+DEBUG - 2021-01-01 05:00:38 --> UTF-8 Support Enabled
+INFO - 2021-01-01 05:00:38 --> Utf8 Class Initialized
+INFO - 2021-01-01 05:00:38 --> URI Class Initialized
+INFO - 2021-01-01 05:00:38 --> Router Class Initialized
+INFO - 2021-01-01 05:00:38 --> Output Class Initialized
+INFO - 2021-01-01 05:00:38 --> Security Class Initialized
+DEBUG - 2021-01-01 05:00:38 --> Global POST, GET and COOKIE data sanitized
+INFO - 2021-01-01 05:00:38 --> Input Class Initialized
+INFO - 2021-01-01 05:00:38 --> Language Class Initialized
+INFO - 2021-01-01 05:00:38 --> Language Class Initialized
+INFO - 2021-01-01 05:00:38 --> Config Class Initialized
+INFO - 2021-01-01 05:00:38 --> Loader Class Initialized
+INFO - 2021-01-01 05:00:38 --> Helper loaded: url_helper
+INFO - 2021-01-01 05:00:38 --> Helper loaded: html_helper
+INFO - 2021-01-01 05:00:38 --> Helper loaded: file_helper
+INFO - 2021-01-01 05:00:38 --> Helper loaded: form_helper
+INFO - 2021-01-01 05:00:38 --> Helper loaded: security_helper
+INFO - 2021-01-01 05:00:38 --> Helper loaded: xss_helper
+INFO - 2021-01-01 05:00:39 --> Helper loaded: slug_helper
+INFO - 2021-01-01 05:00:39 --> Database Driver Class Initialized
+DEBUG - 2021-01-01 05:00:39 --> Session: "sess_save_path" is empty; using "session.save_path" value from php.ini.
+INFO - 2021-01-01 05:00:39 --> Session: Class initialized using 'files' driver.
+INFO - 2021-01-01 05:00:39 --> Language file loaded: language/english/pagination_lang.php
+INFO - 2021-01-01 05:00:39 --> Pagination Class Initialized
+INFO - 2021-01-01 05:00:39 --> Email Class Initialized
+INFO - 2021-01-01 05:00:39 --> Model "M_konfig" initialized
+INFO - 2021-01-01 05:00:39 --> Model "M_reff" initialized
+INFO - 2021-01-01 05:00:39 --> Model "M_total" initialized
+INFO - 2021-01-01 05:00:39 --> Controller Class Initialized
+DEBUG - 2021-01-01 05:00:39 --> File loaded: D:\xampp72\htdocs\app_grm\application\modules/apengumuman/models/Model.php
+INFO - 2021-01-01 11:00:39 --> Final output sent to browser
+DEBUG - 2021-01-01 11:00:39 --> Total execution time: 1.0867
+INFO - 2021-01-01 05:00:43 --> Config Class Initialized
+INFO - 2021-01-01 05:00:43 --> Hooks Class Initialized
+DEBUG - 2021-01-01 05:00:43 --> UTF-8 Support Enabled
+INFO - 2021-01-01 05:00:43 --> Utf8 Class Initialized
+INFO - 2021-01-01 05:00:43 --> URI Class Initialized
+INFO - 2021-01-01 05:00:43 --> Router Class Initialized
+INFO - 2021-01-01 05:00:43 --> Output Class Initialized
+INFO - 2021-01-01 05:00:43 --> Security Class Initialized
+DEBUG - 2021-01-01 05:00:43 --> Global POST, GET and COOKIE data sanitized
+INFO - 2021-01-01 05:00:43 --> Input Class Initialized
+INFO - 2021-01-01 05:00:43 --> Language Class Initialized
+INFO - 2021-01-01 05:00:43 --> Language Class Initialized
+INFO - 2021-01-01 05:00:43 --> Config Class Initialized
+INFO - 2021-01-01 05:00:43 --> Loader Class Initialized
+INFO - 2021-01-01 05:00:43 --> Helper loaded: url_helper
+INFO - 2021-01-01 05:00:43 --> Helper loaded: html_helper
+INFO - 2021-01-01 05:00:43 --> Helper loaded: file_helper
+INFO - 2021-01-01 05:00:43 --> Helper loaded: form_helper
+INFO - 2021-01-01 05:00:43 --> Helper loaded: security_helper
+INFO - 2021-01-01 05:00:43 --> Helper loaded: xss_helper
+INFO - 2021-01-01 05:00:43 --> Helper loaded: slug_helper
+INFO - 2021-01-01 05:00:43 --> Database Driver Class Initialized
+DEBUG - 2021-01-01 05:00:43 --> Session: "sess_save_path" is empty; using "session.save_path" value from php.ini.
+INFO - 2021-01-01 05:00:43 --> Session: Class initialized using 'files' driver.
+INFO - 2021-01-01 05:00:43 --> Language file loaded: language/english/pagination_lang.php
+INFO - 2021-01-01 05:00:43 --> Pagination Class Initialized
+INFO - 2021-01-01 05:00:43 --> Email Class Initialized
+INFO - 2021-01-01 05:00:43 --> Model "M_konfig" initialized
+INFO - 2021-01-01 05:00:43 --> Model "M_reff" initialized
+INFO - 2021-01-01 05:00:44 --> Model "M_total" initialized
+INFO - 2021-01-01 05:00:44 --> Controller Class Initialized
+DEBUG - 2021-01-01 05:00:44 --> File loaded: D:\xampp72\htdocs\app_grm\application\modules/apengumuman/models/Model.php
+INFO - 2021-01-01 11:00:44 --> Final output sent to browser
+DEBUG - 2021-01-01 11:00:44 --> Total execution time: 0.7095
+INFO - 2021-01-01 05:00:48 --> Config Class Initialized
+INFO - 2021-01-01 05:00:48 --> Hooks Class Initialized
+DEBUG - 2021-01-01 05:00:48 --> UTF-8 Support Enabled
+INFO - 2021-01-01 05:00:48 --> Utf8 Class Initialized
+INFO - 2021-01-01 05:00:48 --> URI Class Initialized
+INFO - 2021-01-01 05:00:48 --> Router Class Initialized
+INFO - 2021-01-01 05:00:48 --> Output Class Initialized
+INFO - 2021-01-01 05:00:48 --> Security Class Initialized
+DEBUG - 2021-01-01 05:00:48 --> Global POST, GET and COOKIE data sanitized
+INFO - 2021-01-01 05:00:48 --> Input Class Initialized
+INFO - 2021-01-01 05:00:48 --> Language Class Initialized
+INFO - 2021-01-01 05:00:48 --> Language Class Initialized
+INFO - 2021-01-01 05:00:48 --> Config Class Initialized
+INFO - 2021-01-01 05:00:48 --> Loader Class Initialized
+INFO - 2021-01-01 05:00:48 --> Helper loaded: url_helper
+INFO - 2021-01-01 05:00:48 --> Helper loaded: html_helper
+INFO - 2021-01-01 05:00:48 --> Helper loaded: file_helper
+INFO - 2021-01-01 05:00:48 --> Helper loaded: form_helper
+INFO - 2021-01-01 05:00:48 --> Helper loaded: security_helper
+INFO - 2021-01-01 05:00:48 --> Helper loaded: xss_helper
+INFO - 2021-01-01 05:00:48 --> Helper loaded: slug_helper
+INFO - 2021-01-01 05:00:48 --> Database Driver Class Initialized
+DEBUG - 2021-01-01 05:00:48 --> Session: "sess_save_path" is empty; using "session.save_path" value from php.ini.
+INFO - 2021-01-01 05:00:49 --> Session: Class initialized using 'files' driver.
+INFO - 2021-01-01 05:00:49 --> Language file loaded: language/english/pagination_lang.php
+INFO - 2021-01-01 05:00:49 --> Pagination Class Initialized
+INFO - 2021-01-01 05:00:49 --> Email Class Initialized
+INFO - 2021-01-01 05:00:49 --> Model "M_konfig" initialized
+INFO - 2021-01-01 05:00:49 --> Model "M_reff" initialized
+INFO - 2021-01-01 05:00:49 --> Model "M_total" initialized
+INFO - 2021-01-01 05:00:49 --> Controller Class Initialized
+DEBUG - 2021-01-01 05:00:49 --> File loaded: D:\xampp72\htdocs\app_grm\application\modules/apengumuman/models/Model.php
+INFO - 2021-01-01 11:00:49 --> Final output sent to browser
+DEBUG - 2021-01-01 11:00:49 --> Total execution time: 0.7750
+INFO - 2021-01-01 05:00:53 --> Config Class Initialized
+INFO - 2021-01-01 05:00:53 --> Hooks Class Initialized
+DEBUG - 2021-01-01 05:00:53 --> UTF-8 Support Enabled
+INFO - 2021-01-01 05:00:53 --> Utf8 Class Initialized
+INFO - 2021-01-01 05:00:53 --> URI Class Initialized
+INFO - 2021-01-01 05:00:53 --> Router Class Initialized
+INFO - 2021-01-01 05:00:53 --> Output Class Initialized
+INFO - 2021-01-01 05:00:53 --> Security Class Initialized
+DEBUG - 2021-01-01 05:00:53 --> Global POST, GET and COOKIE data sanitized
+INFO - 2021-01-01 05:00:53 --> Input Class Initialized
+INFO - 2021-01-01 05:00:53 --> Language Class Initialized
+INFO - 2021-01-01 05:00:53 --> Language Class Initialized
+INFO - 2021-01-01 05:00:53 --> Config Class Initialized
+INFO - 2021-01-01 05:00:53 --> Loader Class Initialized
+INFO - 2021-01-01 05:00:53 --> Helper loaded: url_helper
+INFO - 2021-01-01 05:00:53 --> Helper loaded: html_helper
+INFO - 2021-01-01 05:00:53 --> Helper loaded: file_helper
+INFO - 2021-01-01 05:00:53 --> Helper loaded: form_helper
+INFO - 2021-01-01 05:00:53 --> Helper loaded: security_helper
+INFO - 2021-01-01 05:00:54 --> Helper loaded: xss_helper
+INFO - 2021-01-01 05:00:54 --> Helper loaded: slug_helper
+INFO - 2021-01-01 05:00:54 --> Database Driver Class Initialized
+DEBUG - 2021-01-01 05:00:54 --> Session: "sess_save_path" is empty; using "session.save_path" value from php.ini.
+INFO - 2021-01-01 05:00:54 --> Session: Class initialized using 'files' driver.
+INFO - 2021-01-01 05:00:54 --> Language file loaded: language/english/pagination_lang.php
+INFO - 2021-01-01 05:00:54 --> Pagination Class Initialized
+INFO - 2021-01-01 05:00:54 --> Email Class Initialized
+INFO - 2021-01-01 05:00:54 --> Model "M_konfig" initialized
+INFO - 2021-01-01 05:00:54 --> Model "M_reff" initialized
+INFO - 2021-01-01 05:00:54 --> Model "M_total" initialized
+INFO - 2021-01-01 05:00:54 --> Controller Class Initialized
+DEBUG - 2021-01-01 05:00:54 --> File loaded: D:\xampp72\htdocs\app_grm\application\modules/apengumuman/models/Model.php
+INFO - 2021-01-01 11:00:54 --> Final output sent to browser
+DEBUG - 2021-01-01 11:00:54 --> Total execution time: 0.8044
+INFO - 2021-01-01 05:00:58 --> Config Class Initialized
+INFO - 2021-01-01 05:00:58 --> Hooks Class Initialized
+DEBUG - 2021-01-01 05:00:58 --> UTF-8 Support Enabled
+INFO - 2021-01-01 05:00:58 --> Utf8 Class Initialized
+INFO - 2021-01-01 05:00:58 --> URI Class Initialized
+INFO - 2021-01-01 05:00:58 --> Router Class Initialized
+INFO - 2021-01-01 05:00:58 --> Output Class Initialized
+INFO - 2021-01-01 05:00:58 --> Security Class Initialized
+DEBUG - 2021-01-01 05:00:58 --> Global POST, GET and COOKIE data sanitized
+INFO - 2021-01-01 05:00:58 --> Input Class Initialized
+INFO - 2021-01-01 05:00:58 --> Language Class Initialized
+INFO - 2021-01-01 05:00:58 --> Language Class Initialized
+INFO - 2021-01-01 05:00:58 --> Config Class Initialized
+INFO - 2021-01-01 05:00:58 --> Loader Class Initialized
+INFO - 2021-01-01 05:00:58 --> Helper loaded: url_helper
+INFO - 2021-01-01 05:00:58 --> Helper loaded: html_helper
+INFO - 2021-01-01 05:00:58 --> Helper loaded: file_helper
+INFO - 2021-01-01 05:00:58 --> Helper loaded: form_helper
+INFO - 2021-01-01 05:00:59 --> Helper loaded: security_helper
+INFO - 2021-01-01 05:00:59 --> Helper loaded: xss_helper
+INFO - 2021-01-01 05:00:59 --> Helper loaded: slug_helper
+INFO - 2021-01-01 05:00:59 --> Database Driver Class Initialized
+DEBUG - 2021-01-01 05:00:59 --> Session: "sess_save_path" is empty; using "session.save_path" value from php.ini.
+INFO - 2021-01-01 05:00:59 --> Session: Class initialized using 'files' driver.
+INFO - 2021-01-01 05:00:59 --> Language file loaded: language/english/pagination_lang.php
+INFO - 2021-01-01 05:00:59 --> Pagination Class Initialized
+INFO - 2021-01-01 05:00:59 --> Email Class Initialized
+INFO - 2021-01-01 05:00:59 --> Model "M_konfig" initialized
+INFO - 2021-01-01 05:00:59 --> Model "M_reff" initialized
+INFO - 2021-01-01 05:00:59 --> Model "M_total" initialized
+INFO - 2021-01-01 05:00:59 --> Controller Class Initialized
+DEBUG - 2021-01-01 05:00:59 --> File loaded: D:\xampp72\htdocs\app_grm\application\modules/apengumuman/models/Model.php
+INFO - 2021-01-01 11:00:59 --> Final output sent to browser
+DEBUG - 2021-01-01 11:00:59 --> Total execution time: 0.7225
+INFO - 2021-01-01 05:01:03 --> Config Class Initialized
+INFO - 2021-01-01 05:01:03 --> Hooks Class Initialized
+DEBUG - 2021-01-01 05:01:03 --> UTF-8 Support Enabled
+INFO - 2021-01-01 05:01:03 --> Utf8 Class Initialized
+INFO - 2021-01-01 05:01:03 --> URI Class Initialized
+INFO - 2021-01-01 05:01:03 --> Router Class Initialized
+INFO - 2021-01-01 05:01:03 --> Output Class Initialized
+INFO - 2021-01-01 05:01:03 --> Security Class Initialized
+DEBUG - 2021-01-01 05:01:03 --> Global POST, GET and COOKIE data sanitized
+INFO - 2021-01-01 05:01:03 --> Input Class Initialized
+INFO - 2021-01-01 05:01:03 --> Language Class Initialized
+INFO - 2021-01-01 05:01:03 --> Language Class Initialized
+INFO - 2021-01-01 05:01:03 --> Config Class Initialized
+INFO - 2021-01-01 05:01:04 --> Loader Class Initialized
+INFO - 2021-01-01 05:01:04 --> Helper loaded: url_helper
+INFO - 2021-01-01 05:01:04 --> Helper loaded: html_helper
+INFO - 2021-01-01 05:01:04 --> Helper loaded: file_helper
+INFO - 2021-01-01 05:01:04 --> Helper loaded: form_helper
+INFO - 2021-01-01 05:01:04 --> Helper loaded: security_helper
+INFO - 2021-01-01 05:01:04 --> Helper loaded: xss_helper
+INFO - 2021-01-01 05:01:04 --> Helper loaded: slug_helper
+INFO - 2021-01-01 05:01:04 --> Database Driver Class Initialized
+DEBUG - 2021-01-01 05:01:04 --> Session: "sess_save_path" is empty; using "session.save_path" value from php.ini.
+INFO - 2021-01-01 05:01:04 --> Session: Class initialized using 'files' driver.
+INFO - 2021-01-01 05:01:04 --> Language file loaded: language/english/pagination_lang.php
+INFO - 2021-01-01 05:01:04 --> Pagination Class Initialized
+INFO - 2021-01-01 05:01:04 --> Email Class Initialized
+INFO - 2021-01-01 05:01:04 --> Model "M_konfig" initialized
+INFO - 2021-01-01 05:01:04 --> Model "M_reff" initialized
+INFO - 2021-01-01 05:01:04 --> Model "M_total" initialized
+INFO - 2021-01-01 05:01:04 --> Controller Class Initialized
+DEBUG - 2021-01-01 05:01:04 --> File loaded: D:\xampp72\htdocs\app_grm\application\modules/apengumuman/models/Model.php
+INFO - 2021-01-01 11:01:04 --> Final output sent to browser
+DEBUG - 2021-01-01 11:01:04 --> Total execution time: 0.7998
+INFO - 2021-01-01 05:01:08 --> Config Class Initialized
+INFO - 2021-01-01 05:01:08 --> Hooks Class Initialized
+DEBUG - 2021-01-01 05:01:08 --> UTF-8 Support Enabled
+INFO - 2021-01-01 05:01:08 --> Utf8 Class Initialized
+INFO - 2021-01-01 05:01:08 --> URI Class Initialized
+INFO - 2021-01-01 05:01:08 --> Router Class Initialized
+INFO - 2021-01-01 05:01:08 --> Output Class Initialized
+INFO - 2021-01-01 05:01:08 --> Security Class Initialized
+DEBUG - 2021-01-01 05:01:08 --> Global POST, GET and COOKIE data sanitized
+INFO - 2021-01-01 05:01:08 --> Input Class Initialized
+INFO - 2021-01-01 05:01:08 --> Language Class Initialized
+INFO - 2021-01-01 05:01:08 --> Language Class Initialized
+INFO - 2021-01-01 05:01:09 --> Config Class Initialized
+INFO - 2021-01-01 05:01:09 --> Loader Class Initialized
+INFO - 2021-01-01 05:01:09 --> Helper loaded: url_helper
+INFO - 2021-01-01 05:01:09 --> Helper loaded: html_helper
+INFO - 2021-01-01 05:01:09 --> Helper loaded: file_helper
+INFO - 2021-01-01 05:01:09 --> Helper loaded: form_helper
+INFO - 2021-01-01 05:01:09 --> Helper loaded: security_helper
+INFO - 2021-01-01 05:01:09 --> Helper loaded: xss_helper
+INFO - 2021-01-01 05:01:09 --> Helper loaded: slug_helper
+INFO - 2021-01-01 05:01:09 --> Database Driver Class Initialized
+DEBUG - 2021-01-01 05:01:09 --> Session: "sess_save_path" is empty; using "session.save_path" value from php.ini.
+INFO - 2021-01-01 05:01:09 --> Session: Class initialized using 'files' driver.
+INFO - 2021-01-01 05:01:09 --> Language file loaded: language/english/pagination_lang.php
+INFO - 2021-01-01 05:01:09 --> Pagination Class Initialized
+INFO - 2021-01-01 05:01:09 --> Email Class Initialized
+INFO - 2021-01-01 05:01:09 --> Model "M_konfig" initialized
+INFO - 2021-01-01 05:01:09 --> Model "M_reff" initialized
+INFO - 2021-01-01 05:01:09 --> Model "M_total" initialized
+INFO - 2021-01-01 05:01:09 --> Controller Class Initialized
+DEBUG - 2021-01-01 05:01:09 --> File loaded: D:\xampp72\htdocs\app_grm\application\modules/apengumuman/models/Model.php
+INFO - 2021-01-01 11:01:09 --> Final output sent to browser
+DEBUG - 2021-01-01 11:01:09 --> Total execution time: 0.7070
+INFO - 2021-01-01 05:01:13 --> Config Class Initialized
+INFO - 2021-01-01 05:01:13 --> Hooks Class Initialized
+DEBUG - 2021-01-01 05:01:13 --> UTF-8 Support Enabled
+INFO - 2021-01-01 05:01:13 --> Utf8 Class Initialized
+INFO - 2021-01-01 05:01:13 --> URI Class Initialized
+INFO - 2021-01-01 05:01:13 --> Router Class Initialized
+INFO - 2021-01-01 05:01:13 --> Output Class Initialized
+INFO - 2021-01-01 05:01:14 --> Security Class Initialized
+DEBUG - 2021-01-01 05:01:14 --> Global POST, GET and COOKIE data sanitized
+INFO - 2021-01-01 05:01:14 --> Input Class Initialized
+INFO - 2021-01-01 05:01:14 --> Language Class Initialized
+INFO - 2021-01-01 05:01:14 --> Language Class Initialized
+INFO - 2021-01-01 05:01:14 --> Config Class Initialized
+INFO - 2021-01-01 05:01:14 --> Loader Class Initialized
+INFO - 2021-01-01 05:01:14 --> Helper loaded: url_helper
+INFO - 2021-01-01 05:01:14 --> Helper loaded: html_helper
+INFO - 2021-01-01 05:01:14 --> Helper loaded: file_helper
+INFO - 2021-01-01 05:01:14 --> Helper loaded: form_helper
+INFO - 2021-01-01 05:01:14 --> Helper loaded: security_helper
+INFO - 2021-01-01 05:01:14 --> Helper loaded: xss_helper
+INFO - 2021-01-01 05:01:14 --> Helper loaded: slug_helper
+INFO - 2021-01-01 05:01:14 --> Database Driver Class Initialized
+DEBUG - 2021-01-01 05:01:14 --> Session: "sess_save_path" is empty; using "session.save_path" value from php.ini.
+INFO - 2021-01-01 05:01:14 --> Session: Class initialized using 'files' driver.
+INFO - 2021-01-01 05:01:14 --> Language file loaded: language/english/pagination_lang.php
+INFO - 2021-01-01 05:01:14 --> Pagination Class Initialized
+INFO - 2021-01-01 05:01:14 --> Email Class Initialized
+INFO - 2021-01-01 05:01:14 --> Model "M_konfig" initialized
+INFO - 2021-01-01 05:01:14 --> Model "M_reff" initialized
+INFO - 2021-01-01 05:01:14 --> Model "M_total" initialized
+INFO - 2021-01-01 05:01:14 --> Controller Class Initialized
+DEBUG - 2021-01-01 05:01:14 --> File loaded: D:\xampp72\htdocs\app_grm\application\modules/apengumuman/models/Model.php
+INFO - 2021-01-01 11:01:14 --> Final output sent to browser
+DEBUG - 2021-01-01 11:01:14 --> Total execution time: 0.7520
+INFO - 2021-01-01 05:01:18 --> Config Class Initialized
+INFO - 2021-01-01 05:01:18 --> Hooks Class Initialized
+DEBUG - 2021-01-01 05:01:18 --> UTF-8 Support Enabled
+INFO - 2021-01-01 05:01:18 --> Utf8 Class Initialized
+INFO - 2021-01-01 05:01:18 --> URI Class Initialized
+INFO - 2021-01-01 05:01:19 --> Router Class Initialized
+INFO - 2021-01-01 05:01:19 --> Output Class Initialized
+INFO - 2021-01-01 05:01:19 --> Security Class Initialized
+DEBUG - 2021-01-01 05:01:19 --> Global POST, GET and COOKIE data sanitized
+INFO - 2021-01-01 05:01:19 --> Input Class Initialized
+INFO - 2021-01-01 05:01:19 --> Language Class Initialized
+INFO - 2021-01-01 05:01:19 --> Language Class Initialized
+INFO - 2021-01-01 05:01:19 --> Config Class Initialized
+INFO - 2021-01-01 05:01:19 --> Loader Class Initialized
+INFO - 2021-01-01 05:01:19 --> Helper loaded: url_helper
+INFO - 2021-01-01 05:01:19 --> Helper loaded: html_helper
+INFO - 2021-01-01 05:01:19 --> Helper loaded: file_helper
+INFO - 2021-01-01 05:01:19 --> Helper loaded: form_helper
+INFO - 2021-01-01 05:01:19 --> Helper loaded: security_helper
+INFO - 2021-01-01 05:01:19 --> Helper loaded: xss_helper
+INFO - 2021-01-01 05:01:19 --> Helper loaded: slug_helper
+INFO - 2021-01-01 05:01:19 --> Database Driver Class Initialized
+DEBUG - 2021-01-01 05:01:19 --> Session: "sess_save_path" is empty; using "session.save_path" value from php.ini.
+INFO - 2021-01-01 05:01:19 --> Session: Class initialized using 'files' driver.
+INFO - 2021-01-01 05:01:19 --> Language file loaded: language/english/pagination_lang.php
+INFO - 2021-01-01 05:01:19 --> Pagination Class Initialized
+INFO - 2021-01-01 05:01:19 --> Email Class Initialized
+INFO - 2021-01-01 05:01:19 --> Model "M_konfig" initialized
+INFO - 2021-01-01 05:01:19 --> Model "M_reff" initialized
+INFO - 2021-01-01 05:01:19 --> Model "M_total" initialized
+INFO - 2021-01-01 05:01:19 --> Controller Class Initialized
+DEBUG - 2021-01-01 05:01:19 --> File loaded: D:\xampp72\htdocs\app_grm\application\modules/apengumuman/models/Model.php
+INFO - 2021-01-01 11:01:19 --> Final output sent to browser
+DEBUG - 2021-01-01 11:01:19 --> Total execution time: 0.7335
+INFO - 2021-01-01 05:01:23 --> Config Class Initialized
+INFO - 2021-01-01 05:01:23 --> Hooks Class Initialized
+DEBUG - 2021-01-01 05:01:23 --> UTF-8 Support Enabled
+INFO - 2021-01-01 05:01:24 --> Utf8 Class Initialized
+INFO - 2021-01-01 05:01:24 --> URI Class Initialized
+INFO - 2021-01-01 05:01:24 --> Router Class Initialized
+INFO - 2021-01-01 05:01:24 --> Output Class Initialized
+INFO - 2021-01-01 05:01:24 --> Security Class Initialized
+DEBUG - 2021-01-01 05:01:24 --> Global POST, GET and COOKIE data sanitized
+INFO - 2021-01-01 05:01:24 --> Input Class Initialized
+INFO - 2021-01-01 05:01:24 --> Language Class Initialized
+INFO - 2021-01-01 05:01:24 --> Language Class Initialized
+INFO - 2021-01-01 05:01:24 --> Config Class Initialized
+INFO - 2021-01-01 05:01:24 --> Loader Class Initialized
+INFO - 2021-01-01 05:01:24 --> Helper loaded: url_helper
+INFO - 2021-01-01 05:01:24 --> Helper loaded: html_helper
+INFO - 2021-01-01 05:01:24 --> Helper loaded: file_helper
+INFO - 2021-01-01 05:01:24 --> Helper loaded: form_helper
+INFO - 2021-01-01 05:01:24 --> Helper loaded: security_helper
+INFO - 2021-01-01 05:01:24 --> Helper loaded: xss_helper
+INFO - 2021-01-01 05:01:24 --> Helper loaded: slug_helper
+INFO - 2021-01-01 05:01:24 --> Database Driver Class Initialized
+DEBUG - 2021-01-01 05:01:24 --> Session: "sess_save_path" is empty; using "session.save_path" value from php.ini.
+INFO - 2021-01-01 05:01:24 --> Session: Class initialized using 'files' driver.
+INFO - 2021-01-01 05:01:24 --> Language file loaded: language/english/pagination_lang.php
+INFO - 2021-01-01 05:01:24 --> Pagination Class Initialized
+INFO - 2021-01-01 05:01:24 --> Email Class Initialized
+INFO - 2021-01-01 05:01:24 --> Model "M_konfig" initialized
+INFO - 2021-01-01 05:01:24 --> Model "M_reff" initialized
+INFO - 2021-01-01 05:01:24 --> Model "M_total" initialized
+INFO - 2021-01-01 05:01:24 --> Controller Class Initialized
+DEBUG - 2021-01-01 05:01:24 --> File loaded: D:\xampp72\htdocs\app_grm\application\modules/apengumuman/models/Model.php
+INFO - 2021-01-01 11:01:24 --> Final output sent to browser
+DEBUG - 2021-01-01 11:01:24 --> Total execution time: 0.7214
+INFO - 2021-01-01 05:01:29 --> Config Class Initialized
+INFO - 2021-01-01 05:01:29 --> Hooks Class Initialized
+DEBUG - 2021-01-01 05:01:29 --> UTF-8 Support Enabled
+INFO - 2021-01-01 05:01:29 --> Utf8 Class Initialized
+INFO - 2021-01-01 05:01:29 --> URI Class Initialized
+INFO - 2021-01-01 05:01:29 --> Router Class Initialized
+INFO - 2021-01-01 05:01:29 --> Output Class Initialized
+INFO - 2021-01-01 05:01:29 --> Security Class Initialized
+DEBUG - 2021-01-01 05:01:29 --> Global POST, GET and COOKIE data sanitized
+INFO - 2021-01-01 05:01:29 --> Input Class Initialized
+INFO - 2021-01-01 05:01:29 --> Language Class Initialized
+INFO - 2021-01-01 05:01:29 --> Language Class Initialized
+INFO - 2021-01-01 05:01:29 --> Config Class Initialized
+INFO - 2021-01-01 05:01:29 --> Loader Class Initialized
+INFO - 2021-01-01 05:01:29 --> Helper loaded: url_helper
+INFO - 2021-01-01 05:01:29 --> Helper loaded: html_helper
+INFO - 2021-01-01 05:01:29 --> Helper loaded: file_helper
+INFO - 2021-01-01 05:01:29 --> Helper loaded: form_helper
+INFO - 2021-01-01 05:01:29 --> Helper loaded: security_helper
+INFO - 2021-01-01 05:01:29 --> Helper loaded: xss_helper
+INFO - 2021-01-01 05:01:29 --> Helper loaded: slug_helper
+INFO - 2021-01-01 05:01:29 --> Database Driver Class Initialized
+DEBUG - 2021-01-01 05:01:29 --> Session: "sess_save_path" is empty; using "session.save_path" value from php.ini.
+INFO - 2021-01-01 05:01:29 --> Session: Class initialized using 'files' driver.
+INFO - 2021-01-01 05:01:29 --> Language file loaded: language/english/pagination_lang.php
+INFO - 2021-01-01 05:01:29 --> Pagination Class Initialized
+INFO - 2021-01-01 05:01:29 --> Email Class Initialized
+INFO - 2021-01-01 05:01:29 --> Model "M_konfig" initialized
+INFO - 2021-01-01 05:01:29 --> Model "M_reff" initialized
+INFO - 2021-01-01 05:01:29 --> Model "M_total" initialized
+INFO - 2021-01-01 05:01:29 --> Controller Class Initialized
+DEBUG - 2021-01-01 05:01:29 --> File loaded: D:\xampp72\htdocs\app_grm\application\modules/apengumuman/models/Model.php
+INFO - 2021-01-01 11:01:29 --> Final output sent to browser
+DEBUG - 2021-01-01 11:01:29 --> Total execution time: 0.7114
+INFO - 2021-01-01 05:01:34 --> Config Class Initialized
+INFO - 2021-01-01 05:01:34 --> Hooks Class Initialized
+DEBUG - 2021-01-01 05:01:34 --> UTF-8 Support Enabled
+INFO - 2021-01-01 05:01:34 --> Utf8 Class Initialized
+INFO - 2021-01-01 05:01:34 --> URI Class Initialized
+INFO - 2021-01-01 05:01:34 --> Router Class Initialized
+INFO - 2021-01-01 05:01:34 --> Output Class Initialized
+INFO - 2021-01-01 05:01:34 --> Security Class Initialized
+DEBUG - 2021-01-01 05:01:34 --> Global POST, GET and COOKIE data sanitized
+INFO - 2021-01-01 05:01:34 --> Input Class Initialized
+INFO - 2021-01-01 05:01:34 --> Language Class Initialized
+INFO - 2021-01-01 05:01:34 --> Language Class Initialized
+INFO - 2021-01-01 05:01:34 --> Config Class Initialized
+INFO - 2021-01-01 05:01:34 --> Loader Class Initialized
+INFO - 2021-01-01 05:01:34 --> Helper loaded: url_helper
+INFO - 2021-01-01 05:01:34 --> Helper loaded: html_helper
+INFO - 2021-01-01 05:01:34 --> Helper loaded: file_helper
+INFO - 2021-01-01 05:01:34 --> Helper loaded: form_helper
+INFO - 2021-01-01 05:01:34 --> Helper loaded: security_helper
+INFO - 2021-01-01 05:01:34 --> Helper loaded: xss_helper
+INFO - 2021-01-01 05:01:34 --> Helper loaded: slug_helper
+INFO - 2021-01-01 05:01:34 --> Database Driver Class Initialized
+DEBUG - 2021-01-01 05:01:34 --> Session: "sess_save_path" is empty; using "session.save_path" value from php.ini.
+INFO - 2021-01-01 05:01:34 --> Session: Class initialized using 'files' driver.
+INFO - 2021-01-01 05:01:34 --> Language file loaded: language/english/pagination_lang.php
+INFO - 2021-01-01 05:01:34 --> Pagination Class Initialized
+INFO - 2021-01-01 05:01:34 --> Email Class Initialized
+INFO - 2021-01-01 05:01:34 --> Model "M_konfig" initialized
+INFO - 2021-01-01 05:01:34 --> Model "M_reff" initialized
+INFO - 2021-01-01 05:01:34 --> Model "M_total" initialized
+INFO - 2021-01-01 05:01:34 --> Controller Class Initialized
+DEBUG - 2021-01-01 05:01:34 --> File loaded: D:\xampp72\htdocs\app_grm\application\modules/apengumuman/models/Model.php
+INFO - 2021-01-01 11:01:34 --> Final output sent to browser
+DEBUG - 2021-01-01 11:01:34 --> Total execution time: 0.7036
+INFO - 2021-01-01 05:01:39 --> Config Class Initialized
+INFO - 2021-01-01 05:01:39 --> Hooks Class Initialized
+DEBUG - 2021-01-01 05:01:39 --> UTF-8 Support Enabled
+INFO - 2021-01-01 05:01:39 --> Utf8 Class Initialized
+INFO - 2021-01-01 05:01:39 --> URI Class Initialized
+INFO - 2021-01-01 05:01:39 --> Router Class Initialized
+INFO - 2021-01-01 05:01:39 --> Output Class Initialized
+INFO - 2021-01-01 05:01:39 --> Security Class Initialized
+DEBUG - 2021-01-01 05:01:39 --> Global POST, GET and COOKIE data sanitized
+INFO - 2021-01-01 05:01:39 --> Input Class Initialized
+INFO - 2021-01-01 05:01:39 --> Language Class Initialized
+INFO - 2021-01-01 05:01:39 --> Language Class Initialized
+INFO - 2021-01-01 05:01:39 --> Config Class Initialized
+INFO - 2021-01-01 05:01:39 --> Loader Class Initialized
+INFO - 2021-01-01 05:01:39 --> Helper loaded: url_helper
+INFO - 2021-01-01 05:01:39 --> Helper loaded: html_helper
+INFO - 2021-01-01 05:01:39 --> Helper loaded: file_helper
+INFO - 2021-01-01 05:01:39 --> Helper loaded: form_helper
+INFO - 2021-01-01 05:01:39 --> Helper loaded: security_helper
+INFO - 2021-01-01 05:01:39 --> Helper loaded: xss_helper
+INFO - 2021-01-01 05:01:39 --> Helper loaded: slug_helper
+INFO - 2021-01-01 05:01:39 --> Database Driver Class Initialized
+DEBUG - 2021-01-01 05:01:39 --> Session: "sess_save_path" is empty; using "session.save_path" value from php.ini.
+INFO - 2021-01-01 05:01:39 --> Session: Class initialized using 'files' driver.
+INFO - 2021-01-01 05:01:39 --> Language file loaded: language/english/pagination_lang.php
+INFO - 2021-01-01 05:01:39 --> Pagination Class Initialized
+INFO - 2021-01-01 05:01:39 --> Email Class Initialized
+INFO - 2021-01-01 05:01:39 --> Model "M_konfig" initialized
+INFO - 2021-01-01 05:01:39 --> Model "M_reff" initialized
+INFO - 2021-01-01 05:01:39 --> Model "M_total" initialized
+INFO - 2021-01-01 05:01:39 --> Controller Class Initialized
+DEBUG - 2021-01-01 05:01:39 --> File loaded: D:\xampp72\htdocs\app_grm\application\modules/apengumuman/models/Model.php
+INFO - 2021-01-01 11:01:39 --> Final output sent to browser
+DEBUG - 2021-01-01 11:01:39 --> Total execution time: 0.7366
+INFO - 2021-01-01 05:01:44 --> Config Class Initialized
+INFO - 2021-01-01 05:01:44 --> Hooks Class Initialized
+DEBUG - 2021-01-01 05:01:44 --> UTF-8 Support Enabled
+INFO - 2021-01-01 05:01:44 --> Utf8 Class Initialized
+INFO - 2021-01-01 05:01:44 --> URI Class Initialized
+INFO - 2021-01-01 05:01:44 --> Router Class Initialized
+INFO - 2021-01-01 05:01:44 --> Output Class Initialized
+INFO - 2021-01-01 05:01:44 --> Security Class Initialized
+DEBUG - 2021-01-01 05:01:44 --> Global POST, GET and COOKIE data sanitized
+INFO - 2021-01-01 05:01:44 --> Input Class Initialized
+INFO - 2021-01-01 05:01:44 --> Language Class Initialized
+INFO - 2021-01-01 05:01:44 --> Language Class Initialized
+INFO - 2021-01-01 05:01:44 --> Config Class Initialized
+INFO - 2021-01-01 05:01:44 --> Loader Class Initialized
+INFO - 2021-01-01 05:01:44 --> Helper loaded: url_helper
+INFO - 2021-01-01 05:01:44 --> Helper loaded: html_helper
+INFO - 2021-01-01 05:01:44 --> Helper loaded: file_helper
+INFO - 2021-01-01 05:01:44 --> Helper loaded: form_helper
+INFO - 2021-01-01 05:01:44 --> Helper loaded: security_helper
+INFO - 2021-01-01 05:01:44 --> Helper loaded: xss_helper
+INFO - 2021-01-01 05:01:44 --> Helper loaded: slug_helper
+INFO - 2021-01-01 05:01:44 --> Database Driver Class Initialized
+DEBUG - 2021-01-01 05:01:44 --> Session: "sess_save_path" is empty; using "session.save_path" value from php.ini.
+INFO - 2021-01-01 05:01:44 --> Session: Class initialized using 'files' driver.
+INFO - 2021-01-01 05:01:44 --> Language file loaded: language/english/pagination_lang.php
+INFO - 2021-01-01 05:01:44 --> Pagination Class Initialized
+INFO - 2021-01-01 05:01:44 --> Email Class Initialized
+INFO - 2021-01-01 05:01:44 --> Model "M_konfig" initialized
+INFO - 2021-01-01 05:01:44 --> Model "M_reff" initialized
+INFO - 2021-01-01 05:01:44 --> Model "M_total" initialized
+INFO - 2021-01-01 05:01:44 --> Controller Class Initialized
+DEBUG - 2021-01-01 05:01:45 --> File loaded: D:\xampp72\htdocs\app_grm\application\modules/apengumuman/models/Model.php
+INFO - 2021-01-01 11:01:45 --> Final output sent to browser
+DEBUG - 2021-01-01 11:01:45 --> Total execution time: 0.7295
+INFO - 2021-01-01 05:01:49 --> Config Class Initialized
+INFO - 2021-01-01 05:01:49 --> Hooks Class Initialized
+DEBUG - 2021-01-01 05:01:49 --> UTF-8 Support Enabled
+INFO - 2021-01-01 05:01:49 --> Utf8 Class Initialized
+INFO - 2021-01-01 05:01:49 --> URI Class Initialized
+INFO - 2021-01-01 05:01:49 --> Router Class Initialized
+INFO - 2021-01-01 05:01:49 --> Output Class Initialized
+INFO - 2021-01-01 05:01:49 --> Security Class Initialized
+DEBUG - 2021-01-01 05:01:49 --> Global POST, GET and COOKIE data sanitized
+INFO - 2021-01-01 05:01:49 --> Input Class Initialized
+INFO - 2021-01-01 05:01:49 --> Language Class Initialized
+INFO - 2021-01-01 05:01:49 --> Language Class Initialized
+INFO - 2021-01-01 05:01:49 --> Config Class Initialized
+INFO - 2021-01-01 05:01:49 --> Loader Class Initialized
+INFO - 2021-01-01 05:01:49 --> Helper loaded: url_helper
+INFO - 2021-01-01 05:01:49 --> Helper loaded: html_helper
+INFO - 2021-01-01 05:01:49 --> Helper loaded: file_helper
+INFO - 2021-01-01 05:01:49 --> Helper loaded: form_helper
+INFO - 2021-01-01 05:01:49 --> Helper loaded: security_helper
+INFO - 2021-01-01 05:01:49 --> Helper loaded: xss_helper
+INFO - 2021-01-01 05:01:49 --> Helper loaded: slug_helper
+INFO - 2021-01-01 05:01:49 --> Database Driver Class Initialized
+DEBUG - 2021-01-01 05:01:49 --> Session: "sess_save_path" is empty; using "session.save_path" value from php.ini.
+INFO - 2021-01-01 05:01:49 --> Session: Class initialized using 'files' driver.
+INFO - 2021-01-01 05:01:49 --> Language file loaded: language/english/pagination_lang.php
+INFO - 2021-01-01 05:01:49 --> Pagination Class Initialized
+INFO - 2021-01-01 05:01:49 --> Email Class Initialized
+INFO - 2021-01-01 05:01:50 --> Model "M_konfig" initialized
+INFO - 2021-01-01 05:01:50 --> Model "M_reff" initialized
+INFO - 2021-01-01 05:01:50 --> Model "M_total" initialized
+INFO - 2021-01-01 05:01:50 --> Controller Class Initialized
+DEBUG - 2021-01-01 05:01:50 --> File loaded: D:\xampp72\htdocs\app_grm\application\modules/apengumuman/models/Model.php
+INFO - 2021-01-01 11:01:50 --> Final output sent to browser
+DEBUG - 2021-01-01 11:01:50 --> Total execution time: 0.7451
+INFO - 2021-01-01 05:01:54 --> Config Class Initialized
+INFO - 2021-01-01 05:01:54 --> Hooks Class Initialized
+DEBUG - 2021-01-01 05:01:54 --> UTF-8 Support Enabled
+INFO - 2021-01-01 05:01:54 --> Utf8 Class Initialized
+INFO - 2021-01-01 05:01:54 --> URI Class Initialized
+INFO - 2021-01-01 05:01:54 --> Router Class Initialized
+INFO - 2021-01-01 05:01:54 --> Output Class Initialized
+INFO - 2021-01-01 05:01:54 --> Security Class Initialized
+DEBUG - 2021-01-01 05:01:54 --> Global POST, GET and COOKIE data sanitized
+INFO - 2021-01-01 05:01:54 --> Input Class Initialized
+INFO - 2021-01-01 05:01:54 --> Language Class Initialized
+INFO - 2021-01-01 05:01:54 --> Language Class Initialized
+INFO - 2021-01-01 05:01:54 --> Config Class Initialized
+INFO - 2021-01-01 05:01:54 --> Loader Class Initialized
+INFO - 2021-01-01 05:01:54 --> Helper loaded: url_helper
+INFO - 2021-01-01 05:01:54 --> Helper loaded: html_helper
+INFO - 2021-01-01 05:01:54 --> Helper loaded: file_helper
+INFO - 2021-01-01 05:01:54 --> Helper loaded: form_helper
+INFO - 2021-01-01 05:01:54 --> Helper loaded: security_helper
+INFO - 2021-01-01 05:01:54 --> Helper loaded: xss_helper
+INFO - 2021-01-01 05:01:54 --> Helper loaded: slug_helper
+INFO - 2021-01-01 05:01:55 --> Database Driver Class Initialized
+DEBUG - 2021-01-01 05:01:55 --> Session: "sess_save_path" is empty; using "session.save_path" value from php.ini.
+INFO - 2021-01-01 05:01:55 --> Session: Class initialized using 'files' driver.
+INFO - 2021-01-01 05:01:55 --> Language file loaded: language/english/pagination_lang.php
+INFO - 2021-01-01 05:01:55 --> Pagination Class Initialized
+INFO - 2021-01-01 05:01:55 --> Email Class Initialized
+INFO - 2021-01-01 05:01:55 --> Model "M_konfig" initialized
+INFO - 2021-01-01 05:01:55 --> Model "M_reff" initialized
+INFO - 2021-01-01 05:01:55 --> Model "M_total" initialized
+INFO - 2021-01-01 05:01:55 --> Controller Class Initialized
+DEBUG - 2021-01-01 05:01:55 --> File loaded: D:\xampp72\htdocs\app_grm\application\modules/apengumuman/models/Model.php
+INFO - 2021-01-01 11:01:55 --> Final output sent to browser
+DEBUG - 2021-01-01 11:01:55 --> Total execution time: 0.8581
+INFO - 2021-01-01 05:01:59 --> Config Class Initialized
+INFO - 2021-01-01 05:01:59 --> Hooks Class Initialized
+DEBUG - 2021-01-01 05:01:59 --> UTF-8 Support Enabled
+INFO - 2021-01-01 05:01:59 --> Utf8 Class Initialized
+INFO - 2021-01-01 05:01:59 --> URI Class Initialized
+INFO - 2021-01-01 05:01:59 --> Router Class Initialized
+INFO - 2021-01-01 05:01:59 --> Output Class Initialized
+INFO - 2021-01-01 05:01:59 --> Security Class Initialized
+DEBUG - 2021-01-01 05:01:59 --> Global POST, GET and COOKIE data sanitized
+INFO - 2021-01-01 05:01:59 --> Input Class Initialized
+INFO - 2021-01-01 05:01:59 --> Language Class Initialized
+INFO - 2021-01-01 05:01:59 --> Language Class Initialized
+INFO - 2021-01-01 05:01:59 --> Config Class Initialized
+INFO - 2021-01-01 05:01:59 --> Loader Class Initialized
+INFO - 2021-01-01 05:01:59 --> Helper loaded: url_helper
+INFO - 2021-01-01 05:01:59 --> Helper loaded: html_helper
+INFO - 2021-01-01 05:01:59 --> Helper loaded: file_helper
+INFO - 2021-01-01 05:01:59 --> Helper loaded: form_helper
+INFO - 2021-01-01 05:01:59 --> Helper loaded: security_helper
+INFO - 2021-01-01 05:01:59 --> Helper loaded: xss_helper
+INFO - 2021-01-01 05:01:59 --> Helper loaded: slug_helper
+INFO - 2021-01-01 05:02:00 --> Database Driver Class Initialized
+DEBUG - 2021-01-01 05:02:00 --> Session: "sess_save_path" is empty; using "session.save_path" value from php.ini.
+INFO - 2021-01-01 05:02:00 --> Session: Class initialized using 'files' driver.
+INFO - 2021-01-01 05:02:00 --> Language file loaded: language/english/pagination_lang.php
+INFO - 2021-01-01 05:02:00 --> Pagination Class Initialized
+INFO - 2021-01-01 05:02:00 --> Email Class Initialized
+INFO - 2021-01-01 05:02:00 --> Model "M_konfig" initialized
+INFO - 2021-01-01 05:02:00 --> Model "M_reff" initialized
+INFO - 2021-01-01 05:02:00 --> Model "M_total" initialized
+INFO - 2021-01-01 05:02:00 --> Controller Class Initialized
+DEBUG - 2021-01-01 05:02:00 --> File loaded: D:\xampp72\htdocs\app_grm\application\modules/apengumuman/models/Model.php
+INFO - 2021-01-01 11:02:00 --> Final output sent to browser
+DEBUG - 2021-01-01 11:02:00 --> Total execution time: 0.7827
+INFO - 2021-01-01 05:02:04 --> Config Class Initialized
+INFO - 2021-01-01 05:02:04 --> Hooks Class Initialized
+DEBUG - 2021-01-01 05:02:04 --> UTF-8 Support Enabled
+INFO - 2021-01-01 05:02:04 --> Utf8 Class Initialized
+INFO - 2021-01-01 05:02:04 --> URI Class Initialized
+INFO - 2021-01-01 05:02:04 --> Router Class Initialized
+INFO - 2021-01-01 05:02:04 --> Output Class Initialized
+INFO - 2021-01-01 05:02:04 --> Security Class Initialized
+DEBUG - 2021-01-01 05:02:04 --> Global POST, GET and COOKIE data sanitized
+INFO - 2021-01-01 05:02:04 --> Input Class Initialized
+INFO - 2021-01-01 05:02:04 --> Language Class Initialized
+INFO - 2021-01-01 05:02:04 --> Language Class Initialized
+INFO - 2021-01-01 05:02:04 --> Config Class Initialized
+INFO - 2021-01-01 05:02:04 --> Loader Class Initialized
+INFO - 2021-01-01 05:02:04 --> Helper loaded: url_helper
+INFO - 2021-01-01 05:02:04 --> Helper loaded: html_helper
+INFO - 2021-01-01 05:02:04 --> Helper loaded: file_helper
+INFO - 2021-01-01 05:02:04 --> Helper loaded: form_helper
+INFO - 2021-01-01 05:02:04 --> Helper loaded: security_helper
+INFO - 2021-01-01 05:02:05 --> Helper loaded: xss_helper
+INFO - 2021-01-01 05:02:05 --> Helper loaded: slug_helper
+INFO - 2021-01-01 05:02:05 --> Database Driver Class Initialized
+DEBUG - 2021-01-01 05:02:05 --> Session: "sess_save_path" is empty; using "session.save_path" value from php.ini.
+INFO - 2021-01-01 05:02:05 --> Session: Class initialized using 'files' driver.
+INFO - 2021-01-01 05:02:05 --> Language file loaded: language/english/pagination_lang.php
+INFO - 2021-01-01 05:02:05 --> Pagination Class Initialized
+INFO - 2021-01-01 05:02:05 --> Email Class Initialized
+INFO - 2021-01-01 05:02:05 --> Model "M_konfig" initialized
+INFO - 2021-01-01 05:02:05 --> Model "M_reff" initialized
+INFO - 2021-01-01 05:02:05 --> Model "M_total" initialized
+INFO - 2021-01-01 05:02:05 --> Controller Class Initialized
+DEBUG - 2021-01-01 05:02:05 --> File loaded: D:\xampp72\htdocs\app_grm\application\modules/apengumuman/models/Model.php
+INFO - 2021-01-01 11:02:05 --> Final output sent to browser
+DEBUG - 2021-01-01 11:02:05 --> Total execution time: 0.7146
+INFO - 2021-01-01 05:02:09 --> Config Class Initialized
+INFO - 2021-01-01 05:02:09 --> Hooks Class Initialized
+DEBUG - 2021-01-01 05:02:09 --> UTF-8 Support Enabled
+INFO - 2021-01-01 05:02:09 --> Utf8 Class Initialized
+INFO - 2021-01-01 05:02:09 --> URI Class Initialized
+INFO - 2021-01-01 05:02:09 --> Router Class Initialized
+INFO - 2021-01-01 05:02:09 --> Output Class Initialized
+INFO - 2021-01-01 05:02:09 --> Security Class Initialized
+DEBUG - 2021-01-01 05:02:09 --> Global POST, GET and COOKIE data sanitized
+INFO - 2021-01-01 05:02:09 --> Input Class Initialized
+INFO - 2021-01-01 05:02:09 --> Language Class Initialized
+INFO - 2021-01-01 05:02:09 --> Language Class Initialized
+INFO - 2021-01-01 05:02:09 --> Config Class Initialized
+INFO - 2021-01-01 05:02:10 --> Loader Class Initialized
+INFO - 2021-01-01 05:02:10 --> Helper loaded: url_helper
+INFO - 2021-01-01 05:02:10 --> Helper loaded: html_helper
+INFO - 2021-01-01 05:02:10 --> Helper loaded: file_helper
+INFO - 2021-01-01 05:02:10 --> Helper loaded: form_helper
+INFO - 2021-01-01 05:02:10 --> Helper loaded: security_helper
+INFO - 2021-01-01 05:02:10 --> Helper loaded: xss_helper
+INFO - 2021-01-01 05:02:10 --> Helper loaded: slug_helper
+INFO - 2021-01-01 05:02:10 --> Database Driver Class Initialized
+DEBUG - 2021-01-01 05:02:10 --> Session: "sess_save_path" is empty; using "session.save_path" value from php.ini.
+INFO - 2021-01-01 05:02:10 --> Session: Class initialized using 'files' driver.
+INFO - 2021-01-01 05:02:10 --> Language file loaded: language/english/pagination_lang.php
+INFO - 2021-01-01 05:02:10 --> Pagination Class Initialized
+INFO - 2021-01-01 05:02:10 --> Email Class Initialized
+INFO - 2021-01-01 05:02:10 --> Model "M_konfig" initialized
+INFO - 2021-01-01 05:02:10 --> Model "M_reff" initialized
+INFO - 2021-01-01 05:02:10 --> Model "M_total" initialized
+INFO - 2021-01-01 05:02:10 --> Controller Class Initialized
+DEBUG - 2021-01-01 05:02:10 --> File loaded: D:\xampp72\htdocs\app_grm\application\modules/apengumuman/models/Model.php
+INFO - 2021-01-01 11:02:10 --> Final output sent to browser
+DEBUG - 2021-01-01 11:02:10 --> Total execution time: 0.7555
+INFO - 2021-01-01 05:02:14 --> Config Class Initialized
+INFO - 2021-01-01 05:02:14 --> Hooks Class Initialized
+DEBUG - 2021-01-01 05:02:14 --> UTF-8 Support Enabled
+INFO - 2021-01-01 05:02:14 --> Utf8 Class Initialized
+INFO - 2021-01-01 05:02:14 --> URI Class Initialized
+INFO - 2021-01-01 05:02:14 --> Router Class Initialized
+INFO - 2021-01-01 05:02:14 --> Output Class Initialized
+INFO - 2021-01-01 05:02:14 --> Security Class Initialized
+DEBUG - 2021-01-01 05:02:14 --> Global POST, GET and COOKIE data sanitized
+INFO - 2021-01-01 05:02:14 --> Input Class Initialized
+INFO - 2021-01-01 05:02:15 --> Language Class Initialized
+INFO - 2021-01-01 05:02:15 --> Language Class Initialized
+INFO - 2021-01-01 05:02:15 --> Config Class Initialized
+INFO - 2021-01-01 05:02:15 --> Loader Class Initialized
+INFO - 2021-01-01 05:02:15 --> Helper loaded: url_helper
+INFO - 2021-01-01 05:02:15 --> Helper loaded: html_helper
+INFO - 2021-01-01 05:02:15 --> Helper loaded: file_helper
+INFO - 2021-01-01 05:02:15 --> Helper loaded: form_helper
+INFO - 2021-01-01 05:02:15 --> Helper loaded: security_helper
+INFO - 2021-01-01 05:02:15 --> Helper loaded: xss_helper
+INFO - 2021-01-01 05:02:15 --> Helper loaded: slug_helper
+INFO - 2021-01-01 05:02:15 --> Database Driver Class Initialized
+DEBUG - 2021-01-01 05:02:15 --> Session: "sess_save_path" is empty; using "session.save_path" value from php.ini.
+INFO - 2021-01-01 05:02:15 --> Session: Class initialized using 'files' driver.
+INFO - 2021-01-01 05:02:15 --> Language file loaded: language/english/pagination_lang.php
+INFO - 2021-01-01 05:02:15 --> Pagination Class Initialized
+INFO - 2021-01-01 05:02:15 --> Email Class Initialized
+INFO - 2021-01-01 05:02:15 --> Model "M_konfig" initialized
+INFO - 2021-01-01 05:02:15 --> Model "M_reff" initialized
+INFO - 2021-01-01 05:02:15 --> Model "M_total" initialized
+INFO - 2021-01-01 05:02:15 --> Controller Class Initialized
+DEBUG - 2021-01-01 05:02:15 --> File loaded: D:\xampp72\htdocs\app_grm\application\modules/apengumuman/models/Model.php
+INFO - 2021-01-01 11:02:15 --> Final output sent to browser
+DEBUG - 2021-01-01 11:02:15 --> Total execution time: 0.7432
+INFO - 2021-01-01 05:02:19 --> Config Class Initialized
+INFO - 2021-01-01 05:02:19 --> Hooks Class Initialized
+DEBUG - 2021-01-01 05:02:19 --> UTF-8 Support Enabled
+INFO - 2021-01-01 05:02:19 --> Utf8 Class Initialized
+INFO - 2021-01-01 05:02:19 --> URI Class Initialized
+INFO - 2021-01-01 05:02:19 --> Router Class Initialized
+INFO - 2021-01-01 05:02:19 --> Output Class Initialized
+INFO - 2021-01-01 05:02:20 --> Security Class Initialized
+DEBUG - 2021-01-01 05:02:20 --> Global POST, GET and COOKIE data sanitized
+INFO - 2021-01-01 05:02:20 --> Input Class Initialized
+INFO - 2021-01-01 05:02:20 --> Language Class Initialized
+INFO - 2021-01-01 05:02:20 --> Language Class Initialized
+INFO - 2021-01-01 05:02:20 --> Config Class Initialized
+INFO - 2021-01-01 05:02:20 --> Loader Class Initialized
+INFO - 2021-01-01 05:02:20 --> Helper loaded: url_helper
+INFO - 2021-01-01 05:02:20 --> Helper loaded: html_helper
+INFO - 2021-01-01 05:02:20 --> Helper loaded: file_helper
+INFO - 2021-01-01 05:02:20 --> Helper loaded: form_helper
+INFO - 2021-01-01 05:02:20 --> Helper loaded: security_helper
+INFO - 2021-01-01 05:02:20 --> Helper loaded: xss_helper
+INFO - 2021-01-01 05:02:20 --> Helper loaded: slug_helper
+INFO - 2021-01-01 05:02:20 --> Database Driver Class Initialized
+DEBUG - 2021-01-01 05:02:20 --> Session: "sess_save_path" is empty; using "session.save_path" value from php.ini.
+INFO - 2021-01-01 05:02:20 --> Session: Class initialized using 'files' driver.
+INFO - 2021-01-01 05:02:20 --> Language file loaded: language/english/pagination_lang.php
+INFO - 2021-01-01 05:02:20 --> Pagination Class Initialized
+INFO - 2021-01-01 05:02:20 --> Email Class Initialized
+INFO - 2021-01-01 05:02:20 --> Model "M_konfig" initialized
+INFO - 2021-01-01 05:02:20 --> Model "M_reff" initialized
+INFO - 2021-01-01 05:02:20 --> Model "M_total" initialized
+INFO - 2021-01-01 05:02:20 --> Controller Class Initialized
+DEBUG - 2021-01-01 05:02:20 --> File loaded: D:\xampp72\htdocs\app_grm\application\modules/apengumuman/models/Model.php
+INFO - 2021-01-01 11:02:20 --> Final output sent to browser
+DEBUG - 2021-01-01 11:02:20 --> Total execution time: 0.8082
+INFO - 2021-01-01 05:02:25 --> Config Class Initialized
+INFO - 2021-01-01 05:02:25 --> Hooks Class Initialized
+DEBUG - 2021-01-01 05:02:25 --> UTF-8 Support Enabled
+INFO - 2021-01-01 05:02:25 --> Utf8 Class Initialized
+INFO - 2021-01-01 05:02:26 --> URI Class Initialized
+INFO - 2021-01-01 05:02:26 --> Router Class Initialized
+INFO - 2021-01-01 05:02:26 --> Output Class Initialized
+INFO - 2021-01-01 05:02:26 --> Security Class Initialized
+DEBUG - 2021-01-01 05:02:26 --> Global POST, GET and COOKIE data sanitized
+INFO - 2021-01-01 05:02:26 --> Input Class Initialized
+INFO - 2021-01-01 05:02:26 --> Language Class Initialized
+INFO - 2021-01-01 05:02:26 --> Language Class Initialized
+INFO - 2021-01-01 05:02:26 --> Config Class Initialized
+INFO - 2021-01-01 05:02:26 --> Loader Class Initialized
+INFO - 2021-01-01 05:02:26 --> Helper loaded: url_helper
+INFO - 2021-01-01 05:02:26 --> Helper loaded: html_helper
+INFO - 2021-01-01 05:02:26 --> Helper loaded: file_helper
+INFO - 2021-01-01 05:02:26 --> Helper loaded: form_helper
+INFO - 2021-01-01 05:02:26 --> Helper loaded: security_helper
+INFO - 2021-01-01 05:02:26 --> Helper loaded: xss_helper
+INFO - 2021-01-01 05:02:26 --> Helper loaded: slug_helper
+INFO - 2021-01-01 05:02:26 --> Database Driver Class Initialized
+DEBUG - 2021-01-01 05:02:26 --> Session: "sess_save_path" is empty; using "session.save_path" value from php.ini.
+INFO - 2021-01-01 05:02:26 --> Session: Class initialized using 'files' driver.
+INFO - 2021-01-01 05:02:26 --> Language file loaded: language/english/pagination_lang.php
+INFO - 2021-01-01 05:02:26 --> Pagination Class Initialized
+INFO - 2021-01-01 05:02:26 --> Email Class Initialized
+INFO - 2021-01-01 05:02:26 --> Model "M_konfig" initialized
+INFO - 2021-01-01 05:02:26 --> Model "M_reff" initialized
+INFO - 2021-01-01 05:02:26 --> Model "M_total" initialized
+INFO - 2021-01-01 05:02:26 --> Controller Class Initialized
+DEBUG - 2021-01-01 05:02:26 --> File loaded: D:\xampp72\htdocs\app_grm\application\modules/apengumuman/models/Model.php
+INFO - 2021-01-01 11:02:26 --> Final output sent to browser
+DEBUG - 2021-01-01 11:02:26 --> Total execution time: 0.8896
+INFO - 2021-01-01 05:02:30 --> Config Class Initialized
+INFO - 2021-01-01 05:02:31 --> Hooks Class Initialized
+DEBUG - 2021-01-01 05:02:31 --> UTF-8 Support Enabled
+INFO - 2021-01-01 05:02:31 --> Utf8 Class Initialized
+INFO - 2021-01-01 05:02:31 --> URI Class Initialized
+INFO - 2021-01-01 05:02:31 --> Router Class Initialized
+INFO - 2021-01-01 05:02:31 --> Output Class Initialized
+INFO - 2021-01-01 05:02:31 --> Security Class Initialized
+DEBUG - 2021-01-01 05:02:31 --> Global POST, GET and COOKIE data sanitized
+INFO - 2021-01-01 05:02:31 --> Input Class Initialized
+INFO - 2021-01-01 05:02:31 --> Language Class Initialized
+INFO - 2021-01-01 05:02:31 --> Language Class Initialized
+INFO - 2021-01-01 05:02:31 --> Config Class Initialized
+INFO - 2021-01-01 05:02:31 --> Loader Class Initialized
+INFO - 2021-01-01 05:02:31 --> Helper loaded: url_helper
+INFO - 2021-01-01 05:02:31 --> Helper loaded: html_helper
+INFO - 2021-01-01 05:02:31 --> Helper loaded: file_helper
+INFO - 2021-01-01 05:02:31 --> Helper loaded: form_helper
+INFO - 2021-01-01 05:02:31 --> Helper loaded: security_helper
+INFO - 2021-01-01 05:02:31 --> Helper loaded: xss_helper
+INFO - 2021-01-01 05:02:31 --> Helper loaded: slug_helper
+INFO - 2021-01-01 05:02:31 --> Database Driver Class Initialized
+DEBUG - 2021-01-01 05:02:31 --> Session: "sess_save_path" is empty; using "session.save_path" value from php.ini.
+INFO - 2021-01-01 05:02:31 --> Session: Class initialized using 'files' driver.
+INFO - 2021-01-01 05:02:31 --> Language file loaded: language/english/pagination_lang.php
+INFO - 2021-01-01 05:02:31 --> Pagination Class Initialized
+INFO - 2021-01-01 05:02:31 --> Email Class Initialized
+INFO - 2021-01-01 05:02:31 --> Model "M_konfig" initialized
+INFO - 2021-01-01 05:02:31 --> Model "M_reff" initialized
+INFO - 2021-01-01 05:02:31 --> Model "M_total" initialized
+INFO - 2021-01-01 05:02:31 --> Controller Class Initialized
+DEBUG - 2021-01-01 05:02:31 --> File loaded: D:\xampp72\htdocs\app_grm\application\modules/apengumuman/models/Model.php
+INFO - 2021-01-01 11:02:31 --> Final output sent to browser
+DEBUG - 2021-01-01 11:02:31 --> Total execution time: 0.9945
+INFO - 2021-01-01 05:02:36 --> Config Class Initialized
+INFO - 2021-01-01 05:02:36 --> Hooks Class Initialized
+DEBUG - 2021-01-01 05:02:36 --> UTF-8 Support Enabled
+INFO - 2021-01-01 05:02:36 --> Utf8 Class Initialized
+INFO - 2021-01-01 05:02:36 --> URI Class Initialized
+INFO - 2021-01-01 05:02:36 --> Router Class Initialized
+INFO - 2021-01-01 05:02:36 --> Output Class Initialized
+INFO - 2021-01-01 05:02:36 --> Security Class Initialized
+DEBUG - 2021-01-01 05:02:36 --> Global POST, GET and COOKIE data sanitized
+INFO - 2021-01-01 05:02:36 --> Input Class Initialized
+INFO - 2021-01-01 05:02:36 --> Language Class Initialized
+INFO - 2021-01-01 05:02:36 --> Language Class Initialized
+INFO - 2021-01-01 05:02:36 --> Config Class Initialized
+INFO - 2021-01-01 05:02:36 --> Loader Class Initialized
+INFO - 2021-01-01 05:02:36 --> Helper loaded: url_helper
+INFO - 2021-01-01 05:02:36 --> Helper loaded: html_helper
+INFO - 2021-01-01 05:02:36 --> Helper loaded: file_helper
+INFO - 2021-01-01 05:02:36 --> Helper loaded: form_helper
+INFO - 2021-01-01 05:02:36 --> Helper loaded: security_helper
+INFO - 2021-01-01 05:02:36 --> Helper loaded: xss_helper
+INFO - 2021-01-01 05:02:36 --> Helper loaded: slug_helper
+INFO - 2021-01-01 05:02:36 --> Database Driver Class Initialized
+DEBUG - 2021-01-01 05:02:36 --> Session: "sess_save_path" is empty; using "session.save_path" value from php.ini.
+INFO - 2021-01-01 05:02:36 --> Session: Class initialized using 'files' driver.
+INFO - 2021-01-01 05:02:36 --> Language file loaded: language/english/pagination_lang.php
+INFO - 2021-01-01 05:02:36 --> Pagination Class Initialized
+INFO - 2021-01-01 05:02:36 --> Email Class Initialized
+INFO - 2021-01-01 05:02:36 --> Model "M_konfig" initialized
+INFO - 2021-01-01 05:02:36 --> Model "M_reff" initialized
+INFO - 2021-01-01 05:02:36 --> Model "M_total" initialized
+INFO - 2021-01-01 05:02:36 --> Controller Class Initialized
+DEBUG - 2021-01-01 05:02:36 --> File loaded: D:\xampp72\htdocs\app_grm\application\modules/apengumuman/models/Model.php
+INFO - 2021-01-01 11:02:36 --> Final output sent to browser
+DEBUG - 2021-01-01 11:02:36 --> Total execution time: 0.7504
+INFO - 2021-01-01 05:02:41 --> Config Class Initialized
+INFO - 2021-01-01 05:02:41 --> Hooks Class Initialized
+DEBUG - 2021-01-01 05:02:41 --> UTF-8 Support Enabled
+INFO - 2021-01-01 05:02:41 --> Utf8 Class Initialized
+INFO - 2021-01-01 05:02:41 --> URI Class Initialized
+INFO - 2021-01-01 05:02:41 --> Router Class Initialized
+INFO - 2021-01-01 05:02:41 --> Output Class Initialized
+INFO - 2021-01-01 05:02:41 --> Security Class Initialized
+DEBUG - 2021-01-01 05:02:41 --> Global POST, GET and COOKIE data sanitized
+INFO - 2021-01-01 05:02:41 --> Input Class Initialized
+INFO - 2021-01-01 05:02:41 --> Language Class Initialized
+INFO - 2021-01-01 05:02:41 --> Language Class Initialized
+INFO - 2021-01-01 05:02:41 --> Config Class Initialized
+INFO - 2021-01-01 05:02:41 --> Loader Class Initialized
+INFO - 2021-01-01 05:02:41 --> Helper loaded: url_helper
+INFO - 2021-01-01 05:02:41 --> Helper loaded: html_helper
+INFO - 2021-01-01 05:02:41 --> Helper loaded: file_helper
+INFO - 2021-01-01 05:02:41 --> Helper loaded: form_helper
+INFO - 2021-01-01 05:02:41 --> Helper loaded: security_helper
+INFO - 2021-01-01 05:02:41 --> Helper loaded: xss_helper
+INFO - 2021-01-01 05:02:41 --> Helper loaded: slug_helper
+INFO - 2021-01-01 05:02:41 --> Database Driver Class Initialized
+DEBUG - 2021-01-01 05:02:41 --> Session: "sess_save_path" is empty; using "session.save_path" value from php.ini.
+INFO - 2021-01-01 05:02:41 --> Session: Class initialized using 'files' driver.
+INFO - 2021-01-01 05:02:41 --> Language file loaded: language/english/pagination_lang.php
+INFO - 2021-01-01 05:02:41 --> Pagination Class Initialized
+INFO - 2021-01-01 05:02:41 --> Email Class Initialized
+INFO - 2021-01-01 05:02:41 --> Model "M_konfig" initialized
+INFO - 2021-01-01 05:02:41 --> Model "M_reff" initialized
+INFO - 2021-01-01 05:02:41 --> Model "M_total" initialized
+INFO - 2021-01-01 05:02:41 --> Controller Class Initialized
+DEBUG - 2021-01-01 05:02:41 --> File loaded: D:\xampp72\htdocs\app_grm\application\modules/apengumuman/models/Model.php
+INFO - 2021-01-01 11:02:41 --> Final output sent to browser
+DEBUG - 2021-01-01 11:02:41 --> Total execution time: 0.7587
+INFO - 2021-01-01 05:02:46 --> Config Class Initialized
+INFO - 2021-01-01 05:02:46 --> Hooks Class Initialized
+DEBUG - 2021-01-01 05:02:46 --> UTF-8 Support Enabled
+INFO - 2021-01-01 05:02:46 --> Utf8 Class Initialized
+INFO - 2021-01-01 05:02:46 --> URI Class Initialized
+INFO - 2021-01-01 05:02:46 --> Router Class Initialized
+INFO - 2021-01-01 05:02:46 --> Output Class Initialized
+INFO - 2021-01-01 05:02:46 --> Security Class Initialized
+DEBUG - 2021-01-01 05:02:46 --> Global POST, GET and COOKIE data sanitized
+INFO - 2021-01-01 05:02:46 --> Input Class Initialized
+INFO - 2021-01-01 05:02:46 --> Language Class Initialized
+INFO - 2021-01-01 05:02:46 --> Language Class Initialized
+INFO - 2021-01-01 05:02:46 --> Config Class Initialized
+INFO - 2021-01-01 05:02:46 --> Loader Class Initialized
+INFO - 2021-01-01 05:02:46 --> Helper loaded: url_helper
+INFO - 2021-01-01 05:02:46 --> Helper loaded: html_helper
+INFO - 2021-01-01 05:02:46 --> Helper loaded: file_helper
+INFO - 2021-01-01 05:02:46 --> Helper loaded: form_helper
+INFO - 2021-01-01 05:02:46 --> Helper loaded: security_helper
+INFO - 2021-01-01 05:02:46 --> Helper loaded: xss_helper
+INFO - 2021-01-01 05:02:46 --> Helper loaded: slug_helper
+INFO - 2021-01-01 05:02:46 --> Database Driver Class Initialized
+DEBUG - 2021-01-01 05:02:46 --> Session: "sess_save_path" is empty; using "session.save_path" value from php.ini.
+INFO - 2021-01-01 05:02:46 --> Session: Class initialized using 'files' driver.
+INFO - 2021-01-01 05:02:46 --> Language file loaded: language/english/pagination_lang.php
+INFO - 2021-01-01 05:02:46 --> Pagination Class Initialized
+INFO - 2021-01-01 05:02:46 --> Email Class Initialized
+INFO - 2021-01-01 05:02:46 --> Model "M_konfig" initialized
+INFO - 2021-01-01 05:02:46 --> Model "M_reff" initialized
+INFO - 2021-01-01 05:02:46 --> Model "M_total" initialized
+INFO - 2021-01-01 05:02:46 --> Controller Class Initialized
+DEBUG - 2021-01-01 05:02:46 --> File loaded: D:\xampp72\htdocs\app_grm\application\modules/apengumuman/models/Model.php
+INFO - 2021-01-01 11:02:46 --> Final output sent to browser
+DEBUG - 2021-01-01 11:02:46 --> Total execution time: 0.7675
+INFO - 2021-01-01 05:02:51 --> Config Class Initialized
+INFO - 2021-01-01 05:02:51 --> Hooks Class Initialized
+DEBUG - 2021-01-01 05:02:51 --> UTF-8 Support Enabled
+INFO - 2021-01-01 05:02:51 --> Utf8 Class Initialized
+INFO - 2021-01-01 05:02:51 --> URI Class Initialized
+INFO - 2021-01-01 05:02:51 --> Router Class Initialized
+INFO - 2021-01-01 05:02:51 --> Output Class Initialized
+INFO - 2021-01-01 05:02:51 --> Security Class Initialized
+DEBUG - 2021-01-01 05:02:51 --> Global POST, GET and COOKIE data sanitized
+INFO - 2021-01-01 05:02:51 --> Input Class Initialized
+INFO - 2021-01-01 05:02:51 --> Language Class Initialized
+INFO - 2021-01-01 05:02:51 --> Language Class Initialized
+INFO - 2021-01-01 05:02:51 --> Config Class Initialized
+INFO - 2021-01-01 05:02:51 --> Loader Class Initialized
+INFO - 2021-01-01 05:02:51 --> Helper loaded: url_helper
+INFO - 2021-01-01 05:02:51 --> Helper loaded: html_helper
+INFO - 2021-01-01 05:02:51 --> Helper loaded: file_helper
+INFO - 2021-01-01 05:02:51 --> Helper loaded: form_helper
+INFO - 2021-01-01 05:02:51 --> Helper loaded: security_helper
+INFO - 2021-01-01 05:02:51 --> Helper loaded: xss_helper
+INFO - 2021-01-01 05:02:51 --> Helper loaded: slug_helper
+INFO - 2021-01-01 05:02:51 --> Database Driver Class Initialized
+DEBUG - 2021-01-01 05:02:51 --> Session: "sess_save_path" is empty; using "session.save_path" value from php.ini.
+INFO - 2021-01-01 05:02:51 --> Session: Class initialized using 'files' driver.
+INFO - 2021-01-01 05:02:51 --> Language file loaded: language/english/pagination_lang.php
+INFO - 2021-01-01 05:02:51 --> Pagination Class Initialized
+INFO - 2021-01-01 05:02:51 --> Email Class Initialized
+INFO - 2021-01-01 05:02:51 --> Model "M_konfig" initialized
+INFO - 2021-01-01 05:02:51 --> Model "M_reff" initialized
+INFO - 2021-01-01 05:02:51 --> Model "M_total" initialized
+INFO - 2021-01-01 05:02:51 --> Controller Class Initialized
+DEBUG - 2021-01-01 05:02:51 --> File loaded: D:\xampp72\htdocs\app_grm\application\modules/apengumuman/models/Model.php
+INFO - 2021-01-01 11:02:52 --> Final output sent to browser
+DEBUG - 2021-01-01 11:02:52 --> Total execution time: 0.7537
+INFO - 2021-01-01 05:02:56 --> Config Class Initialized
+INFO - 2021-01-01 05:02:56 --> Hooks Class Initialized
+DEBUG - 2021-01-01 05:02:56 --> UTF-8 Support Enabled
+INFO - 2021-01-01 05:02:56 --> Utf8 Class Initialized
+INFO - 2021-01-01 05:02:56 --> URI Class Initialized
+INFO - 2021-01-01 05:02:56 --> Router Class Initialized
+INFO - 2021-01-01 05:02:56 --> Output Class Initialized
+INFO - 2021-01-01 05:02:56 --> Security Class Initialized
+DEBUG - 2021-01-01 05:02:56 --> Global POST, GET and COOKIE data sanitized
+INFO - 2021-01-01 05:02:56 --> Input Class Initialized
+INFO - 2021-01-01 05:02:56 --> Language Class Initialized
+INFO - 2021-01-01 05:02:56 --> Language Class Initialized
+INFO - 2021-01-01 05:02:56 --> Config Class Initialized
+INFO - 2021-01-01 05:02:56 --> Loader Class Initialized
+INFO - 2021-01-01 05:02:56 --> Helper loaded: url_helper
+INFO - 2021-01-01 05:02:56 --> Helper loaded: html_helper
+INFO - 2021-01-01 05:02:56 --> Helper loaded: file_helper
+INFO - 2021-01-01 05:02:56 --> Helper loaded: form_helper
+INFO - 2021-01-01 05:02:56 --> Helper loaded: security_helper
+INFO - 2021-01-01 05:02:56 --> Helper loaded: xss_helper
+INFO - 2021-01-01 05:02:56 --> Helper loaded: slug_helper
+INFO - 2021-01-01 05:02:56 --> Database Driver Class Initialized
+DEBUG - 2021-01-01 05:02:56 --> Session: "sess_save_path" is empty; using "session.save_path" value from php.ini.
+INFO - 2021-01-01 05:02:56 --> Session: Class initialized using 'files' driver.
+INFO - 2021-01-01 05:02:56 --> Language file loaded: language/english/pagination_lang.php
+INFO - 2021-01-01 05:02:56 --> Pagination Class Initialized
+INFO - 2021-01-01 05:02:56 --> Email Class Initialized
+INFO - 2021-01-01 05:02:57 --> Model "M_konfig" initialized
+INFO - 2021-01-01 05:02:57 --> Model "M_reff" initialized
+INFO - 2021-01-01 05:02:57 --> Model "M_total" initialized
+INFO - 2021-01-01 05:02:57 --> Controller Class Initialized
+DEBUG - 2021-01-01 05:02:57 --> File loaded: D:\xampp72\htdocs\app_grm\application\modules/apengumuman/models/Model.php
+INFO - 2021-01-01 11:02:57 --> Final output sent to browser
+DEBUG - 2021-01-01 11:02:57 --> Total execution time: 0.8383
+INFO - 2021-01-01 05:03:01 --> Config Class Initialized
+INFO - 2021-01-01 05:03:01 --> Hooks Class Initialized
+DEBUG - 2021-01-01 05:03:01 --> UTF-8 Support Enabled
+INFO - 2021-01-01 05:03:01 --> Utf8 Class Initialized
+INFO - 2021-01-01 05:03:01 --> URI Class Initialized
+INFO - 2021-01-01 05:03:01 --> Router Class Initialized
+INFO - 2021-01-01 05:03:01 --> Output Class Initialized
+INFO - 2021-01-01 05:03:01 --> Security Class Initialized
+DEBUG - 2021-01-01 05:03:01 --> Global POST, GET and COOKIE data sanitized
+INFO - 2021-01-01 05:03:01 --> Input Class Initialized
+INFO - 2021-01-01 05:03:01 --> Language Class Initialized
+INFO - 2021-01-01 05:03:01 --> Language Class Initialized
+INFO - 2021-01-01 05:03:01 --> Config Class Initialized
+INFO - 2021-01-01 05:03:01 --> Loader Class Initialized
+INFO - 2021-01-01 05:03:01 --> Helper loaded: url_helper
+INFO - 2021-01-01 05:03:01 --> Helper loaded: html_helper
+INFO - 2021-01-01 05:03:01 --> Helper loaded: file_helper
+INFO - 2021-01-01 05:03:01 --> Helper loaded: form_helper
+INFO - 2021-01-01 05:03:01 --> Helper loaded: security_helper
+INFO - 2021-01-01 05:03:01 --> Helper loaded: xss_helper
+INFO - 2021-01-01 05:03:01 --> Helper loaded: slug_helper
+INFO - 2021-01-01 05:03:01 --> Database Driver Class Initialized
+DEBUG - 2021-01-01 05:03:01 --> Session: "sess_save_path" is empty; using "session.save_path" value from php.ini.
+INFO - 2021-01-01 05:03:01 --> Session: Class initialized using 'files' driver.
+INFO - 2021-01-01 05:03:01 --> Language file loaded: language/english/pagination_lang.php
+INFO - 2021-01-01 05:03:01 --> Pagination Class Initialized
+INFO - 2021-01-01 05:03:01 --> Email Class Initialized
+INFO - 2021-01-01 05:03:02 --> Model "M_konfig" initialized
+INFO - 2021-01-01 05:03:02 --> Model "M_reff" initialized
+INFO - 2021-01-01 05:03:02 --> Model "M_total" initialized
+INFO - 2021-01-01 05:03:02 --> Controller Class Initialized
+DEBUG - 2021-01-01 05:03:02 --> File loaded: D:\xampp72\htdocs\app_grm\application\modules/apengumuman/models/Model.php
+INFO - 2021-01-01 11:03:02 --> Final output sent to browser
+DEBUG - 2021-01-01 11:03:02 --> Total execution time: 0.7434
+INFO - 2021-01-01 05:03:06 --> Config Class Initialized
+INFO - 2021-01-01 05:03:06 --> Hooks Class Initialized
+DEBUG - 2021-01-01 05:03:06 --> UTF-8 Support Enabled
+INFO - 2021-01-01 05:03:06 --> Utf8 Class Initialized
+INFO - 2021-01-01 05:03:06 --> URI Class Initialized
+INFO - 2021-01-01 05:03:06 --> Router Class Initialized
+INFO - 2021-01-01 05:03:06 --> Output Class Initialized
+INFO - 2021-01-01 05:03:06 --> Security Class Initialized
+DEBUG - 2021-01-01 05:03:06 --> Global POST, GET and COOKIE data sanitized
+INFO - 2021-01-01 05:03:06 --> Input Class Initialized
+INFO - 2021-01-01 05:03:06 --> Language Class Initialized
+INFO - 2021-01-01 05:03:06 --> Language Class Initialized
+INFO - 2021-01-01 05:03:06 --> Config Class Initialized
+INFO - 2021-01-01 05:03:06 --> Loader Class Initialized
+INFO - 2021-01-01 05:03:06 --> Helper loaded: url_helper
+INFO - 2021-01-01 05:03:06 --> Helper loaded: html_helper
+INFO - 2021-01-01 05:03:06 --> Helper loaded: file_helper
+INFO - 2021-01-01 05:03:06 --> Helper loaded: form_helper
+INFO - 2021-01-01 05:03:06 --> Helper loaded: security_helper
+INFO - 2021-01-01 05:03:06 --> Helper loaded: xss_helper
+INFO - 2021-01-01 05:03:06 --> Helper loaded: slug_helper
+INFO - 2021-01-01 05:03:06 --> Database Driver Class Initialized
+DEBUG - 2021-01-01 05:03:06 --> Session: "sess_save_path" is empty; using "session.save_path" value from php.ini.
+INFO - 2021-01-01 05:03:07 --> Session: Class initialized using 'files' driver.
+INFO - 2021-01-01 05:03:07 --> Language file loaded: language/english/pagination_lang.php
+INFO - 2021-01-01 05:03:07 --> Pagination Class Initialized
+INFO - 2021-01-01 05:03:07 --> Email Class Initialized
+INFO - 2021-01-01 05:03:07 --> Model "M_konfig" initialized
+INFO - 2021-01-01 05:03:07 --> Model "M_reff" initialized
+INFO - 2021-01-01 05:03:07 --> Model "M_total" initialized
+INFO - 2021-01-01 05:03:07 --> Controller Class Initialized
+DEBUG - 2021-01-01 05:03:07 --> File loaded: D:\xampp72\htdocs\app_grm\application\modules/apengumuman/models/Model.php
+INFO - 2021-01-01 11:03:07 --> Final output sent to browser
+DEBUG - 2021-01-01 11:03:07 --> Total execution time: 0.7651
+INFO - 2021-01-01 05:03:11 --> Config Class Initialized
+INFO - 2021-01-01 05:03:11 --> Hooks Class Initialized
+DEBUG - 2021-01-01 05:03:11 --> UTF-8 Support Enabled
+INFO - 2021-01-01 05:03:11 --> Utf8 Class Initialized
+INFO - 2021-01-01 05:03:11 --> URI Class Initialized
+INFO - 2021-01-01 05:03:11 --> Router Class Initialized
+INFO - 2021-01-01 05:03:11 --> Output Class Initialized
+INFO - 2021-01-01 05:03:11 --> Security Class Initialized
+DEBUG - 2021-01-01 05:03:11 --> Global POST, GET and COOKIE data sanitized
+INFO - 2021-01-01 05:03:11 --> Input Class Initialized
+INFO - 2021-01-01 05:03:11 --> Language Class Initialized
+INFO - 2021-01-01 05:03:11 --> Language Class Initialized
+INFO - 2021-01-01 05:03:11 --> Config Class Initialized
+INFO - 2021-01-01 05:03:11 --> Loader Class Initialized
+INFO - 2021-01-01 05:03:11 --> Helper loaded: url_helper
+INFO - 2021-01-01 05:03:11 --> Helper loaded: html_helper
+INFO - 2021-01-01 05:03:11 --> Helper loaded: file_helper
+INFO - 2021-01-01 05:03:11 --> Helper loaded: form_helper
+INFO - 2021-01-01 05:03:11 --> Helper loaded: security_helper
+INFO - 2021-01-01 05:03:12 --> Helper loaded: xss_helper
+INFO - 2021-01-01 05:03:12 --> Helper loaded: slug_helper
+INFO - 2021-01-01 05:03:12 --> Database Driver Class Initialized
+DEBUG - 2021-01-01 05:03:12 --> Session: "sess_save_path" is empty; using "session.save_path" value from php.ini.
+INFO - 2021-01-01 05:03:12 --> Session: Class initialized using 'files' driver.
+INFO - 2021-01-01 05:03:12 --> Language file loaded: language/english/pagination_lang.php
+INFO - 2021-01-01 05:03:12 --> Pagination Class Initialized
+INFO - 2021-01-01 05:03:12 --> Email Class Initialized
+INFO - 2021-01-01 05:03:12 --> Model "M_konfig" initialized
+INFO - 2021-01-01 05:03:12 --> Model "M_reff" initialized
+INFO - 2021-01-01 05:03:12 --> Model "M_total" initialized
+INFO - 2021-01-01 05:03:12 --> Controller Class Initialized
+DEBUG - 2021-01-01 05:03:12 --> File loaded: D:\xampp72\htdocs\app_grm\application\modules/apengumuman/models/Model.php
+INFO - 2021-01-01 11:03:12 --> Final output sent to browser
+DEBUG - 2021-01-01 11:03:12 --> Total execution time: 0.8039
+INFO - 2021-01-01 05:03:16 --> Config Class Initialized
+INFO - 2021-01-01 05:03:16 --> Hooks Class Initialized
+DEBUG - 2021-01-01 05:03:16 --> UTF-8 Support Enabled
+INFO - 2021-01-01 05:03:16 --> Utf8 Class Initialized
+INFO - 2021-01-01 05:03:16 --> URI Class Initialized
+INFO - 2021-01-01 05:03:16 --> Router Class Initialized
+INFO - 2021-01-01 05:03:16 --> Output Class Initialized
+INFO - 2021-01-01 05:03:16 --> Security Class Initialized
+DEBUG - 2021-01-01 05:03:16 --> Global POST, GET and COOKIE data sanitized
+INFO - 2021-01-01 05:03:16 --> Input Class Initialized
+INFO - 2021-01-01 05:03:16 --> Language Class Initialized
+INFO - 2021-01-01 05:03:16 --> Language Class Initialized
+INFO - 2021-01-01 05:03:16 --> Config Class Initialized
+INFO - 2021-01-01 05:03:16 --> Loader Class Initialized
+INFO - 2021-01-01 05:03:16 --> Helper loaded: url_helper
+INFO - 2021-01-01 05:03:16 --> Helper loaded: html_helper
+INFO - 2021-01-01 05:03:16 --> Helper loaded: file_helper
+INFO - 2021-01-01 05:03:17 --> Helper loaded: form_helper
+INFO - 2021-01-01 05:03:17 --> Helper loaded: security_helper
+INFO - 2021-01-01 05:03:17 --> Helper loaded: xss_helper
+INFO - 2021-01-01 05:03:17 --> Helper loaded: slug_helper
+INFO - 2021-01-01 05:03:17 --> Database Driver Class Initialized
+DEBUG - 2021-01-01 05:03:17 --> Session: "sess_save_path" is empty; using "session.save_path" value from php.ini.
+INFO - 2021-01-01 05:03:17 --> Session: Class initialized using 'files' driver.
+INFO - 2021-01-01 05:03:17 --> Language file loaded: language/english/pagination_lang.php
+INFO - 2021-01-01 05:03:17 --> Pagination Class Initialized
+INFO - 2021-01-01 05:03:17 --> Email Class Initialized
+INFO - 2021-01-01 05:03:17 --> Model "M_konfig" initialized
+INFO - 2021-01-01 05:03:17 --> Model "M_reff" initialized
+INFO - 2021-01-01 05:03:17 --> Model "M_total" initialized
+INFO - 2021-01-01 05:03:17 --> Controller Class Initialized
+DEBUG - 2021-01-01 05:03:17 --> File loaded: D:\xampp72\htdocs\app_grm\application\modules/apengumuman/models/Model.php
+INFO - 2021-01-01 11:03:17 --> Final output sent to browser
+DEBUG - 2021-01-01 11:03:17 --> Total execution time: 0.7626
+INFO - 2021-01-01 05:03:21 --> Config Class Initialized
+INFO - 2021-01-01 05:03:21 --> Hooks Class Initialized
+DEBUG - 2021-01-01 05:03:21 --> UTF-8 Support Enabled
+INFO - 2021-01-01 05:03:21 --> Utf8 Class Initialized
+INFO - 2021-01-01 05:03:21 --> URI Class Initialized
+INFO - 2021-01-01 05:03:21 --> Router Class Initialized
+INFO - 2021-01-01 05:03:21 --> Output Class Initialized
+INFO - 2021-01-01 05:03:21 --> Security Class Initialized
+DEBUG - 2021-01-01 05:03:21 --> Global POST, GET and COOKIE data sanitized
+INFO - 2021-01-01 05:03:21 --> Input Class Initialized
+INFO - 2021-01-01 05:03:21 --> Language Class Initialized
+INFO - 2021-01-01 05:03:21 --> Language Class Initialized
+INFO - 2021-01-01 05:03:22 --> Config Class Initialized
+INFO - 2021-01-01 05:03:22 --> Loader Class Initialized
+INFO - 2021-01-01 05:03:22 --> Helper loaded: url_helper
+INFO - 2021-01-01 05:03:22 --> Helper loaded: html_helper
+INFO - 2021-01-01 05:03:22 --> Helper loaded: file_helper
+INFO - 2021-01-01 05:03:22 --> Helper loaded: form_helper
+INFO - 2021-01-01 05:03:22 --> Helper loaded: security_helper
+INFO - 2021-01-01 05:03:22 --> Helper loaded: xss_helper
+INFO - 2021-01-01 05:03:22 --> Helper loaded: slug_helper
+INFO - 2021-01-01 05:03:22 --> Database Driver Class Initialized
+DEBUG - 2021-01-01 05:03:22 --> Session: "sess_save_path" is empty; using "session.save_path" value from php.ini.
+INFO - 2021-01-01 05:03:22 --> Session: Class initialized using 'files' driver.
+INFO - 2021-01-01 05:03:22 --> Language file loaded: language/english/pagination_lang.php
+INFO - 2021-01-01 05:03:22 --> Pagination Class Initialized
+INFO - 2021-01-01 05:03:22 --> Email Class Initialized
+INFO - 2021-01-01 05:03:22 --> Model "M_konfig" initialized
+INFO - 2021-01-01 05:03:22 --> Model "M_reff" initialized
+INFO - 2021-01-01 05:03:22 --> Model "M_total" initialized
+INFO - 2021-01-01 05:03:22 --> Controller Class Initialized
+DEBUG - 2021-01-01 05:03:22 --> File loaded: D:\xampp72\htdocs\app_grm\application\modules/apengumuman/models/Model.php
+INFO - 2021-01-01 11:03:22 --> Final output sent to browser
+DEBUG - 2021-01-01 11:03:22 --> Total execution time: 0.8117
+INFO - 2021-01-01 05:03:26 --> Config Class Initialized
+INFO - 2021-01-01 05:03:26 --> Hooks Class Initialized
+DEBUG - 2021-01-01 05:03:26 --> UTF-8 Support Enabled
+INFO - 2021-01-01 05:03:26 --> Utf8 Class Initialized
+INFO - 2021-01-01 05:03:26 --> URI Class Initialized
+INFO - 2021-01-01 05:03:26 --> Router Class Initialized
+INFO - 2021-01-01 05:03:26 --> Output Class Initialized
+INFO - 2021-01-01 05:03:26 --> Security Class Initialized
+DEBUG - 2021-01-01 05:03:26 --> Global POST, GET and COOKIE data sanitized
+INFO - 2021-01-01 05:03:26 --> Input Class Initialized
+INFO - 2021-01-01 05:03:27 --> Language Class Initialized
+INFO - 2021-01-01 05:03:27 --> Language Class Initialized
+INFO - 2021-01-01 05:03:27 --> Config Class Initialized
+INFO - 2021-01-01 05:03:27 --> Loader Class Initialized
+INFO - 2021-01-01 05:03:27 --> Helper loaded: url_helper
+INFO - 2021-01-01 05:03:27 --> Helper loaded: html_helper
+INFO - 2021-01-01 05:03:27 --> Helper loaded: file_helper
+INFO - 2021-01-01 05:03:27 --> Helper loaded: form_helper
+INFO - 2021-01-01 05:03:27 --> Helper loaded: security_helper
+INFO - 2021-01-01 05:03:27 --> Helper loaded: xss_helper
+INFO - 2021-01-01 05:03:27 --> Helper loaded: slug_helper
+INFO - 2021-01-01 05:03:27 --> Database Driver Class Initialized
+DEBUG - 2021-01-01 05:03:27 --> Session: "sess_save_path" is empty; using "session.save_path" value from php.ini.
+INFO - 2021-01-01 05:03:27 --> Session: Class initialized using 'files' driver.
+INFO - 2021-01-01 05:03:27 --> Language file loaded: language/english/pagination_lang.php
+INFO - 2021-01-01 05:03:27 --> Pagination Class Initialized
+INFO - 2021-01-01 05:03:27 --> Email Class Initialized
+INFO - 2021-01-01 05:03:27 --> Model "M_konfig" initialized
+INFO - 2021-01-01 05:03:27 --> Model "M_reff" initialized
+INFO - 2021-01-01 05:03:27 --> Model "M_total" initialized
+INFO - 2021-01-01 05:03:27 --> Controller Class Initialized
+DEBUG - 2021-01-01 05:03:27 --> File loaded: D:\xampp72\htdocs\app_grm\application\modules/apengumuman/models/Model.php
+INFO - 2021-01-01 11:03:27 --> Final output sent to browser
+DEBUG - 2021-01-01 11:03:27 --> Total execution time: 0.8339
+INFO - 2021-01-01 05:03:31 --> Config Class Initialized
+INFO - 2021-01-01 05:03:31 --> Hooks Class Initialized
+DEBUG - 2021-01-01 05:03:31 --> UTF-8 Support Enabled
+INFO - 2021-01-01 05:03:31 --> Utf8 Class Initialized
+INFO - 2021-01-01 05:03:31 --> URI Class Initialized
+INFO - 2021-01-01 05:03:31 --> Router Class Initialized
+INFO - 2021-01-01 05:03:32 --> Output Class Initialized
+INFO - 2021-01-01 05:03:32 --> Security Class Initialized
+DEBUG - 2021-01-01 05:03:32 --> Global POST, GET and COOKIE data sanitized
+INFO - 2021-01-01 05:03:32 --> Input Class Initialized
+INFO - 2021-01-01 05:03:32 --> Language Class Initialized
+INFO - 2021-01-01 05:03:32 --> Language Class Initialized
+INFO - 2021-01-01 05:03:32 --> Config Class Initialized
+INFO - 2021-01-01 05:03:32 --> Loader Class Initialized
+INFO - 2021-01-01 05:03:32 --> Helper loaded: url_helper
+INFO - 2021-01-01 05:03:32 --> Helper loaded: html_helper
+INFO - 2021-01-01 05:03:32 --> Helper loaded: file_helper
+INFO - 2021-01-01 05:03:32 --> Helper loaded: form_helper
+INFO - 2021-01-01 05:03:32 --> Helper loaded: security_helper
+INFO - 2021-01-01 05:03:32 --> Helper loaded: xss_helper
+INFO - 2021-01-01 05:03:32 --> Helper loaded: slug_helper
+INFO - 2021-01-01 05:03:32 --> Database Driver Class Initialized
+DEBUG - 2021-01-01 05:03:32 --> Session: "sess_save_path" is empty; using "session.save_path" value from php.ini.
+INFO - 2021-01-01 05:03:32 --> Session: Class initialized using 'files' driver.
+INFO - 2021-01-01 05:03:32 --> Language file loaded: language/english/pagination_lang.php
+INFO - 2021-01-01 05:03:32 --> Pagination Class Initialized
+INFO - 2021-01-01 05:03:32 --> Email Class Initialized
+INFO - 2021-01-01 05:03:32 --> Model "M_konfig" initialized
+INFO - 2021-01-01 05:03:32 --> Model "M_reff" initialized
+INFO - 2021-01-01 05:03:32 --> Model "M_total" initialized
+INFO - 2021-01-01 05:03:32 --> Controller Class Initialized
+DEBUG - 2021-01-01 05:03:32 --> File loaded: D:\xampp72\htdocs\app_grm\application\modules/apengumuman/models/Model.php
+INFO - 2021-01-01 11:03:32 --> Final output sent to browser
+DEBUG - 2021-01-01 11:03:32 --> Total execution time: 0.7780
+INFO - 2021-01-01 05:03:36 --> Config Class Initialized
+INFO - 2021-01-01 05:03:36 --> Hooks Class Initialized
+DEBUG - 2021-01-01 05:03:36 --> UTF-8 Support Enabled
+INFO - 2021-01-01 05:03:37 --> Utf8 Class Initialized
+INFO - 2021-01-01 05:03:37 --> URI Class Initialized
+INFO - 2021-01-01 05:03:37 --> Router Class Initialized
+INFO - 2021-01-01 05:03:37 --> Output Class Initialized
+INFO - 2021-01-01 05:03:37 --> Security Class Initialized
+DEBUG - 2021-01-01 05:03:37 --> Global POST, GET and COOKIE data sanitized
+INFO - 2021-01-01 05:03:37 --> Input Class Initialized
+INFO - 2021-01-01 05:03:37 --> Language Class Initialized
+INFO - 2021-01-01 05:03:37 --> Language Class Initialized
+INFO - 2021-01-01 05:03:37 --> Config Class Initialized
+INFO - 2021-01-01 05:03:37 --> Loader Class Initialized
+INFO - 2021-01-01 05:03:37 --> Helper loaded: url_helper
+INFO - 2021-01-01 05:03:37 --> Helper loaded: html_helper
+INFO - 2021-01-01 05:03:37 --> Helper loaded: file_helper
+INFO - 2021-01-01 05:03:37 --> Helper loaded: form_helper
+INFO - 2021-01-01 05:03:37 --> Helper loaded: security_helper
+INFO - 2021-01-01 05:03:37 --> Helper loaded: xss_helper
+INFO - 2021-01-01 05:03:37 --> Helper loaded: slug_helper
+INFO - 2021-01-01 05:03:37 --> Database Driver Class Initialized
+DEBUG - 2021-01-01 05:03:37 --> Session: "sess_save_path" is empty; using "session.save_path" value from php.ini.
+INFO - 2021-01-01 05:03:37 --> Session: Class initialized using 'files' driver.
+INFO - 2021-01-01 05:03:37 --> Language file loaded: language/english/pagination_lang.php
+INFO - 2021-01-01 05:03:37 --> Pagination Class Initialized
+INFO - 2021-01-01 05:03:37 --> Email Class Initialized
+INFO - 2021-01-01 05:03:37 --> Model "M_konfig" initialized
+INFO - 2021-01-01 05:03:37 --> Model "M_reff" initialized
+INFO - 2021-01-01 05:03:37 --> Model "M_total" initialized
+INFO - 2021-01-01 05:03:37 --> Controller Class Initialized
+DEBUG - 2021-01-01 05:03:37 --> File loaded: D:\xampp72\htdocs\app_grm\application\modules/apengumuman/models/Model.php
+INFO - 2021-01-01 11:03:37 --> Final output sent to browser
+DEBUG - 2021-01-01 11:03:37 --> Total execution time: 0.7528
+INFO - 2021-01-01 05:03:41 --> Config Class Initialized
+INFO - 2021-01-01 05:03:42 --> Hooks Class Initialized
+DEBUG - 2021-01-01 05:03:42 --> UTF-8 Support Enabled
+INFO - 2021-01-01 05:03:42 --> Utf8 Class Initialized
+INFO - 2021-01-01 05:03:42 --> URI Class Initialized
+INFO - 2021-01-01 05:03:42 --> Router Class Initialized
+INFO - 2021-01-01 05:03:42 --> Output Class Initialized
+INFO - 2021-01-01 05:03:42 --> Security Class Initialized
+DEBUG - 2021-01-01 05:03:42 --> Global POST, GET and COOKIE data sanitized
+INFO - 2021-01-01 05:03:42 --> Input Class Initialized
+INFO - 2021-01-01 05:03:42 --> Language Class Initialized
+INFO - 2021-01-01 05:03:42 --> Language Class Initialized
+INFO - 2021-01-01 05:03:42 --> Config Class Initialized
+INFO - 2021-01-01 05:03:42 --> Loader Class Initialized
+INFO - 2021-01-01 05:03:42 --> Helper loaded: url_helper
+INFO - 2021-01-01 05:03:42 --> Helper loaded: html_helper
+INFO - 2021-01-01 05:03:42 --> Helper loaded: file_helper
+INFO - 2021-01-01 05:03:42 --> Helper loaded: form_helper
+INFO - 2021-01-01 05:03:42 --> Helper loaded: security_helper
+INFO - 2021-01-01 05:03:42 --> Helper loaded: xss_helper
+INFO - 2021-01-01 05:03:42 --> Helper loaded: slug_helper
+INFO - 2021-01-01 05:03:42 --> Database Driver Class Initialized
+DEBUG - 2021-01-01 05:03:42 --> Session: "sess_save_path" is empty; using "session.save_path" value from php.ini.
+INFO - 2021-01-01 05:03:42 --> Session: Class initialized using 'files' driver.
+INFO - 2021-01-01 05:03:42 --> Language file loaded: language/english/pagination_lang.php
+INFO - 2021-01-01 05:03:42 --> Pagination Class Initialized
+INFO - 2021-01-01 05:03:42 --> Email Class Initialized
+INFO - 2021-01-01 05:03:42 --> Model "M_konfig" initialized
+INFO - 2021-01-01 05:03:42 --> Model "M_reff" initialized
+INFO - 2021-01-01 05:03:42 --> Model "M_total" initialized
+INFO - 2021-01-01 05:03:42 --> Controller Class Initialized
+DEBUG - 2021-01-01 05:03:42 --> File loaded: D:\xampp72\htdocs\app_grm\application\modules/apengumuman/models/Model.php
+INFO - 2021-01-01 11:03:42 --> Final output sent to browser
+DEBUG - 2021-01-01 11:03:42 --> Total execution time: 0.7901
+INFO - 2021-01-01 05:03:47 --> Config Class Initialized
+INFO - 2021-01-01 05:03:47 --> Hooks Class Initialized
+DEBUG - 2021-01-01 05:03:47 --> UTF-8 Support Enabled
+INFO - 2021-01-01 05:03:47 --> Utf8 Class Initialized
+INFO - 2021-01-01 05:03:47 --> URI Class Initialized
+INFO - 2021-01-01 05:03:47 --> Router Class Initialized
+INFO - 2021-01-01 05:03:47 --> Output Class Initialized
+INFO - 2021-01-01 05:03:47 --> Security Class Initialized
+DEBUG - 2021-01-01 05:03:47 --> Global POST, GET and COOKIE data sanitized
+INFO - 2021-01-01 05:03:47 --> Input Class Initialized
+INFO - 2021-01-01 05:03:47 --> Language Class Initialized
+INFO - 2021-01-01 05:03:47 --> Language Class Initialized
+INFO - 2021-01-01 05:03:47 --> Config Class Initialized
+INFO - 2021-01-01 05:03:47 --> Loader Class Initialized
+INFO - 2021-01-01 05:03:47 --> Helper loaded: url_helper
+INFO - 2021-01-01 05:03:47 --> Helper loaded: html_helper
+INFO - 2021-01-01 05:03:47 --> Helper loaded: file_helper
+INFO - 2021-01-01 05:03:47 --> Helper loaded: form_helper
+INFO - 2021-01-01 05:03:47 --> Helper loaded: security_helper
+INFO - 2021-01-01 05:03:47 --> Helper loaded: xss_helper
+INFO - 2021-01-01 05:03:47 --> Helper loaded: slug_helper
+INFO - 2021-01-01 05:03:47 --> Database Driver Class Initialized
+DEBUG - 2021-01-01 05:03:47 --> Session: "sess_save_path" is empty; using "session.save_path" value from php.ini.
+INFO - 2021-01-01 05:03:47 --> Session: Class initialized using 'files' driver.
+INFO - 2021-01-01 05:03:47 --> Language file loaded: language/english/pagination_lang.php
+INFO - 2021-01-01 05:03:47 --> Pagination Class Initialized
+INFO - 2021-01-01 05:03:47 --> Email Class Initialized
+INFO - 2021-01-01 05:03:47 --> Model "M_konfig" initialized
+INFO - 2021-01-01 05:03:47 --> Model "M_reff" initialized
+INFO - 2021-01-01 05:03:47 --> Model "M_total" initialized
+INFO - 2021-01-01 05:03:47 --> Controller Class Initialized
+DEBUG - 2021-01-01 05:03:47 --> File loaded: D:\xampp72\htdocs\app_grm\application\modules/apengumuman/models/Model.php
+INFO - 2021-01-01 11:03:47 --> Final output sent to browser
+DEBUG - 2021-01-01 11:03:47 --> Total execution time: 0.7802
+INFO - 2021-01-01 05:03:52 --> Config Class Initialized
+INFO - 2021-01-01 05:03:52 --> Hooks Class Initialized
+DEBUG - 2021-01-01 05:03:52 --> UTF-8 Support Enabled
+INFO - 2021-01-01 05:03:52 --> Utf8 Class Initialized
+INFO - 2021-01-01 05:03:52 --> URI Class Initialized
+INFO - 2021-01-01 05:03:52 --> Router Class Initialized
+INFO - 2021-01-01 05:03:52 --> Output Class Initialized
+INFO - 2021-01-01 05:03:52 --> Security Class Initialized
+DEBUG - 2021-01-01 05:03:52 --> Global POST, GET and COOKIE data sanitized
+INFO - 2021-01-01 05:03:52 --> Input Class Initialized
+INFO - 2021-01-01 05:03:52 --> Language Class Initialized
+INFO - 2021-01-01 05:03:52 --> Language Class Initialized
+INFO - 2021-01-01 05:03:52 --> Config Class Initialized
+INFO - 2021-01-01 05:03:52 --> Loader Class Initialized
+INFO - 2021-01-01 05:03:52 --> Helper loaded: url_helper
+INFO - 2021-01-01 05:03:52 --> Helper loaded: html_helper
+INFO - 2021-01-01 05:03:52 --> Helper loaded: file_helper
+INFO - 2021-01-01 05:03:52 --> Helper loaded: form_helper
+INFO - 2021-01-01 05:03:52 --> Helper loaded: security_helper
+INFO - 2021-01-01 05:03:52 --> Helper loaded: xss_helper
+INFO - 2021-01-01 05:03:52 --> Helper loaded: slug_helper
+INFO - 2021-01-01 05:03:52 --> Database Driver Class Initialized
+DEBUG - 2021-01-01 05:03:52 --> Session: "sess_save_path" is empty; using "session.save_path" value from php.ini.
+INFO - 2021-01-01 05:03:52 --> Session: Class initialized using 'files' driver.
+INFO - 2021-01-01 05:03:52 --> Language file loaded: language/english/pagination_lang.php
+INFO - 2021-01-01 05:03:52 --> Pagination Class Initialized
+INFO - 2021-01-01 05:03:52 --> Email Class Initialized
+INFO - 2021-01-01 05:03:52 --> Model "M_konfig" initialized
+INFO - 2021-01-01 05:03:52 --> Model "M_reff" initialized
+INFO - 2021-01-01 05:03:52 --> Model "M_total" initialized
+INFO - 2021-01-01 05:03:52 --> Controller Class Initialized
+DEBUG - 2021-01-01 05:03:52 --> File loaded: D:\xampp72\htdocs\app_grm\application\modules/apengumuman/models/Model.php
+INFO - 2021-01-01 11:03:52 --> Final output sent to browser
+DEBUG - 2021-01-01 11:03:52 --> Total execution time: 0.7615
+INFO - 2021-01-01 05:03:57 --> Config Class Initialized
+INFO - 2021-01-01 05:03:57 --> Hooks Class Initialized
+DEBUG - 2021-01-01 05:03:57 --> UTF-8 Support Enabled
+INFO - 2021-01-01 05:03:57 --> Utf8 Class Initialized
+INFO - 2021-01-01 05:03:57 --> URI Class Initialized
+INFO - 2021-01-01 05:03:57 --> Router Class Initialized
+INFO - 2021-01-01 05:03:57 --> Output Class Initialized
+INFO - 2021-01-01 05:03:57 --> Security Class Initialized
+DEBUG - 2021-01-01 05:03:57 --> Global POST, GET and COOKIE data sanitized
+INFO - 2021-01-01 05:03:57 --> Input Class Initialized
+INFO - 2021-01-01 05:03:57 --> Language Class Initialized
+INFO - 2021-01-01 05:03:57 --> Language Class Initialized
+INFO - 2021-01-01 05:03:57 --> Config Class Initialized
+INFO - 2021-01-01 05:03:57 --> Loader Class Initialized
+INFO - 2021-01-01 05:03:57 --> Helper loaded: url_helper
+INFO - 2021-01-01 05:03:57 --> Helper loaded: html_helper
+INFO - 2021-01-01 05:03:57 --> Helper loaded: file_helper
+INFO - 2021-01-01 05:03:57 --> Helper loaded: form_helper
+INFO - 2021-01-01 05:03:57 --> Helper loaded: security_helper
+INFO - 2021-01-01 05:03:57 --> Helper loaded: xss_helper
+INFO - 2021-01-01 05:03:57 --> Helper loaded: slug_helper
+INFO - 2021-01-01 05:03:57 --> Database Driver Class Initialized
+DEBUG - 2021-01-01 05:03:57 --> Session: "sess_save_path" is empty; using "session.save_path" value from php.ini.
+INFO - 2021-01-01 05:03:57 --> Session: Class initialized using 'files' driver.
+INFO - 2021-01-01 05:03:57 --> Language file loaded: language/english/pagination_lang.php
+INFO - 2021-01-01 05:03:57 --> Pagination Class Initialized
+INFO - 2021-01-01 05:03:57 --> Email Class Initialized
+INFO - 2021-01-01 05:03:57 --> Model "M_konfig" initialized
+INFO - 2021-01-01 05:03:57 --> Model "M_reff" initialized
+INFO - 2021-01-01 05:03:57 --> Model "M_total" initialized
+INFO - 2021-01-01 05:03:58 --> Controller Class Initialized
+DEBUG - 2021-01-01 05:03:58 --> File loaded: D:\xampp72\htdocs\app_grm\application\modules/apengumuman/models/Model.php
+INFO - 2021-01-01 11:03:58 --> Final output sent to browser
+DEBUG - 2021-01-01 11:03:58 --> Total execution time: 0.8819
+INFO - 2021-01-01 05:04:02 --> Config Class Initialized
+INFO - 2021-01-01 05:04:02 --> Hooks Class Initialized
+DEBUG - 2021-01-01 05:04:02 --> UTF-8 Support Enabled
+INFO - 2021-01-01 05:04:02 --> Utf8 Class Initialized
+INFO - 2021-01-01 05:04:02 --> URI Class Initialized
+INFO - 2021-01-01 05:04:02 --> Router Class Initialized
+INFO - 2021-01-01 05:04:02 --> Output Class Initialized
+INFO - 2021-01-01 05:04:02 --> Security Class Initialized
+DEBUG - 2021-01-01 05:04:02 --> Global POST, GET and COOKIE data sanitized
+INFO - 2021-01-01 05:04:02 --> Input Class Initialized
+INFO - 2021-01-01 05:04:02 --> Language Class Initialized
+INFO - 2021-01-01 05:04:02 --> Language Class Initialized
+INFO - 2021-01-01 05:04:02 --> Config Class Initialized
+INFO - 2021-01-01 05:04:02 --> Loader Class Initialized
+INFO - 2021-01-01 05:04:02 --> Helper loaded: url_helper
+INFO - 2021-01-01 05:04:02 --> Helper loaded: html_helper
+INFO - 2021-01-01 05:04:02 --> Helper loaded: file_helper
+INFO - 2021-01-01 05:04:02 --> Helper loaded: form_helper
+INFO - 2021-01-01 05:04:02 --> Helper loaded: security_helper
+INFO - 2021-01-01 05:04:02 --> Helper loaded: xss_helper
+INFO - 2021-01-01 05:04:02 --> Helper loaded: slug_helper
+INFO - 2021-01-01 05:04:02 --> Database Driver Class Initialized
+DEBUG - 2021-01-01 05:04:02 --> Session: "sess_save_path" is empty; using "session.save_path" value from php.ini.
+INFO - 2021-01-01 05:04:02 --> Session: Class initialized using 'files' driver.
+INFO - 2021-01-01 05:04:02 --> Language file loaded: language/english/pagination_lang.php
+INFO - 2021-01-01 05:04:02 --> Pagination Class Initialized
+INFO - 2021-01-01 05:04:02 --> Email Class Initialized
+INFO - 2021-01-01 05:04:02 --> Model "M_konfig" initialized
+INFO - 2021-01-01 05:04:02 --> Model "M_reff" initialized
+INFO - 2021-01-01 05:04:02 --> Model "M_total" initialized
+INFO - 2021-01-01 05:04:03 --> Controller Class Initialized
+DEBUG - 2021-01-01 05:04:03 --> File loaded: D:\xampp72\htdocs\app_grm\application\modules/apengumuman/models/Model.php
+INFO - 2021-01-01 11:04:03 --> Final output sent to browser
+DEBUG - 2021-01-01 11:04:03 --> Total execution time: 0.7770
+INFO - 2021-01-01 05:04:07 --> Config Class Initialized
+INFO - 2021-01-01 05:04:07 --> Hooks Class Initialized
+DEBUG - 2021-01-01 05:04:07 --> UTF-8 Support Enabled
+INFO - 2021-01-01 05:04:07 --> Utf8 Class Initialized
+INFO - 2021-01-01 05:04:07 --> URI Class Initialized
+INFO - 2021-01-01 05:04:07 --> Router Class Initialized
+INFO - 2021-01-01 05:04:07 --> Output Class Initialized
+INFO - 2021-01-01 05:04:07 --> Security Class Initialized
+DEBUG - 2021-01-01 05:04:07 --> Global POST, GET and COOKIE data sanitized
+INFO - 2021-01-01 05:04:07 --> Input Class Initialized
+INFO - 2021-01-01 05:04:07 --> Language Class Initialized
+INFO - 2021-01-01 05:04:07 --> Language Class Initialized
+INFO - 2021-01-01 05:04:07 --> Config Class Initialized
+INFO - 2021-01-01 05:04:07 --> Loader Class Initialized
+INFO - 2021-01-01 05:04:07 --> Helper loaded: url_helper
+INFO - 2021-01-01 05:04:07 --> Helper loaded: html_helper
+INFO - 2021-01-01 05:04:07 --> Helper loaded: file_helper
+INFO - 2021-01-01 05:04:07 --> Helper loaded: form_helper
+INFO - 2021-01-01 05:04:07 --> Helper loaded: security_helper
+INFO - 2021-01-01 05:04:07 --> Helper loaded: xss_helper
+INFO - 2021-01-01 05:04:07 --> Helper loaded: slug_helper
+INFO - 2021-01-01 05:04:07 --> Database Driver Class Initialized
+DEBUG - 2021-01-01 05:04:07 --> Session: "sess_save_path" is empty; using "session.save_path" value from php.ini.
+INFO - 2021-01-01 05:04:07 --> Session: Class initialized using 'files' driver.
+INFO - 2021-01-01 05:04:07 --> Language file loaded: language/english/pagination_lang.php
+INFO - 2021-01-01 05:04:08 --> Pagination Class Initialized
+INFO - 2021-01-01 05:04:08 --> Email Class Initialized
+INFO - 2021-01-01 05:04:08 --> Model "M_konfig" initialized
+INFO - 2021-01-01 05:04:08 --> Model "M_reff" initialized
+INFO - 2021-01-01 05:04:08 --> Model "M_total" initialized
+INFO - 2021-01-01 05:04:08 --> Controller Class Initialized
+DEBUG - 2021-01-01 05:04:08 --> File loaded: D:\xampp72\htdocs\app_grm\application\modules/apengumuman/models/Model.php
+INFO - 2021-01-01 11:04:08 --> Final output sent to browser
+DEBUG - 2021-01-01 11:04:08 --> Total execution time: 0.8373
+INFO - 2021-01-01 05:04:12 --> Config Class Initialized
+INFO - 2021-01-01 05:04:12 --> Hooks Class Initialized
+DEBUG - 2021-01-01 05:04:12 --> UTF-8 Support Enabled
+INFO - 2021-01-01 05:04:12 --> Utf8 Class Initialized
+INFO - 2021-01-01 05:04:12 --> URI Class Initialized
+INFO - 2021-01-01 05:04:12 --> Router Class Initialized
+INFO - 2021-01-01 05:04:12 --> Output Class Initialized
+INFO - 2021-01-01 05:04:12 --> Security Class Initialized
+DEBUG - 2021-01-01 05:04:12 --> Global POST, GET and COOKIE data sanitized
+INFO - 2021-01-01 05:04:12 --> Input Class Initialized
+INFO - 2021-01-01 05:04:12 --> Language Class Initialized
+INFO - 2021-01-01 05:04:12 --> Language Class Initialized
+INFO - 2021-01-01 05:04:12 --> Config Class Initialized
+INFO - 2021-01-01 05:04:12 --> Loader Class Initialized
+INFO - 2021-01-01 05:04:12 --> Helper loaded: url_helper
+INFO - 2021-01-01 05:04:12 --> Helper loaded: html_helper
+INFO - 2021-01-01 05:04:12 --> Helper loaded: file_helper
+INFO - 2021-01-01 05:04:12 --> Helper loaded: form_helper
+INFO - 2021-01-01 05:04:13 --> Helper loaded: security_helper
+INFO - 2021-01-01 05:04:13 --> Helper loaded: xss_helper
+INFO - 2021-01-01 05:04:13 --> Helper loaded: slug_helper
+INFO - 2021-01-01 05:04:13 --> Database Driver Class Initialized
+DEBUG - 2021-01-01 05:04:13 --> Session: "sess_save_path" is empty; using "session.save_path" value from php.ini.
+INFO - 2021-01-01 05:04:13 --> Session: Class initialized using 'files' driver.
+INFO - 2021-01-01 05:04:13 --> Language file loaded: language/english/pagination_lang.php
+INFO - 2021-01-01 05:04:13 --> Pagination Class Initialized
+INFO - 2021-01-01 05:04:13 --> Email Class Initialized
+INFO - 2021-01-01 05:04:13 --> Model "M_konfig" initialized
+INFO - 2021-01-01 05:04:13 --> Model "M_reff" initialized
+INFO - 2021-01-01 05:04:13 --> Model "M_total" initialized
+INFO - 2021-01-01 05:04:13 --> Controller Class Initialized
+DEBUG - 2021-01-01 05:04:13 --> File loaded: D:\xampp72\htdocs\app_grm\application\modules/apengumuman/models/Model.php
+INFO - 2021-01-01 11:04:13 --> Final output sent to browser
+DEBUG - 2021-01-01 11:04:13 --> Total execution time: 0.9278
+INFO - 2021-01-01 05:04:17 --> Config Class Initialized
+INFO - 2021-01-01 05:04:17 --> Hooks Class Initialized
+DEBUG - 2021-01-01 05:04:17 --> UTF-8 Support Enabled
+INFO - 2021-01-01 05:04:17 --> Utf8 Class Initialized
+INFO - 2021-01-01 05:04:17 --> URI Class Initialized
+INFO - 2021-01-01 05:04:17 --> Router Class Initialized
+INFO - 2021-01-01 05:04:17 --> Output Class Initialized
+INFO - 2021-01-01 05:04:17 --> Security Class Initialized
+DEBUG - 2021-01-01 05:04:17 --> Global POST, GET and COOKIE data sanitized
+INFO - 2021-01-01 05:04:17 --> Input Class Initialized
+INFO - 2021-01-01 05:04:17 --> Language Class Initialized
+INFO - 2021-01-01 05:04:17 --> Language Class Initialized
+INFO - 2021-01-01 05:04:17 --> Config Class Initialized
+INFO - 2021-01-01 05:04:17 --> Loader Class Initialized
+INFO - 2021-01-01 05:04:17 --> Helper loaded: url_helper
+INFO - 2021-01-01 05:04:17 --> Helper loaded: html_helper
+INFO - 2021-01-01 05:04:17 --> Helper loaded: file_helper
+INFO - 2021-01-01 05:04:17 --> Helper loaded: form_helper
+INFO - 2021-01-01 05:04:17 --> Helper loaded: security_helper
+INFO - 2021-01-01 05:04:18 --> Helper loaded: xss_helper
+INFO - 2021-01-01 05:04:18 --> Helper loaded: slug_helper
+INFO - 2021-01-01 05:04:18 --> Database Driver Class Initialized
+DEBUG - 2021-01-01 05:04:18 --> Session: "sess_save_path" is empty; using "session.save_path" value from php.ini.
+INFO - 2021-01-01 05:04:18 --> Session: Class initialized using 'files' driver.
+INFO - 2021-01-01 05:04:18 --> Language file loaded: language/english/pagination_lang.php
+INFO - 2021-01-01 05:04:18 --> Pagination Class Initialized
+INFO - 2021-01-01 05:04:18 --> Email Class Initialized
+INFO - 2021-01-01 05:04:18 --> Model "M_konfig" initialized
+INFO - 2021-01-01 05:04:18 --> Model "M_reff" initialized
+INFO - 2021-01-01 05:04:18 --> Model "M_total" initialized
+INFO - 2021-01-01 05:04:18 --> Controller Class Initialized
+DEBUG - 2021-01-01 05:04:18 --> File loaded: D:\xampp72\htdocs\app_grm\application\modules/apengumuman/models/Model.php
+INFO - 2021-01-01 11:04:18 --> Final output sent to browser
+DEBUG - 2021-01-01 11:04:18 --> Total execution time: 0.8213
+INFO - 2021-01-01 05:04:22 --> Config Class Initialized
+INFO - 2021-01-01 05:04:22 --> Hooks Class Initialized
+DEBUG - 2021-01-01 05:04:22 --> UTF-8 Support Enabled
+INFO - 2021-01-01 05:04:22 --> Utf8 Class Initialized
+INFO - 2021-01-01 05:04:22 --> URI Class Initialized
+INFO - 2021-01-01 05:04:22 --> Router Class Initialized
+INFO - 2021-01-01 05:04:22 --> Output Class Initialized
+INFO - 2021-01-01 05:04:22 --> Security Class Initialized
+DEBUG - 2021-01-01 05:04:22 --> Global POST, GET and COOKIE data sanitized
+INFO - 2021-01-01 05:04:22 --> Input Class Initialized
+INFO - 2021-01-01 05:04:22 --> Language Class Initialized
+INFO - 2021-01-01 05:04:22 --> Language Class Initialized
+INFO - 2021-01-01 05:04:22 --> Config Class Initialized
+INFO - 2021-01-01 05:04:22 --> Loader Class Initialized
+INFO - 2021-01-01 05:04:22 --> Helper loaded: url_helper
+INFO - 2021-01-01 05:04:22 --> Helper loaded: html_helper
+INFO - 2021-01-01 05:04:22 --> Helper loaded: file_helper
+INFO - 2021-01-01 05:04:22 --> Helper loaded: form_helper
+INFO - 2021-01-01 05:04:23 --> Helper loaded: security_helper
+INFO - 2021-01-01 05:04:23 --> Helper loaded: xss_helper
+INFO - 2021-01-01 05:04:23 --> Helper loaded: slug_helper
+INFO - 2021-01-01 05:04:23 --> Database Driver Class Initialized
+DEBUG - 2021-01-01 05:04:23 --> Session: "sess_save_path" is empty; using "session.save_path" value from php.ini.
+INFO - 2021-01-01 05:04:23 --> Session: Class initialized using 'files' driver.
+INFO - 2021-01-01 05:04:23 --> Language file loaded: language/english/pagination_lang.php
+INFO - 2021-01-01 05:04:23 --> Pagination Class Initialized
+INFO - 2021-01-01 05:04:23 --> Email Class Initialized
+INFO - 2021-01-01 05:04:23 --> Model "M_konfig" initialized
+INFO - 2021-01-01 05:04:23 --> Model "M_reff" initialized
+INFO - 2021-01-01 05:04:23 --> Model "M_total" initialized
+INFO - 2021-01-01 05:04:23 --> Controller Class Initialized
+DEBUG - 2021-01-01 05:04:23 --> File loaded: D:\xampp72\htdocs\app_grm\application\modules/apengumuman/models/Model.php
+INFO - 2021-01-01 11:04:23 --> Final output sent to browser
+DEBUG - 2021-01-01 11:04:23 --> Total execution time: 0.7866
+INFO - 2021-01-01 05:04:27 --> Config Class Initialized
+INFO - 2021-01-01 05:04:27 --> Hooks Class Initialized
+DEBUG - 2021-01-01 05:04:27 --> UTF-8 Support Enabled
+INFO - 2021-01-01 05:04:27 --> Utf8 Class Initialized
+INFO - 2021-01-01 05:04:27 --> URI Class Initialized
+INFO - 2021-01-01 05:04:27 --> Router Class Initialized
+INFO - 2021-01-01 05:04:27 --> Output Class Initialized
+INFO - 2021-01-01 05:04:27 --> Security Class Initialized
+DEBUG - 2021-01-01 05:04:27 --> Global POST, GET and COOKIE data sanitized
+INFO - 2021-01-01 05:04:27 --> Input Class Initialized
+INFO - 2021-01-01 05:04:27 --> Language Class Initialized
+INFO - 2021-01-01 05:04:27 --> Language Class Initialized
+INFO - 2021-01-01 05:04:27 --> Config Class Initialized
+INFO - 2021-01-01 05:04:27 --> Loader Class Initialized
+INFO - 2021-01-01 05:04:28 --> Helper loaded: url_helper
+INFO - 2021-01-01 05:04:28 --> Helper loaded: html_helper
+INFO - 2021-01-01 05:04:28 --> Helper loaded: file_helper
+INFO - 2021-01-01 05:04:28 --> Helper loaded: form_helper
+INFO - 2021-01-01 05:04:28 --> Helper loaded: security_helper
+INFO - 2021-01-01 05:04:28 --> Helper loaded: xss_helper
+INFO - 2021-01-01 05:04:28 --> Helper loaded: slug_helper
+INFO - 2021-01-01 05:04:28 --> Database Driver Class Initialized
+DEBUG - 2021-01-01 05:04:28 --> Session: "sess_save_path" is empty; using "session.save_path" value from php.ini.
+INFO - 2021-01-01 05:04:28 --> Session: Class initialized using 'files' driver.
+INFO - 2021-01-01 05:04:28 --> Language file loaded: language/english/pagination_lang.php
+INFO - 2021-01-01 05:04:28 --> Pagination Class Initialized
+INFO - 2021-01-01 05:04:28 --> Email Class Initialized
+INFO - 2021-01-01 05:04:28 --> Model "M_konfig" initialized
+INFO - 2021-01-01 05:04:28 --> Model "M_reff" initialized
+INFO - 2021-01-01 05:04:28 --> Model "M_total" initialized
+INFO - 2021-01-01 05:04:28 --> Controller Class Initialized
+DEBUG - 2021-01-01 05:04:28 --> File loaded: D:\xampp72\htdocs\app_grm\application\modules/apengumuman/models/Model.php
+INFO - 2021-01-01 11:04:28 --> Final output sent to browser
+DEBUG - 2021-01-01 11:04:28 --> Total execution time: 0.8679
+INFO - 2021-01-01 05:04:32 --> Config Class Initialized
+INFO - 2021-01-01 05:04:32 --> Hooks Class Initialized
+DEBUG - 2021-01-01 05:04:32 --> UTF-8 Support Enabled
+INFO - 2021-01-01 05:04:32 --> Utf8 Class Initialized
+INFO - 2021-01-01 05:04:32 --> URI Class Initialized
+INFO - 2021-01-01 05:04:32 --> Router Class Initialized
+INFO - 2021-01-01 05:04:32 --> Output Class Initialized
+INFO - 2021-01-01 05:04:32 --> Security Class Initialized
+DEBUG - 2021-01-01 05:04:33 --> Global POST, GET and COOKIE data sanitized
+INFO - 2021-01-01 05:04:33 --> Input Class Initialized
+INFO - 2021-01-01 05:04:33 --> Language Class Initialized
+INFO - 2021-01-01 05:04:33 --> Language Class Initialized
+INFO - 2021-01-01 05:04:33 --> Config Class Initialized
+INFO - 2021-01-01 05:04:33 --> Loader Class Initialized
+INFO - 2021-01-01 05:04:33 --> Helper loaded: url_helper
+INFO - 2021-01-01 05:04:33 --> Helper loaded: html_helper
+INFO - 2021-01-01 05:04:33 --> Helper loaded: file_helper
+INFO - 2021-01-01 05:04:33 --> Helper loaded: form_helper
+INFO - 2021-01-01 05:04:33 --> Helper loaded: security_helper
+INFO - 2021-01-01 05:04:33 --> Helper loaded: xss_helper
+INFO - 2021-01-01 05:04:33 --> Helper loaded: slug_helper
+INFO - 2021-01-01 05:04:33 --> Database Driver Class Initialized
+DEBUG - 2021-01-01 05:04:33 --> Session: "sess_save_path" is empty; using "session.save_path" value from php.ini.
+INFO - 2021-01-01 05:04:33 --> Session: Class initialized using 'files' driver.
+INFO - 2021-01-01 05:04:33 --> Language file loaded: language/english/pagination_lang.php
+INFO - 2021-01-01 05:04:33 --> Pagination Class Initialized
+INFO - 2021-01-01 05:04:33 --> Email Class Initialized
+INFO - 2021-01-01 05:04:33 --> Model "M_konfig" initialized
+INFO - 2021-01-01 05:04:33 --> Model "M_reff" initialized
+INFO - 2021-01-01 05:04:33 --> Model "M_total" initialized
+INFO - 2021-01-01 05:04:33 --> Controller Class Initialized
+DEBUG - 2021-01-01 05:04:33 --> File loaded: D:\xampp72\htdocs\app_grm\application\modules/apengumuman/models/Model.php
+INFO - 2021-01-01 11:04:33 --> Final output sent to browser
+DEBUG - 2021-01-01 11:04:33 --> Total execution time: 1.1498
+INFO - 2021-01-01 05:04:37 --> Config Class Initialized
+INFO - 2021-01-01 05:04:37 --> Hooks Class Initialized
+DEBUG - 2021-01-01 05:04:37 --> UTF-8 Support Enabled
+INFO - 2021-01-01 05:04:37 --> Utf8 Class Initialized
+INFO - 2021-01-01 05:04:38 --> URI Class Initialized
+INFO - 2021-01-01 05:04:38 --> Router Class Initialized
+INFO - 2021-01-01 05:04:38 --> Output Class Initialized
+INFO - 2021-01-01 05:04:38 --> Security Class Initialized
+DEBUG - 2021-01-01 05:04:38 --> Global POST, GET and COOKIE data sanitized
+INFO - 2021-01-01 05:04:38 --> Input Class Initialized
+INFO - 2021-01-01 05:04:38 --> Language Class Initialized
+INFO - 2021-01-01 05:04:38 --> Language Class Initialized
+INFO - 2021-01-01 05:04:38 --> Config Class Initialized
+INFO - 2021-01-01 05:04:38 --> Loader Class Initialized
+INFO - 2021-01-01 05:04:38 --> Helper loaded: url_helper
+INFO - 2021-01-01 05:04:38 --> Helper loaded: html_helper
+INFO - 2021-01-01 05:04:38 --> Helper loaded: file_helper
+INFO - 2021-01-01 05:04:38 --> Helper loaded: form_helper
+INFO - 2021-01-01 05:04:38 --> Helper loaded: security_helper
+INFO - 2021-01-01 05:04:38 --> Helper loaded: xss_helper
+INFO - 2021-01-01 05:04:38 --> Helper loaded: slug_helper
+INFO - 2021-01-01 05:04:38 --> Database Driver Class Initialized
+DEBUG - 2021-01-01 05:04:38 --> Session: "sess_save_path" is empty; using "session.save_path" value from php.ini.
+INFO - 2021-01-01 05:04:38 --> Session: Class initialized using 'files' driver.
+INFO - 2021-01-01 05:04:38 --> Language file loaded: language/english/pagination_lang.php
+INFO - 2021-01-01 05:04:38 --> Pagination Class Initialized
+INFO - 2021-01-01 05:04:38 --> Email Class Initialized
+INFO - 2021-01-01 05:04:38 --> Model "M_konfig" initialized
+INFO - 2021-01-01 05:04:38 --> Model "M_reff" initialized
+INFO - 2021-01-01 05:04:38 --> Model "M_total" initialized
+INFO - 2021-01-01 05:04:38 --> Controller Class Initialized
+DEBUG - 2021-01-01 05:04:38 --> File loaded: D:\xampp72\htdocs\app_grm\application\modules/apengumuman/models/Model.php
+INFO - 2021-01-01 11:04:38 --> Final output sent to browser
+DEBUG - 2021-01-01 11:04:38 --> Total execution time: 0.7892
+INFO - 2021-01-01 05:04:42 --> Config Class Initialized
+INFO - 2021-01-01 05:04:42 --> Hooks Class Initialized
+DEBUG - 2021-01-01 05:04:43 --> UTF-8 Support Enabled
+INFO - 2021-01-01 05:04:43 --> Utf8 Class Initialized
+INFO - 2021-01-01 05:04:43 --> URI Class Initialized
+INFO - 2021-01-01 05:04:43 --> Router Class Initialized
+INFO - 2021-01-01 05:04:43 --> Output Class Initialized
+INFO - 2021-01-01 05:04:43 --> Security Class Initialized
+DEBUG - 2021-01-01 05:04:43 --> Global POST, GET and COOKIE data sanitized
+INFO - 2021-01-01 05:04:43 --> Input Class Initialized
+INFO - 2021-01-01 05:04:43 --> Language Class Initialized
+INFO - 2021-01-01 05:04:43 --> Language Class Initialized
+INFO - 2021-01-01 05:04:43 --> Config Class Initialized
+INFO - 2021-01-01 05:04:43 --> Loader Class Initialized
+INFO - 2021-01-01 05:04:43 --> Helper loaded: url_helper
+INFO - 2021-01-01 05:04:43 --> Helper loaded: html_helper
+INFO - 2021-01-01 05:04:43 --> Helper loaded: file_helper
+INFO - 2021-01-01 05:04:43 --> Helper loaded: form_helper
+INFO - 2021-01-01 05:04:43 --> Helper loaded: security_helper
+INFO - 2021-01-01 05:04:43 --> Helper loaded: xss_helper
+INFO - 2021-01-01 05:04:43 --> Helper loaded: slug_helper
+INFO - 2021-01-01 05:04:43 --> Database Driver Class Initialized
+DEBUG - 2021-01-01 05:04:43 --> Session: "sess_save_path" is empty; using "session.save_path" value from php.ini.
+INFO - 2021-01-01 05:04:43 --> Session: Class initialized using 'files' driver.
+INFO - 2021-01-01 05:04:43 --> Language file loaded: language/english/pagination_lang.php
+INFO - 2021-01-01 05:04:43 --> Pagination Class Initialized
+INFO - 2021-01-01 05:04:43 --> Email Class Initialized
+INFO - 2021-01-01 05:04:43 --> Model "M_konfig" initialized
+INFO - 2021-01-01 05:04:43 --> Model "M_reff" initialized
+INFO - 2021-01-01 05:04:43 --> Model "M_total" initialized
+INFO - 2021-01-01 05:04:43 --> Controller Class Initialized
+DEBUG - 2021-01-01 05:04:43 --> File loaded: D:\xampp72\htdocs\app_grm\application\modules/apengumuman/models/Model.php
+INFO - 2021-01-01 11:04:43 --> Final output sent to browser
+DEBUG - 2021-01-01 11:04:43 --> Total execution time: 0.7831
+INFO - 2021-01-01 05:04:48 --> Config Class Initialized
+INFO - 2021-01-01 05:04:48 --> Hooks Class Initialized
+DEBUG - 2021-01-01 05:04:48 --> UTF-8 Support Enabled
+INFO - 2021-01-01 05:04:48 --> Utf8 Class Initialized
+INFO - 2021-01-01 05:04:48 --> URI Class Initialized
+INFO - 2021-01-01 05:04:48 --> Router Class Initialized
+INFO - 2021-01-01 05:04:48 --> Output Class Initialized
+INFO - 2021-01-01 05:04:48 --> Security Class Initialized
+DEBUG - 2021-01-01 05:04:48 --> Global POST, GET and COOKIE data sanitized
+INFO - 2021-01-01 05:04:48 --> Input Class Initialized
+INFO - 2021-01-01 05:04:48 --> Language Class Initialized
+INFO - 2021-01-01 05:04:48 --> Language Class Initialized
+INFO - 2021-01-01 05:04:48 --> Config Class Initialized
+INFO - 2021-01-01 05:04:48 --> Loader Class Initialized
+INFO - 2021-01-01 05:04:48 --> Helper loaded: url_helper
+INFO - 2021-01-01 05:04:48 --> Helper loaded: html_helper
+INFO - 2021-01-01 05:04:48 --> Helper loaded: file_helper
+INFO - 2021-01-01 05:04:48 --> Helper loaded: form_helper
+INFO - 2021-01-01 05:04:48 --> Helper loaded: security_helper
+INFO - 2021-01-01 05:04:48 --> Helper loaded: xss_helper
+INFO - 2021-01-01 05:04:48 --> Helper loaded: slug_helper
+INFO - 2021-01-01 05:04:48 --> Database Driver Class Initialized
+DEBUG - 2021-01-01 05:04:48 --> Session: "sess_save_path" is empty; using "session.save_path" value from php.ini.
+INFO - 2021-01-01 05:04:48 --> Session: Class initialized using 'files' driver.
+INFO - 2021-01-01 05:04:48 --> Language file loaded: language/english/pagination_lang.php
+INFO - 2021-01-01 05:04:48 --> Pagination Class Initialized
+INFO - 2021-01-01 05:04:48 --> Email Class Initialized
+INFO - 2021-01-01 05:04:48 --> Model "M_konfig" initialized
+INFO - 2021-01-01 05:04:48 --> Model "M_reff" initialized
+INFO - 2021-01-01 05:04:48 --> Model "M_total" initialized
+INFO - 2021-01-01 05:04:48 --> Controller Class Initialized
+DEBUG - 2021-01-01 05:04:48 --> File loaded: D:\xampp72\htdocs\app_grm\application\modules/apengumuman/models/Model.php
+INFO - 2021-01-01 11:04:48 --> Final output sent to browser
+DEBUG - 2021-01-01 11:04:48 --> Total execution time: 0.7669
+INFO - 2021-01-01 05:04:53 --> Config Class Initialized
+INFO - 2021-01-01 05:04:53 --> Hooks Class Initialized
+DEBUG - 2021-01-01 05:04:53 --> UTF-8 Support Enabled
+INFO - 2021-01-01 05:04:53 --> Utf8 Class Initialized
+INFO - 2021-01-01 05:04:53 --> URI Class Initialized
+INFO - 2021-01-01 05:04:53 --> Router Class Initialized
+INFO - 2021-01-01 05:04:53 --> Output Class Initialized
+INFO - 2021-01-01 05:04:53 --> Security Class Initialized
+DEBUG - 2021-01-01 05:04:53 --> Global POST, GET and COOKIE data sanitized
+INFO - 2021-01-01 05:04:53 --> Input Class Initialized
+INFO - 2021-01-01 05:04:53 --> Language Class Initialized
+INFO - 2021-01-01 05:04:53 --> Language Class Initialized
+INFO - 2021-01-01 05:04:53 --> Config Class Initialized
+INFO - 2021-01-01 05:04:53 --> Loader Class Initialized
+INFO - 2021-01-01 05:04:53 --> Helper loaded: url_helper
+INFO - 2021-01-01 05:04:53 --> Helper loaded: html_helper
+INFO - 2021-01-01 05:04:53 --> Helper loaded: file_helper
+INFO - 2021-01-01 05:04:53 --> Helper loaded: form_helper
+INFO - 2021-01-01 05:04:53 --> Helper loaded: security_helper
+INFO - 2021-01-01 05:04:53 --> Helper loaded: xss_helper
+INFO - 2021-01-01 05:04:53 --> Helper loaded: slug_helper
+INFO - 2021-01-01 05:04:53 --> Database Driver Class Initialized
+DEBUG - 2021-01-01 05:04:53 --> Session: "sess_save_path" is empty; using "session.save_path" value from php.ini.
+INFO - 2021-01-01 05:04:53 --> Session: Class initialized using 'files' driver.
+INFO - 2021-01-01 05:04:53 --> Language file loaded: language/english/pagination_lang.php
+INFO - 2021-01-01 05:04:53 --> Pagination Class Initialized
+INFO - 2021-01-01 05:04:53 --> Email Class Initialized
+INFO - 2021-01-01 05:04:53 --> Model "M_konfig" initialized
+INFO - 2021-01-01 05:04:53 --> Model "M_reff" initialized
+INFO - 2021-01-01 05:04:53 --> Model "M_total" initialized
+INFO - 2021-01-01 05:04:53 --> Controller Class Initialized
+DEBUG - 2021-01-01 05:04:53 --> File loaded: D:\xampp72\htdocs\app_grm\application\modules/apengumuman/models/Model.php
+INFO - 2021-01-01 11:04:53 --> Final output sent to browser
+DEBUG - 2021-01-01 11:04:53 --> Total execution time: 0.7974
+INFO - 2021-01-01 05:04:58 --> Config Class Initialized
+INFO - 2021-01-01 05:04:58 --> Hooks Class Initialized
+DEBUG - 2021-01-01 05:04:58 --> UTF-8 Support Enabled
+INFO - 2021-01-01 05:04:58 --> Utf8 Class Initialized
+INFO - 2021-01-01 05:04:58 --> URI Class Initialized
+INFO - 2021-01-01 05:04:58 --> Router Class Initialized
+INFO - 2021-01-01 05:04:58 --> Output Class Initialized
+INFO - 2021-01-01 05:04:58 --> Security Class Initialized
+DEBUG - 2021-01-01 05:04:58 --> Global POST, GET and COOKIE data sanitized
+INFO - 2021-01-01 05:04:58 --> Input Class Initialized
+INFO - 2021-01-01 05:04:58 --> Language Class Initialized
+INFO - 2021-01-01 05:04:58 --> Language Class Initialized
+INFO - 2021-01-01 05:04:58 --> Config Class Initialized
+INFO - 2021-01-01 05:04:58 --> Loader Class Initialized
+INFO - 2021-01-01 05:04:58 --> Helper loaded: url_helper
+INFO - 2021-01-01 05:04:58 --> Helper loaded: html_helper
+INFO - 2021-01-01 05:04:58 --> Helper loaded: file_helper
+INFO - 2021-01-01 05:04:58 --> Helper loaded: form_helper
+INFO - 2021-01-01 05:04:58 --> Helper loaded: security_helper
+INFO - 2021-01-01 05:04:58 --> Helper loaded: xss_helper
+INFO - 2021-01-01 05:04:58 --> Helper loaded: slug_helper
+INFO - 2021-01-01 05:04:58 --> Database Driver Class Initialized
+DEBUG - 2021-01-01 05:04:58 --> Session: "sess_save_path" is empty; using "session.save_path" value from php.ini.
+INFO - 2021-01-01 05:04:58 --> Session: Class initialized using 'files' driver.
+INFO - 2021-01-01 05:04:58 --> Language file loaded: language/english/pagination_lang.php
+INFO - 2021-01-01 05:04:58 --> Pagination Class Initialized
+INFO - 2021-01-01 05:04:58 --> Email Class Initialized
+INFO - 2021-01-01 05:04:58 --> Model "M_konfig" initialized
+INFO - 2021-01-01 05:04:58 --> Model "M_reff" initialized
+INFO - 2021-01-01 05:04:58 --> Model "M_total" initialized
+INFO - 2021-01-01 05:04:58 --> Controller Class Initialized
+DEBUG - 2021-01-01 05:04:58 --> File loaded: D:\xampp72\htdocs\app_grm\application\modules/apengumuman/models/Model.php
+INFO - 2021-01-01 11:04:58 --> Final output sent to browser
+DEBUG - 2021-01-01 11:04:59 --> Total execution time: 0.8010
+INFO - 2021-01-01 05:05:03 --> Config Class Initialized
+INFO - 2021-01-01 05:05:03 --> Hooks Class Initialized
+DEBUG - 2021-01-01 05:05:03 --> UTF-8 Support Enabled
+INFO - 2021-01-01 05:05:03 --> Utf8 Class Initialized
+INFO - 2021-01-01 05:05:03 --> URI Class Initialized
+INFO - 2021-01-01 05:05:03 --> Router Class Initialized
+INFO - 2021-01-01 05:05:03 --> Output Class Initialized
+INFO - 2021-01-01 05:05:03 --> Security Class Initialized
+DEBUG - 2021-01-01 05:05:03 --> Global POST, GET and COOKIE data sanitized
+INFO - 2021-01-01 05:05:03 --> Input Class Initialized
+INFO - 2021-01-01 05:05:03 --> Language Class Initialized
+INFO - 2021-01-01 05:05:03 --> Language Class Initialized
+INFO - 2021-01-01 05:05:03 --> Config Class Initialized
+INFO - 2021-01-01 05:05:03 --> Loader Class Initialized
+INFO - 2021-01-01 05:05:03 --> Helper loaded: url_helper
+INFO - 2021-01-01 05:05:03 --> Helper loaded: html_helper
+INFO - 2021-01-01 05:05:03 --> Helper loaded: file_helper
+INFO - 2021-01-01 05:05:03 --> Helper loaded: form_helper
+INFO - 2021-01-01 05:05:03 --> Helper loaded: security_helper
+INFO - 2021-01-01 05:05:03 --> Helper loaded: xss_helper
+INFO - 2021-01-01 05:05:03 --> Helper loaded: slug_helper
+INFO - 2021-01-01 05:05:03 --> Database Driver Class Initialized
+DEBUG - 2021-01-01 05:05:03 --> Session: "sess_save_path" is empty; using "session.save_path" value from php.ini.
+INFO - 2021-01-01 05:05:03 --> Session: Class initialized using 'files' driver.
+INFO - 2021-01-01 05:05:03 --> Language file loaded: language/english/pagination_lang.php
+INFO - 2021-01-01 05:05:03 --> Pagination Class Initialized
+INFO - 2021-01-01 05:05:03 --> Email Class Initialized
+INFO - 2021-01-01 05:05:03 --> Model "M_konfig" initialized
+INFO - 2021-01-01 05:05:03 --> Model "M_reff" initialized
+INFO - 2021-01-01 05:05:03 --> Model "M_total" initialized
+INFO - 2021-01-01 05:05:03 --> Controller Class Initialized
+DEBUG - 2021-01-01 05:05:04 --> File loaded: D:\xampp72\htdocs\app_grm\application\modules/apengumuman/models/Model.php
+INFO - 2021-01-01 11:05:04 --> Final output sent to browser
+DEBUG - 2021-01-01 11:05:04 --> Total execution time: 0.8038
+INFO - 2021-01-01 05:05:08 --> Config Class Initialized
+INFO - 2021-01-01 05:05:08 --> Hooks Class Initialized
+DEBUG - 2021-01-01 05:05:08 --> UTF-8 Support Enabled
+INFO - 2021-01-01 05:05:08 --> Utf8 Class Initialized
+INFO - 2021-01-01 05:05:08 --> URI Class Initialized
+INFO - 2021-01-01 05:05:08 --> Router Class Initialized
+INFO - 2021-01-01 05:05:08 --> Output Class Initialized
+INFO - 2021-01-01 05:05:08 --> Security Class Initialized
+DEBUG - 2021-01-01 05:05:08 --> Global POST, GET and COOKIE data sanitized
+INFO - 2021-01-01 05:05:08 --> Input Class Initialized
+INFO - 2021-01-01 05:05:08 --> Language Class Initialized
+INFO - 2021-01-01 05:05:08 --> Language Class Initialized
+INFO - 2021-01-01 05:05:08 --> Config Class Initialized
+INFO - 2021-01-01 05:05:08 --> Loader Class Initialized
+INFO - 2021-01-01 05:05:08 --> Helper loaded: url_helper
+INFO - 2021-01-01 05:05:08 --> Helper loaded: html_helper
+INFO - 2021-01-01 05:05:08 --> Helper loaded: file_helper
+INFO - 2021-01-01 05:05:08 --> Helper loaded: form_helper
+INFO - 2021-01-01 05:05:08 --> Helper loaded: security_helper
+INFO - 2021-01-01 05:05:08 --> Helper loaded: xss_helper
+INFO - 2021-01-01 05:05:08 --> Helper loaded: slug_helper
+INFO - 2021-01-01 05:05:08 --> Database Driver Class Initialized
+DEBUG - 2021-01-01 05:05:08 --> Session: "sess_save_path" is empty; using "session.save_path" value from php.ini.
+INFO - 2021-01-01 05:05:08 --> Session: Class initialized using 'files' driver.
+INFO - 2021-01-01 05:05:08 --> Language file loaded: language/english/pagination_lang.php
+INFO - 2021-01-01 05:05:08 --> Pagination Class Initialized
+INFO - 2021-01-01 05:05:08 --> Email Class Initialized
+INFO - 2021-01-01 05:05:08 --> Model "M_konfig" initialized
+INFO - 2021-01-01 05:05:09 --> Model "M_reff" initialized
+INFO - 2021-01-01 05:05:09 --> Model "M_total" initialized
+INFO - 2021-01-01 05:05:09 --> Controller Class Initialized
+DEBUG - 2021-01-01 05:05:09 --> File loaded: D:\xampp72\htdocs\app_grm\application\modules/apengumuman/models/Model.php
+INFO - 2021-01-01 11:05:09 --> Final output sent to browser
+DEBUG - 2021-01-01 11:05:09 --> Total execution time: 0.8132
+INFO - 2021-01-01 05:05:13 --> Config Class Initialized
+INFO - 2021-01-01 05:05:13 --> Hooks Class Initialized
+DEBUG - 2021-01-01 05:05:13 --> UTF-8 Support Enabled
+INFO - 2021-01-01 05:05:13 --> Utf8 Class Initialized
+INFO - 2021-01-01 05:05:13 --> URI Class Initialized
+INFO - 2021-01-01 05:05:13 --> Router Class Initialized
+INFO - 2021-01-01 05:05:13 --> Output Class Initialized
+INFO - 2021-01-01 05:05:13 --> Security Class Initialized
+DEBUG - 2021-01-01 05:05:13 --> Global POST, GET and COOKIE data sanitized
+INFO - 2021-01-01 05:05:13 --> Input Class Initialized
+INFO - 2021-01-01 05:05:13 --> Language Class Initialized
+INFO - 2021-01-01 05:05:13 --> Language Class Initialized
+INFO - 2021-01-01 05:05:13 --> Config Class Initialized
+INFO - 2021-01-01 05:05:13 --> Loader Class Initialized
+INFO - 2021-01-01 05:05:13 --> Helper loaded: url_helper
+INFO - 2021-01-01 05:05:13 --> Helper loaded: html_helper
+INFO - 2021-01-01 05:05:13 --> Helper loaded: file_helper
+INFO - 2021-01-01 05:05:13 --> Helper loaded: form_helper
+INFO - 2021-01-01 05:05:13 --> Helper loaded: security_helper
+INFO - 2021-01-01 05:05:13 --> Helper loaded: xss_helper
+INFO - 2021-01-01 05:05:13 --> Helper loaded: slug_helper
+INFO - 2021-01-01 05:05:13 --> Database Driver Class Initialized
+DEBUG - 2021-01-01 05:05:13 --> Session: "sess_save_path" is empty; using "session.save_path" value from php.ini.
+INFO - 2021-01-01 05:05:13 --> Session: Class initialized using 'files' driver.
+INFO - 2021-01-01 05:05:13 --> Language file loaded: language/english/pagination_lang.php
+INFO - 2021-01-01 05:05:13 --> Pagination Class Initialized
+INFO - 2021-01-01 05:05:13 --> Email Class Initialized
+INFO - 2021-01-01 05:05:14 --> Model "M_konfig" initialized
+INFO - 2021-01-01 05:05:14 --> Model "M_reff" initialized
+INFO - 2021-01-01 05:05:14 --> Model "M_total" initialized
+INFO - 2021-01-01 05:05:14 --> Controller Class Initialized
+DEBUG - 2021-01-01 05:05:14 --> File loaded: D:\xampp72\htdocs\app_grm\application\modules/apengumuman/models/Model.php
+INFO - 2021-01-01 11:05:14 --> Final output sent to browser
+DEBUG - 2021-01-01 11:05:14 --> Total execution time: 0.7736
+INFO - 2021-01-01 05:05:18 --> Config Class Initialized
+INFO - 2021-01-01 05:05:18 --> Hooks Class Initialized
+DEBUG - 2021-01-01 05:05:18 --> UTF-8 Support Enabled
+INFO - 2021-01-01 05:05:18 --> Utf8 Class Initialized
+INFO - 2021-01-01 05:05:18 --> URI Class Initialized
+INFO - 2021-01-01 05:05:18 --> Router Class Initialized
+INFO - 2021-01-01 05:05:18 --> Output Class Initialized
+INFO - 2021-01-01 05:05:18 --> Security Class Initialized
+DEBUG - 2021-01-01 05:05:18 --> Global POST, GET and COOKIE data sanitized
+INFO - 2021-01-01 05:05:18 --> Input Class Initialized
+INFO - 2021-01-01 05:05:18 --> Language Class Initialized
+INFO - 2021-01-01 05:05:18 --> Language Class Initialized
+INFO - 2021-01-01 05:05:18 --> Config Class Initialized
+INFO - 2021-01-01 05:05:18 --> Loader Class Initialized
+INFO - 2021-01-01 05:05:18 --> Helper loaded: url_helper
+INFO - 2021-01-01 05:05:18 --> Helper loaded: html_helper
+INFO - 2021-01-01 05:05:18 --> Helper loaded: file_helper
+INFO - 2021-01-01 05:05:18 --> Helper loaded: form_helper
+INFO - 2021-01-01 05:05:18 --> Helper loaded: security_helper
+INFO - 2021-01-01 05:05:18 --> Helper loaded: xss_helper
+INFO - 2021-01-01 05:05:18 --> Helper loaded: slug_helper
+INFO - 2021-01-01 05:05:18 --> Database Driver Class Initialized
+DEBUG - 2021-01-01 05:05:18 --> Session: "sess_save_path" is empty; using "session.save_path" value from php.ini.
+INFO - 2021-01-01 05:05:18 --> Session: Class initialized using 'files' driver.
+INFO - 2021-01-01 05:05:19 --> Language file loaded: language/english/pagination_lang.php
+INFO - 2021-01-01 05:05:19 --> Pagination Class Initialized
+INFO - 2021-01-01 05:05:19 --> Email Class Initialized
+INFO - 2021-01-01 05:05:19 --> Model "M_konfig" initialized
+INFO - 2021-01-01 05:05:19 --> Model "M_reff" initialized
+INFO - 2021-01-01 05:05:19 --> Model "M_total" initialized
+INFO - 2021-01-01 05:05:19 --> Controller Class Initialized
+DEBUG - 2021-01-01 05:05:19 --> File loaded: D:\xampp72\htdocs\app_grm\application\modules/apengumuman/models/Model.php
+INFO - 2021-01-01 11:05:19 --> Final output sent to browser
+DEBUG - 2021-01-01 11:05:19 --> Total execution time: 0.7998
+INFO - 2021-01-01 05:05:23 --> Config Class Initialized
+INFO - 2021-01-01 05:05:23 --> Hooks Class Initialized
+DEBUG - 2021-01-01 05:05:23 --> UTF-8 Support Enabled
+INFO - 2021-01-01 05:05:23 --> Utf8 Class Initialized
+INFO - 2021-01-01 05:05:23 --> URI Class Initialized
+INFO - 2021-01-01 05:05:23 --> Router Class Initialized
+INFO - 2021-01-01 05:05:23 --> Output Class Initialized
+INFO - 2021-01-01 05:05:23 --> Security Class Initialized
+DEBUG - 2021-01-01 05:05:23 --> Global POST, GET and COOKIE data sanitized
+INFO - 2021-01-01 05:05:23 --> Input Class Initialized
+INFO - 2021-01-01 05:05:23 --> Language Class Initialized
+INFO - 2021-01-01 05:05:23 --> Language Class Initialized
+INFO - 2021-01-01 05:05:23 --> Config Class Initialized
+INFO - 2021-01-01 05:05:23 --> Loader Class Initialized
+INFO - 2021-01-01 05:05:23 --> Helper loaded: url_helper
+INFO - 2021-01-01 05:05:23 --> Helper loaded: html_helper
+INFO - 2021-01-01 05:05:23 --> Helper loaded: file_helper
+INFO - 2021-01-01 05:05:23 --> Helper loaded: form_helper
+INFO - 2021-01-01 05:05:23 --> Helper loaded: security_helper
+INFO - 2021-01-01 05:05:23 --> Helper loaded: xss_helper
+INFO - 2021-01-01 05:05:23 --> Helper loaded: slug_helper
+INFO - 2021-01-01 05:05:24 --> Database Driver Class Initialized
+DEBUG - 2021-01-01 05:05:24 --> Session: "sess_save_path" is empty; using "session.save_path" value from php.ini.
+INFO - 2021-01-01 05:05:24 --> Session: Class initialized using 'files' driver.
+INFO - 2021-01-01 05:05:24 --> Language file loaded: language/english/pagination_lang.php
+INFO - 2021-01-01 05:05:24 --> Pagination Class Initialized
+INFO - 2021-01-01 05:05:24 --> Email Class Initialized
+INFO - 2021-01-01 05:05:24 --> Model "M_konfig" initialized
+INFO - 2021-01-01 05:05:24 --> Model "M_reff" initialized
+INFO - 2021-01-01 05:05:24 --> Model "M_total" initialized
+INFO - 2021-01-01 05:05:24 --> Controller Class Initialized
+DEBUG - 2021-01-01 05:05:24 --> File loaded: D:\xampp72\htdocs\app_grm\application\modules/apengumuman/models/Model.php
+INFO - 2021-01-01 11:05:24 --> Final output sent to browser
+DEBUG - 2021-01-01 11:05:24 --> Total execution time: 0.7833
+INFO - 2021-01-01 05:05:28 --> Config Class Initialized
+INFO - 2021-01-01 05:05:28 --> Hooks Class Initialized
+DEBUG - 2021-01-01 05:05:28 --> UTF-8 Support Enabled
+INFO - 2021-01-01 05:05:28 --> Utf8 Class Initialized
+INFO - 2021-01-01 05:05:28 --> URI Class Initialized
+INFO - 2021-01-01 05:05:28 --> Router Class Initialized
+INFO - 2021-01-01 05:05:28 --> Output Class Initialized
+INFO - 2021-01-01 05:05:28 --> Security Class Initialized
+DEBUG - 2021-01-01 05:05:28 --> Global POST, GET and COOKIE data sanitized
+INFO - 2021-01-01 05:05:28 --> Input Class Initialized
+INFO - 2021-01-01 05:05:28 --> Language Class Initialized
+INFO - 2021-01-01 05:05:28 --> Language Class Initialized
+INFO - 2021-01-01 05:05:28 --> Config Class Initialized
+INFO - 2021-01-01 05:05:28 --> Loader Class Initialized
+INFO - 2021-01-01 05:05:28 --> Helper loaded: url_helper
+INFO - 2021-01-01 05:05:28 --> Helper loaded: html_helper
+INFO - 2021-01-01 05:05:28 --> Helper loaded: file_helper
+INFO - 2021-01-01 05:05:28 --> Helper loaded: form_helper
+INFO - 2021-01-01 05:05:28 --> Helper loaded: security_helper
+INFO - 2021-01-01 05:05:29 --> Helper loaded: xss_helper
+INFO - 2021-01-01 05:05:29 --> Helper loaded: slug_helper
+INFO - 2021-01-01 05:05:29 --> Database Driver Class Initialized
+DEBUG - 2021-01-01 05:05:29 --> Session: "sess_save_path" is empty; using "session.save_path" value from php.ini.
+INFO - 2021-01-01 05:05:29 --> Session: Class initialized using 'files' driver.
+INFO - 2021-01-01 05:05:29 --> Language file loaded: language/english/pagination_lang.php
+INFO - 2021-01-01 05:05:29 --> Pagination Class Initialized
+INFO - 2021-01-01 05:05:29 --> Email Class Initialized
+INFO - 2021-01-01 05:05:29 --> Model "M_konfig" initialized
+INFO - 2021-01-01 05:05:29 --> Model "M_reff" initialized
+INFO - 2021-01-01 05:05:29 --> Model "M_total" initialized
+INFO - 2021-01-01 05:05:29 --> Controller Class Initialized
+DEBUG - 2021-01-01 05:05:29 --> File loaded: D:\xampp72\htdocs\app_grm\application\modules/apengumuman/models/Model.php
+INFO - 2021-01-01 11:05:29 --> Final output sent to browser
+DEBUG - 2021-01-01 11:05:29 --> Total execution time: 0.7901
+INFO - 2021-01-01 05:05:33 --> Config Class Initialized
+INFO - 2021-01-01 05:05:33 --> Hooks Class Initialized
+DEBUG - 2021-01-01 05:05:33 --> UTF-8 Support Enabled
+INFO - 2021-01-01 05:05:33 --> Utf8 Class Initialized
+INFO - 2021-01-01 05:05:33 --> URI Class Initialized
+INFO - 2021-01-01 05:05:33 --> Router Class Initialized
+INFO - 2021-01-01 05:05:33 --> Output Class Initialized
+INFO - 2021-01-01 05:05:33 --> Security Class Initialized
+DEBUG - 2021-01-01 05:05:33 --> Global POST, GET and COOKIE data sanitized
+INFO - 2021-01-01 05:05:33 --> Input Class Initialized
+INFO - 2021-01-01 05:05:33 --> Language Class Initialized
+INFO - 2021-01-01 05:05:33 --> Language Class Initialized
+INFO - 2021-01-01 05:05:33 --> Config Class Initialized
+INFO - 2021-01-01 05:05:33 --> Loader Class Initialized
+INFO - 2021-01-01 05:05:33 --> Helper loaded: url_helper
+INFO - 2021-01-01 05:05:33 --> Helper loaded: html_helper
+INFO - 2021-01-01 05:05:34 --> Helper loaded: file_helper
+INFO - 2021-01-01 05:05:34 --> Helper loaded: form_helper
+INFO - 2021-01-01 05:05:34 --> Helper loaded: security_helper
+INFO - 2021-01-01 05:05:34 --> Helper loaded: xss_helper
+INFO - 2021-01-01 05:05:34 --> Helper loaded: slug_helper
+INFO - 2021-01-01 05:05:34 --> Database Driver Class Initialized
+DEBUG - 2021-01-01 05:05:34 --> Session: "sess_save_path" is empty; using "session.save_path" value from php.ini.
+INFO - 2021-01-01 05:05:34 --> Session: Class initialized using 'files' driver.
+INFO - 2021-01-01 05:05:34 --> Language file loaded: language/english/pagination_lang.php
+INFO - 2021-01-01 05:05:34 --> Pagination Class Initialized
+INFO - 2021-01-01 05:05:34 --> Email Class Initialized
+INFO - 2021-01-01 05:05:34 --> Model "M_konfig" initialized
+INFO - 2021-01-01 05:05:34 --> Model "M_reff" initialized
+INFO - 2021-01-01 05:05:34 --> Model "M_total" initialized
+INFO - 2021-01-01 05:05:34 --> Controller Class Initialized
+DEBUG - 2021-01-01 05:05:34 --> File loaded: D:\xampp72\htdocs\app_grm\application\modules/apengumuman/models/Model.php
+INFO - 2021-01-01 11:05:34 --> Final output sent to browser
+DEBUG - 2021-01-01 11:05:34 --> Total execution time: 0.7841
+INFO - 2021-01-01 05:05:38 --> Config Class Initialized
+INFO - 2021-01-01 05:05:38 --> Hooks Class Initialized
+DEBUG - 2021-01-01 05:05:38 --> UTF-8 Support Enabled
+INFO - 2021-01-01 05:05:38 --> Utf8 Class Initialized
+INFO - 2021-01-01 05:05:38 --> URI Class Initialized
+INFO - 2021-01-01 05:05:38 --> Router Class Initialized
+INFO - 2021-01-01 05:05:38 --> Output Class Initialized
+INFO - 2021-01-01 05:05:38 --> Security Class Initialized
+DEBUG - 2021-01-01 05:05:38 --> Global POST, GET and COOKIE data sanitized
+INFO - 2021-01-01 05:05:38 --> Input Class Initialized
+INFO - 2021-01-01 05:05:39 --> Language Class Initialized
+INFO - 2021-01-01 05:05:39 --> Language Class Initialized
+INFO - 2021-01-01 05:05:39 --> Config Class Initialized
+INFO - 2021-01-01 05:05:39 --> Loader Class Initialized
+INFO - 2021-01-01 05:05:39 --> Helper loaded: url_helper
+INFO - 2021-01-01 05:05:39 --> Helper loaded: html_helper
+INFO - 2021-01-01 05:05:39 --> Helper loaded: file_helper
+INFO - 2021-01-01 05:05:39 --> Helper loaded: form_helper
+INFO - 2021-01-01 05:05:39 --> Helper loaded: security_helper
+INFO - 2021-01-01 05:05:39 --> Helper loaded: xss_helper
+INFO - 2021-01-01 05:05:39 --> Helper loaded: slug_helper
+INFO - 2021-01-01 05:05:39 --> Database Driver Class Initialized
+DEBUG - 2021-01-01 05:05:39 --> Session: "sess_save_path" is empty; using "session.save_path" value from php.ini.
+INFO - 2021-01-01 05:05:39 --> Session: Class initialized using 'files' driver.
+INFO - 2021-01-01 05:05:39 --> Language file loaded: language/english/pagination_lang.php
+INFO - 2021-01-01 05:05:39 --> Pagination Class Initialized
+INFO - 2021-01-01 05:05:39 --> Email Class Initialized
+INFO - 2021-01-01 05:05:39 --> Model "M_konfig" initialized
+INFO - 2021-01-01 05:05:39 --> Model "M_reff" initialized
+INFO - 2021-01-01 05:05:39 --> Model "M_total" initialized
+INFO - 2021-01-01 05:05:39 --> Controller Class Initialized
+DEBUG - 2021-01-01 05:05:39 --> File loaded: D:\xampp72\htdocs\app_grm\application\modules/apengumuman/models/Model.php
+INFO - 2021-01-01 11:05:39 --> Final output sent to browser
+DEBUG - 2021-01-01 11:05:39 --> Total execution time: 0.9209
+INFO - 2021-01-01 05:05:43 --> Config Class Initialized
+INFO - 2021-01-01 05:05:43 --> Hooks Class Initialized
+DEBUG - 2021-01-01 05:05:43 --> UTF-8 Support Enabled
+INFO - 2021-01-01 05:05:43 --> Utf8 Class Initialized
+INFO - 2021-01-01 05:05:43 --> URI Class Initialized
+INFO - 2021-01-01 05:05:43 --> Router Class Initialized
+INFO - 2021-01-01 05:05:43 --> Output Class Initialized
+INFO - 2021-01-01 05:05:43 --> Security Class Initialized
+DEBUG - 2021-01-01 05:05:43 --> Global POST, GET and COOKIE data sanitized
+INFO - 2021-01-01 05:05:44 --> Input Class Initialized
+INFO - 2021-01-01 05:05:44 --> Language Class Initialized
+INFO - 2021-01-01 05:05:44 --> Language Class Initialized
+INFO - 2021-01-01 05:05:44 --> Config Class Initialized
+INFO - 2021-01-01 05:05:44 --> Loader Class Initialized
+INFO - 2021-01-01 05:05:44 --> Helper loaded: url_helper
+INFO - 2021-01-01 05:05:44 --> Helper loaded: html_helper
+INFO - 2021-01-01 05:05:44 --> Helper loaded: file_helper
+INFO - 2021-01-01 05:05:44 --> Helper loaded: form_helper
+INFO - 2021-01-01 05:05:44 --> Helper loaded: security_helper
+INFO - 2021-01-01 05:05:44 --> Helper loaded: xss_helper
+INFO - 2021-01-01 05:05:44 --> Helper loaded: slug_helper
+INFO - 2021-01-01 05:05:44 --> Database Driver Class Initialized
+DEBUG - 2021-01-01 05:05:44 --> Session: "sess_save_path" is empty; using "session.save_path" value from php.ini.
+INFO - 2021-01-01 05:05:44 --> Session: Class initialized using 'files' driver.
+INFO - 2021-01-01 05:05:44 --> Language file loaded: language/english/pagination_lang.php
+INFO - 2021-01-01 05:05:44 --> Pagination Class Initialized
+INFO - 2021-01-01 05:05:44 --> Email Class Initialized
+INFO - 2021-01-01 05:05:44 --> Model "M_konfig" initialized
+INFO - 2021-01-01 05:05:44 --> Model "M_reff" initialized
+INFO - 2021-01-01 05:05:44 --> Model "M_total" initialized
+INFO - 2021-01-01 05:05:44 --> Controller Class Initialized
+DEBUG - 2021-01-01 05:05:44 --> File loaded: D:\xampp72\htdocs\app_grm\application\modules/apengumuman/models/Model.php
+INFO - 2021-01-01 11:05:44 --> Final output sent to browser
+DEBUG - 2021-01-01 11:05:44 --> Total execution time: 0.7935
+INFO - 2021-01-01 05:05:48 --> Config Class Initialized
+INFO - 2021-01-01 05:05:48 --> Hooks Class Initialized
+DEBUG - 2021-01-01 05:05:48 --> UTF-8 Support Enabled
+INFO - 2021-01-01 05:05:48 --> Utf8 Class Initialized
+INFO - 2021-01-01 05:05:48 --> URI Class Initialized
+INFO - 2021-01-01 05:05:49 --> Router Class Initialized
+INFO - 2021-01-01 05:05:49 --> Output Class Initialized
+INFO - 2021-01-01 05:05:49 --> Security Class Initialized
+DEBUG - 2021-01-01 05:05:49 --> Global POST, GET and COOKIE data sanitized
+INFO - 2021-01-01 05:05:49 --> Input Class Initialized
+INFO - 2021-01-01 05:05:49 --> Language Class Initialized
+INFO - 2021-01-01 05:05:49 --> Language Class Initialized
+INFO - 2021-01-01 05:05:49 --> Config Class Initialized
+INFO - 2021-01-01 05:05:49 --> Loader Class Initialized
+INFO - 2021-01-01 05:05:49 --> Helper loaded: url_helper
+INFO - 2021-01-01 05:05:49 --> Helper loaded: html_helper
+INFO - 2021-01-01 05:05:49 --> Helper loaded: file_helper
+INFO - 2021-01-01 05:05:49 --> Helper loaded: form_helper
+INFO - 2021-01-01 05:05:49 --> Helper loaded: security_helper
+INFO - 2021-01-01 05:05:49 --> Helper loaded: xss_helper
+INFO - 2021-01-01 05:05:49 --> Helper loaded: slug_helper
+INFO - 2021-01-01 05:05:49 --> Database Driver Class Initialized
+DEBUG - 2021-01-01 05:05:49 --> Session: "sess_save_path" is empty; using "session.save_path" value from php.ini.
+INFO - 2021-01-01 05:05:49 --> Session: Class initialized using 'files' driver.
+INFO - 2021-01-01 05:05:49 --> Language file loaded: language/english/pagination_lang.php
+INFO - 2021-01-01 05:05:49 --> Pagination Class Initialized
+INFO - 2021-01-01 05:05:49 --> Email Class Initialized
+INFO - 2021-01-01 05:05:49 --> Model "M_konfig" initialized
+INFO - 2021-01-01 05:05:49 --> Model "M_reff" initialized
+INFO - 2021-01-01 05:05:49 --> Model "M_total" initialized
+INFO - 2021-01-01 05:05:49 --> Controller Class Initialized
+DEBUG - 2021-01-01 05:05:49 --> File loaded: D:\xampp72\htdocs\app_grm\application\modules/apengumuman/models/Model.php
+INFO - 2021-01-01 11:05:49 --> Final output sent to browser
+DEBUG - 2021-01-01 11:05:49 --> Total execution time: 0.9364
+INFO - 2021-01-01 05:05:53 --> Config Class Initialized
+INFO - 2021-01-01 05:05:53 --> Hooks Class Initialized
+DEBUG - 2021-01-01 05:05:54 --> UTF-8 Support Enabled
+INFO - 2021-01-01 05:05:54 --> Utf8 Class Initialized
+INFO - 2021-01-01 05:05:54 --> URI Class Initialized
+INFO - 2021-01-01 05:05:54 --> Router Class Initialized
+INFO - 2021-01-01 05:05:54 --> Output Class Initialized
+INFO - 2021-01-01 05:05:54 --> Security Class Initialized
+DEBUG - 2021-01-01 05:05:54 --> Global POST, GET and COOKIE data sanitized
+INFO - 2021-01-01 05:05:54 --> Input Class Initialized
+INFO - 2021-01-01 05:05:54 --> Language Class Initialized
+INFO - 2021-01-01 05:05:54 --> Language Class Initialized
+INFO - 2021-01-01 05:05:54 --> Config Class Initialized
+INFO - 2021-01-01 05:05:54 --> Loader Class Initialized
+INFO - 2021-01-01 05:05:54 --> Helper loaded: url_helper
+INFO - 2021-01-01 05:05:54 --> Helper loaded: html_helper
+INFO - 2021-01-01 05:05:54 --> Helper loaded: file_helper
+INFO - 2021-01-01 05:05:54 --> Helper loaded: form_helper
+INFO - 2021-01-01 05:05:54 --> Helper loaded: security_helper
+INFO - 2021-01-01 05:05:54 --> Helper loaded: xss_helper
+INFO - 2021-01-01 05:05:54 --> Helper loaded: slug_helper
+INFO - 2021-01-01 05:05:54 --> Database Driver Class Initialized
+DEBUG - 2021-01-01 05:05:54 --> Session: "sess_save_path" is empty; using "session.save_path" value from php.ini.
+INFO - 2021-01-01 05:05:54 --> Session: Class initialized using 'files' driver.
+INFO - 2021-01-01 05:05:54 --> Language file loaded: language/english/pagination_lang.php
+INFO - 2021-01-01 05:05:54 --> Pagination Class Initialized
+INFO - 2021-01-01 05:05:54 --> Email Class Initialized
+INFO - 2021-01-01 05:05:54 --> Model "M_konfig" initialized
+INFO - 2021-01-01 05:05:54 --> Model "M_reff" initialized
+INFO - 2021-01-01 05:05:54 --> Model "M_total" initialized
+INFO - 2021-01-01 05:05:54 --> Controller Class Initialized
+DEBUG - 2021-01-01 05:05:54 --> File loaded: D:\xampp72\htdocs\app_grm\application\modules/apengumuman/models/Model.php
+INFO - 2021-01-01 11:05:54 --> Final output sent to browser
+DEBUG - 2021-01-01 11:05:54 --> Total execution time: 0.7978
+INFO - 2021-01-01 05:05:59 --> Config Class Initialized
+INFO - 2021-01-01 05:05:59 --> Hooks Class Initialized
+DEBUG - 2021-01-01 05:05:59 --> UTF-8 Support Enabled
+INFO - 2021-01-01 05:05:59 --> Utf8 Class Initialized
+INFO - 2021-01-01 05:05:59 --> URI Class Initialized
+INFO - 2021-01-01 05:05:59 --> Router Class Initialized
+INFO - 2021-01-01 05:05:59 --> Output Class Initialized
+INFO - 2021-01-01 05:05:59 --> Security Class Initialized
+DEBUG - 2021-01-01 05:05:59 --> Global POST, GET and COOKIE data sanitized
+INFO - 2021-01-01 05:05:59 --> Input Class Initialized
+INFO - 2021-01-01 05:05:59 --> Language Class Initialized
+INFO - 2021-01-01 05:05:59 --> Language Class Initialized
+INFO - 2021-01-01 05:05:59 --> Config Class Initialized
+INFO - 2021-01-01 05:05:59 --> Loader Class Initialized
+INFO - 2021-01-01 05:05:59 --> Helper loaded: url_helper
+INFO - 2021-01-01 05:05:59 --> Helper loaded: html_helper
+INFO - 2021-01-01 05:05:59 --> Helper loaded: file_helper
+INFO - 2021-01-01 05:05:59 --> Helper loaded: form_helper
+INFO - 2021-01-01 05:05:59 --> Helper loaded: security_helper
+INFO - 2021-01-01 05:05:59 --> Helper loaded: xss_helper
+INFO - 2021-01-01 05:05:59 --> Helper loaded: slug_helper
+INFO - 2021-01-01 05:05:59 --> Database Driver Class Initialized
+DEBUG - 2021-01-01 05:05:59 --> Session: "sess_save_path" is empty; using "session.save_path" value from php.ini.
+INFO - 2021-01-01 05:05:59 --> Session: Class initialized using 'files' driver.
+INFO - 2021-01-01 05:05:59 --> Language file loaded: language/english/pagination_lang.php
+INFO - 2021-01-01 05:05:59 --> Pagination Class Initialized
+INFO - 2021-01-01 05:05:59 --> Email Class Initialized
+INFO - 2021-01-01 05:05:59 --> Model "M_konfig" initialized
+INFO - 2021-01-01 05:05:59 --> Model "M_reff" initialized
+INFO - 2021-01-01 05:05:59 --> Model "M_total" initialized
+INFO - 2021-01-01 05:05:59 --> Controller Class Initialized
+DEBUG - 2021-01-01 05:05:59 --> File loaded: D:\xampp72\htdocs\app_grm\application\modules/apengumuman/models/Model.php
+INFO - 2021-01-01 11:05:59 --> Final output sent to browser
+DEBUG - 2021-01-01 11:05:59 --> Total execution time: 0.8243
+INFO - 2021-01-01 05:06:04 --> Config Class Initialized
+INFO - 2021-01-01 05:06:04 --> Hooks Class Initialized
+DEBUG - 2021-01-01 05:06:04 --> UTF-8 Support Enabled
+INFO - 2021-01-01 05:06:04 --> Utf8 Class Initialized
+INFO - 2021-01-01 05:06:04 --> URI Class Initialized
+INFO - 2021-01-01 05:06:04 --> Router Class Initialized
+INFO - 2021-01-01 05:06:04 --> Output Class Initialized
+INFO - 2021-01-01 05:06:04 --> Security Class Initialized
+DEBUG - 2021-01-01 05:06:04 --> Global POST, GET and COOKIE data sanitized
+INFO - 2021-01-01 05:06:04 --> Input Class Initialized
+INFO - 2021-01-01 05:06:04 --> Language Class Initialized
+INFO - 2021-01-01 05:06:04 --> Language Class Initialized
+INFO - 2021-01-01 05:06:04 --> Config Class Initialized
+INFO - 2021-01-01 05:06:04 --> Loader Class Initialized
+INFO - 2021-01-01 05:06:04 --> Helper loaded: url_helper
+INFO - 2021-01-01 05:06:04 --> Helper loaded: html_helper
+INFO - 2021-01-01 05:06:04 --> Helper loaded: file_helper
+INFO - 2021-01-01 05:06:04 --> Helper loaded: form_helper
+INFO - 2021-01-01 05:06:04 --> Helper loaded: security_helper
+INFO - 2021-01-01 05:06:04 --> Helper loaded: xss_helper
+INFO - 2021-01-01 05:06:04 --> Helper loaded: slug_helper
+INFO - 2021-01-01 05:06:04 --> Database Driver Class Initialized
+DEBUG - 2021-01-01 05:06:04 --> Session: "sess_save_path" is empty; using "session.save_path" value from php.ini.
+INFO - 2021-01-01 05:06:04 --> Session: Class initialized using 'files' driver.
+INFO - 2021-01-01 05:06:04 --> Language file loaded: language/english/pagination_lang.php
+INFO - 2021-01-01 05:06:04 --> Pagination Class Initialized
+INFO - 2021-01-01 05:06:04 --> Email Class Initialized
+INFO - 2021-01-01 05:06:04 --> Model "M_konfig" initialized
+INFO - 2021-01-01 05:06:04 --> Model "M_reff" initialized
+INFO - 2021-01-01 05:06:04 --> Model "M_total" initialized
+INFO - 2021-01-01 05:06:04 --> Controller Class Initialized
+DEBUG - 2021-01-01 05:06:05 --> File loaded: D:\xampp72\htdocs\app_grm\application\modules/apengumuman/models/Model.php
+INFO - 2021-01-01 11:06:05 --> Final output sent to browser
+DEBUG - 2021-01-01 11:06:05 --> Total execution time: 0.8018
+INFO - 2021-01-01 05:06:09 --> Config Class Initialized
+INFO - 2021-01-01 05:06:09 --> Hooks Class Initialized
+DEBUG - 2021-01-01 05:06:09 --> UTF-8 Support Enabled
+INFO - 2021-01-01 05:06:09 --> Utf8 Class Initialized
+INFO - 2021-01-01 05:06:09 --> URI Class Initialized
+INFO - 2021-01-01 05:06:09 --> Router Class Initialized
+INFO - 2021-01-01 05:06:09 --> Output Class Initialized
+INFO - 2021-01-01 05:06:09 --> Security Class Initialized
+DEBUG - 2021-01-01 05:06:09 --> Global POST, GET and COOKIE data sanitized
+INFO - 2021-01-01 05:06:09 --> Input Class Initialized
+INFO - 2021-01-01 05:06:09 --> Language Class Initialized
+INFO - 2021-01-01 05:06:09 --> Language Class Initialized
+INFO - 2021-01-01 05:06:09 --> Config Class Initialized
+INFO - 2021-01-01 05:06:09 --> Loader Class Initialized
+INFO - 2021-01-01 05:06:09 --> Helper loaded: url_helper
+INFO - 2021-01-01 05:06:09 --> Helper loaded: html_helper
+INFO - 2021-01-01 05:06:09 --> Helper loaded: file_helper
+INFO - 2021-01-01 05:06:09 --> Helper loaded: form_helper
+INFO - 2021-01-01 05:06:09 --> Helper loaded: security_helper
+INFO - 2021-01-01 05:06:09 --> Helper loaded: xss_helper
+INFO - 2021-01-01 05:06:09 --> Helper loaded: slug_helper
+INFO - 2021-01-01 05:06:09 --> Database Driver Class Initialized
+DEBUG - 2021-01-01 05:06:09 --> Session: "sess_save_path" is empty; using "session.save_path" value from php.ini.
+INFO - 2021-01-01 05:06:09 --> Session: Class initialized using 'files' driver.
+INFO - 2021-01-01 05:06:09 --> Language file loaded: language/english/pagination_lang.php
+INFO - 2021-01-01 05:06:09 --> Pagination Class Initialized
+INFO - 2021-01-01 05:06:09 --> Email Class Initialized
+INFO - 2021-01-01 05:06:09 --> Model "M_konfig" initialized
+INFO - 2021-01-01 05:06:09 --> Model "M_reff" initialized
+INFO - 2021-01-01 05:06:09 --> Model "M_total" initialized
+INFO - 2021-01-01 05:06:09 --> Controller Class Initialized
+DEBUG - 2021-01-01 05:06:09 --> File loaded: D:\xampp72\htdocs\app_grm\application\modules/apengumuman/models/Model.php
+INFO - 2021-01-01 11:06:10 --> Final output sent to browser
+DEBUG - 2021-01-01 11:06:10 --> Total execution time: 0.8278
+INFO - 2021-01-01 05:06:14 --> Config Class Initialized
+INFO - 2021-01-01 05:06:14 --> Hooks Class Initialized
+DEBUG - 2021-01-01 05:06:14 --> UTF-8 Support Enabled
+INFO - 2021-01-01 05:06:14 --> Utf8 Class Initialized
+INFO - 2021-01-01 05:06:14 --> URI Class Initialized
+INFO - 2021-01-01 05:06:14 --> Router Class Initialized
+INFO - 2021-01-01 05:06:14 --> Output Class Initialized
+INFO - 2021-01-01 05:06:14 --> Security Class Initialized
+DEBUG - 2021-01-01 05:06:14 --> Global POST, GET and COOKIE data sanitized
+INFO - 2021-01-01 05:06:14 --> Input Class Initialized
+INFO - 2021-01-01 05:06:14 --> Language Class Initialized
+INFO - 2021-01-01 05:06:14 --> Language Class Initialized
+INFO - 2021-01-01 05:06:14 --> Config Class Initialized
+INFO - 2021-01-01 05:06:14 --> Loader Class Initialized
+INFO - 2021-01-01 05:06:14 --> Helper loaded: url_helper
+INFO - 2021-01-01 05:06:14 --> Helper loaded: html_helper
+INFO - 2021-01-01 05:06:14 --> Helper loaded: file_helper
+INFO - 2021-01-01 05:06:14 --> Helper loaded: form_helper
+INFO - 2021-01-01 05:06:14 --> Helper loaded: security_helper
+INFO - 2021-01-01 05:06:14 --> Helper loaded: xss_helper
+INFO - 2021-01-01 05:06:14 --> Helper loaded: slug_helper
+INFO - 2021-01-01 05:06:14 --> Database Driver Class Initialized
+DEBUG - 2021-01-01 05:06:14 --> Session: "sess_save_path" is empty; using "session.save_path" value from php.ini.
+INFO - 2021-01-01 05:06:14 --> Session: Class initialized using 'files' driver.
+INFO - 2021-01-01 05:06:14 --> Language file loaded: language/english/pagination_lang.php
+INFO - 2021-01-01 05:06:14 --> Pagination Class Initialized
+INFO - 2021-01-01 05:06:14 --> Email Class Initialized
+INFO - 2021-01-01 05:06:14 --> Model "M_konfig" initialized
+INFO - 2021-01-01 05:06:14 --> Model "M_reff" initialized
+INFO - 2021-01-01 05:06:14 --> Model "M_total" initialized
+INFO - 2021-01-01 05:06:15 --> Controller Class Initialized
+DEBUG - 2021-01-01 05:06:15 --> File loaded: D:\xampp72\htdocs\app_grm\application\modules/apengumuman/models/Model.php
+INFO - 2021-01-01 11:06:15 --> Final output sent to browser
+DEBUG - 2021-01-01 11:06:15 --> Total execution time: 0.7967
+INFO - 2021-01-01 05:06:19 --> Config Class Initialized
+INFO - 2021-01-01 05:06:19 --> Hooks Class Initialized
+DEBUG - 2021-01-01 05:06:19 --> UTF-8 Support Enabled
+INFO - 2021-01-01 05:06:19 --> Utf8 Class Initialized
+INFO - 2021-01-01 05:06:19 --> URI Class Initialized
+INFO - 2021-01-01 05:06:19 --> Router Class Initialized
+INFO - 2021-01-01 05:06:19 --> Output Class Initialized
+INFO - 2021-01-01 05:06:19 --> Security Class Initialized
+DEBUG - 2021-01-01 05:06:19 --> Global POST, GET and COOKIE data sanitized
+INFO - 2021-01-01 05:06:19 --> Input Class Initialized
+INFO - 2021-01-01 05:06:19 --> Language Class Initialized
+INFO - 2021-01-01 05:06:19 --> Language Class Initialized
+INFO - 2021-01-01 05:06:19 --> Config Class Initialized
+INFO - 2021-01-01 05:06:19 --> Loader Class Initialized
+INFO - 2021-01-01 05:06:19 --> Helper loaded: url_helper
+INFO - 2021-01-01 05:06:19 --> Helper loaded: html_helper
+INFO - 2021-01-01 05:06:19 --> Helper loaded: file_helper
+INFO - 2021-01-01 05:06:19 --> Helper loaded: form_helper
+INFO - 2021-01-01 05:06:19 --> Helper loaded: security_helper
+INFO - 2021-01-01 05:06:19 --> Helper loaded: xss_helper
+INFO - 2021-01-01 05:06:19 --> Helper loaded: slug_helper
+INFO - 2021-01-01 05:06:19 --> Database Driver Class Initialized
+DEBUG - 2021-01-01 05:06:19 --> Session: "sess_save_path" is empty; using "session.save_path" value from php.ini.
+INFO - 2021-01-01 05:06:19 --> Session: Class initialized using 'files' driver.
+INFO - 2021-01-01 05:06:19 --> Language file loaded: language/english/pagination_lang.php
+INFO - 2021-01-01 05:06:19 --> Pagination Class Initialized
+INFO - 2021-01-01 05:06:19 --> Email Class Initialized
+INFO - 2021-01-01 05:06:20 --> Model "M_konfig" initialized
+INFO - 2021-01-01 05:06:20 --> Model "M_reff" initialized
+INFO - 2021-01-01 05:06:20 --> Model "M_total" initialized
+INFO - 2021-01-01 05:06:20 --> Controller Class Initialized
+DEBUG - 2021-01-01 05:06:20 --> File loaded: D:\xampp72\htdocs\app_grm\application\modules/apengumuman/models/Model.php
+INFO - 2021-01-01 11:06:20 --> Final output sent to browser
+DEBUG - 2021-01-01 11:06:20 --> Total execution time: 0.7986
+INFO - 2021-01-01 05:06:24 --> Config Class Initialized
+INFO - 2021-01-01 05:06:24 --> Hooks Class Initialized
+DEBUG - 2021-01-01 05:06:24 --> UTF-8 Support Enabled
+INFO - 2021-01-01 05:06:24 --> Utf8 Class Initialized
+INFO - 2021-01-01 05:06:24 --> URI Class Initialized
+INFO - 2021-01-01 05:06:24 --> Router Class Initialized
+INFO - 2021-01-01 05:06:24 --> Output Class Initialized
+INFO - 2021-01-01 05:06:24 --> Security Class Initialized
+DEBUG - 2021-01-01 05:06:24 --> Global POST, GET and COOKIE data sanitized
+INFO - 2021-01-01 05:06:24 --> Input Class Initialized
+INFO - 2021-01-01 05:06:24 --> Language Class Initialized
+INFO - 2021-01-01 05:06:24 --> Language Class Initialized
+INFO - 2021-01-01 05:06:24 --> Config Class Initialized
+INFO - 2021-01-01 05:06:24 --> Loader Class Initialized
+INFO - 2021-01-01 05:06:25 --> Helper loaded: url_helper
+INFO - 2021-01-01 05:06:25 --> Helper loaded: html_helper
+INFO - 2021-01-01 05:06:25 --> Helper loaded: file_helper
+INFO - 2021-01-01 05:06:25 --> Helper loaded: form_helper
+INFO - 2021-01-01 05:06:25 --> Helper loaded: security_helper
+INFO - 2021-01-01 05:06:25 --> Helper loaded: xss_helper
+INFO - 2021-01-01 05:06:25 --> Helper loaded: slug_helper
+INFO - 2021-01-01 05:06:25 --> Database Driver Class Initialized
+DEBUG - 2021-01-01 05:06:25 --> Session: "sess_save_path" is empty; using "session.save_path" value from php.ini.
+INFO - 2021-01-01 05:06:25 --> Session: Class initialized using 'files' driver.
+INFO - 2021-01-01 05:06:25 --> Language file loaded: language/english/pagination_lang.php
+INFO - 2021-01-01 05:06:25 --> Pagination Class Initialized
+INFO - 2021-01-01 05:06:25 --> Email Class Initialized
+INFO - 2021-01-01 05:06:25 --> Model "M_konfig" initialized
+INFO - 2021-01-01 05:06:25 --> Model "M_reff" initialized
+INFO - 2021-01-01 05:06:25 --> Model "M_total" initialized
+INFO - 2021-01-01 05:06:25 --> Controller Class Initialized
+DEBUG - 2021-01-01 05:06:25 --> File loaded: D:\xampp72\htdocs\app_grm\application\modules/apengumuman/models/Model.php
+INFO - 2021-01-01 11:06:25 --> Final output sent to browser
+DEBUG - 2021-01-01 11:06:25 --> Total execution time: 1.2203
+INFO - 2021-01-01 05:06:29 --> Config Class Initialized
+INFO - 2021-01-01 05:06:29 --> Hooks Class Initialized
+DEBUG - 2021-01-01 05:06:29 --> UTF-8 Support Enabled
+INFO - 2021-01-01 05:06:29 --> Utf8 Class Initialized
+INFO - 2021-01-01 05:06:29 --> URI Class Initialized
+INFO - 2021-01-01 05:06:29 --> Router Class Initialized
+INFO - 2021-01-01 05:06:29 --> Output Class Initialized
+INFO - 2021-01-01 05:06:29 --> Security Class Initialized
+DEBUG - 2021-01-01 05:06:29 --> Global POST, GET and COOKIE data sanitized
+INFO - 2021-01-01 05:06:29 --> Input Class Initialized
+INFO - 2021-01-01 05:06:29 --> Language Class Initialized
+INFO - 2021-01-01 05:06:29 --> Language Class Initialized
+INFO - 2021-01-01 05:06:29 --> Config Class Initialized
+INFO - 2021-01-01 05:06:29 --> Loader Class Initialized
+INFO - 2021-01-01 05:06:29 --> Helper loaded: url_helper
+INFO - 2021-01-01 05:06:29 --> Helper loaded: html_helper
+INFO - 2021-01-01 05:06:29 --> Helper loaded: file_helper
+INFO - 2021-01-01 05:06:29 --> Helper loaded: form_helper
+INFO - 2021-01-01 05:06:29 --> Helper loaded: security_helper
+INFO - 2021-01-01 05:06:29 --> Helper loaded: xss_helper
+INFO - 2021-01-01 05:06:29 --> Helper loaded: slug_helper
+INFO - 2021-01-01 05:06:30 --> Database Driver Class Initialized
+DEBUG - 2021-01-01 05:06:30 --> Session: "sess_save_path" is empty; using "session.save_path" value from php.ini.
+INFO - 2021-01-01 05:06:30 --> Session: Class initialized using 'files' driver.
+INFO - 2021-01-01 05:06:30 --> Language file loaded: language/english/pagination_lang.php
+INFO - 2021-01-01 05:06:30 --> Pagination Class Initialized
+INFO - 2021-01-01 05:06:30 --> Email Class Initialized
+INFO - 2021-01-01 05:06:30 --> Model "M_konfig" initialized
+INFO - 2021-01-01 05:06:30 --> Model "M_reff" initialized
+INFO - 2021-01-01 05:06:30 --> Model "M_total" initialized
+INFO - 2021-01-01 05:06:30 --> Controller Class Initialized
+DEBUG - 2021-01-01 05:06:30 --> File loaded: D:\xampp72\htdocs\app_grm\application\modules/apengumuman/models/Model.php
+INFO - 2021-01-01 11:06:30 --> Final output sent to browser
+DEBUG - 2021-01-01 11:06:30 --> Total execution time: 0.8575
+INFO - 2021-01-01 05:06:34 --> Config Class Initialized
+INFO - 2021-01-01 05:06:34 --> Hooks Class Initialized
+DEBUG - 2021-01-01 05:06:34 --> UTF-8 Support Enabled
+INFO - 2021-01-01 05:06:34 --> Utf8 Class Initialized
+INFO - 2021-01-01 05:06:34 --> URI Class Initialized
+INFO - 2021-01-01 05:06:34 --> Router Class Initialized
+INFO - 2021-01-01 05:06:34 --> Output Class Initialized
+INFO - 2021-01-01 05:06:34 --> Security Class Initialized
+DEBUG - 2021-01-01 05:06:34 --> Global POST, GET and COOKIE data sanitized
+INFO - 2021-01-01 05:06:34 --> Input Class Initialized
+INFO - 2021-01-01 05:06:34 --> Language Class Initialized
+INFO - 2021-01-01 05:06:34 --> Language Class Initialized
+INFO - 2021-01-01 05:06:34 --> Config Class Initialized
+INFO - 2021-01-01 05:06:34 --> Loader Class Initialized
+INFO - 2021-01-01 05:06:34 --> Helper loaded: url_helper
+INFO - 2021-01-01 05:06:34 --> Helper loaded: html_helper
+INFO - 2021-01-01 05:06:34 --> Helper loaded: file_helper
+INFO - 2021-01-01 05:06:35 --> Helper loaded: form_helper
+INFO - 2021-01-01 05:06:35 --> Helper loaded: security_helper
+INFO - 2021-01-01 05:06:35 --> Helper loaded: xss_helper
+INFO - 2021-01-01 05:06:35 --> Helper loaded: slug_helper
+INFO - 2021-01-01 05:06:35 --> Database Driver Class Initialized
+DEBUG - 2021-01-01 05:06:35 --> Session: "sess_save_path" is empty; using "session.save_path" value from php.ini.
+INFO - 2021-01-01 05:06:35 --> Session: Class initialized using 'files' driver.
+INFO - 2021-01-01 05:06:35 --> Language file loaded: language/english/pagination_lang.php
+INFO - 2021-01-01 05:06:35 --> Pagination Class Initialized
+INFO - 2021-01-01 05:06:35 --> Email Class Initialized
+INFO - 2021-01-01 05:06:35 --> Model "M_konfig" initialized
+INFO - 2021-01-01 05:06:35 --> Model "M_reff" initialized
+INFO - 2021-01-01 05:06:35 --> Model "M_total" initialized
+INFO - 2021-01-01 05:06:35 --> Controller Class Initialized
+DEBUG - 2021-01-01 05:06:35 --> File loaded: D:\xampp72\htdocs\app_grm\application\modules/apengumuman/models/Model.php
+INFO - 2021-01-01 11:06:35 --> Final output sent to browser
+DEBUG - 2021-01-01 11:06:35 --> Total execution time: 1.0445
+INFO - 2021-01-01 05:06:39 --> Config Class Initialized
+INFO - 2021-01-01 05:06:39 --> Hooks Class Initialized
+DEBUG - 2021-01-01 05:06:39 --> UTF-8 Support Enabled
+INFO - 2021-01-01 05:06:39 --> Utf8 Class Initialized
+INFO - 2021-01-01 05:06:39 --> URI Class Initialized
+INFO - 2021-01-01 05:06:39 --> Router Class Initialized
+INFO - 2021-01-01 05:06:39 --> Output Class Initialized
+INFO - 2021-01-01 05:06:39 --> Security Class Initialized
+DEBUG - 2021-01-01 05:06:39 --> Global POST, GET and COOKIE data sanitized
+INFO - 2021-01-01 05:06:39 --> Input Class Initialized
+INFO - 2021-01-01 05:06:39 --> Language Class Initialized
+INFO - 2021-01-01 05:06:39 --> Language Class Initialized
+INFO - 2021-01-01 05:06:39 --> Config Class Initialized
+INFO - 2021-01-01 05:06:39 --> Loader Class Initialized
+INFO - 2021-01-01 05:06:39 --> Helper loaded: url_helper
+INFO - 2021-01-01 05:06:39 --> Helper loaded: html_helper
+INFO - 2021-01-01 05:06:39 --> Helper loaded: file_helper
+INFO - 2021-01-01 05:06:40 --> Helper loaded: form_helper
+INFO - 2021-01-01 05:06:40 --> Helper loaded: security_helper
+INFO - 2021-01-01 05:06:40 --> Helper loaded: xss_helper
+INFO - 2021-01-01 05:06:40 --> Helper loaded: slug_helper
+INFO - 2021-01-01 05:06:40 --> Database Driver Class Initialized
+DEBUG - 2021-01-01 05:06:40 --> Session: "sess_save_path" is empty; using "session.save_path" value from php.ini.
+INFO - 2021-01-01 05:06:40 --> Session: Class initialized using 'files' driver.
+INFO - 2021-01-01 05:06:40 --> Language file loaded: language/english/pagination_lang.php
+INFO - 2021-01-01 05:06:40 --> Pagination Class Initialized
+INFO - 2021-01-01 05:06:40 --> Email Class Initialized
+INFO - 2021-01-01 05:06:40 --> Model "M_konfig" initialized
+INFO - 2021-01-01 05:06:40 --> Model "M_reff" initialized
+INFO - 2021-01-01 05:06:40 --> Model "M_total" initialized
+INFO - 2021-01-01 05:06:40 --> Controller Class Initialized
+DEBUG - 2021-01-01 05:06:40 --> File loaded: D:\xampp72\htdocs\app_grm\application\modules/apengumuman/models/Model.php
+INFO - 2021-01-01 11:06:40 --> Final output sent to browser
+DEBUG - 2021-01-01 11:06:40 --> Total execution time: 0.8153
+INFO - 2021-01-01 05:06:44 --> Config Class Initialized
+INFO - 2021-01-01 05:06:44 --> Hooks Class Initialized
+DEBUG - 2021-01-01 05:06:44 --> UTF-8 Support Enabled
+INFO - 2021-01-01 05:06:44 --> Utf8 Class Initialized
+INFO - 2021-01-01 05:06:44 --> URI Class Initialized
+INFO - 2021-01-01 05:06:44 --> Router Class Initialized
+INFO - 2021-01-01 05:06:44 --> Output Class Initialized
+INFO - 2021-01-01 05:06:44 --> Security Class Initialized
+DEBUG - 2021-01-01 05:06:44 --> Global POST, GET and COOKIE data sanitized
+INFO - 2021-01-01 05:06:44 --> Input Class Initialized
+INFO - 2021-01-01 05:06:44 --> Language Class Initialized
+INFO - 2021-01-01 05:06:44 --> Language Class Initialized
+INFO - 2021-01-01 05:06:44 --> Config Class Initialized
+INFO - 2021-01-01 05:06:44 --> Loader Class Initialized
+INFO - 2021-01-01 05:06:45 --> Helper loaded: url_helper
+INFO - 2021-01-01 05:06:45 --> Helper loaded: html_helper
+INFO - 2021-01-01 05:06:45 --> Helper loaded: file_helper
+INFO - 2021-01-01 05:06:45 --> Helper loaded: form_helper
+INFO - 2021-01-01 05:06:45 --> Helper loaded: security_helper
+INFO - 2021-01-01 05:06:45 --> Helper loaded: xss_helper
+INFO - 2021-01-01 05:06:45 --> Helper loaded: slug_helper
+INFO - 2021-01-01 05:06:45 --> Database Driver Class Initialized
+DEBUG - 2021-01-01 05:06:45 --> Session: "sess_save_path" is empty; using "session.save_path" value from php.ini.
+INFO - 2021-01-01 05:06:45 --> Session: Class initialized using 'files' driver.
+INFO - 2021-01-01 05:06:45 --> Language file loaded: language/english/pagination_lang.php
+INFO - 2021-01-01 05:06:45 --> Pagination Class Initialized
+INFO - 2021-01-01 05:06:45 --> Email Class Initialized
+INFO - 2021-01-01 05:06:45 --> Model "M_konfig" initialized
+INFO - 2021-01-01 05:06:45 --> Model "M_reff" initialized
+INFO - 2021-01-01 05:06:45 --> Model "M_total" initialized
+INFO - 2021-01-01 05:06:45 --> Controller Class Initialized
+DEBUG - 2021-01-01 05:06:45 --> File loaded: D:\xampp72\htdocs\app_grm\application\modules/apengumuman/models/Model.php
+INFO - 2021-01-01 11:06:45 --> Final output sent to browser
+DEBUG - 2021-01-01 11:06:45 --> Total execution time: 0.8413
+INFO - 2021-01-01 05:06:49 --> Config Class Initialized
+INFO - 2021-01-01 05:06:49 --> Hooks Class Initialized
+DEBUG - 2021-01-01 05:06:49 --> UTF-8 Support Enabled
+INFO - 2021-01-01 05:06:49 --> Utf8 Class Initialized
+INFO - 2021-01-01 05:06:49 --> URI Class Initialized
+INFO - 2021-01-01 05:06:49 --> Router Class Initialized
+INFO - 2021-01-01 05:06:49 --> Output Class Initialized
+INFO - 2021-01-01 05:06:49 --> Security Class Initialized
+DEBUG - 2021-01-01 05:06:50 --> Global POST, GET and COOKIE data sanitized
+INFO - 2021-01-01 05:06:50 --> Input Class Initialized
+INFO - 2021-01-01 05:06:50 --> Language Class Initialized
+INFO - 2021-01-01 05:06:50 --> Language Class Initialized
+INFO - 2021-01-01 05:06:50 --> Config Class Initialized
+INFO - 2021-01-01 05:06:50 --> Loader Class Initialized
+INFO - 2021-01-01 05:06:50 --> Helper loaded: url_helper
+INFO - 2021-01-01 05:06:50 --> Helper loaded: html_helper
+INFO - 2021-01-01 05:06:50 --> Helper loaded: file_helper
+INFO - 2021-01-01 05:06:50 --> Helper loaded: form_helper
+INFO - 2021-01-01 05:06:50 --> Helper loaded: security_helper
+INFO - 2021-01-01 05:06:50 --> Helper loaded: xss_helper
+INFO - 2021-01-01 05:06:50 --> Helper loaded: slug_helper
+INFO - 2021-01-01 05:06:50 --> Database Driver Class Initialized
+DEBUG - 2021-01-01 05:06:50 --> Session: "sess_save_path" is empty; using "session.save_path" value from php.ini.
+INFO - 2021-01-01 05:06:50 --> Session: Class initialized using 'files' driver.
+INFO - 2021-01-01 05:06:50 --> Language file loaded: language/english/pagination_lang.php
+INFO - 2021-01-01 05:06:50 --> Pagination Class Initialized
+INFO - 2021-01-01 05:06:50 --> Email Class Initialized
+INFO - 2021-01-01 05:06:50 --> Model "M_konfig" initialized
+INFO - 2021-01-01 05:06:50 --> Model "M_reff" initialized
+INFO - 2021-01-01 05:06:50 --> Model "M_total" initialized
+INFO - 2021-01-01 05:06:50 --> Controller Class Initialized
+DEBUG - 2021-01-01 05:06:50 --> File loaded: D:\xampp72\htdocs\app_grm\application\modules/apengumuman/models/Model.php
+INFO - 2021-01-01 11:06:50 --> Final output sent to browser
+DEBUG - 2021-01-01 11:06:50 --> Total execution time: 0.8968
+INFO - 2021-01-01 05:06:54 --> Config Class Initialized
+INFO - 2021-01-01 05:06:54 --> Hooks Class Initialized
+DEBUG - 2021-01-01 05:06:54 --> UTF-8 Support Enabled
+INFO - 2021-01-01 05:06:54 --> Utf8 Class Initialized
+INFO - 2021-01-01 05:06:54 --> URI Class Initialized
+INFO - 2021-01-01 05:06:54 --> Router Class Initialized
+INFO - 2021-01-01 05:06:54 --> Output Class Initialized
+INFO - 2021-01-01 05:06:54 --> Security Class Initialized
+DEBUG - 2021-01-01 05:06:54 --> Global POST, GET and COOKIE data sanitized
+INFO - 2021-01-01 05:06:54 --> Input Class Initialized
+INFO - 2021-01-01 05:06:55 --> Language Class Initialized
+INFO - 2021-01-01 05:06:55 --> Language Class Initialized
+INFO - 2021-01-01 05:06:55 --> Config Class Initialized
+INFO - 2021-01-01 05:06:55 --> Loader Class Initialized
+INFO - 2021-01-01 05:06:55 --> Helper loaded: url_helper
+INFO - 2021-01-01 05:06:55 --> Helper loaded: html_helper
+INFO - 2021-01-01 05:06:55 --> Helper loaded: file_helper
+INFO - 2021-01-01 05:06:55 --> Helper loaded: form_helper
+INFO - 2021-01-01 05:06:55 --> Helper loaded: security_helper
+INFO - 2021-01-01 05:06:55 --> Helper loaded: xss_helper
+INFO - 2021-01-01 05:06:55 --> Helper loaded: slug_helper
+INFO - 2021-01-01 05:06:55 --> Database Driver Class Initialized
+DEBUG - 2021-01-01 05:06:55 --> Session: "sess_save_path" is empty; using "session.save_path" value from php.ini.
+INFO - 2021-01-01 05:06:55 --> Session: Class initialized using 'files' driver.
+INFO - 2021-01-01 05:06:55 --> Language file loaded: language/english/pagination_lang.php
+INFO - 2021-01-01 05:06:55 --> Pagination Class Initialized
+INFO - 2021-01-01 05:06:55 --> Email Class Initialized
+INFO - 2021-01-01 05:06:55 --> Model "M_konfig" initialized
+INFO - 2021-01-01 05:06:55 --> Model "M_reff" initialized
+INFO - 2021-01-01 05:06:55 --> Model "M_total" initialized
+INFO - 2021-01-01 05:06:55 --> Controller Class Initialized
+DEBUG - 2021-01-01 05:06:55 --> File loaded: D:\xampp72\htdocs\app_grm\application\modules/apengumuman/models/Model.php
+INFO - 2021-01-01 11:06:55 --> Final output sent to browser
+DEBUG - 2021-01-01 11:06:55 --> Total execution time: 0.8460
+INFO - 2021-01-01 05:06:59 --> Config Class Initialized
+INFO - 2021-01-01 05:06:59 --> Hooks Class Initialized
+DEBUG - 2021-01-01 05:06:59 --> UTF-8 Support Enabled
+INFO - 2021-01-01 05:06:59 --> Utf8 Class Initialized
+INFO - 2021-01-01 05:06:59 --> URI Class Initialized
+INFO - 2021-01-01 05:06:59 --> Router Class Initialized
+INFO - 2021-01-01 05:06:59 --> Output Class Initialized
+INFO - 2021-01-01 05:07:00 --> Security Class Initialized
+DEBUG - 2021-01-01 05:07:00 --> Global POST, GET and COOKIE data sanitized
+INFO - 2021-01-01 05:07:00 --> Input Class Initialized
+INFO - 2021-01-01 05:07:00 --> Language Class Initialized
+INFO - 2021-01-01 05:07:00 --> Language Class Initialized
+INFO - 2021-01-01 05:07:00 --> Config Class Initialized
+INFO - 2021-01-01 05:07:00 --> Loader Class Initialized
+INFO - 2021-01-01 05:07:00 --> Helper loaded: url_helper
+INFO - 2021-01-01 05:07:00 --> Helper loaded: html_helper
+INFO - 2021-01-01 05:07:00 --> Helper loaded: file_helper
+INFO - 2021-01-01 05:07:00 --> Helper loaded: form_helper
+INFO - 2021-01-01 05:07:00 --> Helper loaded: security_helper
+INFO - 2021-01-01 05:07:00 --> Helper loaded: xss_helper
+INFO - 2021-01-01 05:07:00 --> Helper loaded: slug_helper
+INFO - 2021-01-01 05:07:00 --> Database Driver Class Initialized
+DEBUG - 2021-01-01 05:07:00 --> Session: "sess_save_path" is empty; using "session.save_path" value from php.ini.
+INFO - 2021-01-01 05:07:00 --> Session: Class initialized using 'files' driver.
+INFO - 2021-01-01 05:07:00 --> Language file loaded: language/english/pagination_lang.php
+INFO - 2021-01-01 05:07:00 --> Pagination Class Initialized
+INFO - 2021-01-01 05:07:00 --> Email Class Initialized
+INFO - 2021-01-01 05:07:00 --> Model "M_konfig" initialized
+INFO - 2021-01-01 05:07:00 --> Model "M_reff" initialized
+INFO - 2021-01-01 05:07:00 --> Model "M_total" initialized
+INFO - 2021-01-01 05:07:00 --> Controller Class Initialized
+DEBUG - 2021-01-01 05:07:00 --> File loaded: D:\xampp72\htdocs\app_grm\application\modules/apengumuman/models/Model.php
+INFO - 2021-01-01 11:07:00 --> Final output sent to browser
+DEBUG - 2021-01-01 11:07:00 --> Total execution time: 0.8059
+INFO - 2021-01-01 05:07:04 --> Config Class Initialized
+INFO - 2021-01-01 05:07:04 --> Hooks Class Initialized
+DEBUG - 2021-01-01 05:07:04 --> UTF-8 Support Enabled
+INFO - 2021-01-01 05:07:04 --> Utf8 Class Initialized
+INFO - 2021-01-01 05:07:05 --> URI Class Initialized
+INFO - 2021-01-01 05:07:05 --> Router Class Initialized
+INFO - 2021-01-01 05:07:05 --> Output Class Initialized
+INFO - 2021-01-01 05:07:05 --> Security Class Initialized
+DEBUG - 2021-01-01 05:07:05 --> Global POST, GET and COOKIE data sanitized
+INFO - 2021-01-01 05:07:05 --> Input Class Initialized
+INFO - 2021-01-01 05:07:05 --> Language Class Initialized
+INFO - 2021-01-01 05:07:05 --> Language Class Initialized
+INFO - 2021-01-01 05:07:05 --> Config Class Initialized
+INFO - 2021-01-01 05:07:05 --> Loader Class Initialized
+INFO - 2021-01-01 05:07:05 --> Helper loaded: url_helper
+INFO - 2021-01-01 05:07:05 --> Helper loaded: html_helper
+INFO - 2021-01-01 05:07:05 --> Helper loaded: file_helper
+INFO - 2021-01-01 05:07:05 --> Helper loaded: form_helper
+INFO - 2021-01-01 05:07:05 --> Helper loaded: security_helper
+INFO - 2021-01-01 05:07:05 --> Helper loaded: xss_helper
+INFO - 2021-01-01 05:07:05 --> Helper loaded: slug_helper
+INFO - 2021-01-01 05:07:05 --> Database Driver Class Initialized
+DEBUG - 2021-01-01 05:07:05 --> Session: "sess_save_path" is empty; using "session.save_path" value from php.ini.
+INFO - 2021-01-01 05:07:05 --> Session: Class initialized using 'files' driver.
+INFO - 2021-01-01 05:07:05 --> Language file loaded: language/english/pagination_lang.php
+INFO - 2021-01-01 05:07:05 --> Pagination Class Initialized
+INFO - 2021-01-01 05:07:05 --> Email Class Initialized
+INFO - 2021-01-01 05:07:05 --> Model "M_konfig" initialized
+INFO - 2021-01-01 05:07:05 --> Model "M_reff" initialized
+INFO - 2021-01-01 05:07:05 --> Model "M_total" initialized
+INFO - 2021-01-01 05:07:05 --> Controller Class Initialized
+DEBUG - 2021-01-01 05:07:05 --> File loaded: D:\xampp72\htdocs\app_grm\application\modules/apengumuman/models/Model.php
+INFO - 2021-01-01 11:07:05 --> Final output sent to browser
+DEBUG - 2021-01-01 11:07:05 --> Total execution time: 0.8455
+INFO - 2021-01-01 05:07:09 --> Config Class Initialized
+INFO - 2021-01-01 05:07:10 --> Hooks Class Initialized
+DEBUG - 2021-01-01 05:07:10 --> UTF-8 Support Enabled
+INFO - 2021-01-01 05:07:10 --> Utf8 Class Initialized
+INFO - 2021-01-01 05:07:10 --> URI Class Initialized
+INFO - 2021-01-01 05:07:10 --> Router Class Initialized
+INFO - 2021-01-01 05:07:10 --> Output Class Initialized
+INFO - 2021-01-01 05:07:10 --> Security Class Initialized
+DEBUG - 2021-01-01 05:07:10 --> Global POST, GET and COOKIE data sanitized
+INFO - 2021-01-01 05:07:10 --> Input Class Initialized
+INFO - 2021-01-01 05:07:10 --> Language Class Initialized
+INFO - 2021-01-01 05:07:10 --> Language Class Initialized
+INFO - 2021-01-01 05:07:10 --> Config Class Initialized
+INFO - 2021-01-01 05:07:10 --> Loader Class Initialized
+INFO - 2021-01-01 05:07:10 --> Helper loaded: url_helper
+INFO - 2021-01-01 05:07:10 --> Helper loaded: html_helper
+INFO - 2021-01-01 05:07:10 --> Helper loaded: file_helper
+INFO - 2021-01-01 05:07:10 --> Helper loaded: form_helper
+INFO - 2021-01-01 05:07:10 --> Helper loaded: security_helper
+INFO - 2021-01-01 05:07:10 --> Helper loaded: xss_helper
+INFO - 2021-01-01 05:07:10 --> Helper loaded: slug_helper
+INFO - 2021-01-01 05:07:10 --> Database Driver Class Initialized
+DEBUG - 2021-01-01 05:07:10 --> Session: "sess_save_path" is empty; using "session.save_path" value from php.ini.
+INFO - 2021-01-01 05:07:10 --> Session: Class initialized using 'files' driver.
+INFO - 2021-01-01 05:07:10 --> Language file loaded: language/english/pagination_lang.php
+INFO - 2021-01-01 05:07:10 --> Pagination Class Initialized
+INFO - 2021-01-01 05:07:10 --> Email Class Initialized
+INFO - 2021-01-01 05:07:10 --> Model "M_konfig" initialized
+INFO - 2021-01-01 05:07:10 --> Model "M_reff" initialized
+INFO - 2021-01-01 05:07:10 --> Model "M_total" initialized
+INFO - 2021-01-01 05:07:10 --> Controller Class Initialized
+DEBUG - 2021-01-01 05:07:10 --> File loaded: D:\xampp72\htdocs\app_grm\application\modules/apengumuman/models/Model.php
+INFO - 2021-01-01 11:07:10 --> Final output sent to browser
+DEBUG - 2021-01-01 11:07:10 --> Total execution time: 0.8140
+INFO - 2021-01-01 05:07:15 --> Config Class Initialized
+INFO - 2021-01-01 05:07:15 --> Hooks Class Initialized
+DEBUG - 2021-01-01 05:07:15 --> UTF-8 Support Enabled
+INFO - 2021-01-01 05:07:15 --> Utf8 Class Initialized
+INFO - 2021-01-01 05:07:15 --> URI Class Initialized
+INFO - 2021-01-01 05:07:15 --> Router Class Initialized
+INFO - 2021-01-01 05:07:15 --> Output Class Initialized
+INFO - 2021-01-01 05:07:15 --> Security Class Initialized
+DEBUG - 2021-01-01 05:07:15 --> Global POST, GET and COOKIE data sanitized
+INFO - 2021-01-01 05:07:15 --> Input Class Initialized
+INFO - 2021-01-01 05:07:15 --> Language Class Initialized
+INFO - 2021-01-01 05:07:15 --> Language Class Initialized
+INFO - 2021-01-01 05:07:15 --> Config Class Initialized
+INFO - 2021-01-01 05:07:15 --> Loader Class Initialized
+INFO - 2021-01-01 05:07:15 --> Helper loaded: url_helper
+INFO - 2021-01-01 05:07:15 --> Helper loaded: html_helper
+INFO - 2021-01-01 05:07:15 --> Helper loaded: file_helper
+INFO - 2021-01-01 05:07:15 --> Helper loaded: form_helper
+INFO - 2021-01-01 05:07:15 --> Helper loaded: security_helper
+INFO - 2021-01-01 05:07:15 --> Helper loaded: xss_helper
+INFO - 2021-01-01 05:07:15 --> Helper loaded: slug_helper
+INFO - 2021-01-01 05:07:15 --> Database Driver Class Initialized
+DEBUG - 2021-01-01 05:07:15 --> Session: "sess_save_path" is empty; using "session.save_path" value from php.ini.
+INFO - 2021-01-01 05:07:15 --> Session: Class initialized using 'files' driver.
+INFO - 2021-01-01 05:07:15 --> Language file loaded: language/english/pagination_lang.php
+INFO - 2021-01-01 05:07:15 --> Pagination Class Initialized
+INFO - 2021-01-01 05:07:15 --> Email Class Initialized
+INFO - 2021-01-01 05:07:15 --> Model "M_konfig" initialized
+INFO - 2021-01-01 05:07:15 --> Model "M_reff" initialized
+INFO - 2021-01-01 05:07:15 --> Model "M_total" initialized
+INFO - 2021-01-01 05:07:15 --> Controller Class Initialized
+DEBUG - 2021-01-01 05:07:15 --> File loaded: D:\xampp72\htdocs\app_grm\application\modules/apengumuman/models/Model.php
+INFO - 2021-01-01 11:07:15 --> Final output sent to browser
+DEBUG - 2021-01-01 11:07:15 --> Total execution time: 0.9478
+INFO - 2021-01-01 05:07:20 --> Config Class Initialized
+INFO - 2021-01-01 05:07:20 --> Hooks Class Initialized
+DEBUG - 2021-01-01 05:07:20 --> UTF-8 Support Enabled
+INFO - 2021-01-01 05:07:20 --> Utf8 Class Initialized
+INFO - 2021-01-01 05:07:20 --> URI Class Initialized
+INFO - 2021-01-01 05:07:20 --> Router Class Initialized
+INFO - 2021-01-01 05:07:20 --> Output Class Initialized
+INFO - 2021-01-01 05:07:20 --> Security Class Initialized
+DEBUG - 2021-01-01 05:07:20 --> Global POST, GET and COOKIE data sanitized
+INFO - 2021-01-01 05:07:20 --> Input Class Initialized
+INFO - 2021-01-01 05:07:20 --> Language Class Initialized
+INFO - 2021-01-01 05:07:20 --> Language Class Initialized
+INFO - 2021-01-01 05:07:20 --> Config Class Initialized
+INFO - 2021-01-01 05:07:20 --> Loader Class Initialized
+INFO - 2021-01-01 05:07:20 --> Helper loaded: url_helper
+INFO - 2021-01-01 05:07:20 --> Helper loaded: html_helper
+INFO - 2021-01-01 05:07:20 --> Helper loaded: file_helper
+INFO - 2021-01-01 05:07:20 --> Helper loaded: form_helper
+INFO - 2021-01-01 05:07:20 --> Helper loaded: security_helper
+INFO - 2021-01-01 05:07:20 --> Helper loaded: xss_helper
+INFO - 2021-01-01 05:07:20 --> Helper loaded: slug_helper
+INFO - 2021-01-01 05:07:20 --> Database Driver Class Initialized
+DEBUG - 2021-01-01 05:07:20 --> Session: "sess_save_path" is empty; using "session.save_path" value from php.ini.
+INFO - 2021-01-01 05:07:20 --> Session: Class initialized using 'files' driver.
+INFO - 2021-01-01 05:07:20 --> Language file loaded: language/english/pagination_lang.php
+INFO - 2021-01-01 05:07:20 --> Pagination Class Initialized
+INFO - 2021-01-01 05:07:20 --> Email Class Initialized
+INFO - 2021-01-01 05:07:20 --> Model "M_konfig" initialized
+INFO - 2021-01-01 05:07:20 --> Model "M_reff" initialized
+INFO - 2021-01-01 05:07:20 --> Model "M_total" initialized
+INFO - 2021-01-01 05:07:20 --> Controller Class Initialized
+DEBUG - 2021-01-01 05:07:20 --> File loaded: D:\xampp72\htdocs\app_grm\application\modules/apengumuman/models/Model.php
+INFO - 2021-01-01 11:07:20 --> Final output sent to browser
+DEBUG - 2021-01-01 11:07:20 --> Total execution time: 0.8004
+INFO - 2021-01-01 05:07:25 --> Config Class Initialized
+INFO - 2021-01-01 05:07:25 --> Hooks Class Initialized
+DEBUG - 2021-01-01 05:07:25 --> UTF-8 Support Enabled
+INFO - 2021-01-01 05:07:25 --> Utf8 Class Initialized
+INFO - 2021-01-01 05:07:25 --> URI Class Initialized
+INFO - 2021-01-01 05:07:25 --> Router Class Initialized
+INFO - 2021-01-01 05:07:25 --> Output Class Initialized
+INFO - 2021-01-01 05:07:25 --> Security Class Initialized
+DEBUG - 2021-01-01 05:07:25 --> Global POST, GET and COOKIE data sanitized
+INFO - 2021-01-01 05:07:25 --> Input Class Initialized
+INFO - 2021-01-01 05:07:25 --> Language Class Initialized
+INFO - 2021-01-01 05:07:25 --> Language Class Initialized
+INFO - 2021-01-01 05:07:25 --> Config Class Initialized
+INFO - 2021-01-01 05:07:25 --> Loader Class Initialized
+INFO - 2021-01-01 05:07:25 --> Helper loaded: url_helper
+INFO - 2021-01-01 05:07:25 --> Helper loaded: html_helper
+INFO - 2021-01-01 05:07:25 --> Helper loaded: file_helper
+INFO - 2021-01-01 05:07:25 --> Helper loaded: form_helper
+INFO - 2021-01-01 05:07:25 --> Helper loaded: security_helper
+INFO - 2021-01-01 05:07:25 --> Helper loaded: xss_helper
+INFO - 2021-01-01 05:07:25 --> Helper loaded: slug_helper
+INFO - 2021-01-01 05:07:25 --> Database Driver Class Initialized
+DEBUG - 2021-01-01 05:07:25 --> Session: "sess_save_path" is empty; using "session.save_path" value from php.ini.
+INFO - 2021-01-01 05:07:25 --> Session: Class initialized using 'files' driver.
+INFO - 2021-01-01 05:07:25 --> Language file loaded: language/english/pagination_lang.php
+INFO - 2021-01-01 05:07:25 --> Pagination Class Initialized
+INFO - 2021-01-01 05:07:25 --> Email Class Initialized
+INFO - 2021-01-01 05:07:25 --> Model "M_konfig" initialized
+INFO - 2021-01-01 05:07:25 --> Model "M_reff" initialized
+INFO - 2021-01-01 05:07:25 --> Model "M_total" initialized
+INFO - 2021-01-01 05:07:25 --> Controller Class Initialized
+DEBUG - 2021-01-01 05:07:25 --> File loaded: D:\xampp72\htdocs\app_grm\application\modules/apengumuman/models/Model.php
+INFO - 2021-01-01 11:07:25 --> Final output sent to browser
+DEBUG - 2021-01-01 11:07:25 --> Total execution time: 0.8281
+INFO - 2021-01-01 05:07:30 --> Config Class Initialized
+INFO - 2021-01-01 05:07:30 --> Hooks Class Initialized
+DEBUG - 2021-01-01 05:07:30 --> UTF-8 Support Enabled
+INFO - 2021-01-01 05:07:30 --> Utf8 Class Initialized
+INFO - 2021-01-01 05:07:30 --> URI Class Initialized
+INFO - 2021-01-01 05:07:30 --> Router Class Initialized
+INFO - 2021-01-01 05:07:30 --> Output Class Initialized
+INFO - 2021-01-01 05:07:30 --> Security Class Initialized
+DEBUG - 2021-01-01 05:07:30 --> Global POST, GET and COOKIE data sanitized
+INFO - 2021-01-01 05:07:30 --> Input Class Initialized
+INFO - 2021-01-01 05:07:30 --> Language Class Initialized
+INFO - 2021-01-01 05:07:30 --> Language Class Initialized
+INFO - 2021-01-01 05:07:30 --> Config Class Initialized
+INFO - 2021-01-01 05:07:30 --> Loader Class Initialized
+INFO - 2021-01-01 05:07:30 --> Helper loaded: url_helper
+INFO - 2021-01-01 05:07:30 --> Helper loaded: html_helper
+INFO - 2021-01-01 05:07:30 --> Helper loaded: file_helper
+INFO - 2021-01-01 05:07:30 --> Helper loaded: form_helper
+INFO - 2021-01-01 05:07:30 --> Helper loaded: security_helper
+INFO - 2021-01-01 05:07:30 --> Helper loaded: xss_helper
+INFO - 2021-01-01 05:07:30 --> Helper loaded: slug_helper
+INFO - 2021-01-01 05:07:30 --> Database Driver Class Initialized
+DEBUG - 2021-01-01 05:07:30 --> Session: "sess_save_path" is empty; using "session.save_path" value from php.ini.
+INFO - 2021-01-01 05:07:30 --> Session: Class initialized using 'files' driver.
+INFO - 2021-01-01 05:07:30 --> Language file loaded: language/english/pagination_lang.php
+INFO - 2021-01-01 05:07:30 --> Pagination Class Initialized
+INFO - 2021-01-01 05:07:30 --> Email Class Initialized
+INFO - 2021-01-01 05:07:30 --> Model "M_konfig" initialized
+INFO - 2021-01-01 05:07:30 --> Model "M_reff" initialized
+INFO - 2021-01-01 05:07:30 --> Model "M_total" initialized
+INFO - 2021-01-01 05:07:31 --> Controller Class Initialized
+DEBUG - 2021-01-01 05:07:31 --> File loaded: D:\xampp72\htdocs\app_grm\application\modules/apengumuman/models/Model.php
+INFO - 2021-01-01 11:07:31 --> Final output sent to browser
+DEBUG - 2021-01-01 11:07:31 --> Total execution time: 0.9034
+INFO - 2021-01-01 05:07:35 --> Config Class Initialized
+INFO - 2021-01-01 05:07:35 --> Hooks Class Initialized
+DEBUG - 2021-01-01 05:07:35 --> UTF-8 Support Enabled
+INFO - 2021-01-01 05:07:35 --> Utf8 Class Initialized
+INFO - 2021-01-01 05:07:35 --> URI Class Initialized
+INFO - 2021-01-01 05:07:35 --> Router Class Initialized
+INFO - 2021-01-01 05:07:35 --> Output Class Initialized
+INFO - 2021-01-01 05:07:35 --> Security Class Initialized
+DEBUG - 2021-01-01 05:07:35 --> Global POST, GET and COOKIE data sanitized
+INFO - 2021-01-01 05:07:35 --> Input Class Initialized
+INFO - 2021-01-01 05:07:35 --> Language Class Initialized
+INFO - 2021-01-01 05:07:35 --> Language Class Initialized
+INFO - 2021-01-01 05:07:35 --> Config Class Initialized
+INFO - 2021-01-01 05:07:35 --> Loader Class Initialized
+INFO - 2021-01-01 05:07:35 --> Helper loaded: url_helper
+INFO - 2021-01-01 05:07:35 --> Helper loaded: html_helper
+INFO - 2021-01-01 05:07:35 --> Helper loaded: file_helper
+INFO - 2021-01-01 05:07:35 --> Helper loaded: form_helper
+INFO - 2021-01-01 05:07:35 --> Helper loaded: security_helper
+INFO - 2021-01-01 05:07:35 --> Helper loaded: xss_helper
+INFO - 2021-01-01 05:07:35 --> Helper loaded: slug_helper
+INFO - 2021-01-01 05:07:35 --> Database Driver Class Initialized
+DEBUG - 2021-01-01 05:07:35 --> Session: "sess_save_path" is empty; using "session.save_path" value from php.ini.
+INFO - 2021-01-01 05:07:35 --> Session: Class initialized using 'files' driver.
+INFO - 2021-01-01 05:07:35 --> Language file loaded: language/english/pagination_lang.php
+INFO - 2021-01-01 05:07:35 --> Pagination Class Initialized
+INFO - 2021-01-01 05:07:35 --> Email Class Initialized
+INFO - 2021-01-01 05:07:36 --> Model "M_konfig" initialized
+INFO - 2021-01-01 05:07:36 --> Model "M_reff" initialized
+INFO - 2021-01-01 05:07:36 --> Model "M_total" initialized
+INFO - 2021-01-01 05:07:36 --> Controller Class Initialized
+DEBUG - 2021-01-01 05:07:36 --> File loaded: D:\xampp72\htdocs\app_grm\application\modules/apengumuman/models/Model.php
+INFO - 2021-01-01 11:07:36 --> Final output sent to browser
+DEBUG - 2021-01-01 11:07:36 --> Total execution time: 0.8763
+INFO - 2021-01-01 05:07:40 --> Config Class Initialized
+INFO - 2021-01-01 05:07:40 --> Hooks Class Initialized
+DEBUG - 2021-01-01 05:07:40 --> UTF-8 Support Enabled
+INFO - 2021-01-01 05:07:40 --> Utf8 Class Initialized
+INFO - 2021-01-01 05:07:40 --> URI Class Initialized
+INFO - 2021-01-01 05:07:40 --> Router Class Initialized
+INFO - 2021-01-01 05:07:40 --> Output Class Initialized
+INFO - 2021-01-01 05:07:40 --> Security Class Initialized
+DEBUG - 2021-01-01 05:07:40 --> Global POST, GET and COOKIE data sanitized
+INFO - 2021-01-01 05:07:40 --> Input Class Initialized
+INFO - 2021-01-01 05:07:40 --> Language Class Initialized
+INFO - 2021-01-01 05:07:40 --> Language Class Initialized
+INFO - 2021-01-01 05:07:40 --> Config Class Initialized
+INFO - 2021-01-01 05:07:40 --> Loader Class Initialized
+INFO - 2021-01-01 05:07:40 --> Helper loaded: url_helper
+INFO - 2021-01-01 05:07:40 --> Helper loaded: html_helper
+INFO - 2021-01-01 05:07:40 --> Helper loaded: file_helper
+INFO - 2021-01-01 05:07:40 --> Helper loaded: form_helper
+INFO - 2021-01-01 05:07:40 --> Helper loaded: security_helper
+INFO - 2021-01-01 05:07:40 --> Helper loaded: xss_helper
+INFO - 2021-01-01 05:07:40 --> Helper loaded: slug_helper
+INFO - 2021-01-01 05:07:40 --> Database Driver Class Initialized
+DEBUG - 2021-01-01 05:07:40 --> Session: "sess_save_path" is empty; using "session.save_path" value from php.ini.
+INFO - 2021-01-01 05:07:40 --> Session: Class initialized using 'files' driver.
+INFO - 2021-01-01 05:07:40 --> Language file loaded: language/english/pagination_lang.php
+INFO - 2021-01-01 05:07:40 --> Pagination Class Initialized
+INFO - 2021-01-01 05:07:41 --> Email Class Initialized
+INFO - 2021-01-01 05:07:41 --> Model "M_konfig" initialized
+INFO - 2021-01-01 05:07:41 --> Model "M_reff" initialized
+INFO - 2021-01-01 05:07:41 --> Model "M_total" initialized
+INFO - 2021-01-01 05:07:41 --> Controller Class Initialized
+DEBUG - 2021-01-01 05:07:41 --> File loaded: D:\xampp72\htdocs\app_grm\application\modules/apengumuman/models/Model.php
+INFO - 2021-01-01 11:07:41 --> Final output sent to browser
+DEBUG - 2021-01-01 11:07:41 --> Total execution time: 0.8315
+INFO - 2021-01-01 05:07:45 --> Config Class Initialized
+INFO - 2021-01-01 05:07:45 --> Hooks Class Initialized
+DEBUG - 2021-01-01 05:07:45 --> UTF-8 Support Enabled
+INFO - 2021-01-01 05:07:45 --> Utf8 Class Initialized
+INFO - 2021-01-01 05:07:45 --> URI Class Initialized
+INFO - 2021-01-01 05:07:45 --> Router Class Initialized
+INFO - 2021-01-01 05:07:45 --> Output Class Initialized
+INFO - 2021-01-01 05:07:45 --> Security Class Initialized
+DEBUG - 2021-01-01 05:07:45 --> Global POST, GET and COOKIE data sanitized
+INFO - 2021-01-01 05:07:45 --> Input Class Initialized
+INFO - 2021-01-01 05:07:45 --> Language Class Initialized
+INFO - 2021-01-01 05:07:45 --> Language Class Initialized
+INFO - 2021-01-01 05:07:45 --> Config Class Initialized
+INFO - 2021-01-01 05:07:45 --> Loader Class Initialized
+INFO - 2021-01-01 05:07:45 --> Helper loaded: url_helper
+INFO - 2021-01-01 05:07:45 --> Helper loaded: html_helper
+INFO - 2021-01-01 05:07:45 --> Helper loaded: file_helper
+INFO - 2021-01-01 05:07:45 --> Helper loaded: form_helper
+INFO - 2021-01-01 05:07:45 --> Helper loaded: security_helper
+INFO - 2021-01-01 05:07:45 --> Helper loaded: xss_helper
+INFO - 2021-01-01 05:07:45 --> Helper loaded: slug_helper
+INFO - 2021-01-01 05:07:45 --> Database Driver Class Initialized
+DEBUG - 2021-01-01 05:07:46 --> Session: "sess_save_path" is empty; using "session.save_path" value from php.ini.
+INFO - 2021-01-01 05:07:46 --> Session: Class initialized using 'files' driver.
+INFO - 2021-01-01 05:07:46 --> Language file loaded: language/english/pagination_lang.php
+INFO - 2021-01-01 05:07:46 --> Pagination Class Initialized
+INFO - 2021-01-01 05:07:46 --> Email Class Initialized
+INFO - 2021-01-01 05:07:46 --> Model "M_konfig" initialized
+INFO - 2021-01-01 05:07:46 --> Model "M_reff" initialized
+INFO - 2021-01-01 05:07:46 --> Model "M_total" initialized
+INFO - 2021-01-01 05:07:46 --> Controller Class Initialized
+DEBUG - 2021-01-01 05:07:46 --> File loaded: D:\xampp72\htdocs\app_grm\application\modules/apengumuman/models/Model.php
+INFO - 2021-01-01 11:07:46 --> Final output sent to browser
+DEBUG - 2021-01-01 11:07:46 --> Total execution time: 0.8474
+INFO - 2021-01-01 05:07:50 --> Config Class Initialized
+INFO - 2021-01-01 05:07:50 --> Hooks Class Initialized
+DEBUG - 2021-01-01 05:07:50 --> UTF-8 Support Enabled
+INFO - 2021-01-01 05:07:50 --> Utf8 Class Initialized
+INFO - 2021-01-01 05:07:50 --> URI Class Initialized
+INFO - 2021-01-01 05:07:50 --> Router Class Initialized
+INFO - 2021-01-01 05:07:50 --> Output Class Initialized
+INFO - 2021-01-01 05:07:50 --> Security Class Initialized
+DEBUG - 2021-01-01 05:07:50 --> Global POST, GET and COOKIE data sanitized
+INFO - 2021-01-01 05:07:50 --> Input Class Initialized
+INFO - 2021-01-01 05:07:50 --> Language Class Initialized
+INFO - 2021-01-01 05:07:50 --> Language Class Initialized
+INFO - 2021-01-01 05:07:50 --> Config Class Initialized
+INFO - 2021-01-01 05:07:50 --> Loader Class Initialized
+INFO - 2021-01-01 05:07:50 --> Helper loaded: url_helper
+INFO - 2021-01-01 05:07:50 --> Helper loaded: html_helper
+INFO - 2021-01-01 05:07:50 --> Helper loaded: file_helper
+INFO - 2021-01-01 05:07:50 --> Helper loaded: form_helper
+INFO - 2021-01-01 05:07:50 --> Helper loaded: security_helper
+INFO - 2021-01-01 05:07:50 --> Helper loaded: xss_helper
+INFO - 2021-01-01 05:07:51 --> Helper loaded: slug_helper
+INFO - 2021-01-01 05:07:51 --> Database Driver Class Initialized
+DEBUG - 2021-01-01 05:07:51 --> Session: "sess_save_path" is empty; using "session.save_path" value from php.ini.
+INFO - 2021-01-01 05:07:51 --> Session: Class initialized using 'files' driver.
+INFO - 2021-01-01 05:07:51 --> Language file loaded: language/english/pagination_lang.php
+INFO - 2021-01-01 05:07:51 --> Pagination Class Initialized
+INFO - 2021-01-01 05:07:51 --> Email Class Initialized
+INFO - 2021-01-01 05:07:51 --> Model "M_konfig" initialized
+INFO - 2021-01-01 05:07:51 --> Model "M_reff" initialized
+INFO - 2021-01-01 05:07:51 --> Model "M_total" initialized
+INFO - 2021-01-01 05:07:51 --> Controller Class Initialized
+DEBUG - 2021-01-01 05:07:51 --> File loaded: D:\xampp72\htdocs\app_grm\application\modules/apengumuman/models/Model.php
+INFO - 2021-01-01 11:07:51 --> Final output sent to browser
+DEBUG - 2021-01-01 11:07:51 --> Total execution time: 0.9139
+INFO - 2021-01-01 05:07:55 --> Config Class Initialized
+INFO - 2021-01-01 05:07:55 --> Hooks Class Initialized
+DEBUG - 2021-01-01 05:07:55 --> UTF-8 Support Enabled
+INFO - 2021-01-01 05:07:55 --> Utf8 Class Initialized
+INFO - 2021-01-01 05:07:55 --> URI Class Initialized
+INFO - 2021-01-01 05:07:55 --> Router Class Initialized
+INFO - 2021-01-01 05:07:55 --> Output Class Initialized
+INFO - 2021-01-01 05:07:55 --> Security Class Initialized
+DEBUG - 2021-01-01 05:07:55 --> Global POST, GET and COOKIE data sanitized
+INFO - 2021-01-01 05:07:55 --> Input Class Initialized
+INFO - 2021-01-01 05:07:55 --> Language Class Initialized
+INFO - 2021-01-01 05:07:55 --> Language Class Initialized
+INFO - 2021-01-01 05:07:55 --> Config Class Initialized
+INFO - 2021-01-01 05:07:55 --> Loader Class Initialized
+INFO - 2021-01-01 05:07:55 --> Helper loaded: url_helper
+INFO - 2021-01-01 05:07:55 --> Helper loaded: html_helper
+INFO - 2021-01-01 05:07:55 --> Helper loaded: file_helper
+INFO - 2021-01-01 05:07:55 --> Helper loaded: form_helper
+INFO - 2021-01-01 05:07:56 --> Helper loaded: security_helper
+INFO - 2021-01-01 05:07:56 --> Helper loaded: xss_helper
+INFO - 2021-01-01 05:07:56 --> Helper loaded: slug_helper
+INFO - 2021-01-01 05:07:56 --> Database Driver Class Initialized
+DEBUG - 2021-01-01 05:07:56 --> Session: "sess_save_path" is empty; using "session.save_path" value from php.ini.
+INFO - 2021-01-01 05:07:56 --> Session: Class initialized using 'files' driver.
+INFO - 2021-01-01 05:07:56 --> Language file loaded: language/english/pagination_lang.php
+INFO - 2021-01-01 05:07:56 --> Pagination Class Initialized
+INFO - 2021-01-01 05:07:56 --> Email Class Initialized
+INFO - 2021-01-01 05:07:56 --> Model "M_konfig" initialized
+INFO - 2021-01-01 05:07:56 --> Model "M_reff" initialized
+INFO - 2021-01-01 05:07:56 --> Model "M_total" initialized
+INFO - 2021-01-01 05:07:56 --> Controller Class Initialized
+DEBUG - 2021-01-01 05:07:56 --> File loaded: D:\xampp72\htdocs\app_grm\application\modules/apengumuman/models/Model.php
+INFO - 2021-01-01 11:07:56 --> Final output sent to browser
+DEBUG - 2021-01-01 11:07:56 --> Total execution time: 0.8232
+INFO - 2021-01-01 05:08:00 --> Config Class Initialized
+INFO - 2021-01-01 05:08:00 --> Hooks Class Initialized
+DEBUG - 2021-01-01 05:08:00 --> UTF-8 Support Enabled
+INFO - 2021-01-01 05:08:00 --> Utf8 Class Initialized
+INFO - 2021-01-01 05:08:00 --> URI Class Initialized
+INFO - 2021-01-01 05:08:00 --> Router Class Initialized
+INFO - 2021-01-01 05:08:00 --> Output Class Initialized
+INFO - 2021-01-01 05:08:00 --> Security Class Initialized
+DEBUG - 2021-01-01 05:08:00 --> Global POST, GET and COOKIE data sanitized
+INFO - 2021-01-01 05:08:00 --> Input Class Initialized
+INFO - 2021-01-01 05:08:00 --> Language Class Initialized
+INFO - 2021-01-01 05:08:00 --> Language Class Initialized
+INFO - 2021-01-01 05:08:00 --> Config Class Initialized
+INFO - 2021-01-01 05:08:00 --> Loader Class Initialized
+INFO - 2021-01-01 05:08:00 --> Helper loaded: url_helper
+INFO - 2021-01-01 05:08:01 --> Helper loaded: html_helper
+INFO - 2021-01-01 05:08:01 --> Helper loaded: file_helper
+INFO - 2021-01-01 05:08:01 --> Helper loaded: form_helper
+INFO - 2021-01-01 05:08:01 --> Helper loaded: security_helper
+INFO - 2021-01-01 05:08:01 --> Helper loaded: xss_helper
+INFO - 2021-01-01 05:08:01 --> Helper loaded: slug_helper
+INFO - 2021-01-01 05:08:01 --> Database Driver Class Initialized
+DEBUG - 2021-01-01 05:08:01 --> Session: "sess_save_path" is empty; using "session.save_path" value from php.ini.
+INFO - 2021-01-01 05:08:01 --> Session: Class initialized using 'files' driver.
+INFO - 2021-01-01 05:08:01 --> Language file loaded: language/english/pagination_lang.php
+INFO - 2021-01-01 05:08:01 --> Pagination Class Initialized
+INFO - 2021-01-01 05:08:01 --> Email Class Initialized
+INFO - 2021-01-01 05:08:01 --> Model "M_konfig" initialized
+INFO - 2021-01-01 05:08:01 --> Model "M_reff" initialized
+INFO - 2021-01-01 05:08:01 --> Model "M_total" initialized
+INFO - 2021-01-01 05:08:01 --> Controller Class Initialized
+DEBUG - 2021-01-01 05:08:01 --> File loaded: D:\xampp72\htdocs\app_grm\application\modules/apengumuman/models/Model.php
+INFO - 2021-01-01 11:08:01 --> Final output sent to browser
+DEBUG - 2021-01-01 11:08:01 --> Total execution time: 0.8175
+INFO - 2021-01-01 05:08:05 --> Config Class Initialized
+INFO - 2021-01-01 05:08:05 --> Hooks Class Initialized
+DEBUG - 2021-01-01 05:08:05 --> UTF-8 Support Enabled
+INFO - 2021-01-01 05:08:06 --> Utf8 Class Initialized
+INFO - 2021-01-01 05:08:06 --> URI Class Initialized
+INFO - 2021-01-01 05:08:06 --> Router Class Initialized
+INFO - 2021-01-01 05:08:06 --> Output Class Initialized
+INFO - 2021-01-01 05:08:06 --> Security Class Initialized
+DEBUG - 2021-01-01 05:08:06 --> Global POST, GET and COOKIE data sanitized
+INFO - 2021-01-01 05:08:06 --> Input Class Initialized
+INFO - 2021-01-01 05:08:06 --> Language Class Initialized
+INFO - 2021-01-01 05:08:06 --> Language Class Initialized
+INFO - 2021-01-01 05:08:06 --> Config Class Initialized
+INFO - 2021-01-01 05:08:06 --> Loader Class Initialized
+INFO - 2021-01-01 05:08:06 --> Helper loaded: url_helper
+INFO - 2021-01-01 05:08:06 --> Helper loaded: html_helper
+INFO - 2021-01-01 05:08:06 --> Helper loaded: file_helper
+INFO - 2021-01-01 05:08:06 --> Helper loaded: form_helper
+INFO - 2021-01-01 05:08:06 --> Helper loaded: security_helper
+INFO - 2021-01-01 05:08:06 --> Helper loaded: xss_helper
+INFO - 2021-01-01 05:08:06 --> Helper loaded: slug_helper
+INFO - 2021-01-01 05:08:06 --> Database Driver Class Initialized
+DEBUG - 2021-01-01 05:08:06 --> Session: "sess_save_path" is empty; using "session.save_path" value from php.ini.
+INFO - 2021-01-01 05:08:06 --> Session: Class initialized using 'files' driver.
+INFO - 2021-01-01 05:08:06 --> Language file loaded: language/english/pagination_lang.php
+INFO - 2021-01-01 05:08:06 --> Pagination Class Initialized
+INFO - 2021-01-01 05:08:06 --> Email Class Initialized
+INFO - 2021-01-01 05:08:06 --> Model "M_konfig" initialized
+INFO - 2021-01-01 05:08:06 --> Model "M_reff" initialized
+INFO - 2021-01-01 05:08:06 --> Model "M_total" initialized
+INFO - 2021-01-01 05:08:06 --> Controller Class Initialized
+DEBUG - 2021-01-01 05:08:06 --> File loaded: D:\xampp72\htdocs\app_grm\application\modules/apengumuman/models/Model.php
+INFO - 2021-01-01 11:08:06 --> Final output sent to browser
+DEBUG - 2021-01-01 11:08:06 --> Total execution time: 0.8575
+INFO - 2021-01-01 05:08:10 --> Config Class Initialized
+INFO - 2021-01-01 05:08:10 --> Hooks Class Initialized
+DEBUG - 2021-01-01 05:08:10 --> UTF-8 Support Enabled
+INFO - 2021-01-01 05:08:10 --> Utf8 Class Initialized
+INFO - 2021-01-01 05:08:10 --> URI Class Initialized
+INFO - 2021-01-01 05:08:10 --> Router Class Initialized
+INFO - 2021-01-01 05:08:10 --> Output Class Initialized
+INFO - 2021-01-01 05:08:11 --> Security Class Initialized
+DEBUG - 2021-01-01 05:08:11 --> Global POST, GET and COOKIE data sanitized
+INFO - 2021-01-01 05:08:11 --> Input Class Initialized
+INFO - 2021-01-01 05:08:11 --> Language Class Initialized
+INFO - 2021-01-01 05:08:11 --> Language Class Initialized
+INFO - 2021-01-01 05:08:11 --> Config Class Initialized
+INFO - 2021-01-01 05:08:11 --> Loader Class Initialized
+INFO - 2021-01-01 05:08:11 --> Helper loaded: url_helper
+INFO - 2021-01-01 05:08:11 --> Helper loaded: html_helper
+INFO - 2021-01-01 05:08:11 --> Helper loaded: file_helper
+INFO - 2021-01-01 05:08:11 --> Helper loaded: form_helper
+INFO - 2021-01-01 05:08:11 --> Helper loaded: security_helper
+INFO - 2021-01-01 05:08:11 --> Helper loaded: xss_helper
+INFO - 2021-01-01 05:08:11 --> Helper loaded: slug_helper
+INFO - 2021-01-01 05:08:11 --> Database Driver Class Initialized
+DEBUG - 2021-01-01 05:08:11 --> Session: "sess_save_path" is empty; using "session.save_path" value from php.ini.
+INFO - 2021-01-01 05:08:11 --> Session: Class initialized using 'files' driver.
+INFO - 2021-01-01 05:08:11 --> Language file loaded: language/english/pagination_lang.php
+INFO - 2021-01-01 05:08:11 --> Pagination Class Initialized
+INFO - 2021-01-01 05:08:11 --> Email Class Initialized
+INFO - 2021-01-01 05:08:11 --> Model "M_konfig" initialized
+INFO - 2021-01-01 05:08:11 --> Model "M_reff" initialized
+INFO - 2021-01-01 05:08:11 --> Model "M_total" initialized
+INFO - 2021-01-01 05:08:11 --> Controller Class Initialized
+DEBUG - 2021-01-01 05:08:11 --> File loaded: D:\xampp72\htdocs\app_grm\application\modules/apengumuman/models/Model.php
+INFO - 2021-01-01 11:08:11 --> Final output sent to browser
+DEBUG - 2021-01-01 11:08:11 --> Total execution time: 0.8823
+INFO - 2021-01-01 05:08:15 --> Config Class Initialized
+INFO - 2021-01-01 05:08:15 --> Hooks Class Initialized
+DEBUG - 2021-01-01 05:08:15 --> UTF-8 Support Enabled
+INFO - 2021-01-01 05:08:15 --> Utf8 Class Initialized
+INFO - 2021-01-01 05:08:15 --> URI Class Initialized
+INFO - 2021-01-01 05:08:15 --> Router Class Initialized
+INFO - 2021-01-01 05:08:16 --> Output Class Initialized
+INFO - 2021-01-01 05:08:16 --> Security Class Initialized
+DEBUG - 2021-01-01 05:08:16 --> Global POST, GET and COOKIE data sanitized
+INFO - 2021-01-01 05:08:16 --> Input Class Initialized
+INFO - 2021-01-01 05:08:16 --> Language Class Initialized
+INFO - 2021-01-01 05:08:16 --> Language Class Initialized
+INFO - 2021-01-01 05:08:16 --> Config Class Initialized
+INFO - 2021-01-01 05:08:16 --> Loader Class Initialized
+INFO - 2021-01-01 05:08:16 --> Helper loaded: url_helper
+INFO - 2021-01-01 05:08:16 --> Helper loaded: html_helper
+INFO - 2021-01-01 05:08:16 --> Helper loaded: file_helper
+INFO - 2021-01-01 05:08:16 --> Helper loaded: form_helper
+INFO - 2021-01-01 05:08:16 --> Helper loaded: security_helper
+INFO - 2021-01-01 05:08:16 --> Helper loaded: xss_helper
+INFO - 2021-01-01 05:08:16 --> Helper loaded: slug_helper
+INFO - 2021-01-01 05:08:16 --> Database Driver Class Initialized
+DEBUG - 2021-01-01 05:08:16 --> Session: "sess_save_path" is empty; using "session.save_path" value from php.ini.
+INFO - 2021-01-01 05:08:16 --> Session: Class initialized using 'files' driver.
+INFO - 2021-01-01 05:08:16 --> Language file loaded: language/english/pagination_lang.php
+INFO - 2021-01-01 05:08:16 --> Pagination Class Initialized
+INFO - 2021-01-01 05:08:16 --> Email Class Initialized
+INFO - 2021-01-01 05:08:16 --> Model "M_konfig" initialized
+INFO - 2021-01-01 05:08:16 --> Model "M_reff" initialized
+INFO - 2021-01-01 05:08:16 --> Model "M_total" initialized
+INFO - 2021-01-01 05:08:16 --> Controller Class Initialized
+DEBUG - 2021-01-01 05:08:16 --> File loaded: D:\xampp72\htdocs\app_grm\application\modules/apengumuman/models/Model.php
+INFO - 2021-01-01 11:08:16 --> Final output sent to browser
+DEBUG - 2021-01-01 11:08:16 --> Total execution time: 0.8174
+INFO - 2021-01-01 05:08:20 --> Config Class Initialized
+INFO - 2021-01-01 05:08:20 --> Hooks Class Initialized
+DEBUG - 2021-01-01 05:08:21 --> UTF-8 Support Enabled
+INFO - 2021-01-01 05:08:21 --> Utf8 Class Initialized
+INFO - 2021-01-01 05:08:21 --> URI Class Initialized
+INFO - 2021-01-01 05:08:21 --> Router Class Initialized
+INFO - 2021-01-01 05:08:21 --> Output Class Initialized
+INFO - 2021-01-01 05:08:21 --> Security Class Initialized
+DEBUG - 2021-01-01 05:08:21 --> Global POST, GET and COOKIE data sanitized
+INFO - 2021-01-01 05:08:21 --> Input Class Initialized
+INFO - 2021-01-01 05:08:21 --> Language Class Initialized
+INFO - 2021-01-01 05:08:21 --> Language Class Initialized
+INFO - 2021-01-01 05:08:21 --> Config Class Initialized
+INFO - 2021-01-01 05:08:21 --> Loader Class Initialized
+INFO - 2021-01-01 05:08:21 --> Helper loaded: url_helper
+INFO - 2021-01-01 05:08:21 --> Helper loaded: html_helper
+INFO - 2021-01-01 05:08:21 --> Helper loaded: file_helper
+INFO - 2021-01-01 05:08:21 --> Helper loaded: form_helper
+INFO - 2021-01-01 05:08:21 --> Helper loaded: security_helper
+INFO - 2021-01-01 05:08:21 --> Helper loaded: xss_helper
+INFO - 2021-01-01 05:08:21 --> Helper loaded: slug_helper
+INFO - 2021-01-01 05:08:21 --> Database Driver Class Initialized
+DEBUG - 2021-01-01 05:08:21 --> Session: "sess_save_path" is empty; using "session.save_path" value from php.ini.
+INFO - 2021-01-01 05:08:21 --> Session: Class initialized using 'files' driver.
+INFO - 2021-01-01 05:08:21 --> Language file loaded: language/english/pagination_lang.php
+INFO - 2021-01-01 05:08:21 --> Pagination Class Initialized
+INFO - 2021-01-01 05:08:21 --> Email Class Initialized
+INFO - 2021-01-01 05:08:21 --> Model "M_konfig" initialized
+INFO - 2021-01-01 05:08:21 --> Model "M_reff" initialized
+INFO - 2021-01-01 05:08:21 --> Model "M_total" initialized
+INFO - 2021-01-01 05:08:21 --> Controller Class Initialized
+DEBUG - 2021-01-01 05:08:21 --> File loaded: D:\xampp72\htdocs\app_grm\application\modules/apengumuman/models/Model.php
+INFO - 2021-01-01 11:08:21 --> Final output sent to browser
+DEBUG - 2021-01-01 11:08:21 --> Total execution time: 0.8193
+INFO - 2021-01-01 05:08:26 --> Config Class Initialized
+INFO - 2021-01-01 05:08:26 --> Hooks Class Initialized
+DEBUG - 2021-01-01 05:08:26 --> UTF-8 Support Enabled
+INFO - 2021-01-01 05:08:26 --> Utf8 Class Initialized
+INFO - 2021-01-01 05:08:26 --> URI Class Initialized
+INFO - 2021-01-01 05:08:26 --> Router Class Initialized
+INFO - 2021-01-01 05:08:26 --> Output Class Initialized
+INFO - 2021-01-01 05:08:26 --> Security Class Initialized
+DEBUG - 2021-01-01 05:08:26 --> Global POST, GET and COOKIE data sanitized
+INFO - 2021-01-01 05:08:26 --> Input Class Initialized
+INFO - 2021-01-01 05:08:26 --> Language Class Initialized
+INFO - 2021-01-01 05:08:26 --> Language Class Initialized
+INFO - 2021-01-01 05:08:26 --> Config Class Initialized
+INFO - 2021-01-01 05:08:26 --> Loader Class Initialized
+INFO - 2021-01-01 05:08:26 --> Helper loaded: url_helper
+INFO - 2021-01-01 05:08:26 --> Helper loaded: html_helper
+INFO - 2021-01-01 05:08:26 --> Helper loaded: file_helper
+INFO - 2021-01-01 05:08:26 --> Helper loaded: form_helper
+INFO - 2021-01-01 05:08:26 --> Helper loaded: security_helper
+INFO - 2021-01-01 05:08:26 --> Helper loaded: xss_helper
+INFO - 2021-01-01 05:08:26 --> Helper loaded: slug_helper
+INFO - 2021-01-01 05:08:26 --> Database Driver Class Initialized
+DEBUG - 2021-01-01 05:08:26 --> Session: "sess_save_path" is empty; using "session.save_path" value from php.ini.
+INFO - 2021-01-01 05:08:26 --> Session: Class initialized using 'files' driver.
+INFO - 2021-01-01 05:08:26 --> Language file loaded: language/english/pagination_lang.php
+INFO - 2021-01-01 05:08:26 --> Pagination Class Initialized
+INFO - 2021-01-01 05:08:26 --> Email Class Initialized
+INFO - 2021-01-01 05:08:26 --> Model "M_konfig" initialized
+INFO - 2021-01-01 05:08:26 --> Model "M_reff" initialized
+INFO - 2021-01-01 05:08:26 --> Model "M_total" initialized
+INFO - 2021-01-01 05:08:26 --> Controller Class Initialized
+DEBUG - 2021-01-01 05:08:26 --> File loaded: D:\xampp72\htdocs\app_grm\application\modules/apengumuman/models/Model.php
+INFO - 2021-01-01 11:08:26 --> Final output sent to browser
+DEBUG - 2021-01-01 11:08:26 --> Total execution time: 0.8283
+INFO - 2021-01-01 05:08:31 --> Config Class Initialized
+INFO - 2021-01-01 05:08:31 --> Hooks Class Initialized
+DEBUG - 2021-01-01 05:08:31 --> UTF-8 Support Enabled
+INFO - 2021-01-01 05:08:31 --> Utf8 Class Initialized
+INFO - 2021-01-01 05:08:31 --> URI Class Initialized
+INFO - 2021-01-01 05:08:31 --> Router Class Initialized
+INFO - 2021-01-01 05:08:31 --> Output Class Initialized
+INFO - 2021-01-01 05:08:31 --> Security Class Initialized
+DEBUG - 2021-01-01 05:08:31 --> Global POST, GET and COOKIE data sanitized
+INFO - 2021-01-01 05:08:31 --> Input Class Initialized
+INFO - 2021-01-01 05:08:31 --> Language Class Initialized
+INFO - 2021-01-01 05:08:31 --> Language Class Initialized
+INFO - 2021-01-01 05:08:31 --> Config Class Initialized
+INFO - 2021-01-01 05:08:31 --> Loader Class Initialized
+INFO - 2021-01-01 05:08:31 --> Helper loaded: url_helper
+INFO - 2021-01-01 05:08:31 --> Helper loaded: html_helper
+INFO - 2021-01-01 05:08:31 --> Helper loaded: file_helper
+INFO - 2021-01-01 05:08:31 --> Helper loaded: form_helper
+INFO - 2021-01-01 05:08:31 --> Helper loaded: security_helper
+INFO - 2021-01-01 05:08:31 --> Helper loaded: xss_helper
+INFO - 2021-01-01 05:08:31 --> Helper loaded: slug_helper
+INFO - 2021-01-01 05:08:31 --> Database Driver Class Initialized
+DEBUG - 2021-01-01 05:08:31 --> Session: "sess_save_path" is empty; using "session.save_path" value from php.ini.
+INFO - 2021-01-01 05:08:31 --> Session: Class initialized using 'files' driver.
+INFO - 2021-01-01 05:08:31 --> Language file loaded: language/english/pagination_lang.php
+INFO - 2021-01-01 05:08:31 --> Pagination Class Initialized
+INFO - 2021-01-01 05:08:31 --> Email Class Initialized
+INFO - 2021-01-01 05:08:31 --> Model "M_konfig" initialized
+INFO - 2021-01-01 05:08:31 --> Model "M_reff" initialized
+INFO - 2021-01-01 05:08:31 --> Model "M_total" initialized
+INFO - 2021-01-01 05:08:31 --> Controller Class Initialized
+DEBUG - 2021-01-01 05:08:31 --> File loaded: D:\xampp72\htdocs\app_grm\application\modules/apengumuman/models/Model.php
+INFO - 2021-01-01 11:08:31 --> Final output sent to browser
+DEBUG - 2021-01-01 11:08:31 --> Total execution time: 0.8300
+INFO - 2021-01-01 05:08:36 --> Config Class Initialized
+INFO - 2021-01-01 05:08:36 --> Hooks Class Initialized
+DEBUG - 2021-01-01 05:08:36 --> UTF-8 Support Enabled
+INFO - 2021-01-01 05:08:36 --> Utf8 Class Initialized
+INFO - 2021-01-01 05:08:36 --> URI Class Initialized
+INFO - 2021-01-01 05:08:36 --> Router Class Initialized
+INFO - 2021-01-01 05:08:36 --> Output Class Initialized
+INFO - 2021-01-01 05:08:36 --> Security Class Initialized
+DEBUG - 2021-01-01 05:08:36 --> Global POST, GET and COOKIE data sanitized
+INFO - 2021-01-01 05:08:36 --> Input Class Initialized
+INFO - 2021-01-01 05:08:36 --> Language Class Initialized
+INFO - 2021-01-01 05:08:36 --> Language Class Initialized
+INFO - 2021-01-01 05:08:36 --> Config Class Initialized
+INFO - 2021-01-01 05:08:36 --> Loader Class Initialized
+INFO - 2021-01-01 05:08:36 --> Helper loaded: url_helper
+INFO - 2021-01-01 05:08:36 --> Helper loaded: html_helper
+INFO - 2021-01-01 05:08:36 --> Helper loaded: file_helper
+INFO - 2021-01-01 05:08:36 --> Helper loaded: form_helper
+INFO - 2021-01-01 05:08:36 --> Helper loaded: security_helper
+INFO - 2021-01-01 05:08:36 --> Helper loaded: xss_helper
+INFO - 2021-01-01 05:08:36 --> Helper loaded: slug_helper
+INFO - 2021-01-01 05:08:36 --> Database Driver Class Initialized
+DEBUG - 2021-01-01 05:08:36 --> Session: "sess_save_path" is empty; using "session.save_path" value from php.ini.
+INFO - 2021-01-01 05:08:36 --> Session: Class initialized using 'files' driver.
+INFO - 2021-01-01 05:08:36 --> Language file loaded: language/english/pagination_lang.php
+INFO - 2021-01-01 05:08:36 --> Pagination Class Initialized
+INFO - 2021-01-01 05:08:36 --> Email Class Initialized
+INFO - 2021-01-01 05:08:36 --> Model "M_konfig" initialized
+INFO - 2021-01-01 05:08:36 --> Model "M_reff" initialized
+INFO - 2021-01-01 05:08:36 --> Model "M_total" initialized
+INFO - 2021-01-01 05:08:36 --> Controller Class Initialized
+DEBUG - 2021-01-01 05:08:36 --> File loaded: D:\xampp72\htdocs\app_grm\application\modules/apengumuman/models/Model.php
+INFO - 2021-01-01 11:08:36 --> Final output sent to browser
+DEBUG - 2021-01-01 11:08:36 --> Total execution time: 0.8148
+INFO - 2021-01-01 05:08:41 --> Config Class Initialized
+INFO - 2021-01-01 05:08:41 --> Hooks Class Initialized
+DEBUG - 2021-01-01 05:08:41 --> UTF-8 Support Enabled
+INFO - 2021-01-01 05:08:41 --> Utf8 Class Initialized
+INFO - 2021-01-01 05:08:41 --> URI Class Initialized
+INFO - 2021-01-01 05:08:41 --> Router Class Initialized
+INFO - 2021-01-01 05:08:41 --> Output Class Initialized
+INFO - 2021-01-01 05:08:41 --> Security Class Initialized
+DEBUG - 2021-01-01 05:08:41 --> Global POST, GET and COOKIE data sanitized
+INFO - 2021-01-01 05:08:41 --> Input Class Initialized
+INFO - 2021-01-01 05:08:41 --> Language Class Initialized
+INFO - 2021-01-01 05:08:41 --> Language Class Initialized
+INFO - 2021-01-01 05:08:41 --> Config Class Initialized
+INFO - 2021-01-01 05:08:41 --> Loader Class Initialized
+INFO - 2021-01-01 05:08:41 --> Helper loaded: url_helper
+INFO - 2021-01-01 05:08:41 --> Helper loaded: html_helper
+INFO - 2021-01-01 05:08:41 --> Helper loaded: file_helper
+INFO - 2021-01-01 05:08:41 --> Helper loaded: form_helper
+INFO - 2021-01-01 05:08:41 --> Helper loaded: security_helper
+INFO - 2021-01-01 05:08:41 --> Helper loaded: xss_helper
+INFO - 2021-01-01 05:08:41 --> Helper loaded: slug_helper
+INFO - 2021-01-01 05:08:41 --> Database Driver Class Initialized
+DEBUG - 2021-01-01 05:08:41 --> Session: "sess_save_path" is empty; using "session.save_path" value from php.ini.
+INFO - 2021-01-01 05:08:41 --> Session: Class initialized using 'files' driver.
+INFO - 2021-01-01 05:08:41 --> Language file loaded: language/english/pagination_lang.php
+INFO - 2021-01-01 05:08:41 --> Pagination Class Initialized
+INFO - 2021-01-01 05:08:41 --> Email Class Initialized
+INFO - 2021-01-01 05:08:41 --> Model "M_konfig" initialized
+INFO - 2021-01-01 05:08:41 --> Model "M_reff" initialized
+INFO - 2021-01-01 05:08:41 --> Model "M_total" initialized
+INFO - 2021-01-01 05:08:41 --> Controller Class Initialized
+DEBUG - 2021-01-01 05:08:41 --> File loaded: D:\xampp72\htdocs\app_grm\application\modules/apengumuman/models/Model.php
+INFO - 2021-01-01 11:08:41 --> Final output sent to browser
+DEBUG - 2021-01-01 11:08:42 --> Total execution time: 0.8210
+INFO - 2021-01-01 05:08:46 --> Config Class Initialized
+INFO - 2021-01-01 05:08:46 --> Hooks Class Initialized
+DEBUG - 2021-01-01 05:08:46 --> UTF-8 Support Enabled
+INFO - 2021-01-01 05:08:46 --> Utf8 Class Initialized
+INFO - 2021-01-01 05:08:46 --> URI Class Initialized
+INFO - 2021-01-01 05:08:46 --> Router Class Initialized
+INFO - 2021-01-01 05:08:46 --> Output Class Initialized
+INFO - 2021-01-01 05:08:46 --> Security Class Initialized
+DEBUG - 2021-01-01 05:08:46 --> Global POST, GET and COOKIE data sanitized
+INFO - 2021-01-01 05:08:46 --> Input Class Initialized
+INFO - 2021-01-01 05:08:46 --> Language Class Initialized
+INFO - 2021-01-01 05:08:46 --> Language Class Initialized
+INFO - 2021-01-01 05:08:46 --> Config Class Initialized
+INFO - 2021-01-01 05:08:46 --> Loader Class Initialized
+INFO - 2021-01-01 05:08:46 --> Helper loaded: url_helper
+INFO - 2021-01-01 05:08:46 --> Helper loaded: html_helper
+INFO - 2021-01-01 05:08:46 --> Helper loaded: file_helper
+INFO - 2021-01-01 05:08:46 --> Helper loaded: form_helper
+INFO - 2021-01-01 05:08:46 --> Helper loaded: security_helper
+INFO - 2021-01-01 05:08:46 --> Helper loaded: xss_helper
+INFO - 2021-01-01 05:08:46 --> Helper loaded: slug_helper
+INFO - 2021-01-01 05:08:46 --> Database Driver Class Initialized
+DEBUG - 2021-01-01 05:08:46 --> Session: "sess_save_path" is empty; using "session.save_path" value from php.ini.
+INFO - 2021-01-01 05:08:46 --> Session: Class initialized using 'files' driver.
+INFO - 2021-01-01 05:08:46 --> Language file loaded: language/english/pagination_lang.php
+INFO - 2021-01-01 05:08:46 --> Pagination Class Initialized
+INFO - 2021-01-01 05:08:46 --> Email Class Initialized
+INFO - 2021-01-01 05:08:46 --> Model "M_konfig" initialized
+INFO - 2021-01-01 05:08:47 --> Model "M_reff" initialized
+INFO - 2021-01-01 05:08:47 --> Model "M_total" initialized
+INFO - 2021-01-01 05:08:47 --> Controller Class Initialized
+DEBUG - 2021-01-01 05:08:47 --> File loaded: D:\xampp72\htdocs\app_grm\application\modules/apengumuman/models/Model.php
+INFO - 2021-01-01 11:08:47 --> Final output sent to browser
+DEBUG - 2021-01-01 11:08:47 --> Total execution time: 0.8477
+INFO - 2021-01-01 05:08:51 --> Config Class Initialized
+INFO - 2021-01-01 05:08:51 --> Hooks Class Initialized
+DEBUG - 2021-01-01 05:08:51 --> UTF-8 Support Enabled
+INFO - 2021-01-01 05:08:51 --> Utf8 Class Initialized
+INFO - 2021-01-01 05:08:51 --> URI Class Initialized
+INFO - 2021-01-01 05:08:51 --> Router Class Initialized
+INFO - 2021-01-01 05:08:51 --> Output Class Initialized
+INFO - 2021-01-01 05:08:51 --> Security Class Initialized
+DEBUG - 2021-01-01 05:08:51 --> Global POST, GET and COOKIE data sanitized
+INFO - 2021-01-01 05:08:51 --> Input Class Initialized
+INFO - 2021-01-01 05:08:51 --> Language Class Initialized
+INFO - 2021-01-01 05:08:51 --> Language Class Initialized
+INFO - 2021-01-01 05:08:51 --> Config Class Initialized
+INFO - 2021-01-01 05:08:51 --> Loader Class Initialized
+INFO - 2021-01-01 05:08:51 --> Helper loaded: url_helper
+INFO - 2021-01-01 05:08:51 --> Helper loaded: html_helper
+INFO - 2021-01-01 05:08:51 --> Helper loaded: file_helper
+INFO - 2021-01-01 05:08:51 --> Helper loaded: form_helper
+INFO - 2021-01-01 05:08:51 --> Helper loaded: security_helper
+INFO - 2021-01-01 05:08:51 --> Helper loaded: xss_helper
+INFO - 2021-01-01 05:08:51 --> Helper loaded: slug_helper
+INFO - 2021-01-01 05:08:51 --> Database Driver Class Initialized
+DEBUG - 2021-01-01 05:08:51 --> Session: "sess_save_path" is empty; using "session.save_path" value from php.ini.
+INFO - 2021-01-01 05:08:51 --> Session: Class initialized using 'files' driver.
+INFO - 2021-01-01 05:08:51 --> Language file loaded: language/english/pagination_lang.php
+INFO - 2021-01-01 05:08:51 --> Pagination Class Initialized
+INFO - 2021-01-01 05:08:51 --> Email Class Initialized
+INFO - 2021-01-01 05:08:52 --> Model "M_konfig" initialized
+INFO - 2021-01-01 05:08:52 --> Model "M_reff" initialized
+INFO - 2021-01-01 05:08:52 --> Model "M_total" initialized
+INFO - 2021-01-01 05:08:52 --> Controller Class Initialized
+DEBUG - 2021-01-01 05:08:52 --> File loaded: D:\xampp72\htdocs\app_grm\application\modules/apengumuman/models/Model.php
+INFO - 2021-01-01 11:08:52 --> Final output sent to browser
+DEBUG - 2021-01-01 11:08:52 --> Total execution time: 0.8245
+INFO - 2021-01-01 05:08:56 --> Config Class Initialized
+INFO - 2021-01-01 05:08:56 --> Hooks Class Initialized
+DEBUG - 2021-01-01 05:08:56 --> UTF-8 Support Enabled
+INFO - 2021-01-01 05:08:56 --> Utf8 Class Initialized
+INFO - 2021-01-01 05:08:56 --> URI Class Initialized
+INFO - 2021-01-01 05:08:56 --> Router Class Initialized
+INFO - 2021-01-01 05:08:56 --> Output Class Initialized
+INFO - 2021-01-01 05:08:56 --> Security Class Initialized
+DEBUG - 2021-01-01 05:08:56 --> Global POST, GET and COOKIE data sanitized
+INFO - 2021-01-01 05:08:56 --> Input Class Initialized
+INFO - 2021-01-01 05:08:56 --> Language Class Initialized
+INFO - 2021-01-01 05:08:56 --> Language Class Initialized
+INFO - 2021-01-01 05:08:56 --> Config Class Initialized
+INFO - 2021-01-01 05:08:56 --> Loader Class Initialized
+INFO - 2021-01-01 05:08:56 --> Helper loaded: url_helper
+INFO - 2021-01-01 05:08:56 --> Helper loaded: html_helper
+INFO - 2021-01-01 05:08:56 --> Helper loaded: file_helper
+INFO - 2021-01-01 05:08:56 --> Helper loaded: form_helper
+INFO - 2021-01-01 05:08:56 --> Helper loaded: security_helper
+INFO - 2021-01-01 05:08:56 --> Helper loaded: xss_helper
+INFO - 2021-01-01 05:08:56 --> Helper loaded: slug_helper
+INFO - 2021-01-01 05:08:56 --> Database Driver Class Initialized
+DEBUG - 2021-01-01 05:08:56 --> Session: "sess_save_path" is empty; using "session.save_path" value from php.ini.
+INFO - 2021-01-01 05:08:57 --> Session: Class initialized using 'files' driver.
+INFO - 2021-01-01 05:08:57 --> Language file loaded: language/english/pagination_lang.php
+INFO - 2021-01-01 05:08:57 --> Pagination Class Initialized
+INFO - 2021-01-01 05:08:57 --> Email Class Initialized
+INFO - 2021-01-01 05:08:57 --> Model "M_konfig" initialized
+INFO - 2021-01-01 05:08:57 --> Model "M_reff" initialized
+INFO - 2021-01-01 05:08:57 --> Model "M_total" initialized
+INFO - 2021-01-01 05:08:57 --> Controller Class Initialized
+DEBUG - 2021-01-01 05:08:57 --> File loaded: D:\xampp72\htdocs\app_grm\application\modules/apengumuman/models/Model.php
+INFO - 2021-01-01 11:08:57 --> Final output sent to browser
+DEBUG - 2021-01-01 11:08:57 --> Total execution time: 0.8983
+INFO - 2021-01-01 05:09:01 --> Config Class Initialized
+INFO - 2021-01-01 05:09:01 --> Hooks Class Initialized
+DEBUG - 2021-01-01 05:09:01 --> UTF-8 Support Enabled
+INFO - 2021-01-01 05:09:01 --> Utf8 Class Initialized
+INFO - 2021-01-01 05:09:01 --> URI Class Initialized
+INFO - 2021-01-01 05:09:01 --> Router Class Initialized
+INFO - 2021-01-01 05:09:01 --> Output Class Initialized
+INFO - 2021-01-01 05:09:01 --> Security Class Initialized
+DEBUG - 2021-01-01 05:09:01 --> Global POST, GET and COOKIE data sanitized
+INFO - 2021-01-01 05:09:01 --> Input Class Initialized
+INFO - 2021-01-01 05:09:01 --> Language Class Initialized
+INFO - 2021-01-01 05:09:01 --> Language Class Initialized
+INFO - 2021-01-01 05:09:01 --> Config Class Initialized
+INFO - 2021-01-01 05:09:01 --> Loader Class Initialized
+INFO - 2021-01-01 05:09:01 --> Helper loaded: url_helper
+INFO - 2021-01-01 05:09:01 --> Helper loaded: html_helper
+INFO - 2021-01-01 05:09:01 --> Helper loaded: file_helper
+INFO - 2021-01-01 05:09:01 --> Helper loaded: form_helper
+INFO - 2021-01-01 05:09:01 --> Helper loaded: security_helper
+INFO - 2021-01-01 05:09:01 --> Helper loaded: xss_helper
+INFO - 2021-01-01 05:09:01 --> Helper loaded: slug_helper
+INFO - 2021-01-01 05:09:01 --> Database Driver Class Initialized
+DEBUG - 2021-01-01 05:09:02 --> Session: "sess_save_path" is empty; using "session.save_path" value from php.ini.
+INFO - 2021-01-01 05:09:02 --> Session: Class initialized using 'files' driver.
+INFO - 2021-01-01 05:09:02 --> Language file loaded: language/english/pagination_lang.php
+INFO - 2021-01-01 05:09:02 --> Pagination Class Initialized
+INFO - 2021-01-01 05:09:02 --> Email Class Initialized
+INFO - 2021-01-01 05:09:02 --> Model "M_konfig" initialized
+INFO - 2021-01-01 05:09:02 --> Model "M_reff" initialized
+INFO - 2021-01-01 05:09:02 --> Model "M_total" initialized
+INFO - 2021-01-01 05:09:02 --> Controller Class Initialized
+DEBUG - 2021-01-01 05:09:02 --> File loaded: D:\xampp72\htdocs\app_grm\application\modules/apengumuman/models/Model.php
+INFO - 2021-01-01 11:09:02 --> Final output sent to browser
+DEBUG - 2021-01-01 11:09:02 --> Total execution time: 0.8364
+INFO - 2021-01-01 05:09:06 --> Config Class Initialized
+INFO - 2021-01-01 05:09:06 --> Hooks Class Initialized
+DEBUG - 2021-01-01 05:09:06 --> UTF-8 Support Enabled
+INFO - 2021-01-01 05:09:06 --> Utf8 Class Initialized
+INFO - 2021-01-01 05:09:06 --> URI Class Initialized
+INFO - 2021-01-01 05:09:06 --> Router Class Initialized
+INFO - 2021-01-01 05:09:06 --> Output Class Initialized
+INFO - 2021-01-01 05:09:06 --> Security Class Initialized
+DEBUG - 2021-01-01 05:09:06 --> Global POST, GET and COOKIE data sanitized
+INFO - 2021-01-01 05:09:06 --> Input Class Initialized
+INFO - 2021-01-01 05:09:06 --> Language Class Initialized
+INFO - 2021-01-01 05:09:06 --> Language Class Initialized
+INFO - 2021-01-01 05:09:06 --> Config Class Initialized
+INFO - 2021-01-01 05:09:06 --> Loader Class Initialized
+INFO - 2021-01-01 05:09:06 --> Helper loaded: url_helper
+INFO - 2021-01-01 05:09:07 --> Helper loaded: html_helper
+INFO - 2021-01-01 05:09:07 --> Helper loaded: file_helper
+INFO - 2021-01-01 05:09:07 --> Helper loaded: form_helper
+INFO - 2021-01-01 05:09:07 --> Helper loaded: security_helper
+INFO - 2021-01-01 05:09:07 --> Helper loaded: xss_helper
+INFO - 2021-01-01 05:09:07 --> Helper loaded: slug_helper
+INFO - 2021-01-01 05:09:07 --> Database Driver Class Initialized
+DEBUG - 2021-01-01 05:09:07 --> Session: "sess_save_path" is empty; using "session.save_path" value from php.ini.
+INFO - 2021-01-01 05:09:07 --> Session: Class initialized using 'files' driver.
+INFO - 2021-01-01 05:09:07 --> Language file loaded: language/english/pagination_lang.php
+INFO - 2021-01-01 05:09:07 --> Pagination Class Initialized
+INFO - 2021-01-01 05:09:07 --> Email Class Initialized
+INFO - 2021-01-01 05:09:07 --> Model "M_konfig" initialized
+INFO - 2021-01-01 05:09:07 --> Model "M_reff" initialized
+INFO - 2021-01-01 05:09:07 --> Model "M_total" initialized
+INFO - 2021-01-01 05:09:07 --> Controller Class Initialized
+DEBUG - 2021-01-01 05:09:07 --> File loaded: D:\xampp72\htdocs\app_grm\application\modules/apengumuman/models/Model.php
+INFO - 2021-01-01 11:09:07 --> Final output sent to browser
+DEBUG - 2021-01-01 11:09:07 --> Total execution time: 1.0327
+INFO - 2021-01-01 05:09:27 --> Config Class Initialized
+INFO - 2021-01-01 05:09:27 --> Hooks Class Initialized
+DEBUG - 2021-01-01 05:09:27 --> UTF-8 Support Enabled
+INFO - 2021-01-01 05:09:27 --> Utf8 Class Initialized
+INFO - 2021-01-01 05:09:27 --> URI Class Initialized
+INFO - 2021-01-01 05:09:27 --> Router Class Initialized
+INFO - 2021-01-01 05:09:28 --> Output Class Initialized
+INFO - 2021-01-01 05:09:28 --> Security Class Initialized
+DEBUG - 2021-01-01 05:09:28 --> Global POST, GET and COOKIE data sanitized
+INFO - 2021-01-01 05:09:28 --> Input Class Initialized
+INFO - 2021-01-01 05:09:28 --> Language Class Initialized
+INFO - 2021-01-01 05:09:28 --> Language Class Initialized
+INFO - 2021-01-01 05:09:28 --> Config Class Initialized
+INFO - 2021-01-01 05:09:28 --> Loader Class Initialized
+INFO - 2021-01-01 05:09:28 --> Helper loaded: url_helper
+INFO - 2021-01-01 05:09:28 --> Helper loaded: html_helper
+INFO - 2021-01-01 05:09:28 --> Helper loaded: file_helper
+INFO - 2021-01-01 05:09:28 --> Helper loaded: form_helper
+INFO - 2021-01-01 05:09:28 --> Helper loaded: security_helper
+INFO - 2021-01-01 05:09:28 --> Helper loaded: xss_helper
+INFO - 2021-01-01 05:09:28 --> Helper loaded: slug_helper
+INFO - 2021-01-01 05:09:28 --> Database Driver Class Initialized
+DEBUG - 2021-01-01 05:09:28 --> Session: "sess_save_path" is empty; using "session.save_path" value from php.ini.
+INFO - 2021-01-01 05:09:28 --> Session: Class initialized using 'files' driver.
+INFO - 2021-01-01 05:09:28 --> Language file loaded: language/english/pagination_lang.php
+INFO - 2021-01-01 05:09:28 --> Pagination Class Initialized
+INFO - 2021-01-01 05:09:28 --> Email Class Initialized
+INFO - 2021-01-01 05:09:28 --> Model "M_konfig" initialized
+INFO - 2021-01-01 05:09:28 --> Model "M_reff" initialized
+INFO - 2021-01-01 05:09:28 --> Model "M_total" initialized
+INFO - 2021-01-01 05:09:28 --> Controller Class Initialized
+DEBUG - 2021-01-01 05:09:28 --> File loaded: D:\xampp72\htdocs\app_grm\application\modules/apengumuman/models/Model.php
+INFO - 2021-01-01 11:09:28 --> Final output sent to browser
+DEBUG - 2021-01-01 11:09:28 --> Total execution time: 0.8297
+INFO - 2021-01-01 05:09:32 --> Config Class Initialized
+INFO - 2021-01-01 05:09:32 --> Hooks Class Initialized
+DEBUG - 2021-01-01 05:09:32 --> UTF-8 Support Enabled
+INFO - 2021-01-01 05:09:33 --> Utf8 Class Initialized
+INFO - 2021-01-01 05:09:33 --> URI Class Initialized
+INFO - 2021-01-01 05:09:33 --> Router Class Initialized
+INFO - 2021-01-01 05:09:33 --> Output Class Initialized
+INFO - 2021-01-01 05:09:33 --> Security Class Initialized
+DEBUG - 2021-01-01 05:09:33 --> Global POST, GET and COOKIE data sanitized
+INFO - 2021-01-01 05:09:33 --> Input Class Initialized
+INFO - 2021-01-01 05:09:33 --> Language Class Initialized
+INFO - 2021-01-01 05:09:33 --> Language Class Initialized
+INFO - 2021-01-01 05:09:33 --> Config Class Initialized
+INFO - 2021-01-01 05:09:33 --> Loader Class Initialized
+INFO - 2021-01-01 05:09:33 --> Helper loaded: url_helper
+INFO - 2021-01-01 05:09:33 --> Helper loaded: html_helper
+INFO - 2021-01-01 05:09:33 --> Helper loaded: file_helper
+INFO - 2021-01-01 05:09:33 --> Helper loaded: form_helper
+INFO - 2021-01-01 05:09:33 --> Helper loaded: security_helper
+INFO - 2021-01-01 05:09:33 --> Helper loaded: xss_helper
+INFO - 2021-01-01 05:09:33 --> Helper loaded: slug_helper
+INFO - 2021-01-01 05:09:33 --> Database Driver Class Initialized
+DEBUG - 2021-01-01 05:09:33 --> Session: "sess_save_path" is empty; using "session.save_path" value from php.ini.
+INFO - 2021-01-01 05:09:33 --> Session: Class initialized using 'files' driver.
+INFO - 2021-01-01 05:09:33 --> Language file loaded: language/english/pagination_lang.php
+INFO - 2021-01-01 05:09:33 --> Pagination Class Initialized
+INFO - 2021-01-01 05:09:33 --> Email Class Initialized
+INFO - 2021-01-01 05:09:33 --> Model "M_konfig" initialized
+INFO - 2021-01-01 05:09:33 --> Model "M_reff" initialized
+INFO - 2021-01-01 05:09:33 --> Model "M_total" initialized
+INFO - 2021-01-01 05:09:33 --> Controller Class Initialized
+DEBUG - 2021-01-01 05:09:33 --> File loaded: D:\xampp72\htdocs\app_grm\application\modules/apengumuman/models/Model.php
+INFO - 2021-01-01 11:09:33 --> Final output sent to browser
+DEBUG - 2021-01-01 11:09:33 --> Total execution time: 0.9963
+INFO - 2021-01-01 05:09:38 --> Config Class Initialized
+INFO - 2021-01-01 05:09:38 --> Hooks Class Initialized
+DEBUG - 2021-01-01 05:09:38 --> UTF-8 Support Enabled
+INFO - 2021-01-01 05:09:38 --> Utf8 Class Initialized
+INFO - 2021-01-01 05:09:38 --> URI Class Initialized
+INFO - 2021-01-01 05:09:38 --> Router Class Initialized
+INFO - 2021-01-01 05:09:38 --> Output Class Initialized
+INFO - 2021-01-01 05:09:38 --> Security Class Initialized
+DEBUG - 2021-01-01 05:09:38 --> Global POST, GET and COOKIE data sanitized
+INFO - 2021-01-01 05:09:38 --> Input Class Initialized
+INFO - 2021-01-01 05:09:38 --> Language Class Initialized
+INFO - 2021-01-01 05:09:38 --> Language Class Initialized
+INFO - 2021-01-01 05:09:38 --> Config Class Initialized
+INFO - 2021-01-01 05:09:38 --> Loader Class Initialized
+INFO - 2021-01-01 05:09:38 --> Helper loaded: url_helper
+INFO - 2021-01-01 05:09:38 --> Helper loaded: html_helper
+INFO - 2021-01-01 05:09:38 --> Helper loaded: file_helper
+INFO - 2021-01-01 05:09:38 --> Helper loaded: form_helper
+INFO - 2021-01-01 05:09:38 --> Helper loaded: security_helper
+INFO - 2021-01-01 05:09:38 --> Helper loaded: xss_helper
+INFO - 2021-01-01 05:09:38 --> Helper loaded: slug_helper
+INFO - 2021-01-01 05:09:38 --> Database Driver Class Initialized
+DEBUG - 2021-01-01 05:09:38 --> Session: "sess_save_path" is empty; using "session.save_path" value from php.ini.
+INFO - 2021-01-01 05:09:38 --> Session: Class initialized using 'files' driver.
+INFO - 2021-01-01 05:09:38 --> Language file loaded: language/english/pagination_lang.php
+INFO - 2021-01-01 05:09:38 --> Pagination Class Initialized
+INFO - 2021-01-01 05:09:38 --> Email Class Initialized
+INFO - 2021-01-01 05:09:38 --> Model "M_konfig" initialized
+INFO - 2021-01-01 05:09:38 --> Model "M_reff" initialized
+INFO - 2021-01-01 05:09:38 --> Model "M_total" initialized
+INFO - 2021-01-01 05:09:38 --> Controller Class Initialized
+DEBUG - 2021-01-01 05:09:38 --> File loaded: D:\xampp72\htdocs\app_grm\application\modules/apengumuman/models/Model.php
+INFO - 2021-01-01 11:09:38 --> Final output sent to browser
+DEBUG - 2021-01-01 11:09:38 --> Total execution time: 0.8273
+INFO - 2021-01-01 05:09:43 --> Config Class Initialized
+INFO - 2021-01-01 05:09:43 --> Hooks Class Initialized
+DEBUG - 2021-01-01 05:09:43 --> UTF-8 Support Enabled
+INFO - 2021-01-01 05:09:43 --> Utf8 Class Initialized
+INFO - 2021-01-01 05:09:43 --> URI Class Initialized
+INFO - 2021-01-01 05:09:43 --> Router Class Initialized
+INFO - 2021-01-01 05:09:43 --> Output Class Initialized
+INFO - 2021-01-01 05:09:43 --> Security Class Initialized
+DEBUG - 2021-01-01 05:09:43 --> Global POST, GET and COOKIE data sanitized
+INFO - 2021-01-01 05:09:43 --> Input Class Initialized
+INFO - 2021-01-01 05:09:43 --> Language Class Initialized
+INFO - 2021-01-01 05:09:43 --> Language Class Initialized
+INFO - 2021-01-01 05:09:43 --> Config Class Initialized
+INFO - 2021-01-01 05:09:43 --> Loader Class Initialized
+INFO - 2021-01-01 05:09:43 --> Helper loaded: url_helper
+INFO - 2021-01-01 05:09:43 --> Helper loaded: html_helper
+INFO - 2021-01-01 05:09:43 --> Helper loaded: file_helper
+INFO - 2021-01-01 05:09:43 --> Helper loaded: form_helper
+INFO - 2021-01-01 05:09:43 --> Helper loaded: security_helper
+INFO - 2021-01-01 05:09:43 --> Helper loaded: xss_helper
+INFO - 2021-01-01 05:09:43 --> Helper loaded: slug_helper
+INFO - 2021-01-01 05:09:43 --> Database Driver Class Initialized
+DEBUG - 2021-01-01 05:09:43 --> Session: "sess_save_path" is empty; using "session.save_path" value from php.ini.
+INFO - 2021-01-01 05:09:43 --> Session: Class initialized using 'files' driver.
+INFO - 2021-01-01 05:09:43 --> Language file loaded: language/english/pagination_lang.php
+INFO - 2021-01-01 05:09:43 --> Pagination Class Initialized
+INFO - 2021-01-01 05:09:43 --> Email Class Initialized
+INFO - 2021-01-01 05:09:44 --> Model "M_konfig" initialized
+INFO - 2021-01-01 05:09:44 --> Model "M_reff" initialized
+INFO - 2021-01-01 05:09:44 --> Model "M_total" initialized
+INFO - 2021-01-01 05:09:44 --> Controller Class Initialized
+DEBUG - 2021-01-01 05:09:44 --> File loaded: D:\xampp72\htdocs\app_grm\application\modules/apengumuman/models/Model.php
+INFO - 2021-01-01 11:09:44 --> Final output sent to browser
+DEBUG - 2021-01-01 11:09:44 --> Total execution time: 0.9551
+INFO - 2021-01-01 05:09:48 --> Config Class Initialized
+INFO - 2021-01-01 05:09:48 --> Hooks Class Initialized
+DEBUG - 2021-01-01 05:09:48 --> UTF-8 Support Enabled
+INFO - 2021-01-01 05:09:48 --> Utf8 Class Initialized
+INFO - 2021-01-01 05:09:48 --> URI Class Initialized
+INFO - 2021-01-01 05:09:48 --> Router Class Initialized
+INFO - 2021-01-01 05:09:48 --> Output Class Initialized
+INFO - 2021-01-01 05:09:48 --> Security Class Initialized
+DEBUG - 2021-01-01 05:09:48 --> Global POST, GET and COOKIE data sanitized
+INFO - 2021-01-01 05:09:48 --> Input Class Initialized
+INFO - 2021-01-01 05:09:48 --> Language Class Initialized
+INFO - 2021-01-01 05:09:48 --> Language Class Initialized
+INFO - 2021-01-01 05:09:48 --> Config Class Initialized
+INFO - 2021-01-01 05:09:48 --> Loader Class Initialized
+INFO - 2021-01-01 05:09:48 --> Helper loaded: url_helper
+INFO - 2021-01-01 05:09:48 --> Helper loaded: html_helper
+INFO - 2021-01-01 05:09:48 --> Helper loaded: file_helper
+INFO - 2021-01-01 05:09:48 --> Helper loaded: form_helper
+INFO - 2021-01-01 05:09:48 --> Helper loaded: security_helper
+INFO - 2021-01-01 05:09:48 --> Helper loaded: xss_helper
+INFO - 2021-01-01 05:09:48 --> Helper loaded: slug_helper
+INFO - 2021-01-01 05:09:48 --> Database Driver Class Initialized
+DEBUG - 2021-01-01 05:09:48 --> Session: "sess_save_path" is empty; using "session.save_path" value from php.ini.
+INFO - 2021-01-01 05:09:48 --> Session: Class initialized using 'files' driver.
+INFO - 2021-01-01 05:09:48 --> Language file loaded: language/english/pagination_lang.php
+INFO - 2021-01-01 05:09:48 --> Pagination Class Initialized
+INFO - 2021-01-01 05:09:48 --> Email Class Initialized
+INFO - 2021-01-01 05:09:48 --> Model "M_konfig" initialized
+INFO - 2021-01-01 05:09:49 --> Model "M_reff" initialized
+INFO - 2021-01-01 05:09:49 --> Model "M_total" initialized
+INFO - 2021-01-01 05:09:49 --> Controller Class Initialized
+DEBUG - 2021-01-01 05:09:49 --> File loaded: D:\xampp72\htdocs\app_grm\application\modules/apengumuman/models/Model.php
+INFO - 2021-01-01 11:09:49 --> Final output sent to browser
+DEBUG - 2021-01-01 11:09:49 --> Total execution time: 0.8914
+INFO - 2021-01-01 05:09:53 --> Config Class Initialized
+INFO - 2021-01-01 05:09:53 --> Hooks Class Initialized
+DEBUG - 2021-01-01 05:09:53 --> UTF-8 Support Enabled
+INFO - 2021-01-01 05:09:53 --> Utf8 Class Initialized
+INFO - 2021-01-01 05:09:53 --> URI Class Initialized
+INFO - 2021-01-01 05:09:53 --> Router Class Initialized
+INFO - 2021-01-01 05:09:53 --> Output Class Initialized
+INFO - 2021-01-01 05:09:53 --> Security Class Initialized
+DEBUG - 2021-01-01 05:09:53 --> Global POST, GET and COOKIE data sanitized
+INFO - 2021-01-01 05:09:53 --> Input Class Initialized
+INFO - 2021-01-01 05:09:53 --> Language Class Initialized
+INFO - 2021-01-01 05:09:53 --> Language Class Initialized
+INFO - 2021-01-01 05:09:53 --> Config Class Initialized
+INFO - 2021-01-01 05:09:53 --> Loader Class Initialized
+INFO - 2021-01-01 05:09:53 --> Helper loaded: url_helper
+INFO - 2021-01-01 05:09:53 --> Helper loaded: html_helper
+INFO - 2021-01-01 05:09:53 --> Helper loaded: file_helper
+INFO - 2021-01-01 05:09:53 --> Helper loaded: form_helper
+INFO - 2021-01-01 05:09:53 --> Helper loaded: security_helper
+INFO - 2021-01-01 05:09:53 --> Helper loaded: xss_helper
+INFO - 2021-01-01 05:09:53 --> Helper loaded: slug_helper
+INFO - 2021-01-01 05:09:53 --> Database Driver Class Initialized
+DEBUG - 2021-01-01 05:09:53 --> Session: "sess_save_path" is empty; using "session.save_path" value from php.ini.
+INFO - 2021-01-01 05:09:53 --> Session: Class initialized using 'files' driver.
+INFO - 2021-01-01 05:09:53 --> Language file loaded: language/english/pagination_lang.php
+INFO - 2021-01-01 05:09:53 --> Pagination Class Initialized
+INFO - 2021-01-01 05:09:53 --> Email Class Initialized
+INFO - 2021-01-01 05:09:54 --> Model "M_konfig" initialized
+INFO - 2021-01-01 05:09:54 --> Model "M_reff" initialized
+INFO - 2021-01-01 05:09:54 --> Model "M_total" initialized
+INFO - 2021-01-01 05:09:54 --> Controller Class Initialized
+DEBUG - 2021-01-01 05:09:54 --> File loaded: D:\xampp72\htdocs\app_grm\application\modules/apengumuman/models/Model.php
+INFO - 2021-01-01 11:09:54 --> Final output sent to browser
+DEBUG - 2021-01-01 11:09:54 --> Total execution time: 0.8574
+INFO - 2021-01-01 05:09:58 --> Config Class Initialized
+INFO - 2021-01-01 05:09:58 --> Hooks Class Initialized
+DEBUG - 2021-01-01 05:09:58 --> UTF-8 Support Enabled
+INFO - 2021-01-01 05:09:58 --> Utf8 Class Initialized
+INFO - 2021-01-01 05:09:58 --> URI Class Initialized
+INFO - 2021-01-01 05:09:58 --> Router Class Initialized
+INFO - 2021-01-01 05:09:58 --> Output Class Initialized
+INFO - 2021-01-01 05:09:58 --> Security Class Initialized
+DEBUG - 2021-01-01 05:09:58 --> Global POST, GET and COOKIE data sanitized
+INFO - 2021-01-01 05:09:58 --> Input Class Initialized
+INFO - 2021-01-01 05:09:58 --> Language Class Initialized
+INFO - 2021-01-01 05:09:58 --> Language Class Initialized
+INFO - 2021-01-01 05:09:58 --> Config Class Initialized
+INFO - 2021-01-01 05:09:58 --> Loader Class Initialized
+INFO - 2021-01-01 05:09:58 --> Helper loaded: url_helper
+INFO - 2021-01-01 05:09:58 --> Helper loaded: html_helper
+INFO - 2021-01-01 05:09:58 --> Helper loaded: file_helper
+INFO - 2021-01-01 05:09:58 --> Helper loaded: form_helper
+INFO - 2021-01-01 05:09:58 --> Helper loaded: security_helper
+INFO - 2021-01-01 05:09:58 --> Helper loaded: xss_helper
+INFO - 2021-01-01 05:09:58 --> Helper loaded: slug_helper
+INFO - 2021-01-01 05:09:58 --> Database Driver Class Initialized
+DEBUG - 2021-01-01 05:09:59 --> Session: "sess_save_path" is empty; using "session.save_path" value from php.ini.
+INFO - 2021-01-01 05:09:59 --> Session: Class initialized using 'files' driver.
+INFO - 2021-01-01 05:09:59 --> Language file loaded: language/english/pagination_lang.php
+INFO - 2021-01-01 05:09:59 --> Pagination Class Initialized
+INFO - 2021-01-01 05:09:59 --> Email Class Initialized
+INFO - 2021-01-01 05:09:59 --> Model "M_konfig" initialized
+INFO - 2021-01-01 05:09:59 --> Model "M_reff" initialized
+INFO - 2021-01-01 05:09:59 --> Model "M_total" initialized
+INFO - 2021-01-01 05:09:59 --> Controller Class Initialized
+DEBUG - 2021-01-01 05:09:59 --> File loaded: D:\xampp72\htdocs\app_grm\application\modules/apengumuman/models/Model.php
+INFO - 2021-01-01 11:09:59 --> Final output sent to browser
+DEBUG - 2021-01-01 11:09:59 --> Total execution time: 0.9464
+INFO - 2021-01-01 05:10:03 --> Config Class Initialized
+INFO - 2021-01-01 05:10:03 --> Hooks Class Initialized
+DEBUG - 2021-01-01 05:10:03 --> UTF-8 Support Enabled
+INFO - 2021-01-01 05:10:03 --> Utf8 Class Initialized
+INFO - 2021-01-01 05:10:03 --> URI Class Initialized
+INFO - 2021-01-01 05:10:03 --> Router Class Initialized
+INFO - 2021-01-01 05:10:03 --> Output Class Initialized
+INFO - 2021-01-01 05:10:03 --> Security Class Initialized
+DEBUG - 2021-01-01 05:10:03 --> Global POST, GET and COOKIE data sanitized
+INFO - 2021-01-01 05:10:03 --> Input Class Initialized
+INFO - 2021-01-01 05:10:03 --> Language Class Initialized
+INFO - 2021-01-01 05:10:03 --> Language Class Initialized
+INFO - 2021-01-01 05:10:03 --> Config Class Initialized
+INFO - 2021-01-01 05:10:03 --> Loader Class Initialized
+INFO - 2021-01-01 05:10:03 --> Helper loaded: url_helper
+INFO - 2021-01-01 05:10:03 --> Helper loaded: html_helper
+INFO - 2021-01-01 05:10:03 --> Helper loaded: file_helper
+INFO - 2021-01-01 05:10:03 --> Helper loaded: form_helper
+INFO - 2021-01-01 05:10:03 --> Helper loaded: security_helper
+INFO - 2021-01-01 05:10:03 --> Helper loaded: xss_helper
+INFO - 2021-01-01 05:10:03 --> Helper loaded: slug_helper
+INFO - 2021-01-01 05:10:03 --> Database Driver Class Initialized
+DEBUG - 2021-01-01 05:10:04 --> Session: "sess_save_path" is empty; using "session.save_path" value from php.ini.
+INFO - 2021-01-01 05:10:04 --> Session: Class initialized using 'files' driver.
+INFO - 2021-01-01 05:10:04 --> Language file loaded: language/english/pagination_lang.php
+INFO - 2021-01-01 05:10:04 --> Pagination Class Initialized
+INFO - 2021-01-01 05:10:04 --> Email Class Initialized
+INFO - 2021-01-01 05:10:04 --> Model "M_konfig" initialized
+INFO - 2021-01-01 05:10:04 --> Model "M_reff" initialized
+INFO - 2021-01-01 05:10:04 --> Model "M_total" initialized
+INFO - 2021-01-01 05:10:04 --> Controller Class Initialized
+DEBUG - 2021-01-01 05:10:04 --> File loaded: D:\xampp72\htdocs\app_grm\application\modules/apengumuman/models/Model.php
+INFO - 2021-01-01 11:10:04 --> Final output sent to browser
+DEBUG - 2021-01-01 11:10:04 --> Total execution time: 0.8788
+INFO - 2021-01-01 05:10:08 --> Config Class Initialized
+INFO - 2021-01-01 05:10:08 --> Hooks Class Initialized
+DEBUG - 2021-01-01 05:10:08 --> UTF-8 Support Enabled
+INFO - 2021-01-01 05:10:08 --> Utf8 Class Initialized
+INFO - 2021-01-01 05:10:08 --> URI Class Initialized
+INFO - 2021-01-01 05:10:08 --> Router Class Initialized
+INFO - 2021-01-01 05:10:08 --> Output Class Initialized
+INFO - 2021-01-01 05:10:08 --> Security Class Initialized
+DEBUG - 2021-01-01 05:10:08 --> Global POST, GET and COOKIE data sanitized
+INFO - 2021-01-01 05:10:08 --> Input Class Initialized
+INFO - 2021-01-01 05:10:08 --> Language Class Initialized
+INFO - 2021-01-01 05:10:08 --> Language Class Initialized
+INFO - 2021-01-01 05:10:08 --> Config Class Initialized
+INFO - 2021-01-01 05:10:08 --> Loader Class Initialized
+INFO - 2021-01-01 05:10:08 --> Helper loaded: url_helper
+INFO - 2021-01-01 05:10:08 --> Helper loaded: html_helper
+INFO - 2021-01-01 05:10:08 --> Helper loaded: file_helper
+INFO - 2021-01-01 05:10:08 --> Helper loaded: form_helper
+INFO - 2021-01-01 05:10:09 --> Helper loaded: security_helper
+INFO - 2021-01-01 05:10:09 --> Helper loaded: xss_helper
+INFO - 2021-01-01 05:10:09 --> Helper loaded: slug_helper
+INFO - 2021-01-01 05:10:09 --> Database Driver Class Initialized
+DEBUG - 2021-01-01 05:10:09 --> Session: "sess_save_path" is empty; using "session.save_path" value from php.ini.
+INFO - 2021-01-01 05:10:09 --> Session: Class initialized using 'files' driver.
+INFO - 2021-01-01 05:10:09 --> Language file loaded: language/english/pagination_lang.php
+INFO - 2021-01-01 05:10:09 --> Pagination Class Initialized
+INFO - 2021-01-01 05:10:09 --> Email Class Initialized
+INFO - 2021-01-01 05:10:09 --> Model "M_konfig" initialized
+INFO - 2021-01-01 05:10:09 --> Model "M_reff" initialized
+INFO - 2021-01-01 05:10:09 --> Model "M_total" initialized
+INFO - 2021-01-01 05:10:09 --> Controller Class Initialized
+DEBUG - 2021-01-01 05:10:09 --> File loaded: D:\xampp72\htdocs\app_grm\application\modules/apengumuman/models/Model.php
+INFO - 2021-01-01 11:10:09 --> Final output sent to browser
+DEBUG - 2021-01-01 11:10:09 --> Total execution time: 0.9326
+INFO - 2021-01-01 05:10:13 --> Config Class Initialized
+INFO - 2021-01-01 05:10:13 --> Hooks Class Initialized
+DEBUG - 2021-01-01 05:10:13 --> UTF-8 Support Enabled
+INFO - 2021-01-01 05:10:13 --> Utf8 Class Initialized
+INFO - 2021-01-01 05:10:13 --> URI Class Initialized
+INFO - 2021-01-01 05:10:13 --> Router Class Initialized
+INFO - 2021-01-01 05:10:13 --> Output Class Initialized
+INFO - 2021-01-01 05:10:13 --> Security Class Initialized
+DEBUG - 2021-01-01 05:10:13 --> Global POST, GET and COOKIE data sanitized
+INFO - 2021-01-01 05:10:13 --> Input Class Initialized
+INFO - 2021-01-01 05:10:13 --> Language Class Initialized
+INFO - 2021-01-01 05:10:13 --> Language Class Initialized
+INFO - 2021-01-01 05:10:13 --> Config Class Initialized
+INFO - 2021-01-01 05:10:13 --> Loader Class Initialized
+INFO - 2021-01-01 05:10:13 --> Helper loaded: url_helper
+INFO - 2021-01-01 05:10:13 --> Helper loaded: html_helper
+INFO - 2021-01-01 05:10:13 --> Helper loaded: file_helper
+INFO - 2021-01-01 05:10:13 --> Helper loaded: form_helper
+INFO - 2021-01-01 05:10:14 --> Helper loaded: security_helper
+INFO - 2021-01-01 05:10:14 --> Helper loaded: xss_helper
+INFO - 2021-01-01 05:10:14 --> Helper loaded: slug_helper
+INFO - 2021-01-01 05:10:14 --> Database Driver Class Initialized
+DEBUG - 2021-01-01 05:10:14 --> Session: "sess_save_path" is empty; using "session.save_path" value from php.ini.
+INFO - 2021-01-01 05:10:14 --> Session: Class initialized using 'files' driver.
+INFO - 2021-01-01 05:10:14 --> Language file loaded: language/english/pagination_lang.php
+INFO - 2021-01-01 05:10:14 --> Pagination Class Initialized
+INFO - 2021-01-01 05:10:14 --> Email Class Initialized
+INFO - 2021-01-01 05:10:14 --> Model "M_konfig" initialized
+INFO - 2021-01-01 05:10:14 --> Model "M_reff" initialized
+INFO - 2021-01-01 05:10:14 --> Model "M_total" initialized
+INFO - 2021-01-01 05:10:14 --> Controller Class Initialized
+DEBUG - 2021-01-01 05:10:14 --> File loaded: D:\xampp72\htdocs\app_grm\application\modules/apengumuman/models/Model.php
+INFO - 2021-01-01 11:10:14 --> Final output sent to browser
+DEBUG - 2021-01-01 11:10:14 --> Total execution time: 0.8315
+INFO - 2021-01-01 05:10:18 --> Config Class Initialized
+INFO - 2021-01-01 05:10:18 --> Hooks Class Initialized
+DEBUG - 2021-01-01 05:10:18 --> UTF-8 Support Enabled
+INFO - 2021-01-01 05:10:18 --> Utf8 Class Initialized
+INFO - 2021-01-01 05:10:18 --> URI Class Initialized
+INFO - 2021-01-01 05:10:18 --> Router Class Initialized
+INFO - 2021-01-01 05:10:18 --> Output Class Initialized
+INFO - 2021-01-01 05:10:18 --> Security Class Initialized
+DEBUG - 2021-01-01 05:10:18 --> Global POST, GET and COOKIE data sanitized
+INFO - 2021-01-01 05:10:18 --> Input Class Initialized
+INFO - 2021-01-01 05:10:18 --> Language Class Initialized
+INFO - 2021-01-01 05:10:18 --> Language Class Initialized
+INFO - 2021-01-01 05:10:18 --> Config Class Initialized
+INFO - 2021-01-01 05:10:18 --> Loader Class Initialized
+INFO - 2021-01-01 05:10:18 --> Helper loaded: url_helper
+INFO - 2021-01-01 05:10:19 --> Helper loaded: html_helper
+INFO - 2021-01-01 05:10:19 --> Helper loaded: file_helper
+INFO - 2021-01-01 05:10:19 --> Helper loaded: form_helper
+INFO - 2021-01-01 05:10:19 --> Helper loaded: security_helper
+INFO - 2021-01-01 05:10:19 --> Helper loaded: xss_helper
+INFO - 2021-01-01 05:10:19 --> Helper loaded: slug_helper
+INFO - 2021-01-01 05:10:19 --> Database Driver Class Initialized
+DEBUG - 2021-01-01 05:10:19 --> Session: "sess_save_path" is empty; using "session.save_path" value from php.ini.
+INFO - 2021-01-01 05:10:19 --> Session: Class initialized using 'files' driver.
+INFO - 2021-01-01 05:10:19 --> Language file loaded: language/english/pagination_lang.php
+INFO - 2021-01-01 05:10:19 --> Pagination Class Initialized
+INFO - 2021-01-01 05:10:19 --> Email Class Initialized
+INFO - 2021-01-01 05:10:19 --> Model "M_konfig" initialized
+INFO - 2021-01-01 05:10:19 --> Model "M_reff" initialized
+INFO - 2021-01-01 05:10:19 --> Model "M_total" initialized
+INFO - 2021-01-01 05:10:19 --> Controller Class Initialized
+DEBUG - 2021-01-01 05:10:19 --> File loaded: D:\xampp72\htdocs\app_grm\application\modules/apengumuman/models/Model.php
+INFO - 2021-01-01 11:10:19 --> Final output sent to browser
+DEBUG - 2021-01-01 11:10:19 --> Total execution time: 0.8703
+INFO - 2021-01-01 05:10:23 --> Config Class Initialized
+INFO - 2021-01-01 05:10:23 --> Hooks Class Initialized
+DEBUG - 2021-01-01 05:10:23 --> UTF-8 Support Enabled
+INFO - 2021-01-01 05:10:23 --> Utf8 Class Initialized
+INFO - 2021-01-01 05:10:23 --> URI Class Initialized
+INFO - 2021-01-01 05:10:23 --> Router Class Initialized
+INFO - 2021-01-01 05:10:23 --> Output Class Initialized
+INFO - 2021-01-01 05:10:23 --> Security Class Initialized
+DEBUG - 2021-01-01 05:10:23 --> Global POST, GET and COOKIE data sanitized
+INFO - 2021-01-01 05:10:23 --> Input Class Initialized
+INFO - 2021-01-01 05:10:23 --> Language Class Initialized
+INFO - 2021-01-01 05:10:23 --> Language Class Initialized
+INFO - 2021-01-01 05:10:24 --> Config Class Initialized
+INFO - 2021-01-01 05:10:24 --> Loader Class Initialized
+INFO - 2021-01-01 05:10:24 --> Helper loaded: url_helper
+INFO - 2021-01-01 05:10:24 --> Helper loaded: html_helper
+INFO - 2021-01-01 05:10:24 --> Helper loaded: file_helper
+INFO - 2021-01-01 05:10:24 --> Helper loaded: form_helper
+INFO - 2021-01-01 05:10:24 --> Helper loaded: security_helper
+INFO - 2021-01-01 05:10:24 --> Helper loaded: xss_helper
+INFO - 2021-01-01 05:10:24 --> Helper loaded: slug_helper
+INFO - 2021-01-01 05:10:24 --> Database Driver Class Initialized
+DEBUG - 2021-01-01 05:10:24 --> Session: "sess_save_path" is empty; using "session.save_path" value from php.ini.
+INFO - 2021-01-01 05:10:24 --> Session: Class initialized using 'files' driver.
+INFO - 2021-01-01 05:10:24 --> Language file loaded: language/english/pagination_lang.php
+INFO - 2021-01-01 05:10:24 --> Pagination Class Initialized
+INFO - 2021-01-01 05:10:24 --> Email Class Initialized
+INFO - 2021-01-01 05:10:24 --> Model "M_konfig" initialized
+INFO - 2021-01-01 05:10:24 --> Model "M_reff" initialized
+INFO - 2021-01-01 05:10:24 --> Model "M_total" initialized
+INFO - 2021-01-01 05:10:24 --> Controller Class Initialized
+DEBUG - 2021-01-01 05:10:24 --> File loaded: D:\xampp72\htdocs\app_grm\application\modules/apengumuman/models/Model.php
+INFO - 2021-01-01 11:10:24 --> Final output sent to browser
+DEBUG - 2021-01-01 11:10:24 --> Total execution time: 0.8750
+INFO - 2021-01-01 05:10:28 --> Config Class Initialized
+INFO - 2021-01-01 05:10:28 --> Hooks Class Initialized
+DEBUG - 2021-01-01 05:10:28 --> UTF-8 Support Enabled
+INFO - 2021-01-01 05:10:28 --> Utf8 Class Initialized
+INFO - 2021-01-01 05:10:28 --> URI Class Initialized
+INFO - 2021-01-01 05:10:28 --> Router Class Initialized
+INFO - 2021-01-01 05:10:28 --> Output Class Initialized
+INFO - 2021-01-01 05:10:28 --> Security Class Initialized
+DEBUG - 2021-01-01 05:10:28 --> Global POST, GET and COOKIE data sanitized
+INFO - 2021-01-01 05:10:28 --> Input Class Initialized
+INFO - 2021-01-01 05:10:29 --> Language Class Initialized
+INFO - 2021-01-01 05:10:29 --> Language Class Initialized
+INFO - 2021-01-01 05:10:29 --> Config Class Initialized
+INFO - 2021-01-01 05:10:29 --> Loader Class Initialized
+INFO - 2021-01-01 05:10:29 --> Helper loaded: url_helper
+INFO - 2021-01-01 05:10:29 --> Helper loaded: html_helper
+INFO - 2021-01-01 05:10:29 --> Helper loaded: file_helper
+INFO - 2021-01-01 05:10:29 --> Helper loaded: form_helper
+INFO - 2021-01-01 05:10:29 --> Helper loaded: security_helper
+INFO - 2021-01-01 05:10:29 --> Helper loaded: xss_helper
+INFO - 2021-01-01 05:10:29 --> Helper loaded: slug_helper
+INFO - 2021-01-01 05:10:29 --> Database Driver Class Initialized
+DEBUG - 2021-01-01 05:10:29 --> Session: "sess_save_path" is empty; using "session.save_path" value from php.ini.
+INFO - 2021-01-01 05:10:29 --> Session: Class initialized using 'files' driver.
+INFO - 2021-01-01 05:10:29 --> Language file loaded: language/english/pagination_lang.php
+INFO - 2021-01-01 05:10:29 --> Pagination Class Initialized
+INFO - 2021-01-01 05:10:29 --> Email Class Initialized
+INFO - 2021-01-01 05:10:29 --> Model "M_konfig" initialized
+INFO - 2021-01-01 05:10:29 --> Model "M_reff" initialized
+INFO - 2021-01-01 05:10:29 --> Model "M_total" initialized
+INFO - 2021-01-01 05:10:29 --> Controller Class Initialized
+DEBUG - 2021-01-01 05:10:29 --> File loaded: D:\xampp72\htdocs\app_grm\application\modules/apengumuman/models/Model.php
+INFO - 2021-01-01 11:10:29 --> Final output sent to browser
+DEBUG - 2021-01-01 11:10:29 --> Total execution time: 0.8280
+INFO - 2021-01-01 05:10:33 --> Config Class Initialized
+INFO - 2021-01-01 05:10:33 --> Hooks Class Initialized
+DEBUG - 2021-01-01 05:10:33 --> UTF-8 Support Enabled
+INFO - 2021-01-01 05:10:33 --> Utf8 Class Initialized
+INFO - 2021-01-01 05:10:33 --> URI Class Initialized
+INFO - 2021-01-01 05:10:33 --> Router Class Initialized
+INFO - 2021-01-01 05:10:33 --> Output Class Initialized
+INFO - 2021-01-01 05:10:33 --> Security Class Initialized
+DEBUG - 2021-01-01 05:10:34 --> Global POST, GET and COOKIE data sanitized
+INFO - 2021-01-01 05:10:34 --> Input Class Initialized
+INFO - 2021-01-01 05:10:34 --> Language Class Initialized
+INFO - 2021-01-01 05:10:34 --> Language Class Initialized
+INFO - 2021-01-01 05:10:34 --> Config Class Initialized
+INFO - 2021-01-01 05:10:34 --> Loader Class Initialized
+INFO - 2021-01-01 05:10:34 --> Helper loaded: url_helper
+INFO - 2021-01-01 05:10:34 --> Helper loaded: html_helper
+INFO - 2021-01-01 05:10:34 --> Helper loaded: file_helper
+INFO - 2021-01-01 05:10:34 --> Helper loaded: form_helper
+INFO - 2021-01-01 05:10:34 --> Helper loaded: security_helper
+INFO - 2021-01-01 05:10:34 --> Helper loaded: xss_helper
+INFO - 2021-01-01 05:10:34 --> Helper loaded: slug_helper
+INFO - 2021-01-01 05:10:34 --> Database Driver Class Initialized
+DEBUG - 2021-01-01 05:10:34 --> Session: "sess_save_path" is empty; using "session.save_path" value from php.ini.
+INFO - 2021-01-01 05:10:34 --> Session: Class initialized using 'files' driver.
+INFO - 2021-01-01 05:10:34 --> Language file loaded: language/english/pagination_lang.php
+INFO - 2021-01-01 05:10:34 --> Pagination Class Initialized
+INFO - 2021-01-01 05:10:34 --> Email Class Initialized
+INFO - 2021-01-01 05:10:34 --> Model "M_konfig" initialized
+INFO - 2021-01-01 05:10:34 --> Model "M_reff" initialized
+INFO - 2021-01-01 05:10:34 --> Model "M_total" initialized
+INFO - 2021-01-01 05:10:34 --> Controller Class Initialized
+DEBUG - 2021-01-01 05:10:34 --> File loaded: D:\xampp72\htdocs\app_grm\application\modules/apengumuman/models/Model.php
+INFO - 2021-01-01 11:10:34 --> Final output sent to browser
+DEBUG - 2021-01-01 11:10:34 --> Total execution time: 0.8521
+INFO - 2021-01-01 05:10:38 --> Config Class Initialized
+INFO - 2021-01-01 05:10:38 --> Hooks Class Initialized
+DEBUG - 2021-01-01 05:10:38 --> UTF-8 Support Enabled
+INFO - 2021-01-01 05:10:38 --> Utf8 Class Initialized
+INFO - 2021-01-01 05:10:39 --> URI Class Initialized
+INFO - 2021-01-01 05:10:39 --> Router Class Initialized
+INFO - 2021-01-01 05:10:39 --> Output Class Initialized
+INFO - 2021-01-01 05:10:39 --> Security Class Initialized
+DEBUG - 2021-01-01 05:10:39 --> Global POST, GET and COOKIE data sanitized
+INFO - 2021-01-01 05:10:39 --> Input Class Initialized
+INFO - 2021-01-01 05:10:39 --> Language Class Initialized
+INFO - 2021-01-01 05:10:39 --> Language Class Initialized
+INFO - 2021-01-01 05:10:39 --> Config Class Initialized
+INFO - 2021-01-01 05:10:39 --> Loader Class Initialized
+INFO - 2021-01-01 05:10:39 --> Helper loaded: url_helper
+INFO - 2021-01-01 05:10:39 --> Helper loaded: html_helper
+INFO - 2021-01-01 05:10:39 --> Helper loaded: file_helper
+INFO - 2021-01-01 05:10:39 --> Helper loaded: form_helper
+INFO - 2021-01-01 05:10:39 --> Helper loaded: security_helper
+INFO - 2021-01-01 05:10:39 --> Helper loaded: xss_helper
+INFO - 2021-01-01 05:10:39 --> Helper loaded: slug_helper
+INFO - 2021-01-01 05:10:39 --> Database Driver Class Initialized
+DEBUG - 2021-01-01 05:10:39 --> Session: "sess_save_path" is empty; using "session.save_path" value from php.ini.
+INFO - 2021-01-01 05:10:39 --> Session: Class initialized using 'files' driver.
+INFO - 2021-01-01 05:10:39 --> Language file loaded: language/english/pagination_lang.php
+INFO - 2021-01-01 05:10:39 --> Pagination Class Initialized
+INFO - 2021-01-01 05:10:39 --> Email Class Initialized
+INFO - 2021-01-01 05:10:39 --> Model "M_konfig" initialized
+INFO - 2021-01-01 05:10:39 --> Model "M_reff" initialized
+INFO - 2021-01-01 05:10:39 --> Model "M_total" initialized
+INFO - 2021-01-01 05:10:39 --> Controller Class Initialized
+DEBUG - 2021-01-01 05:10:39 --> File loaded: D:\xampp72\htdocs\app_grm\application\modules/apengumuman/models/Model.php
+INFO - 2021-01-01 11:10:39 --> Final output sent to browser
+DEBUG - 2021-01-01 11:10:39 --> Total execution time: 0.9640
+INFO - 2021-01-01 05:10:43 --> Config Class Initialized
+INFO - 2021-01-01 05:10:43 --> Hooks Class Initialized
+DEBUG - 2021-01-01 05:10:44 --> UTF-8 Support Enabled
+INFO - 2021-01-01 05:10:44 --> Utf8 Class Initialized
+INFO - 2021-01-01 05:10:44 --> URI Class Initialized
+INFO - 2021-01-01 05:10:44 --> Router Class Initialized
+INFO - 2021-01-01 05:10:44 --> Output Class Initialized
+INFO - 2021-01-01 05:10:44 --> Security Class Initialized
+DEBUG - 2021-01-01 05:10:44 --> Global POST, GET and COOKIE data sanitized
+INFO - 2021-01-01 05:10:44 --> Input Class Initialized
+INFO - 2021-01-01 05:10:44 --> Language Class Initialized
+INFO - 2021-01-01 05:10:44 --> Language Class Initialized
+INFO - 2021-01-01 05:10:44 --> Config Class Initialized
+INFO - 2021-01-01 05:10:44 --> Loader Class Initialized
+INFO - 2021-01-01 05:10:44 --> Helper loaded: url_helper
+INFO - 2021-01-01 05:10:44 --> Helper loaded: html_helper
+INFO - 2021-01-01 05:10:44 --> Helper loaded: file_helper
+INFO - 2021-01-01 05:10:44 --> Helper loaded: form_helper
+INFO - 2021-01-01 05:10:44 --> Helper loaded: security_helper
+INFO - 2021-01-01 05:10:44 --> Helper loaded: xss_helper
+INFO - 2021-01-01 05:10:44 --> Helper loaded: slug_helper
+INFO - 2021-01-01 05:10:44 --> Database Driver Class Initialized
+DEBUG - 2021-01-01 05:10:44 --> Session: "sess_save_path" is empty; using "session.save_path" value from php.ini.
+INFO - 2021-01-01 05:10:44 --> Session: Class initialized using 'files' driver.
+INFO - 2021-01-01 05:10:44 --> Language file loaded: language/english/pagination_lang.php
+INFO - 2021-01-01 05:10:44 --> Pagination Class Initialized
+INFO - 2021-01-01 05:10:44 --> Email Class Initialized
+INFO - 2021-01-01 05:10:44 --> Model "M_konfig" initialized
+INFO - 2021-01-01 05:10:44 --> Model "M_reff" initialized
+INFO - 2021-01-01 05:10:45 --> Model "M_total" initialized
+INFO - 2021-01-01 05:10:45 --> Controller Class Initialized
+DEBUG - 2021-01-01 05:10:45 --> File loaded: D:\xampp72\htdocs\app_grm\application\modules/apengumuman/models/Model.php
+INFO - 2021-01-01 11:10:45 --> Final output sent to browser
+DEBUG - 2021-01-01 11:10:45 --> Total execution time: 1.1365
+INFO - 2021-01-01 05:10:49 --> Config Class Initialized
+INFO - 2021-01-01 05:10:49 --> Hooks Class Initialized
+DEBUG - 2021-01-01 05:10:49 --> UTF-8 Support Enabled
+INFO - 2021-01-01 05:10:49 --> Utf8 Class Initialized
+INFO - 2021-01-01 05:10:49 --> URI Class Initialized
+INFO - 2021-01-01 05:10:49 --> Router Class Initialized
+INFO - 2021-01-01 05:10:49 --> Output Class Initialized
+INFO - 2021-01-01 05:10:49 --> Security Class Initialized
+DEBUG - 2021-01-01 05:10:49 --> Global POST, GET and COOKIE data sanitized
+INFO - 2021-01-01 05:10:49 --> Input Class Initialized
+INFO - 2021-01-01 05:10:49 --> Language Class Initialized
+INFO - 2021-01-01 05:10:49 --> Language Class Initialized
+INFO - 2021-01-01 05:10:49 --> Config Class Initialized
+INFO - 2021-01-01 05:10:49 --> Loader Class Initialized
+INFO - 2021-01-01 05:10:49 --> Helper loaded: url_helper
+INFO - 2021-01-01 05:10:49 --> Helper loaded: html_helper
+INFO - 2021-01-01 05:10:49 --> Helper loaded: file_helper
+INFO - 2021-01-01 05:10:49 --> Helper loaded: form_helper
+INFO - 2021-01-01 05:10:49 --> Helper loaded: security_helper
+INFO - 2021-01-01 05:10:49 --> Helper loaded: xss_helper
+INFO - 2021-01-01 05:10:49 --> Helper loaded: slug_helper
+INFO - 2021-01-01 05:10:49 --> Database Driver Class Initialized
+DEBUG - 2021-01-01 05:10:49 --> Session: "sess_save_path" is empty; using "session.save_path" value from php.ini.
+INFO - 2021-01-01 05:10:49 --> Session: Class initialized using 'files' driver.
+INFO - 2021-01-01 05:10:49 --> Language file loaded: language/english/pagination_lang.php
+INFO - 2021-01-01 05:10:49 --> Pagination Class Initialized
+INFO - 2021-01-01 05:10:49 --> Email Class Initialized
+INFO - 2021-01-01 05:10:49 --> Model "M_konfig" initialized
+INFO - 2021-01-01 05:10:49 --> Model "M_reff" initialized
+INFO - 2021-01-01 05:10:49 --> Model "M_total" initialized
+INFO - 2021-01-01 05:10:49 --> Controller Class Initialized
+DEBUG - 2021-01-01 05:10:49 --> File loaded: D:\xampp72\htdocs\app_grm\application\modules/apengumuman/models/Model.php
+INFO - 2021-01-01 11:10:49 --> Final output sent to browser
+DEBUG - 2021-01-01 11:10:49 --> Total execution time: 0.8939
+INFO - 2021-01-01 05:10:54 --> Config Class Initialized
+INFO - 2021-01-01 05:10:54 --> Hooks Class Initialized
+DEBUG - 2021-01-01 05:10:54 --> UTF-8 Support Enabled
+INFO - 2021-01-01 05:10:54 --> Utf8 Class Initialized
+INFO - 2021-01-01 05:10:54 --> URI Class Initialized
+INFO - 2021-01-01 05:10:54 --> Router Class Initialized
+INFO - 2021-01-01 05:10:54 --> Output Class Initialized
+INFO - 2021-01-01 05:10:54 --> Security Class Initialized
+DEBUG - 2021-01-01 05:10:54 --> Global POST, GET and COOKIE data sanitized
+INFO - 2021-01-01 05:10:54 --> Input Class Initialized
+INFO - 2021-01-01 05:10:54 --> Language Class Initialized
+INFO - 2021-01-01 05:10:54 --> Language Class Initialized
+INFO - 2021-01-01 05:10:54 --> Config Class Initialized
+INFO - 2021-01-01 05:10:54 --> Loader Class Initialized
+INFO - 2021-01-01 05:10:54 --> Helper loaded: url_helper
+INFO - 2021-01-01 05:10:54 --> Helper loaded: html_helper
+INFO - 2021-01-01 05:10:54 --> Helper loaded: file_helper
+INFO - 2021-01-01 05:10:54 --> Helper loaded: form_helper
+INFO - 2021-01-01 05:10:54 --> Helper loaded: security_helper
+INFO - 2021-01-01 05:10:54 --> Helper loaded: xss_helper
+INFO - 2021-01-01 05:10:54 --> Helper loaded: slug_helper
+INFO - 2021-01-01 05:10:54 --> Database Driver Class Initialized
+DEBUG - 2021-01-01 05:10:54 --> Session: "sess_save_path" is empty; using "session.save_path" value from php.ini.
+INFO - 2021-01-01 05:10:54 --> Session: Class initialized using 'files' driver.
+INFO - 2021-01-01 05:10:54 --> Language file loaded: language/english/pagination_lang.php
+INFO - 2021-01-01 05:10:54 --> Pagination Class Initialized
+INFO - 2021-01-01 05:10:54 --> Email Class Initialized
+INFO - 2021-01-01 05:10:54 --> Model "M_konfig" initialized
+INFO - 2021-01-01 05:10:54 --> Model "M_reff" initialized
+INFO - 2021-01-01 05:10:54 --> Model "M_total" initialized
+INFO - 2021-01-01 05:10:54 --> Controller Class Initialized
+DEBUG - 2021-01-01 05:10:55 --> File loaded: D:\xampp72\htdocs\app_grm\application\modules/apengumuman/models/Model.php
+INFO - 2021-01-01 11:10:55 --> Final output sent to browser
+DEBUG - 2021-01-01 11:10:55 --> Total execution time: 0.8942
+INFO - 2021-01-01 05:10:59 --> Config Class Initialized
+INFO - 2021-01-01 05:10:59 --> Hooks Class Initialized
+DEBUG - 2021-01-01 05:10:59 --> UTF-8 Support Enabled
+INFO - 2021-01-01 05:10:59 --> Utf8 Class Initialized
+INFO - 2021-01-01 05:10:59 --> URI Class Initialized
+INFO - 2021-01-01 05:10:59 --> Router Class Initialized
+INFO - 2021-01-01 05:10:59 --> Output Class Initialized
+INFO - 2021-01-01 05:10:59 --> Security Class Initialized
+DEBUG - 2021-01-01 05:10:59 --> Global POST, GET and COOKIE data sanitized
+INFO - 2021-01-01 05:10:59 --> Input Class Initialized
+INFO - 2021-01-01 05:10:59 --> Language Class Initialized
+INFO - 2021-01-01 05:10:59 --> Language Class Initialized
+INFO - 2021-01-01 05:10:59 --> Config Class Initialized
+INFO - 2021-01-01 05:10:59 --> Loader Class Initialized
+INFO - 2021-01-01 05:10:59 --> Helper loaded: url_helper
+INFO - 2021-01-01 05:10:59 --> Helper loaded: html_helper
+INFO - 2021-01-01 05:10:59 --> Helper loaded: file_helper
+INFO - 2021-01-01 05:10:59 --> Helper loaded: form_helper
+INFO - 2021-01-01 05:10:59 --> Helper loaded: security_helper
+INFO - 2021-01-01 05:10:59 --> Helper loaded: xss_helper
+INFO - 2021-01-01 05:10:59 --> Helper loaded: slug_helper
+INFO - 2021-01-01 05:10:59 --> Database Driver Class Initialized
+DEBUG - 2021-01-01 05:10:59 --> Session: "sess_save_path" is empty; using "session.save_path" value from php.ini.
+INFO - 2021-01-01 05:10:59 --> Session: Class initialized using 'files' driver.
+INFO - 2021-01-01 05:10:59 --> Language file loaded: language/english/pagination_lang.php
+INFO - 2021-01-01 05:10:59 --> Pagination Class Initialized
+INFO - 2021-01-01 05:10:59 --> Email Class Initialized
+INFO - 2021-01-01 05:10:59 --> Model "M_konfig" initialized
+INFO - 2021-01-01 05:10:59 --> Model "M_reff" initialized
+INFO - 2021-01-01 05:11:00 --> Model "M_total" initialized
+INFO - 2021-01-01 05:11:00 --> Controller Class Initialized
+DEBUG - 2021-01-01 05:11:00 --> File loaded: D:\xampp72\htdocs\app_grm\application\modules/apengumuman/models/Model.php
+INFO - 2021-01-01 11:11:00 --> Final output sent to browser
+DEBUG - 2021-01-01 11:11:00 --> Total execution time: 0.8452
+INFO - 2021-01-01 05:11:04 --> Config Class Initialized
+INFO - 2021-01-01 05:11:04 --> Hooks Class Initialized
+DEBUG - 2021-01-01 05:11:04 --> UTF-8 Support Enabled
+INFO - 2021-01-01 05:11:04 --> Utf8 Class Initialized
+INFO - 2021-01-01 05:11:04 --> URI Class Initialized
+INFO - 2021-01-01 05:11:04 --> Router Class Initialized
+INFO - 2021-01-01 05:11:04 --> Output Class Initialized
+INFO - 2021-01-01 05:11:04 --> Security Class Initialized
+DEBUG - 2021-01-01 05:11:04 --> Global POST, GET and COOKIE data sanitized
+INFO - 2021-01-01 05:11:04 --> Input Class Initialized
+INFO - 2021-01-01 05:11:04 --> Language Class Initialized
+INFO - 2021-01-01 05:11:04 --> Language Class Initialized
+INFO - 2021-01-01 05:11:04 --> Config Class Initialized
+INFO - 2021-01-01 05:11:04 --> Loader Class Initialized
+INFO - 2021-01-01 05:11:04 --> Helper loaded: url_helper
+INFO - 2021-01-01 05:11:04 --> Helper loaded: html_helper
+INFO - 2021-01-01 05:11:04 --> Helper loaded: file_helper
+INFO - 2021-01-01 05:11:04 --> Helper loaded: form_helper
+INFO - 2021-01-01 05:11:04 --> Helper loaded: security_helper
+INFO - 2021-01-01 05:11:04 --> Helper loaded: xss_helper
+INFO - 2021-01-01 05:11:04 --> Helper loaded: slug_helper
+INFO - 2021-01-01 05:11:04 --> Database Driver Class Initialized
+DEBUG - 2021-01-01 05:11:04 --> Session: "sess_save_path" is empty; using "session.save_path" value from php.ini.
+INFO - 2021-01-01 05:11:05 --> Session: Class initialized using 'files' driver.
+INFO - 2021-01-01 05:11:05 --> Language file loaded: language/english/pagination_lang.php
+INFO - 2021-01-01 05:11:05 --> Pagination Class Initialized
+INFO - 2021-01-01 05:11:05 --> Email Class Initialized
+INFO - 2021-01-01 05:11:05 --> Model "M_konfig" initialized
+INFO - 2021-01-01 05:11:05 --> Model "M_reff" initialized
+INFO - 2021-01-01 05:11:05 --> Model "M_total" initialized
+INFO - 2021-01-01 05:11:05 --> Controller Class Initialized
+DEBUG - 2021-01-01 05:11:05 --> File loaded: D:\xampp72\htdocs\app_grm\application\modules/apengumuman/models/Model.php
+INFO - 2021-01-01 11:11:05 --> Final output sent to browser
+DEBUG - 2021-01-01 11:11:05 --> Total execution time: 0.9134
+INFO - 2021-01-01 05:11:09 --> Config Class Initialized
+INFO - 2021-01-01 05:11:09 --> Hooks Class Initialized
+DEBUG - 2021-01-01 05:11:09 --> UTF-8 Support Enabled
+INFO - 2021-01-01 05:11:09 --> Utf8 Class Initialized
+INFO - 2021-01-01 05:11:09 --> URI Class Initialized
+INFO - 2021-01-01 05:11:09 --> Router Class Initialized
+INFO - 2021-01-01 05:11:09 --> Output Class Initialized
+INFO - 2021-01-01 05:11:09 --> Security Class Initialized
+DEBUG - 2021-01-01 05:11:09 --> Global POST, GET and COOKIE data sanitized
+INFO - 2021-01-01 05:11:09 --> Input Class Initialized
+INFO - 2021-01-01 05:11:09 --> Language Class Initialized
+INFO - 2021-01-01 05:11:09 --> Language Class Initialized
+INFO - 2021-01-01 05:11:09 --> Config Class Initialized
+INFO - 2021-01-01 05:11:09 --> Loader Class Initialized
+INFO - 2021-01-01 05:11:09 --> Helper loaded: url_helper
+INFO - 2021-01-01 05:11:09 --> Helper loaded: html_helper
+INFO - 2021-01-01 05:11:09 --> Helper loaded: file_helper
+INFO - 2021-01-01 05:11:09 --> Helper loaded: form_helper
+INFO - 2021-01-01 05:11:09 --> Helper loaded: security_helper
+INFO - 2021-01-01 05:11:10 --> Helper loaded: xss_helper
+INFO - 2021-01-01 05:11:10 --> Helper loaded: slug_helper
+INFO - 2021-01-01 05:11:10 --> Database Driver Class Initialized
+DEBUG - 2021-01-01 05:11:10 --> Session: "sess_save_path" is empty; using "session.save_path" value from php.ini.
+INFO - 2021-01-01 05:11:10 --> Session: Class initialized using 'files' driver.
+INFO - 2021-01-01 05:11:10 --> Language file loaded: language/english/pagination_lang.php
+INFO - 2021-01-01 05:11:10 --> Pagination Class Initialized
+INFO - 2021-01-01 05:11:10 --> Email Class Initialized
+INFO - 2021-01-01 05:11:10 --> Model "M_konfig" initialized
+INFO - 2021-01-01 05:11:10 --> Model "M_reff" initialized
+INFO - 2021-01-01 05:11:10 --> Model "M_total" initialized
+INFO - 2021-01-01 05:11:10 --> Controller Class Initialized
+DEBUG - 2021-01-01 05:11:10 --> File loaded: D:\xampp72\htdocs\app_grm\application\modules/apengumuman/models/Model.php
+INFO - 2021-01-01 11:11:10 --> Final output sent to browser
+DEBUG - 2021-01-01 11:11:10 --> Total execution time: 0.9689
+INFO - 2021-01-01 05:11:14 --> Config Class Initialized
+INFO - 2021-01-01 05:11:14 --> Hooks Class Initialized
+DEBUG - 2021-01-01 05:11:14 --> UTF-8 Support Enabled
+INFO - 2021-01-01 05:11:14 --> Utf8 Class Initialized
+INFO - 2021-01-01 05:11:14 --> URI Class Initialized
+INFO - 2021-01-01 05:11:14 --> Router Class Initialized
+INFO - 2021-01-01 05:11:14 --> Output Class Initialized
+INFO - 2021-01-01 05:11:14 --> Security Class Initialized
+DEBUG - 2021-01-01 05:11:14 --> Global POST, GET and COOKIE data sanitized
+INFO - 2021-01-01 05:11:14 --> Input Class Initialized
+INFO - 2021-01-01 05:11:14 --> Language Class Initialized
+INFO - 2021-01-01 05:11:14 --> Language Class Initialized
+INFO - 2021-01-01 05:11:14 --> Config Class Initialized
+INFO - 2021-01-01 05:11:14 --> Loader Class Initialized
+INFO - 2021-01-01 05:11:14 --> Helper loaded: url_helper
+INFO - 2021-01-01 05:11:14 --> Helper loaded: html_helper
+INFO - 2021-01-01 05:11:14 --> Helper loaded: file_helper
+INFO - 2021-01-01 05:11:14 --> Helper loaded: form_helper
+INFO - 2021-01-01 05:11:14 --> Helper loaded: security_helper
+INFO - 2021-01-01 05:11:14 --> Helper loaded: xss_helper
+INFO - 2021-01-01 05:11:15 --> Helper loaded: slug_helper
+INFO - 2021-01-01 05:11:15 --> Database Driver Class Initialized
+DEBUG - 2021-01-01 05:11:15 --> Session: "sess_save_path" is empty; using "session.save_path" value from php.ini.
+INFO - 2021-01-01 05:11:15 --> Session: Class initialized using 'files' driver.
+INFO - 2021-01-01 05:11:15 --> Language file loaded: language/english/pagination_lang.php
+INFO - 2021-01-01 05:11:15 --> Pagination Class Initialized
+INFO - 2021-01-01 05:11:15 --> Email Class Initialized
+INFO - 2021-01-01 05:11:15 --> Model "M_konfig" initialized
+INFO - 2021-01-01 05:11:15 --> Model "M_reff" initialized
+INFO - 2021-01-01 05:11:15 --> Model "M_total" initialized
+INFO - 2021-01-01 05:11:15 --> Controller Class Initialized
+DEBUG - 2021-01-01 05:11:15 --> File loaded: D:\xampp72\htdocs\app_grm\application\modules/apengumuman/models/Model.php
+INFO - 2021-01-01 11:11:15 --> Final output sent to browser
+DEBUG - 2021-01-01 11:11:15 --> Total execution time: 0.8655
+INFO - 2021-01-01 05:11:19 --> Config Class Initialized
+INFO - 2021-01-01 05:11:19 --> Hooks Class Initialized
+DEBUG - 2021-01-01 05:11:19 --> UTF-8 Support Enabled
+INFO - 2021-01-01 05:11:19 --> Utf8 Class Initialized
+INFO - 2021-01-01 05:11:19 --> URI Class Initialized
+INFO - 2021-01-01 05:11:19 --> Router Class Initialized
+INFO - 2021-01-01 05:11:19 --> Output Class Initialized
+INFO - 2021-01-01 05:11:19 --> Security Class Initialized
+DEBUG - 2021-01-01 05:11:19 --> Global POST, GET and COOKIE data sanitized
+INFO - 2021-01-01 05:11:19 --> Input Class Initialized
+INFO - 2021-01-01 05:11:19 --> Language Class Initialized
+INFO - 2021-01-01 05:11:19 --> Language Class Initialized
+INFO - 2021-01-01 05:11:19 --> Config Class Initialized
+INFO - 2021-01-01 05:11:19 --> Loader Class Initialized
+INFO - 2021-01-01 05:11:19 --> Helper loaded: url_helper
+INFO - 2021-01-01 05:11:19 --> Helper loaded: html_helper
+INFO - 2021-01-01 05:11:19 --> Helper loaded: file_helper
+INFO - 2021-01-01 05:11:20 --> Helper loaded: form_helper
+INFO - 2021-01-01 05:11:20 --> Helper loaded: security_helper
+INFO - 2021-01-01 05:11:20 --> Helper loaded: xss_helper
+INFO - 2021-01-01 05:11:20 --> Helper loaded: slug_helper
+INFO - 2021-01-01 05:11:20 --> Database Driver Class Initialized
+DEBUG - 2021-01-01 05:11:20 --> Session: "sess_save_path" is empty; using "session.save_path" value from php.ini.
+INFO - 2021-01-01 05:11:20 --> Session: Class initialized using 'files' driver.
+INFO - 2021-01-01 05:11:20 --> Language file loaded: language/english/pagination_lang.php
+INFO - 2021-01-01 05:11:20 --> Pagination Class Initialized
+INFO - 2021-01-01 05:11:20 --> Email Class Initialized
+INFO - 2021-01-01 05:11:20 --> Model "M_konfig" initialized
+INFO - 2021-01-01 05:11:20 --> Model "M_reff" initialized
+INFO - 2021-01-01 05:11:20 --> Model "M_total" initialized
+INFO - 2021-01-01 05:11:20 --> Controller Class Initialized
+DEBUG - 2021-01-01 05:11:20 --> File loaded: D:\xampp72\htdocs\app_grm\application\modules/apengumuman/models/Model.php
+INFO - 2021-01-01 11:11:20 --> Final output sent to browser
+DEBUG - 2021-01-01 11:11:20 --> Total execution time: 0.8881
+INFO - 2021-01-01 05:11:24 --> Config Class Initialized
+INFO - 2021-01-01 05:11:24 --> Hooks Class Initialized
+DEBUG - 2021-01-01 05:11:24 --> UTF-8 Support Enabled
+INFO - 2021-01-01 05:11:24 --> Utf8 Class Initialized
+INFO - 2021-01-01 05:11:24 --> URI Class Initialized
+INFO - 2021-01-01 05:11:24 --> Router Class Initialized
+INFO - 2021-01-01 05:11:24 --> Output Class Initialized
+INFO - 2021-01-01 05:11:24 --> Security Class Initialized
+DEBUG - 2021-01-01 05:11:24 --> Global POST, GET and COOKIE data sanitized
+INFO - 2021-01-01 05:11:24 --> Input Class Initialized
+INFO - 2021-01-01 05:11:24 --> Language Class Initialized
+INFO - 2021-01-01 05:11:24 --> Language Class Initialized
+INFO - 2021-01-01 05:11:24 --> Config Class Initialized
+INFO - 2021-01-01 05:11:24 --> Loader Class Initialized
+INFO - 2021-01-01 05:11:25 --> Helper loaded: url_helper
+INFO - 2021-01-01 05:11:25 --> Helper loaded: html_helper
+INFO - 2021-01-01 05:11:25 --> Helper loaded: file_helper
+INFO - 2021-01-01 05:11:25 --> Helper loaded: form_helper
+INFO - 2021-01-01 05:11:25 --> Helper loaded: security_helper
+INFO - 2021-01-01 05:11:25 --> Helper loaded: xss_helper
+INFO - 2021-01-01 05:11:25 --> Helper loaded: slug_helper
+INFO - 2021-01-01 05:11:25 --> Database Driver Class Initialized
+DEBUG - 2021-01-01 05:11:25 --> Session: "sess_save_path" is empty; using "session.save_path" value from php.ini.
+INFO - 2021-01-01 05:11:25 --> Session: Class initialized using 'files' driver.
+INFO - 2021-01-01 05:11:25 --> Language file loaded: language/english/pagination_lang.php
+INFO - 2021-01-01 05:11:25 --> Pagination Class Initialized
+INFO - 2021-01-01 05:11:25 --> Email Class Initialized
+INFO - 2021-01-01 05:11:25 --> Model "M_konfig" initialized
+INFO - 2021-01-01 05:11:25 --> Model "M_reff" initialized
+INFO - 2021-01-01 05:11:25 --> Model "M_total" initialized
+INFO - 2021-01-01 05:11:25 --> Controller Class Initialized
+DEBUG - 2021-01-01 05:11:25 --> File loaded: D:\xampp72\htdocs\app_grm\application\modules/apengumuman/models/Model.php
+INFO - 2021-01-01 11:11:25 --> Final output sent to browser
+DEBUG - 2021-01-01 11:11:25 --> Total execution time: 0.8724
+INFO - 2021-01-01 05:11:29 --> Config Class Initialized
+INFO - 2021-01-01 05:11:29 --> Hooks Class Initialized
+DEBUG - 2021-01-01 05:11:29 --> UTF-8 Support Enabled
+INFO - 2021-01-01 05:11:29 --> Utf8 Class Initialized
+INFO - 2021-01-01 05:11:29 --> URI Class Initialized
+INFO - 2021-01-01 05:11:29 --> Router Class Initialized
+INFO - 2021-01-01 05:11:29 --> Output Class Initialized
+INFO - 2021-01-01 05:11:29 --> Security Class Initialized
+DEBUG - 2021-01-01 05:11:29 --> Global POST, GET and COOKIE data sanitized
+INFO - 2021-01-01 05:11:29 --> Input Class Initialized
+INFO - 2021-01-01 05:11:29 --> Language Class Initialized
+INFO - 2021-01-01 05:11:30 --> Language Class Initialized
+INFO - 2021-01-01 05:11:30 --> Config Class Initialized
+INFO - 2021-01-01 05:11:30 --> Loader Class Initialized
+INFO - 2021-01-01 05:11:30 --> Helper loaded: url_helper
+INFO - 2021-01-01 05:11:30 --> Helper loaded: html_helper
+INFO - 2021-01-01 05:11:30 --> Helper loaded: file_helper
+INFO - 2021-01-01 05:11:30 --> Helper loaded: form_helper
+INFO - 2021-01-01 05:11:30 --> Helper loaded: security_helper
+INFO - 2021-01-01 05:11:30 --> Helper loaded: xss_helper
+INFO - 2021-01-01 05:11:30 --> Helper loaded: slug_helper
+INFO - 2021-01-01 05:11:30 --> Database Driver Class Initialized
+DEBUG - 2021-01-01 05:11:30 --> Session: "sess_save_path" is empty; using "session.save_path" value from php.ini.
+INFO - 2021-01-01 05:11:30 --> Session: Class initialized using 'files' driver.
+INFO - 2021-01-01 05:11:30 --> Language file loaded: language/english/pagination_lang.php
+INFO - 2021-01-01 05:11:30 --> Pagination Class Initialized
+INFO - 2021-01-01 05:11:30 --> Email Class Initialized
+INFO - 2021-01-01 05:11:30 --> Model "M_konfig" initialized
+INFO - 2021-01-01 05:11:30 --> Model "M_reff" initialized
+INFO - 2021-01-01 05:11:30 --> Model "M_total" initialized
+INFO - 2021-01-01 05:11:30 --> Controller Class Initialized
+DEBUG - 2021-01-01 05:11:30 --> File loaded: D:\xampp72\htdocs\app_grm\application\modules/apengumuman/models/Model.php
+INFO - 2021-01-01 11:11:30 --> Final output sent to browser
+DEBUG - 2021-01-01 11:11:30 --> Total execution time: 0.8964
+INFO - 2021-01-01 05:11:34 --> Config Class Initialized
+INFO - 2021-01-01 05:11:34 --> Hooks Class Initialized
+DEBUG - 2021-01-01 05:11:34 --> UTF-8 Support Enabled
+INFO - 2021-01-01 05:11:34 --> Utf8 Class Initialized
+INFO - 2021-01-01 05:11:34 --> URI Class Initialized
+INFO - 2021-01-01 05:11:34 --> Router Class Initialized
+INFO - 2021-01-01 05:11:34 --> Output Class Initialized
+INFO - 2021-01-01 05:11:34 --> Security Class Initialized
+DEBUG - 2021-01-01 05:11:35 --> Global POST, GET and COOKIE data sanitized
+INFO - 2021-01-01 05:11:35 --> Input Class Initialized
+INFO - 2021-01-01 05:11:35 --> Language Class Initialized
+INFO - 2021-01-01 05:11:35 --> Language Class Initialized
+INFO - 2021-01-01 05:11:35 --> Config Class Initialized
+INFO - 2021-01-01 05:11:35 --> Loader Class Initialized
+INFO - 2021-01-01 05:11:35 --> Helper loaded: url_helper
+INFO - 2021-01-01 05:11:35 --> Helper loaded: html_helper
+INFO - 2021-01-01 05:11:35 --> Helper loaded: file_helper
+INFO - 2021-01-01 05:11:35 --> Helper loaded: form_helper
+INFO - 2021-01-01 05:11:35 --> Helper loaded: security_helper
+INFO - 2021-01-01 05:11:35 --> Helper loaded: xss_helper
+INFO - 2021-01-01 05:11:35 --> Helper loaded: slug_helper
+INFO - 2021-01-01 05:11:35 --> Database Driver Class Initialized
+DEBUG - 2021-01-01 05:11:35 --> Session: "sess_save_path" is empty; using "session.save_path" value from php.ini.
+INFO - 2021-01-01 05:11:35 --> Session: Class initialized using 'files' driver.
+INFO - 2021-01-01 05:11:35 --> Language file loaded: language/english/pagination_lang.php
+INFO - 2021-01-01 05:11:35 --> Pagination Class Initialized
+INFO - 2021-01-01 05:11:35 --> Email Class Initialized
+INFO - 2021-01-01 05:11:35 --> Model "M_konfig" initialized
+INFO - 2021-01-01 05:11:35 --> Model "M_reff" initialized
+INFO - 2021-01-01 05:11:35 --> Model "M_total" initialized
+INFO - 2021-01-01 05:11:35 --> Controller Class Initialized
+DEBUG - 2021-01-01 05:11:35 --> File loaded: D:\xampp72\htdocs\app_grm\application\modules/apengumuman/models/Model.php
+INFO - 2021-01-01 11:11:35 --> Final output sent to browser
+DEBUG - 2021-01-01 11:11:35 --> Total execution time: 0.8684
+INFO - 2021-01-01 05:11:39 --> Config Class Initialized
+INFO - 2021-01-01 05:11:39 --> Hooks Class Initialized
+DEBUG - 2021-01-01 05:11:39 --> UTF-8 Support Enabled
+INFO - 2021-01-01 05:11:39 --> Utf8 Class Initialized
+INFO - 2021-01-01 05:11:40 --> URI Class Initialized
+INFO - 2021-01-01 05:11:40 --> Router Class Initialized
+INFO - 2021-01-01 05:11:40 --> Output Class Initialized
+INFO - 2021-01-01 05:11:40 --> Security Class Initialized
+DEBUG - 2021-01-01 05:11:40 --> Global POST, GET and COOKIE data sanitized
+INFO - 2021-01-01 05:11:40 --> Input Class Initialized
+INFO - 2021-01-01 05:11:40 --> Language Class Initialized
+INFO - 2021-01-01 05:11:40 --> Language Class Initialized
+INFO - 2021-01-01 05:11:40 --> Config Class Initialized
+INFO - 2021-01-01 05:11:40 --> Loader Class Initialized
+INFO - 2021-01-01 05:11:40 --> Helper loaded: url_helper
+INFO - 2021-01-01 05:11:40 --> Helper loaded: html_helper
+INFO - 2021-01-01 05:11:40 --> Helper loaded: file_helper
+INFO - 2021-01-01 05:11:40 --> Helper loaded: form_helper
+INFO - 2021-01-01 05:11:40 --> Helper loaded: security_helper
+INFO - 2021-01-01 05:11:40 --> Helper loaded: xss_helper
+INFO - 2021-01-01 05:11:40 --> Helper loaded: slug_helper
+INFO - 2021-01-01 05:11:40 --> Database Driver Class Initialized
+DEBUG - 2021-01-01 05:11:40 --> Session: "sess_save_path" is empty; using "session.save_path" value from php.ini.
+INFO - 2021-01-01 05:11:40 --> Session: Class initialized using 'files' driver.
+INFO - 2021-01-01 05:11:40 --> Language file loaded: language/english/pagination_lang.php
+INFO - 2021-01-01 05:11:40 --> Pagination Class Initialized
+INFO - 2021-01-01 05:11:40 --> Email Class Initialized
+INFO - 2021-01-01 05:11:40 --> Model "M_konfig" initialized
+INFO - 2021-01-01 05:11:40 --> Model "M_reff" initialized
+INFO - 2021-01-01 05:11:40 --> Model "M_total" initialized
+INFO - 2021-01-01 05:11:40 --> Controller Class Initialized
+DEBUG - 2021-01-01 05:11:40 --> File loaded: D:\xampp72\htdocs\app_grm\application\modules/apengumuman/models/Model.php
+INFO - 2021-01-01 11:11:40 --> Final output sent to browser
+DEBUG - 2021-01-01 11:11:40 --> Total execution time: 0.8880
+INFO - 2021-01-01 05:11:44 --> Config Class Initialized
+INFO - 2021-01-01 05:11:45 --> Hooks Class Initialized
+DEBUG - 2021-01-01 05:11:45 --> UTF-8 Support Enabled
+INFO - 2021-01-01 05:11:45 --> Utf8 Class Initialized
+INFO - 2021-01-01 05:11:45 --> URI Class Initialized
+INFO - 2021-01-01 05:11:45 --> Router Class Initialized
+INFO - 2021-01-01 05:11:45 --> Output Class Initialized
+INFO - 2021-01-01 05:11:45 --> Security Class Initialized
+DEBUG - 2021-01-01 05:11:45 --> Global POST, GET and COOKIE data sanitized
+INFO - 2021-01-01 05:11:45 --> Input Class Initialized
+INFO - 2021-01-01 05:11:45 --> Language Class Initialized
+INFO - 2021-01-01 05:11:45 --> Language Class Initialized
+INFO - 2021-01-01 05:11:45 --> Config Class Initialized
+INFO - 2021-01-01 05:11:45 --> Loader Class Initialized
+INFO - 2021-01-01 05:11:45 --> Helper loaded: url_helper
+INFO - 2021-01-01 05:11:45 --> Helper loaded: html_helper
+INFO - 2021-01-01 05:11:45 --> Helper loaded: file_helper
+INFO - 2021-01-01 05:11:45 --> Helper loaded: form_helper
+INFO - 2021-01-01 05:11:45 --> Helper loaded: security_helper
+INFO - 2021-01-01 05:11:45 --> Helper loaded: xss_helper
+INFO - 2021-01-01 05:11:45 --> Helper loaded: slug_helper
+INFO - 2021-01-01 05:11:45 --> Database Driver Class Initialized
+DEBUG - 2021-01-01 05:11:45 --> Session: "sess_save_path" is empty; using "session.save_path" value from php.ini.
+INFO - 2021-01-01 05:11:45 --> Session: Class initialized using 'files' driver.
+INFO - 2021-01-01 05:11:45 --> Language file loaded: language/english/pagination_lang.php
+INFO - 2021-01-01 05:11:45 --> Pagination Class Initialized
+INFO - 2021-01-01 05:11:45 --> Email Class Initialized
+INFO - 2021-01-01 05:11:45 --> Model "M_konfig" initialized
+INFO - 2021-01-01 05:11:45 --> Model "M_reff" initialized
+INFO - 2021-01-01 05:11:45 --> Model "M_total" initialized
+INFO - 2021-01-01 05:11:45 --> Controller Class Initialized
+DEBUG - 2021-01-01 05:11:45 --> File loaded: D:\xampp72\htdocs\app_grm\application\modules/apengumuman/models/Model.php
+INFO - 2021-01-01 11:11:45 --> Final output sent to browser
+DEBUG - 2021-01-01 11:11:45 --> Total execution time: 0.9072
+INFO - 2021-01-01 05:11:50 --> Config Class Initialized
+INFO - 2021-01-01 05:11:50 --> Hooks Class Initialized
+DEBUG - 2021-01-01 05:11:50 --> UTF-8 Support Enabled
+INFO - 2021-01-01 05:11:50 --> Utf8 Class Initialized
+INFO - 2021-01-01 05:11:50 --> URI Class Initialized
+INFO - 2021-01-01 05:11:50 --> Router Class Initialized
+INFO - 2021-01-01 05:11:50 --> Output Class Initialized
+INFO - 2021-01-01 05:11:50 --> Security Class Initialized
+DEBUG - 2021-01-01 05:11:50 --> Global POST, GET and COOKIE data sanitized
+INFO - 2021-01-01 05:11:50 --> Input Class Initialized
+INFO - 2021-01-01 05:11:50 --> Language Class Initialized
+INFO - 2021-01-01 05:11:50 --> Language Class Initialized
+INFO - 2021-01-01 05:11:50 --> Config Class Initialized
+INFO - 2021-01-01 05:11:50 --> Loader Class Initialized
+INFO - 2021-01-01 05:11:50 --> Helper loaded: url_helper
+INFO - 2021-01-01 05:11:50 --> Helper loaded: html_helper
+INFO - 2021-01-01 05:11:50 --> Helper loaded: file_helper
+INFO - 2021-01-01 05:11:50 --> Helper loaded: form_helper
+INFO - 2021-01-01 05:11:50 --> Helper loaded: security_helper
+INFO - 2021-01-01 05:11:50 --> Helper loaded: xss_helper
+INFO - 2021-01-01 05:11:50 --> Helper loaded: slug_helper
+INFO - 2021-01-01 05:11:50 --> Database Driver Class Initialized
+DEBUG - 2021-01-01 05:11:50 --> Session: "sess_save_path" is empty; using "session.save_path" value from php.ini.
+INFO - 2021-01-01 05:11:50 --> Session: Class initialized using 'files' driver.
+INFO - 2021-01-01 05:11:50 --> Language file loaded: language/english/pagination_lang.php
+INFO - 2021-01-01 05:11:50 --> Pagination Class Initialized
+INFO - 2021-01-01 05:11:50 --> Email Class Initialized
+INFO - 2021-01-01 05:11:50 --> Model "M_konfig" initialized
+INFO - 2021-01-01 05:11:50 --> Model "M_reff" initialized
+INFO - 2021-01-01 05:11:50 --> Model "M_total" initialized
+INFO - 2021-01-01 05:11:50 --> Controller Class Initialized
+DEBUG - 2021-01-01 05:11:50 --> File loaded: D:\xampp72\htdocs\app_grm\application\modules/apengumuman/models/Model.php
+INFO - 2021-01-01 11:11:50 --> Final output sent to browser
+DEBUG - 2021-01-01 11:11:51 --> Total execution time: 0.9184
+INFO - 2021-01-01 05:11:55 --> Config Class Initialized
+INFO - 2021-01-01 05:11:55 --> Hooks Class Initialized
+DEBUG - 2021-01-01 05:11:55 --> UTF-8 Support Enabled
+INFO - 2021-01-01 05:11:55 --> Utf8 Class Initialized
+INFO - 2021-01-01 05:11:55 --> URI Class Initialized
+INFO - 2021-01-01 05:11:55 --> Router Class Initialized
+INFO - 2021-01-01 05:11:55 --> Output Class Initialized
+INFO - 2021-01-01 05:11:55 --> Security Class Initialized
+DEBUG - 2021-01-01 05:11:55 --> Global POST, GET and COOKIE data sanitized
+INFO - 2021-01-01 05:11:55 --> Input Class Initialized
+INFO - 2021-01-01 05:11:55 --> Language Class Initialized
+INFO - 2021-01-01 05:11:55 --> Language Class Initialized
+INFO - 2021-01-01 05:11:55 --> Config Class Initialized
+INFO - 2021-01-01 05:11:55 --> Loader Class Initialized
+INFO - 2021-01-01 05:11:55 --> Helper loaded: url_helper
+INFO - 2021-01-01 05:11:55 --> Helper loaded: html_helper
+INFO - 2021-01-01 05:11:55 --> Helper loaded: file_helper
+INFO - 2021-01-01 05:11:55 --> Helper loaded: form_helper
+INFO - 2021-01-01 05:11:55 --> Helper loaded: security_helper
+INFO - 2021-01-01 05:11:55 --> Helper loaded: xss_helper
+INFO - 2021-01-01 05:11:55 --> Helper loaded: slug_helper
+INFO - 2021-01-01 05:11:55 --> Database Driver Class Initialized
+DEBUG - 2021-01-01 05:11:55 --> Session: "sess_save_path" is empty; using "session.save_path" value from php.ini.
+INFO - 2021-01-01 05:11:55 --> Session: Class initialized using 'files' driver.
+INFO - 2021-01-01 05:11:55 --> Language file loaded: language/english/pagination_lang.php
+INFO - 2021-01-01 05:11:55 --> Pagination Class Initialized
+INFO - 2021-01-01 05:11:55 --> Email Class Initialized
+INFO - 2021-01-01 05:11:55 --> Model "M_konfig" initialized
+INFO - 2021-01-01 05:11:56 --> Model "M_reff" initialized
+INFO - 2021-01-01 05:11:56 --> Model "M_total" initialized
+INFO - 2021-01-01 05:11:56 --> Controller Class Initialized
+DEBUG - 2021-01-01 05:11:56 --> File loaded: D:\xampp72\htdocs\app_grm\application\modules/apengumuman/models/Model.php
+INFO - 2021-01-01 11:11:56 --> Final output sent to browser
+DEBUG - 2021-01-01 11:11:56 --> Total execution time: 0.9736
+INFO - 2021-01-01 05:12:00 --> Config Class Initialized
+INFO - 2021-01-01 05:12:00 --> Hooks Class Initialized
+DEBUG - 2021-01-01 05:12:00 --> UTF-8 Support Enabled
+INFO - 2021-01-01 05:12:00 --> Utf8 Class Initialized
+INFO - 2021-01-01 05:12:00 --> URI Class Initialized
+INFO - 2021-01-01 05:12:00 --> Router Class Initialized
+INFO - 2021-01-01 05:12:00 --> Output Class Initialized
+INFO - 2021-01-01 05:12:00 --> Security Class Initialized
+DEBUG - 2021-01-01 05:12:00 --> Global POST, GET and COOKIE data sanitized
+INFO - 2021-01-01 05:12:00 --> Input Class Initialized
+INFO - 2021-01-01 05:12:00 --> Language Class Initialized
+INFO - 2021-01-01 05:12:00 --> Language Class Initialized
+INFO - 2021-01-01 05:12:00 --> Config Class Initialized
+INFO - 2021-01-01 05:12:00 --> Loader Class Initialized
+INFO - 2021-01-01 05:12:00 --> Helper loaded: url_helper
+INFO - 2021-01-01 05:12:00 --> Helper loaded: html_helper
+INFO - 2021-01-01 05:12:00 --> Helper loaded: file_helper
+INFO - 2021-01-01 05:12:00 --> Helper loaded: form_helper
+INFO - 2021-01-01 05:12:01 --> Helper loaded: security_helper
+INFO - 2021-01-01 05:12:01 --> Helper loaded: xss_helper
+INFO - 2021-01-01 05:12:01 --> Helper loaded: slug_helper
+INFO - 2021-01-01 05:12:01 --> Database Driver Class Initialized
+DEBUG - 2021-01-01 05:12:01 --> Session: "sess_save_path" is empty; using "session.save_path" value from php.ini.
+INFO - 2021-01-01 05:12:01 --> Session: Class initialized using 'files' driver.
+INFO - 2021-01-01 05:12:01 --> Language file loaded: language/english/pagination_lang.php
+INFO - 2021-01-01 05:12:01 --> Pagination Class Initialized
+INFO - 2021-01-01 05:12:01 --> Email Class Initialized
+INFO - 2021-01-01 05:12:01 --> Model "M_konfig" initialized
+INFO - 2021-01-01 05:12:01 --> Model "M_reff" initialized
+INFO - 2021-01-01 05:12:01 --> Model "M_total" initialized
+INFO - 2021-01-01 05:12:01 --> Controller Class Initialized
+DEBUG - 2021-01-01 05:12:01 --> File loaded: D:\xampp72\htdocs\app_grm\application\modules/apengumuman/models/Model.php
+INFO - 2021-01-01 11:12:01 --> Final output sent to browser
+DEBUG - 2021-01-01 11:12:01 --> Total execution time: 1.4188
+INFO - 2021-01-01 05:12:05 --> Config Class Initialized
+INFO - 2021-01-01 05:12:05 --> Hooks Class Initialized
+DEBUG - 2021-01-01 05:12:05 --> UTF-8 Support Enabled
+INFO - 2021-01-01 05:12:05 --> Utf8 Class Initialized
+INFO - 2021-01-01 05:12:05 --> URI Class Initialized
+INFO - 2021-01-01 05:12:05 --> Router Class Initialized
+INFO - 2021-01-01 05:12:05 --> Output Class Initialized
+INFO - 2021-01-01 05:12:05 --> Security Class Initialized
+DEBUG - 2021-01-01 05:12:05 --> Global POST, GET and COOKIE data sanitized
+INFO - 2021-01-01 05:12:05 --> Input Class Initialized
+INFO - 2021-01-01 05:12:05 --> Language Class Initialized
+INFO - 2021-01-01 05:12:05 --> Language Class Initialized
+INFO - 2021-01-01 05:12:05 --> Config Class Initialized
+INFO - 2021-01-01 05:12:05 --> Loader Class Initialized
+INFO - 2021-01-01 05:12:05 --> Helper loaded: url_helper
+INFO - 2021-01-01 05:12:05 --> Helper loaded: html_helper
+INFO - 2021-01-01 05:12:06 --> Helper loaded: file_helper
+INFO - 2021-01-01 05:12:06 --> Helper loaded: form_helper
+INFO - 2021-01-01 05:12:06 --> Helper loaded: security_helper
+INFO - 2021-01-01 05:12:06 --> Helper loaded: xss_helper
+INFO - 2021-01-01 05:12:06 --> Helper loaded: slug_helper
+INFO - 2021-01-01 05:12:06 --> Database Driver Class Initialized
+DEBUG - 2021-01-01 05:12:06 --> Session: "sess_save_path" is empty; using "session.save_path" value from php.ini.
+INFO - 2021-01-01 05:12:06 --> Session: Class initialized using 'files' driver.
+INFO - 2021-01-01 05:12:06 --> Language file loaded: language/english/pagination_lang.php
+INFO - 2021-01-01 05:12:06 --> Pagination Class Initialized
+INFO - 2021-01-01 05:12:06 --> Email Class Initialized
+INFO - 2021-01-01 05:12:06 --> Model "M_konfig" initialized
+INFO - 2021-01-01 05:12:06 --> Model "M_reff" initialized
+INFO - 2021-01-01 05:12:06 --> Model "M_total" initialized
+INFO - 2021-01-01 05:12:06 --> Controller Class Initialized
+DEBUG - 2021-01-01 05:12:06 --> File loaded: D:\xampp72\htdocs\app_grm\application\modules/apengumuman/models/Model.php
+INFO - 2021-01-01 11:12:06 --> Final output sent to browser
+DEBUG - 2021-01-01 11:12:06 --> Total execution time: 1.5533
+INFO - 2021-01-01 05:12:10 --> Config Class Initialized
+INFO - 2021-01-01 05:12:10 --> Hooks Class Initialized
+DEBUG - 2021-01-01 05:12:10 --> UTF-8 Support Enabled
+INFO - 2021-01-01 05:12:10 --> Utf8 Class Initialized
+INFO - 2021-01-01 05:12:10 --> URI Class Initialized
+INFO - 2021-01-01 05:12:10 --> Router Class Initialized
+INFO - 2021-01-01 05:12:10 --> Output Class Initialized
+INFO - 2021-01-01 05:12:10 --> Security Class Initialized
+DEBUG - 2021-01-01 05:12:11 --> Global POST, GET and COOKIE data sanitized
+INFO - 2021-01-01 05:12:11 --> Input Class Initialized
+INFO - 2021-01-01 05:12:11 --> Language Class Initialized
+INFO - 2021-01-01 05:12:11 --> Language Class Initialized
+INFO - 2021-01-01 05:12:11 --> Config Class Initialized
+INFO - 2021-01-01 05:12:11 --> Loader Class Initialized
+INFO - 2021-01-01 05:12:11 --> Helper loaded: url_helper
+INFO - 2021-01-01 05:12:11 --> Helper loaded: html_helper
+INFO - 2021-01-01 05:12:11 --> Helper loaded: file_helper
+INFO - 2021-01-01 05:12:11 --> Helper loaded: form_helper
+INFO - 2021-01-01 05:12:11 --> Helper loaded: security_helper
+INFO - 2021-01-01 05:12:11 --> Helper loaded: xss_helper
+INFO - 2021-01-01 05:12:11 --> Helper loaded: slug_helper
+INFO - 2021-01-01 05:12:11 --> Database Driver Class Initialized
+DEBUG - 2021-01-01 05:12:11 --> Session: "sess_save_path" is empty; using "session.save_path" value from php.ini.
+INFO - 2021-01-01 05:12:11 --> Session: Class initialized using 'files' driver.
+INFO - 2021-01-01 05:12:11 --> Language file loaded: language/english/pagination_lang.php
+INFO - 2021-01-01 05:12:11 --> Pagination Class Initialized
+INFO - 2021-01-01 05:12:11 --> Email Class Initialized
+INFO - 2021-01-01 05:12:11 --> Model "M_konfig" initialized
+INFO - 2021-01-01 05:12:11 --> Model "M_reff" initialized
+INFO - 2021-01-01 05:12:11 --> Model "M_total" initialized
+INFO - 2021-01-01 05:12:11 --> Controller Class Initialized
+DEBUG - 2021-01-01 05:12:11 --> File loaded: D:\xampp72\htdocs\app_grm\application\modules/apengumuman/models/Model.php
+INFO - 2021-01-01 11:12:11 --> Final output sent to browser
+DEBUG - 2021-01-01 11:12:11 --> Total execution time: 1.1989
+INFO - 2021-01-01 05:12:15 --> Config Class Initialized
+INFO - 2021-01-01 05:12:15 --> Hooks Class Initialized
+DEBUG - 2021-01-01 05:12:15 --> UTF-8 Support Enabled
+INFO - 2021-01-01 05:12:15 --> Utf8 Class Initialized
+INFO - 2021-01-01 05:12:15 --> URI Class Initialized
+INFO - 2021-01-01 05:12:15 --> Router Class Initialized
+INFO - 2021-01-01 05:12:15 --> Output Class Initialized
+INFO - 2021-01-01 05:12:15 --> Security Class Initialized
+DEBUG - 2021-01-01 05:12:15 --> Global POST, GET and COOKIE data sanitized
+INFO - 2021-01-01 05:12:15 --> Input Class Initialized
+INFO - 2021-01-01 05:12:15 --> Language Class Initialized
+INFO - 2021-01-01 05:12:15 --> Language Class Initialized
+INFO - 2021-01-01 05:12:15 --> Config Class Initialized
+INFO - 2021-01-01 05:12:15 --> Loader Class Initialized
+INFO - 2021-01-01 05:12:15 --> Helper loaded: url_helper
+INFO - 2021-01-01 05:12:15 --> Helper loaded: html_helper
+INFO - 2021-01-01 05:12:15 --> Helper loaded: file_helper
+INFO - 2021-01-01 05:12:15 --> Helper loaded: form_helper
+INFO - 2021-01-01 05:12:15 --> Helper loaded: security_helper
+INFO - 2021-01-01 05:12:15 --> Helper loaded: xss_helper
+INFO - 2021-01-01 05:12:16 --> Helper loaded: slug_helper
+INFO - 2021-01-01 05:12:16 --> Database Driver Class Initialized
+DEBUG - 2021-01-01 05:12:16 --> Session: "sess_save_path" is empty; using "session.save_path" value from php.ini.
+INFO - 2021-01-01 05:12:16 --> Session: Class initialized using 'files' driver.
+INFO - 2021-01-01 05:12:16 --> Language file loaded: language/english/pagination_lang.php
+INFO - 2021-01-01 05:12:16 --> Pagination Class Initialized
+INFO - 2021-01-01 05:12:16 --> Email Class Initialized
+INFO - 2021-01-01 05:12:16 --> Model "M_konfig" initialized
+INFO - 2021-01-01 05:12:16 --> Model "M_reff" initialized
+INFO - 2021-01-01 05:12:16 --> Model "M_total" initialized
+INFO - 2021-01-01 05:12:16 --> Controller Class Initialized
+DEBUG - 2021-01-01 05:12:16 --> File loaded: D:\xampp72\htdocs\app_grm\application\modules/apengumuman/models/Model.php
+INFO - 2021-01-01 11:12:16 --> Final output sent to browser
+DEBUG - 2021-01-01 11:12:16 --> Total execution time: 0.9287
+INFO - 2021-01-01 05:12:20 --> Config Class Initialized
+INFO - 2021-01-01 05:12:20 --> Hooks Class Initialized
+DEBUG - 2021-01-01 05:12:20 --> UTF-8 Support Enabled
+INFO - 2021-01-01 05:12:20 --> Utf8 Class Initialized
+INFO - 2021-01-01 05:12:20 --> URI Class Initialized
+INFO - 2021-01-01 05:12:20 --> Router Class Initialized
+INFO - 2021-01-01 05:12:20 --> Output Class Initialized
+INFO - 2021-01-01 05:12:20 --> Security Class Initialized
+DEBUG - 2021-01-01 05:12:20 --> Global POST, GET and COOKIE data sanitized
+INFO - 2021-01-01 05:12:20 --> Input Class Initialized
+INFO - 2021-01-01 05:12:20 --> Language Class Initialized
+INFO - 2021-01-01 05:12:20 --> Language Class Initialized
+INFO - 2021-01-01 05:12:20 --> Config Class Initialized
+INFO - 2021-01-01 05:12:20 --> Loader Class Initialized
+INFO - 2021-01-01 05:12:20 --> Helper loaded: url_helper
+INFO - 2021-01-01 05:12:20 --> Helper loaded: html_helper
+INFO - 2021-01-01 05:12:20 --> Helper loaded: file_helper
+INFO - 2021-01-01 05:12:21 --> Helper loaded: form_helper
+INFO - 2021-01-01 05:12:21 --> Helper loaded: security_helper
+INFO - 2021-01-01 05:12:21 --> Helper loaded: xss_helper
+INFO - 2021-01-01 05:12:21 --> Helper loaded: slug_helper
+INFO - 2021-01-01 05:12:21 --> Database Driver Class Initialized
+DEBUG - 2021-01-01 05:12:21 --> Session: "sess_save_path" is empty; using "session.save_path" value from php.ini.
+INFO - 2021-01-01 05:12:21 --> Session: Class initialized using 'files' driver.
+INFO - 2021-01-01 05:12:21 --> Language file loaded: language/english/pagination_lang.php
+INFO - 2021-01-01 05:12:21 --> Pagination Class Initialized
+INFO - 2021-01-01 05:12:21 --> Email Class Initialized
+INFO - 2021-01-01 05:12:21 --> Model "M_konfig" initialized
+INFO - 2021-01-01 05:12:21 --> Model "M_reff" initialized
+INFO - 2021-01-01 05:12:21 --> Model "M_total" initialized
+INFO - 2021-01-01 05:12:21 --> Controller Class Initialized
+DEBUG - 2021-01-01 05:12:21 --> File loaded: D:\xampp72\htdocs\app_grm\application\modules/apengumuman/models/Model.php
+INFO - 2021-01-01 11:12:21 --> Final output sent to browser
+DEBUG - 2021-01-01 11:12:21 --> Total execution time: 0.9559
+INFO - 2021-01-01 05:12:25 --> Config Class Initialized
+INFO - 2021-01-01 05:12:25 --> Hooks Class Initialized
+DEBUG - 2021-01-01 05:12:25 --> UTF-8 Support Enabled
+INFO - 2021-01-01 05:12:25 --> Utf8 Class Initialized
+INFO - 2021-01-01 05:12:25 --> URI Class Initialized
+INFO - 2021-01-01 05:12:25 --> Router Class Initialized
+INFO - 2021-01-01 05:12:25 --> Output Class Initialized
+INFO - 2021-01-01 05:12:25 --> Security Class Initialized
+DEBUG - 2021-01-01 05:12:25 --> Global POST, GET and COOKIE data sanitized
+INFO - 2021-01-01 05:12:25 --> Input Class Initialized
+INFO - 2021-01-01 05:12:25 --> Language Class Initialized
+INFO - 2021-01-01 05:12:25 --> Language Class Initialized
+INFO - 2021-01-01 05:12:25 --> Config Class Initialized
+INFO - 2021-01-01 05:12:25 --> Loader Class Initialized
+INFO - 2021-01-01 05:12:25 --> Helper loaded: url_helper
+INFO - 2021-01-01 05:12:26 --> Helper loaded: html_helper
+INFO - 2021-01-01 05:12:26 --> Helper loaded: file_helper
+INFO - 2021-01-01 05:12:26 --> Helper loaded: form_helper
+INFO - 2021-01-01 05:12:26 --> Helper loaded: security_helper
+INFO - 2021-01-01 05:12:26 --> Helper loaded: xss_helper
+INFO - 2021-01-01 05:12:26 --> Helper loaded: slug_helper
+INFO - 2021-01-01 05:12:26 --> Database Driver Class Initialized
+DEBUG - 2021-01-01 05:12:26 --> Session: "sess_save_path" is empty; using "session.save_path" value from php.ini.
+INFO - 2021-01-01 05:12:26 --> Session: Class initialized using 'files' driver.
+INFO - 2021-01-01 05:12:26 --> Language file loaded: language/english/pagination_lang.php
+INFO - 2021-01-01 05:12:26 --> Pagination Class Initialized
+INFO - 2021-01-01 05:12:26 --> Email Class Initialized
+INFO - 2021-01-01 05:12:26 --> Model "M_konfig" initialized
+INFO - 2021-01-01 05:12:26 --> Model "M_reff" initialized
+INFO - 2021-01-01 05:12:26 --> Model "M_total" initialized
+INFO - 2021-01-01 05:12:26 --> Controller Class Initialized
+DEBUG - 2021-01-01 05:12:26 --> File loaded: D:\xampp72\htdocs\app_grm\application\modules/apengumuman/models/Model.php
+INFO - 2021-01-01 11:12:26 --> Final output sent to browser
+DEBUG - 2021-01-01 11:12:26 --> Total execution time: 0.9034
+INFO - 2021-01-01 05:12:30 --> Config Class Initialized
+INFO - 2021-01-01 05:12:30 --> Hooks Class Initialized
+DEBUG - 2021-01-01 05:12:30 --> UTF-8 Support Enabled
+INFO - 2021-01-01 05:12:30 --> Utf8 Class Initialized
+INFO - 2021-01-01 05:12:30 --> URI Class Initialized
+INFO - 2021-01-01 05:12:30 --> Router Class Initialized
+INFO - 2021-01-01 05:12:30 --> Output Class Initialized
+INFO - 2021-01-01 05:12:30 --> Security Class Initialized
+DEBUG - 2021-01-01 05:12:30 --> Global POST, GET and COOKIE data sanitized
+INFO - 2021-01-01 05:12:30 --> Input Class Initialized
+INFO - 2021-01-01 05:12:30 --> Language Class Initialized
+INFO - 2021-01-01 05:12:31 --> Language Class Initialized
+INFO - 2021-01-01 05:12:31 --> Config Class Initialized
+INFO - 2021-01-01 05:12:31 --> Loader Class Initialized
+INFO - 2021-01-01 05:12:31 --> Helper loaded: url_helper
+INFO - 2021-01-01 05:12:31 --> Helper loaded: html_helper
+INFO - 2021-01-01 05:12:31 --> Helper loaded: file_helper
+INFO - 2021-01-01 05:12:31 --> Helper loaded: form_helper
+INFO - 2021-01-01 05:12:31 --> Helper loaded: security_helper
+INFO - 2021-01-01 05:12:31 --> Helper loaded: xss_helper
+INFO - 2021-01-01 05:12:31 --> Helper loaded: slug_helper
+INFO - 2021-01-01 05:12:31 --> Database Driver Class Initialized
+DEBUG - 2021-01-01 05:12:31 --> Session: "sess_save_path" is empty; using "session.save_path" value from php.ini.
+INFO - 2021-01-01 05:12:31 --> Session: Class initialized using 'files' driver.
+INFO - 2021-01-01 05:12:31 --> Language file loaded: language/english/pagination_lang.php
+INFO - 2021-01-01 05:12:31 --> Pagination Class Initialized
+INFO - 2021-01-01 05:12:31 --> Email Class Initialized
+INFO - 2021-01-01 05:12:31 --> Model "M_konfig" initialized
+INFO - 2021-01-01 05:12:31 --> Model "M_reff" initialized
+INFO - 2021-01-01 05:12:31 --> Model "M_total" initialized
+INFO - 2021-01-01 05:12:31 --> Controller Class Initialized
+DEBUG - 2021-01-01 05:12:31 --> File loaded: D:\xampp72\htdocs\app_grm\application\modules/apengumuman/models/Model.php
+INFO - 2021-01-01 11:12:31 --> Final output sent to browser
+DEBUG - 2021-01-01 11:12:31 --> Total execution time: 0.9246
+INFO - 2021-01-01 05:12:35 --> Config Class Initialized
+INFO - 2021-01-01 05:12:35 --> Hooks Class Initialized
+DEBUG - 2021-01-01 05:12:35 --> UTF-8 Support Enabled
+INFO - 2021-01-01 05:12:35 --> Utf8 Class Initialized
+INFO - 2021-01-01 05:12:35 --> URI Class Initialized
+INFO - 2021-01-01 05:12:35 --> Router Class Initialized
+INFO - 2021-01-01 05:12:35 --> Output Class Initialized
+INFO - 2021-01-01 05:12:35 --> Security Class Initialized
+DEBUG - 2021-01-01 05:12:35 --> Global POST, GET and COOKIE data sanitized
+INFO - 2021-01-01 05:12:35 --> Input Class Initialized
+INFO - 2021-01-01 05:12:36 --> Language Class Initialized
+INFO - 2021-01-01 05:12:36 --> Language Class Initialized
+INFO - 2021-01-01 05:12:36 --> Config Class Initialized
+INFO - 2021-01-01 05:12:36 --> Loader Class Initialized
+INFO - 2021-01-01 05:12:36 --> Helper loaded: url_helper
+INFO - 2021-01-01 05:12:36 --> Helper loaded: html_helper
+INFO - 2021-01-01 05:12:36 --> Helper loaded: file_helper
+INFO - 2021-01-01 05:12:36 --> Helper loaded: form_helper
+INFO - 2021-01-01 05:12:36 --> Helper loaded: security_helper
+INFO - 2021-01-01 05:12:36 --> Helper loaded: xss_helper
+INFO - 2021-01-01 05:12:36 --> Helper loaded: slug_helper
+INFO - 2021-01-01 05:12:36 --> Database Driver Class Initialized
+DEBUG - 2021-01-01 05:12:36 --> Session: "sess_save_path" is empty; using "session.save_path" value from php.ini.
+INFO - 2021-01-01 05:12:36 --> Session: Class initialized using 'files' driver.
+INFO - 2021-01-01 05:12:36 --> Language file loaded: language/english/pagination_lang.php
+INFO - 2021-01-01 05:12:36 --> Pagination Class Initialized
+INFO - 2021-01-01 05:12:36 --> Email Class Initialized
+INFO - 2021-01-01 05:12:36 --> Model "M_konfig" initialized
+INFO - 2021-01-01 05:12:36 --> Model "M_reff" initialized
+INFO - 2021-01-01 05:12:36 --> Model "M_total" initialized
+INFO - 2021-01-01 05:12:36 --> Controller Class Initialized
+DEBUG - 2021-01-01 05:12:36 --> File loaded: D:\xampp72\htdocs\app_grm\application\modules/apengumuman/models/Model.php
+INFO - 2021-01-01 11:12:36 --> Final output sent to browser
+DEBUG - 2021-01-01 11:12:36 --> Total execution time: 0.9497
+INFO - 2021-01-01 05:12:40 --> Config Class Initialized
+INFO - 2021-01-01 05:12:40 --> Hooks Class Initialized
+DEBUG - 2021-01-01 05:12:40 --> UTF-8 Support Enabled
+INFO - 2021-01-01 05:12:40 --> Utf8 Class Initialized
+INFO - 2021-01-01 05:12:40 --> URI Class Initialized
+INFO - 2021-01-01 05:12:40 --> Router Class Initialized
+INFO - 2021-01-01 05:12:40 --> Output Class Initialized
+INFO - 2021-01-01 05:12:40 --> Security Class Initialized
+DEBUG - 2021-01-01 05:12:41 --> Global POST, GET and COOKIE data sanitized
+INFO - 2021-01-01 05:12:41 --> Input Class Initialized
+INFO - 2021-01-01 05:12:41 --> Language Class Initialized
+INFO - 2021-01-01 05:12:41 --> Language Class Initialized
+INFO - 2021-01-01 05:12:41 --> Config Class Initialized
+INFO - 2021-01-01 05:12:41 --> Loader Class Initialized
+INFO - 2021-01-01 05:12:41 --> Helper loaded: url_helper
+INFO - 2021-01-01 05:12:41 --> Helper loaded: html_helper
+INFO - 2021-01-01 05:12:41 --> Helper loaded: file_helper
+INFO - 2021-01-01 05:12:41 --> Helper loaded: form_helper
+INFO - 2021-01-01 05:12:41 --> Helper loaded: security_helper
+INFO - 2021-01-01 05:12:41 --> Helper loaded: xss_helper
+INFO - 2021-01-01 05:12:41 --> Helper loaded: slug_helper
+INFO - 2021-01-01 05:12:41 --> Database Driver Class Initialized
+DEBUG - 2021-01-01 05:12:41 --> Session: "sess_save_path" is empty; using "session.save_path" value from php.ini.
+INFO - 2021-01-01 05:12:41 --> Session: Class initialized using 'files' driver.
+INFO - 2021-01-01 05:12:41 --> Language file loaded: language/english/pagination_lang.php
+INFO - 2021-01-01 05:12:41 --> Pagination Class Initialized
+INFO - 2021-01-01 05:12:41 --> Email Class Initialized
+INFO - 2021-01-01 05:12:41 --> Model "M_konfig" initialized
+INFO - 2021-01-01 05:12:41 --> Model "M_reff" initialized
+INFO - 2021-01-01 05:12:41 --> Model "M_total" initialized
+INFO - 2021-01-01 05:12:41 --> Controller Class Initialized
+DEBUG - 2021-01-01 05:12:41 --> File loaded: D:\xampp72\htdocs\app_grm\application\modules/apengumuman/models/Model.php
+INFO - 2021-01-01 11:12:41 --> Final output sent to browser
+DEBUG - 2021-01-01 11:12:41 --> Total execution time: 0.9137
+INFO - 2021-01-01 05:12:45 --> Config Class Initialized
+INFO - 2021-01-01 05:12:45 --> Hooks Class Initialized
+DEBUG - 2021-01-01 05:12:45 --> UTF-8 Support Enabled
+INFO - 2021-01-01 05:12:45 --> Utf8 Class Initialized
+INFO - 2021-01-01 05:12:46 --> URI Class Initialized
+INFO - 2021-01-01 05:12:46 --> Router Class Initialized
+INFO - 2021-01-01 05:12:46 --> Output Class Initialized
+INFO - 2021-01-01 05:12:46 --> Security Class Initialized
+DEBUG - 2021-01-01 05:12:46 --> Global POST, GET and COOKIE data sanitized
+INFO - 2021-01-01 05:12:46 --> Input Class Initialized
+INFO - 2021-01-01 05:12:46 --> Language Class Initialized
+INFO - 2021-01-01 05:12:46 --> Language Class Initialized
+INFO - 2021-01-01 05:12:46 --> Config Class Initialized
+INFO - 2021-01-01 05:12:46 --> Loader Class Initialized
+INFO - 2021-01-01 05:12:46 --> Helper loaded: url_helper
+INFO - 2021-01-01 05:12:46 --> Helper loaded: html_helper
+INFO - 2021-01-01 05:12:46 --> Helper loaded: file_helper
+INFO - 2021-01-01 05:12:46 --> Helper loaded: form_helper
+INFO - 2021-01-01 05:12:46 --> Helper loaded: security_helper
+INFO - 2021-01-01 05:12:46 --> Helper loaded: xss_helper
+INFO - 2021-01-01 05:12:46 --> Helper loaded: slug_helper
+INFO - 2021-01-01 05:12:46 --> Database Driver Class Initialized
+DEBUG - 2021-01-01 05:12:46 --> Session: "sess_save_path" is empty; using "session.save_path" value from php.ini.
+INFO - 2021-01-01 05:12:46 --> Session: Class initialized using 'files' driver.
+INFO - 2021-01-01 05:12:46 --> Language file loaded: language/english/pagination_lang.php
+INFO - 2021-01-01 05:12:46 --> Pagination Class Initialized
+INFO - 2021-01-01 05:12:46 --> Email Class Initialized
+INFO - 2021-01-01 05:12:46 --> Model "M_konfig" initialized
+INFO - 2021-01-01 05:12:46 --> Model "M_reff" initialized
+INFO - 2021-01-01 05:12:46 --> Model "M_total" initialized
+INFO - 2021-01-01 05:12:46 --> Controller Class Initialized
+DEBUG - 2021-01-01 05:12:46 --> File loaded: D:\xampp72\htdocs\app_grm\application\modules/apengumuman/models/Model.php
+INFO - 2021-01-01 11:12:46 --> Final output sent to browser
+DEBUG - 2021-01-01 11:12:46 --> Total execution time: 0.9442
+INFO - 2021-01-01 05:12:50 --> Config Class Initialized
+INFO - 2021-01-01 05:12:50 --> Hooks Class Initialized
+DEBUG - 2021-01-01 05:12:51 --> UTF-8 Support Enabled
+INFO - 2021-01-01 05:12:51 --> Utf8 Class Initialized
+INFO - 2021-01-01 05:12:51 --> URI Class Initialized
+INFO - 2021-01-01 05:12:51 --> Router Class Initialized
+INFO - 2021-01-01 05:12:51 --> Output Class Initialized
+INFO - 2021-01-01 05:12:51 --> Security Class Initialized
+DEBUG - 2021-01-01 05:12:51 --> Global POST, GET and COOKIE data sanitized
+INFO - 2021-01-01 05:12:51 --> Input Class Initialized
+INFO - 2021-01-01 05:12:51 --> Language Class Initialized
+INFO - 2021-01-01 05:12:51 --> Language Class Initialized
+INFO - 2021-01-01 05:12:51 --> Config Class Initialized
+INFO - 2021-01-01 05:12:51 --> Loader Class Initialized
+INFO - 2021-01-01 05:12:51 --> Helper loaded: url_helper
+INFO - 2021-01-01 05:12:51 --> Helper loaded: html_helper
+INFO - 2021-01-01 05:12:51 --> Helper loaded: file_helper
+INFO - 2021-01-01 05:12:51 --> Helper loaded: form_helper
+INFO - 2021-01-01 05:12:51 --> Helper loaded: security_helper
+INFO - 2021-01-01 05:12:51 --> Helper loaded: xss_helper
+INFO - 2021-01-01 05:12:51 --> Helper loaded: slug_helper
+INFO - 2021-01-01 05:12:51 --> Database Driver Class Initialized
+DEBUG - 2021-01-01 05:12:51 --> Session: "sess_save_path" is empty; using "session.save_path" value from php.ini.
+INFO - 2021-01-01 05:12:51 --> Session: Class initialized using 'files' driver.
+INFO - 2021-01-01 05:12:51 --> Language file loaded: language/english/pagination_lang.php
+INFO - 2021-01-01 05:12:51 --> Pagination Class Initialized
+INFO - 2021-01-01 05:12:51 --> Email Class Initialized
+INFO - 2021-01-01 05:12:51 --> Model "M_konfig" initialized
+INFO - 2021-01-01 05:12:51 --> Model "M_reff" initialized
+INFO - 2021-01-01 05:12:51 --> Model "M_total" initialized
+INFO - 2021-01-01 05:12:51 --> Controller Class Initialized
+DEBUG - 2021-01-01 05:12:51 --> File loaded: D:\xampp72\htdocs\app_grm\application\modules/apengumuman/models/Model.php
+INFO - 2021-01-01 11:12:51 --> Final output sent to browser
+DEBUG - 2021-01-01 11:12:52 --> Total execution time: 1.0234
+INFO - 2021-01-01 05:12:56 --> Config Class Initialized
+INFO - 2021-01-01 05:12:56 --> Hooks Class Initialized
+DEBUG - 2021-01-01 05:12:56 --> UTF-8 Support Enabled
+INFO - 2021-01-01 05:12:56 --> Utf8 Class Initialized
+INFO - 2021-01-01 05:12:56 --> URI Class Initialized
+INFO - 2021-01-01 05:12:56 --> Router Class Initialized
+INFO - 2021-01-01 05:12:56 --> Output Class Initialized
+INFO - 2021-01-01 05:12:56 --> Security Class Initialized
+DEBUG - 2021-01-01 05:12:56 --> Global POST, GET and COOKIE data sanitized
+INFO - 2021-01-01 05:12:56 --> Input Class Initialized
+INFO - 2021-01-01 05:12:56 --> Language Class Initialized
+INFO - 2021-01-01 05:12:56 --> Language Class Initialized
+INFO - 2021-01-01 05:12:56 --> Config Class Initialized
+INFO - 2021-01-01 05:12:56 --> Loader Class Initialized
+INFO - 2021-01-01 05:12:56 --> Helper loaded: url_helper
+INFO - 2021-01-01 05:12:56 --> Helper loaded: html_helper
+INFO - 2021-01-01 05:12:56 --> Helper loaded: file_helper
+INFO - 2021-01-01 05:12:56 --> Helper loaded: form_helper
+INFO - 2021-01-01 05:12:56 --> Helper loaded: security_helper
+INFO - 2021-01-01 05:12:56 --> Helper loaded: xss_helper
+INFO - 2021-01-01 05:12:56 --> Helper loaded: slug_helper
+INFO - 2021-01-01 05:12:56 --> Database Driver Class Initialized
+DEBUG - 2021-01-01 05:12:56 --> Session: "sess_save_path" is empty; using "session.save_path" value from php.ini.
+INFO - 2021-01-01 05:12:56 --> Session: Class initialized using 'files' driver.
+INFO - 2021-01-01 05:12:56 --> Language file loaded: language/english/pagination_lang.php
+INFO - 2021-01-01 05:12:56 --> Pagination Class Initialized
+INFO - 2021-01-01 05:12:56 --> Email Class Initialized
+INFO - 2021-01-01 05:12:56 --> Model "M_konfig" initialized
+INFO - 2021-01-01 05:12:56 --> Model "M_reff" initialized
+INFO - 2021-01-01 05:12:56 --> Model "M_total" initialized
+INFO - 2021-01-01 05:12:56 --> Controller Class Initialized
+DEBUG - 2021-01-01 05:12:56 --> File loaded: D:\xampp72\htdocs\app_grm\application\modules/apengumuman/models/Model.php
+INFO - 2021-01-01 11:12:57 --> Final output sent to browser
+DEBUG - 2021-01-01 11:12:57 --> Total execution time: 0.9831
+INFO - 2021-01-01 05:13:01 --> Config Class Initialized
+INFO - 2021-01-01 05:13:01 --> Hooks Class Initialized
+DEBUG - 2021-01-01 05:13:01 --> UTF-8 Support Enabled
+INFO - 2021-01-01 05:13:01 --> Utf8 Class Initialized
+INFO - 2021-01-01 05:13:01 --> URI Class Initialized
+INFO - 2021-01-01 05:13:01 --> Router Class Initialized
+INFO - 2021-01-01 05:13:01 --> Output Class Initialized
+INFO - 2021-01-01 05:13:01 --> Security Class Initialized
+DEBUG - 2021-01-01 05:13:01 --> Global POST, GET and COOKIE data sanitized
+INFO - 2021-01-01 05:13:01 --> Input Class Initialized
+INFO - 2021-01-01 05:13:01 --> Language Class Initialized
+INFO - 2021-01-01 05:13:01 --> Language Class Initialized
+INFO - 2021-01-01 05:13:01 --> Config Class Initialized
+INFO - 2021-01-01 05:13:01 --> Loader Class Initialized
+INFO - 2021-01-01 05:13:01 --> Helper loaded: url_helper
+INFO - 2021-01-01 05:13:01 --> Helper loaded: html_helper
+INFO - 2021-01-01 05:13:01 --> Helper loaded: file_helper
+INFO - 2021-01-01 05:13:01 --> Helper loaded: form_helper
+INFO - 2021-01-01 05:13:01 --> Helper loaded: security_helper
+INFO - 2021-01-01 05:13:01 --> Helper loaded: xss_helper
+INFO - 2021-01-01 05:13:01 --> Helper loaded: slug_helper
+INFO - 2021-01-01 05:13:01 --> Database Driver Class Initialized
+DEBUG - 2021-01-01 05:13:01 --> Session: "sess_save_path" is empty; using "session.save_path" value from php.ini.
+INFO - 2021-01-01 05:13:01 --> Session: Class initialized using 'files' driver.
+INFO - 2021-01-01 05:13:01 --> Language file loaded: language/english/pagination_lang.php
+INFO - 2021-01-01 05:13:01 --> Pagination Class Initialized
+INFO - 2021-01-01 05:13:01 --> Email Class Initialized
+INFO - 2021-01-01 05:13:01 --> Model "M_konfig" initialized
+INFO - 2021-01-01 05:13:01 --> Model "M_reff" initialized
+INFO - 2021-01-01 05:13:01 --> Model "M_total" initialized
+INFO - 2021-01-01 05:13:01 --> Controller Class Initialized
+DEBUG - 2021-01-01 05:13:01 --> File loaded: D:\xampp72\htdocs\app_grm\application\modules/apengumuman/models/Model.php
+INFO - 2021-01-01 11:13:01 --> Final output sent to browser
+DEBUG - 2021-01-01 11:13:02 --> Total execution time: 0.8877
+INFO - 2021-01-01 05:13:06 --> Config Class Initialized
+INFO - 2021-01-01 05:13:06 --> Hooks Class Initialized
+DEBUG - 2021-01-01 05:13:06 --> UTF-8 Support Enabled
+INFO - 2021-01-01 05:13:06 --> Utf8 Class Initialized
+INFO - 2021-01-01 05:13:06 --> URI Class Initialized
+INFO - 2021-01-01 05:13:06 --> Router Class Initialized
+INFO - 2021-01-01 05:13:06 --> Output Class Initialized
+INFO - 2021-01-01 05:13:06 --> Security Class Initialized
+DEBUG - 2021-01-01 05:13:06 --> Global POST, GET and COOKIE data sanitized
+INFO - 2021-01-01 05:13:06 --> Input Class Initialized
+INFO - 2021-01-01 05:13:06 --> Language Class Initialized
+INFO - 2021-01-01 05:13:06 --> Language Class Initialized
+INFO - 2021-01-01 05:13:06 --> Config Class Initialized
+INFO - 2021-01-01 05:13:06 --> Loader Class Initialized
+INFO - 2021-01-01 05:13:06 --> Helper loaded: url_helper
+INFO - 2021-01-01 05:13:06 --> Helper loaded: html_helper
+INFO - 2021-01-01 05:13:06 --> Helper loaded: file_helper
+INFO - 2021-01-01 05:13:06 --> Helper loaded: form_helper
+INFO - 2021-01-01 05:13:06 --> Helper loaded: security_helper
+INFO - 2021-01-01 05:13:06 --> Helper loaded: xss_helper
+INFO - 2021-01-01 05:13:06 --> Helper loaded: slug_helper
+INFO - 2021-01-01 05:13:06 --> Database Driver Class Initialized
+DEBUG - 2021-01-01 05:13:06 --> Session: "sess_save_path" is empty; using "session.save_path" value from php.ini.
+INFO - 2021-01-01 05:13:06 --> Session: Class initialized using 'files' driver.
+INFO - 2021-01-01 05:13:06 --> Language file loaded: language/english/pagination_lang.php
+INFO - 2021-01-01 05:13:06 --> Pagination Class Initialized
+INFO - 2021-01-01 05:13:06 --> Email Class Initialized
+INFO - 2021-01-01 05:13:06 --> Model "M_konfig" initialized
+INFO - 2021-01-01 05:13:06 --> Model "M_reff" initialized
+INFO - 2021-01-01 05:13:06 --> Model "M_total" initialized
+INFO - 2021-01-01 05:13:07 --> Controller Class Initialized
+DEBUG - 2021-01-01 05:13:07 --> File loaded: D:\xampp72\htdocs\app_grm\application\modules/apengumuman/models/Model.php
+INFO - 2021-01-01 11:13:07 --> Final output sent to browser
+DEBUG - 2021-01-01 11:13:07 --> Total execution time: 0.9014
+INFO - 2021-01-01 05:13:11 --> Config Class Initialized
+INFO - 2021-01-01 05:13:11 --> Hooks Class Initialized
+DEBUG - 2021-01-01 05:13:11 --> UTF-8 Support Enabled
+INFO - 2021-01-01 05:13:11 --> Utf8 Class Initialized
+INFO - 2021-01-01 05:13:11 --> URI Class Initialized
+INFO - 2021-01-01 05:13:11 --> Router Class Initialized
+INFO - 2021-01-01 05:13:11 --> Output Class Initialized
+INFO - 2021-01-01 05:13:11 --> Security Class Initialized
+DEBUG - 2021-01-01 05:13:11 --> Global POST, GET and COOKIE data sanitized
+INFO - 2021-01-01 05:13:11 --> Input Class Initialized
+INFO - 2021-01-01 05:13:11 --> Language Class Initialized
+INFO - 2021-01-01 05:13:11 --> Language Class Initialized
+INFO - 2021-01-01 05:13:11 --> Config Class Initialized
+INFO - 2021-01-01 05:13:12 --> Loader Class Initialized
+INFO - 2021-01-01 05:13:12 --> Helper loaded: url_helper
+INFO - 2021-01-01 05:13:12 --> Helper loaded: html_helper
+INFO - 2021-01-01 05:13:12 --> Helper loaded: file_helper
+INFO - 2021-01-01 05:13:12 --> Helper loaded: form_helper
+INFO - 2021-01-01 05:13:12 --> Helper loaded: security_helper
+INFO - 2021-01-01 05:13:12 --> Helper loaded: xss_helper
+INFO - 2021-01-01 05:13:12 --> Helper loaded: slug_helper
+INFO - 2021-01-01 05:13:12 --> Database Driver Class Initialized
+DEBUG - 2021-01-01 05:13:12 --> Session: "sess_save_path" is empty; using "session.save_path" value from php.ini.
+INFO - 2021-01-01 05:13:12 --> Session: Class initialized using 'files' driver.
+INFO - 2021-01-01 05:13:12 --> Language file loaded: language/english/pagination_lang.php
+INFO - 2021-01-01 05:13:12 --> Pagination Class Initialized
+INFO - 2021-01-01 05:13:12 --> Email Class Initialized
+INFO - 2021-01-01 05:13:12 --> Model "M_konfig" initialized
+INFO - 2021-01-01 05:13:12 --> Model "M_reff" initialized
+INFO - 2021-01-01 05:13:12 --> Model "M_total" initialized
+INFO - 2021-01-01 05:13:12 --> Controller Class Initialized
+DEBUG - 2021-01-01 05:13:13 --> File loaded: D:\xampp72\htdocs\app_grm\application\modules/apengumuman/models/Model.php
+INFO - 2021-01-01 11:13:13 --> Final output sent to browser
+DEBUG - 2021-01-01 11:13:13 --> Total execution time: 1.7719
+INFO - 2021-01-01 05:13:16 --> Config Class Initialized
+INFO - 2021-01-01 05:13:16 --> Hooks Class Initialized
+DEBUG - 2021-01-01 05:13:16 --> UTF-8 Support Enabled
+INFO - 2021-01-01 05:13:16 --> Utf8 Class Initialized
+INFO - 2021-01-01 05:13:16 --> URI Class Initialized
+INFO - 2021-01-01 05:13:16 --> Router Class Initialized
+INFO - 2021-01-01 05:13:16 --> Output Class Initialized
+INFO - 2021-01-01 05:13:16 --> Security Class Initialized
+DEBUG - 2021-01-01 05:13:16 --> Global POST, GET and COOKIE data sanitized
+INFO - 2021-01-01 05:13:16 --> Input Class Initialized
+INFO - 2021-01-01 05:13:16 --> Language Class Initialized
+INFO - 2021-01-01 05:13:16 --> Language Class Initialized
+INFO - 2021-01-01 05:13:16 --> Config Class Initialized
+INFO - 2021-01-01 05:13:16 --> Loader Class Initialized
+INFO - 2021-01-01 05:13:16 --> Helper loaded: url_helper
+INFO - 2021-01-01 05:13:16 --> Helper loaded: html_helper
+INFO - 2021-01-01 05:13:16 --> Helper loaded: file_helper
+INFO - 2021-01-01 05:13:16 --> Helper loaded: form_helper
+INFO - 2021-01-01 05:13:16 --> Helper loaded: security_helper
+INFO - 2021-01-01 05:13:16 --> Helper loaded: xss_helper
+INFO - 2021-01-01 05:13:17 --> Helper loaded: slug_helper
+INFO - 2021-01-01 05:13:17 --> Database Driver Class Initialized
+DEBUG - 2021-01-01 05:13:17 --> Session: "sess_save_path" is empty; using "session.save_path" value from php.ini.
+INFO - 2021-01-01 05:13:17 --> Session: Class initialized using 'files' driver.
+INFO - 2021-01-01 05:13:17 --> Language file loaded: language/english/pagination_lang.php
+INFO - 2021-01-01 05:13:17 --> Pagination Class Initialized
+INFO - 2021-01-01 05:13:17 --> Email Class Initialized
+INFO - 2021-01-01 05:13:17 --> Model "M_konfig" initialized
+INFO - 2021-01-01 05:13:17 --> Model "M_reff" initialized
+INFO - 2021-01-01 05:13:17 --> Model "M_total" initialized
+INFO - 2021-01-01 05:13:17 --> Controller Class Initialized
+DEBUG - 2021-01-01 05:13:17 --> File loaded: D:\xampp72\htdocs\app_grm\application\modules/apengumuman/models/Model.php
+INFO - 2021-01-01 11:13:17 --> Final output sent to browser
+DEBUG - 2021-01-01 11:13:17 --> Total execution time: 1.0869
+INFO - 2021-01-01 05:13:21 --> Config Class Initialized
+INFO - 2021-01-01 05:13:21 --> Hooks Class Initialized
+DEBUG - 2021-01-01 05:13:21 --> UTF-8 Support Enabled
+INFO - 2021-01-01 05:13:21 --> Utf8 Class Initialized
+INFO - 2021-01-01 05:13:21 --> URI Class Initialized
+INFO - 2021-01-01 05:13:21 --> Router Class Initialized
+INFO - 2021-01-01 05:13:21 --> Output Class Initialized
+INFO - 2021-01-01 05:13:21 --> Security Class Initialized
+DEBUG - 2021-01-01 05:13:21 --> Global POST, GET and COOKIE data sanitized
+INFO - 2021-01-01 05:13:21 --> Input Class Initialized
+INFO - 2021-01-01 05:13:21 --> Language Class Initialized
+INFO - 2021-01-01 05:13:21 --> Language Class Initialized
+INFO - 2021-01-01 05:13:21 --> Config Class Initialized
+INFO - 2021-01-01 05:13:21 --> Loader Class Initialized
+INFO - 2021-01-01 05:13:21 --> Helper loaded: url_helper
+INFO - 2021-01-01 05:13:21 --> Helper loaded: html_helper
+INFO - 2021-01-01 05:13:21 --> Helper loaded: file_helper
+INFO - 2021-01-01 05:13:21 --> Helper loaded: form_helper
+INFO - 2021-01-01 05:13:21 --> Helper loaded: security_helper
+INFO - 2021-01-01 05:13:21 --> Helper loaded: xss_helper
+INFO - 2021-01-01 05:13:21 --> Helper loaded: slug_helper
+INFO - 2021-01-01 05:13:21 --> Database Driver Class Initialized
+DEBUG - 2021-01-01 05:13:21 --> Session: "sess_save_path" is empty; using "session.save_path" value from php.ini.
+INFO - 2021-01-01 05:13:21 --> Session: Class initialized using 'files' driver.
+INFO - 2021-01-01 05:13:22 --> Language file loaded: language/english/pagination_lang.php
+INFO - 2021-01-01 05:13:22 --> Pagination Class Initialized
+INFO - 2021-01-01 05:13:22 --> Email Class Initialized
+INFO - 2021-01-01 05:13:22 --> Model "M_konfig" initialized
+INFO - 2021-01-01 05:13:22 --> Model "M_reff" initialized
+INFO - 2021-01-01 05:13:22 --> Model "M_total" initialized
+INFO - 2021-01-01 05:13:22 --> Controller Class Initialized
+DEBUG - 2021-01-01 05:13:22 --> File loaded: D:\xampp72\htdocs\app_grm\application\modules/apengumuman/models/Model.php
+INFO - 2021-01-01 11:13:22 --> Final output sent to browser
+DEBUG - 2021-01-01 11:13:22 --> Total execution time: 0.8850
+INFO - 2021-01-01 05:13:26 --> Config Class Initialized
+INFO - 2021-01-01 05:13:26 --> Hooks Class Initialized
+DEBUG - 2021-01-01 05:13:26 --> UTF-8 Support Enabled
+INFO - 2021-01-01 05:13:26 --> Utf8 Class Initialized
+INFO - 2021-01-01 05:13:26 --> URI Class Initialized
+INFO - 2021-01-01 05:13:26 --> Router Class Initialized
+INFO - 2021-01-01 05:13:26 --> Output Class Initialized
+INFO - 2021-01-01 05:13:26 --> Security Class Initialized
+DEBUG - 2021-01-01 05:13:26 --> Global POST, GET and COOKIE data sanitized
+INFO - 2021-01-01 05:13:26 --> Input Class Initialized
+INFO - 2021-01-01 05:13:26 --> Language Class Initialized
+INFO - 2021-01-01 05:13:26 --> Language Class Initialized
+INFO - 2021-01-01 05:13:26 --> Config Class Initialized
+INFO - 2021-01-01 05:13:26 --> Loader Class Initialized
+INFO - 2021-01-01 05:13:26 --> Helper loaded: url_helper
+INFO - 2021-01-01 05:13:26 --> Helper loaded: html_helper
+INFO - 2021-01-01 05:13:26 --> Helper loaded: file_helper
+INFO - 2021-01-01 05:13:26 --> Helper loaded: form_helper
+INFO - 2021-01-01 05:13:26 --> Helper loaded: security_helper
+INFO - 2021-01-01 05:13:26 --> Helper loaded: xss_helper
+INFO - 2021-01-01 05:13:27 --> Helper loaded: slug_helper
+INFO - 2021-01-01 05:13:27 --> Database Driver Class Initialized
+DEBUG - 2021-01-01 05:13:27 --> Session: "sess_save_path" is empty; using "session.save_path" value from php.ini.
+INFO - 2021-01-01 05:13:27 --> Session: Class initialized using 'files' driver.
+INFO - 2021-01-01 05:13:27 --> Language file loaded: language/english/pagination_lang.php
+INFO - 2021-01-01 05:13:27 --> Pagination Class Initialized
+INFO - 2021-01-01 05:13:27 --> Email Class Initialized
+INFO - 2021-01-01 05:13:27 --> Model "M_konfig" initialized
+INFO - 2021-01-01 05:13:27 --> Model "M_reff" initialized
+INFO - 2021-01-01 05:13:27 --> Model "M_total" initialized
+INFO - 2021-01-01 05:13:27 --> Controller Class Initialized
+DEBUG - 2021-01-01 05:13:27 --> File loaded: D:\xampp72\htdocs\app_grm\application\modules/apengumuman/models/Model.php
+INFO - 2021-01-01 11:13:27 --> Final output sent to browser
+DEBUG - 2021-01-01 11:13:27 --> Total execution time: 0.9414
+INFO - 2021-01-01 05:13:31 --> Config Class Initialized
+INFO - 2021-01-01 05:13:31 --> Hooks Class Initialized
+DEBUG - 2021-01-01 05:13:31 --> UTF-8 Support Enabled
+INFO - 2021-01-01 05:13:31 --> Utf8 Class Initialized
+INFO - 2021-01-01 05:13:31 --> URI Class Initialized
+INFO - 2021-01-01 05:13:31 --> Router Class Initialized
+INFO - 2021-01-01 05:13:31 --> Output Class Initialized
+INFO - 2021-01-01 05:13:31 --> Security Class Initialized
+DEBUG - 2021-01-01 05:13:31 --> Global POST, GET and COOKIE data sanitized
+INFO - 2021-01-01 05:13:31 --> Input Class Initialized
+INFO - 2021-01-01 05:13:31 --> Language Class Initialized
+INFO - 2021-01-01 05:13:31 --> Language Class Initialized
+INFO - 2021-01-01 05:13:31 --> Config Class Initialized
+INFO - 2021-01-01 05:13:31 --> Loader Class Initialized
+INFO - 2021-01-01 05:13:31 --> Helper loaded: url_helper
+INFO - 2021-01-01 05:13:32 --> Helper loaded: html_helper
+INFO - 2021-01-01 05:13:32 --> Helper loaded: file_helper
+INFO - 2021-01-01 05:13:32 --> Helper loaded: form_helper
+INFO - 2021-01-01 05:13:32 --> Helper loaded: security_helper
+INFO - 2021-01-01 05:13:32 --> Helper loaded: xss_helper
+INFO - 2021-01-01 05:13:32 --> Helper loaded: slug_helper
+INFO - 2021-01-01 05:13:32 --> Database Driver Class Initialized
+DEBUG - 2021-01-01 05:13:32 --> Session: "sess_save_path" is empty; using "session.save_path" value from php.ini.
+INFO - 2021-01-01 05:13:32 --> Session: Class initialized using 'files' driver.
+INFO - 2021-01-01 05:13:32 --> Language file loaded: language/english/pagination_lang.php
+INFO - 2021-01-01 05:13:32 --> Pagination Class Initialized
+INFO - 2021-01-01 05:13:32 --> Email Class Initialized
+INFO - 2021-01-01 05:13:32 --> Model "M_konfig" initialized
+INFO - 2021-01-01 05:13:32 --> Model "M_reff" initialized
+INFO - 2021-01-01 05:13:32 --> Model "M_total" initialized
+INFO - 2021-01-01 05:13:32 --> Controller Class Initialized
+DEBUG - 2021-01-01 05:13:32 --> File loaded: D:\xampp72\htdocs\app_grm\application\modules/apengumuman/models/Model.php
+INFO - 2021-01-01 11:13:32 --> Final output sent to browser
+DEBUG - 2021-01-01 11:13:32 --> Total execution time: 1.1784
+INFO - 2021-01-01 05:13:36 --> Config Class Initialized
+INFO - 2021-01-01 05:13:36 --> Hooks Class Initialized
+DEBUG - 2021-01-01 05:13:36 --> UTF-8 Support Enabled
+INFO - 2021-01-01 05:13:36 --> Utf8 Class Initialized
+INFO - 2021-01-01 05:13:36 --> URI Class Initialized
+INFO - 2021-01-01 05:13:36 --> Router Class Initialized
+INFO - 2021-01-01 05:13:36 --> Output Class Initialized
+INFO - 2021-01-01 05:13:36 --> Security Class Initialized
+DEBUG - 2021-01-01 05:13:36 --> Global POST, GET and COOKIE data sanitized
+INFO - 2021-01-01 05:13:36 --> Input Class Initialized
+INFO - 2021-01-01 05:13:36 --> Language Class Initialized
+INFO - 2021-01-01 05:13:36 --> Language Class Initialized
+INFO - 2021-01-01 05:13:36 --> Config Class Initialized
+INFO - 2021-01-01 05:13:36 --> Loader Class Initialized
+INFO - 2021-01-01 05:13:36 --> Helper loaded: url_helper
+INFO - 2021-01-01 05:13:36 --> Helper loaded: html_helper
+INFO - 2021-01-01 05:13:36 --> Helper loaded: file_helper
+INFO - 2021-01-01 05:13:36 --> Helper loaded: form_helper
+INFO - 2021-01-01 05:13:36 --> Helper loaded: security_helper
+INFO - 2021-01-01 05:13:37 --> Helper loaded: xss_helper
+INFO - 2021-01-01 05:13:37 --> Helper loaded: slug_helper
+INFO - 2021-01-01 05:13:37 --> Database Driver Class Initialized
+DEBUG - 2021-01-01 05:13:37 --> Session: "sess_save_path" is empty; using "session.save_path" value from php.ini.
+INFO - 2021-01-01 05:13:37 --> Session: Class initialized using 'files' driver.
+INFO - 2021-01-01 05:13:37 --> Language file loaded: language/english/pagination_lang.php
+INFO - 2021-01-01 05:13:37 --> Pagination Class Initialized
+INFO - 2021-01-01 05:13:37 --> Email Class Initialized
+INFO - 2021-01-01 05:13:37 --> Model "M_konfig" initialized
+INFO - 2021-01-01 05:13:37 --> Model "M_reff" initialized
+INFO - 2021-01-01 05:13:37 --> Model "M_total" initialized
+INFO - 2021-01-01 05:13:37 --> Controller Class Initialized
+DEBUG - 2021-01-01 05:13:37 --> File loaded: D:\xampp72\htdocs\app_grm\application\modules/apengumuman/models/Model.php
+INFO - 2021-01-01 11:13:37 --> Final output sent to browser
+DEBUG - 2021-01-01 11:13:37 --> Total execution time: 1.0300
+INFO - 2021-01-01 05:13:41 --> Config Class Initialized
+INFO - 2021-01-01 05:13:41 --> Hooks Class Initialized
+DEBUG - 2021-01-01 05:13:41 --> UTF-8 Support Enabled
+INFO - 2021-01-01 05:13:41 --> Utf8 Class Initialized
+INFO - 2021-01-01 05:13:41 --> URI Class Initialized
+INFO - 2021-01-01 05:13:41 --> Router Class Initialized
+INFO - 2021-01-01 05:13:41 --> Output Class Initialized
+INFO - 2021-01-01 05:13:41 --> Security Class Initialized
+DEBUG - 2021-01-01 05:13:41 --> Global POST, GET and COOKIE data sanitized
+INFO - 2021-01-01 05:13:41 --> Input Class Initialized
+INFO - 2021-01-01 05:13:41 --> Language Class Initialized
+INFO - 2021-01-01 05:13:41 --> Language Class Initialized
+INFO - 2021-01-01 05:13:42 --> Config Class Initialized
+INFO - 2021-01-01 05:13:42 --> Loader Class Initialized
+INFO - 2021-01-01 05:13:42 --> Helper loaded: url_helper
+INFO - 2021-01-01 05:13:42 --> Helper loaded: html_helper
+INFO - 2021-01-01 05:13:42 --> Helper loaded: file_helper
+INFO - 2021-01-01 05:13:42 --> Helper loaded: form_helper
+INFO - 2021-01-01 05:13:42 --> Helper loaded: security_helper
+INFO - 2021-01-01 05:13:42 --> Helper loaded: xss_helper
+INFO - 2021-01-01 05:13:42 --> Helper loaded: slug_helper
+INFO - 2021-01-01 05:13:42 --> Database Driver Class Initialized
+DEBUG - 2021-01-01 05:13:42 --> Session: "sess_save_path" is empty; using "session.save_path" value from php.ini.
+INFO - 2021-01-01 05:13:42 --> Session: Class initialized using 'files' driver.
+INFO - 2021-01-01 05:13:42 --> Language file loaded: language/english/pagination_lang.php
+INFO - 2021-01-01 05:13:42 --> Pagination Class Initialized
+INFO - 2021-01-01 05:13:42 --> Email Class Initialized
+INFO - 2021-01-01 05:13:42 --> Model "M_konfig" initialized
+INFO - 2021-01-01 05:13:42 --> Model "M_reff" initialized
+INFO - 2021-01-01 05:13:42 --> Model "M_total" initialized
+INFO - 2021-01-01 05:13:42 --> Controller Class Initialized
+DEBUG - 2021-01-01 05:13:42 --> File loaded: D:\xampp72\htdocs\app_grm\application\modules/apengumuman/models/Model.php
+INFO - 2021-01-01 11:13:42 --> Final output sent to browser
+DEBUG - 2021-01-01 11:13:42 --> Total execution time: 1.0943
+INFO - 2021-01-01 05:13:46 --> Config Class Initialized
+INFO - 2021-01-01 05:13:46 --> Hooks Class Initialized
+DEBUG - 2021-01-01 05:13:46 --> UTF-8 Support Enabled
+INFO - 2021-01-01 05:13:46 --> Utf8 Class Initialized
+INFO - 2021-01-01 05:13:46 --> URI Class Initialized
+INFO - 2021-01-01 05:13:46 --> Router Class Initialized
+INFO - 2021-01-01 05:13:46 --> Output Class Initialized
+INFO - 2021-01-01 05:13:46 --> Security Class Initialized
+DEBUG - 2021-01-01 05:13:46 --> Global POST, GET and COOKIE data sanitized
+INFO - 2021-01-01 05:13:46 --> Input Class Initialized
+INFO - 2021-01-01 05:13:46 --> Language Class Initialized
+INFO - 2021-01-01 05:13:46 --> Language Class Initialized
+INFO - 2021-01-01 05:13:46 --> Config Class Initialized
+INFO - 2021-01-01 05:13:46 --> Loader Class Initialized
+INFO - 2021-01-01 05:13:46 --> Helper loaded: url_helper
+INFO - 2021-01-01 05:13:47 --> Helper loaded: html_helper
+INFO - 2021-01-01 05:13:47 --> Helper loaded: file_helper
+INFO - 2021-01-01 05:13:47 --> Helper loaded: form_helper
+INFO - 2021-01-01 05:13:47 --> Helper loaded: security_helper
+INFO - 2021-01-01 05:13:47 --> Helper loaded: xss_helper
+INFO - 2021-01-01 05:13:47 --> Helper loaded: slug_helper
+INFO - 2021-01-01 05:13:47 --> Database Driver Class Initialized
+DEBUG - 2021-01-01 05:13:47 --> Session: "sess_save_path" is empty; using "session.save_path" value from php.ini.
+INFO - 2021-01-01 05:13:47 --> Session: Class initialized using 'files' driver.
+INFO - 2021-01-01 05:13:47 --> Language file loaded: language/english/pagination_lang.php
+INFO - 2021-01-01 05:13:47 --> Pagination Class Initialized
+INFO - 2021-01-01 05:13:47 --> Email Class Initialized
+INFO - 2021-01-01 05:13:47 --> Model "M_konfig" initialized
+INFO - 2021-01-01 05:13:47 --> Model "M_reff" initialized
+INFO - 2021-01-01 05:13:47 --> Model "M_total" initialized
+INFO - 2021-01-01 05:13:47 --> Controller Class Initialized
+DEBUG - 2021-01-01 05:13:47 --> File loaded: D:\xampp72\htdocs\app_grm\application\modules/apengumuman/models/Model.php
+INFO - 2021-01-01 11:13:47 --> Final output sent to browser
+DEBUG - 2021-01-01 11:13:47 --> Total execution time: 0.9913
+INFO - 2021-01-01 05:13:51 --> Config Class Initialized
+INFO - 2021-01-01 05:13:51 --> Hooks Class Initialized
+DEBUG - 2021-01-01 05:13:51 --> UTF-8 Support Enabled
+INFO - 2021-01-01 05:13:51 --> Utf8 Class Initialized
+INFO - 2021-01-01 05:13:51 --> URI Class Initialized
+INFO - 2021-01-01 05:13:51 --> Router Class Initialized
+INFO - 2021-01-01 05:13:51 --> Output Class Initialized
+INFO - 2021-01-01 05:13:51 --> Security Class Initialized
+DEBUG - 2021-01-01 05:13:51 --> Global POST, GET and COOKIE data sanitized
+INFO - 2021-01-01 05:13:51 --> Input Class Initialized
+INFO - 2021-01-01 05:13:51 --> Language Class Initialized
+INFO - 2021-01-01 05:13:51 --> Language Class Initialized
+INFO - 2021-01-01 05:13:51 --> Config Class Initialized
+INFO - 2021-01-01 05:13:51 --> Loader Class Initialized
+INFO - 2021-01-01 05:13:51 --> Helper loaded: url_helper
+INFO - 2021-01-01 05:13:52 --> Helper loaded: html_helper
+INFO - 2021-01-01 05:13:52 --> Helper loaded: file_helper
+INFO - 2021-01-01 05:13:52 --> Helper loaded: form_helper
+INFO - 2021-01-01 05:13:52 --> Helper loaded: security_helper
+INFO - 2021-01-01 05:13:52 --> Helper loaded: xss_helper
+INFO - 2021-01-01 05:13:52 --> Helper loaded: slug_helper
+INFO - 2021-01-01 05:13:52 --> Database Driver Class Initialized
+DEBUG - 2021-01-01 05:13:52 --> Session: "sess_save_path" is empty; using "session.save_path" value from php.ini.
+INFO - 2021-01-01 05:13:52 --> Session: Class initialized using 'files' driver.
+INFO - 2021-01-01 05:13:52 --> Language file loaded: language/english/pagination_lang.php
+INFO - 2021-01-01 05:13:52 --> Pagination Class Initialized
+INFO - 2021-01-01 05:13:52 --> Email Class Initialized
+INFO - 2021-01-01 05:13:52 --> Model "M_konfig" initialized
+INFO - 2021-01-01 05:13:52 --> Model "M_reff" initialized
+INFO - 2021-01-01 05:13:52 --> Model "M_total" initialized
+INFO - 2021-01-01 05:13:52 --> Controller Class Initialized
+DEBUG - 2021-01-01 05:13:52 --> File loaded: D:\xampp72\htdocs\app_grm\application\modules/apengumuman/models/Model.php
+INFO - 2021-01-01 11:13:52 --> Final output sent to browser
+DEBUG - 2021-01-01 11:13:52 --> Total execution time: 0.9157
+INFO - 2021-01-01 05:13:56 --> Config Class Initialized
+INFO - 2021-01-01 05:13:56 --> Hooks Class Initialized
+DEBUG - 2021-01-01 05:13:56 --> UTF-8 Support Enabled
+INFO - 2021-01-01 05:13:56 --> Utf8 Class Initialized
+INFO - 2021-01-01 05:13:56 --> URI Class Initialized
+INFO - 2021-01-01 05:13:56 --> Router Class Initialized
+INFO - 2021-01-01 05:13:56 --> Output Class Initialized
+INFO - 2021-01-01 05:13:56 --> Security Class Initialized
+DEBUG - 2021-01-01 05:13:56 --> Global POST, GET and COOKIE data sanitized
+INFO - 2021-01-01 05:13:56 --> Input Class Initialized
+INFO - 2021-01-01 05:13:56 --> Language Class Initialized
+INFO - 2021-01-01 05:13:56 --> Language Class Initialized
+INFO - 2021-01-01 05:13:57 --> Config Class Initialized
+INFO - 2021-01-01 05:13:57 --> Loader Class Initialized
+INFO - 2021-01-01 05:13:57 --> Helper loaded: url_helper
+INFO - 2021-01-01 05:13:57 --> Helper loaded: html_helper
+INFO - 2021-01-01 05:13:57 --> Helper loaded: file_helper
+INFO - 2021-01-01 05:13:57 --> Helper loaded: form_helper
+INFO - 2021-01-01 05:13:57 --> Helper loaded: security_helper
+INFO - 2021-01-01 05:13:57 --> Helper loaded: xss_helper
+INFO - 2021-01-01 05:13:57 --> Helper loaded: slug_helper
+INFO - 2021-01-01 05:13:57 --> Database Driver Class Initialized
+DEBUG - 2021-01-01 05:13:57 --> Session: "sess_save_path" is empty; using "session.save_path" value from php.ini.
+INFO - 2021-01-01 05:13:57 --> Session: Class initialized using 'files' driver.
+INFO - 2021-01-01 05:13:57 --> Language file loaded: language/english/pagination_lang.php
+INFO - 2021-01-01 05:13:57 --> Pagination Class Initialized
+INFO - 2021-01-01 05:13:57 --> Email Class Initialized
+INFO - 2021-01-01 05:13:57 --> Model "M_konfig" initialized
+INFO - 2021-01-01 05:13:57 --> Model "M_reff" initialized
+INFO - 2021-01-01 05:13:57 --> Model "M_total" initialized
+INFO - 2021-01-01 05:13:57 --> Controller Class Initialized
+DEBUG - 2021-01-01 05:13:57 --> File loaded: D:\xampp72\htdocs\app_grm\application\modules/apengumuman/models/Model.php
+INFO - 2021-01-01 11:13:57 --> Final output sent to browser
+DEBUG - 2021-01-01 11:13:57 --> Total execution time: 0.9251
+INFO - 2021-01-01 05:14:01 --> Config Class Initialized
+INFO - 2021-01-01 05:14:01 --> Hooks Class Initialized
+DEBUG - 2021-01-01 05:14:01 --> UTF-8 Support Enabled
+INFO - 2021-01-01 05:14:01 --> Utf8 Class Initialized
+INFO - 2021-01-01 05:14:01 --> URI Class Initialized
+INFO - 2021-01-01 05:14:01 --> Router Class Initialized
+INFO - 2021-01-01 05:14:01 --> Output Class Initialized
+INFO - 2021-01-01 05:14:01 --> Security Class Initialized
+DEBUG - 2021-01-01 05:14:01 --> Global POST, GET and COOKIE data sanitized
+INFO - 2021-01-01 05:14:01 --> Input Class Initialized
+INFO - 2021-01-01 05:14:01 --> Language Class Initialized
+INFO - 2021-01-01 05:14:02 --> Language Class Initialized
+INFO - 2021-01-01 05:14:02 --> Config Class Initialized
+INFO - 2021-01-01 05:14:02 --> Loader Class Initialized
+INFO - 2021-01-01 05:14:02 --> Helper loaded: url_helper
+INFO - 2021-01-01 05:14:02 --> Helper loaded: html_helper
+INFO - 2021-01-01 05:14:02 --> Helper loaded: file_helper
+INFO - 2021-01-01 05:14:02 --> Helper loaded: form_helper
+INFO - 2021-01-01 05:14:02 --> Helper loaded: security_helper
+INFO - 2021-01-01 05:14:02 --> Helper loaded: xss_helper
+INFO - 2021-01-01 05:14:02 --> Helper loaded: slug_helper
+INFO - 2021-01-01 05:14:02 --> Database Driver Class Initialized
+DEBUG - 2021-01-01 05:14:02 --> Session: "sess_save_path" is empty; using "session.save_path" value from php.ini.
+INFO - 2021-01-01 05:14:02 --> Session: Class initialized using 'files' driver.
+INFO - 2021-01-01 05:14:02 --> Language file loaded: language/english/pagination_lang.php
+INFO - 2021-01-01 05:14:02 --> Pagination Class Initialized
+INFO - 2021-01-01 05:14:02 --> Email Class Initialized
+INFO - 2021-01-01 05:14:02 --> Model "M_konfig" initialized
+INFO - 2021-01-01 05:14:02 --> Model "M_reff" initialized
+INFO - 2021-01-01 05:14:02 --> Model "M_total" initialized
+INFO - 2021-01-01 05:14:02 --> Controller Class Initialized
+DEBUG - 2021-01-01 05:14:02 --> File loaded: D:\xampp72\htdocs\app_grm\application\modules/apengumuman/models/Model.php
+INFO - 2021-01-01 11:14:02 --> Final output sent to browser
+DEBUG - 2021-01-01 11:14:02 --> Total execution time: 0.9227
+INFO - 2021-01-01 05:14:06 --> Config Class Initialized
+INFO - 2021-01-01 05:14:06 --> Hooks Class Initialized
+DEBUG - 2021-01-01 05:14:06 --> UTF-8 Support Enabled
+INFO - 2021-01-01 05:14:06 --> Utf8 Class Initialized
+INFO - 2021-01-01 05:14:06 --> URI Class Initialized
+INFO - 2021-01-01 05:14:06 --> Router Class Initialized
+INFO - 2021-01-01 05:14:06 --> Output Class Initialized
+INFO - 2021-01-01 05:14:06 --> Security Class Initialized
+DEBUG - 2021-01-01 05:14:07 --> Global POST, GET and COOKIE data sanitized
+INFO - 2021-01-01 05:14:07 --> Input Class Initialized
+INFO - 2021-01-01 05:14:07 --> Language Class Initialized
+INFO - 2021-01-01 05:14:07 --> Language Class Initialized
+INFO - 2021-01-01 05:14:07 --> Config Class Initialized
+INFO - 2021-01-01 05:14:07 --> Loader Class Initialized
+INFO - 2021-01-01 05:14:07 --> Helper loaded: url_helper
+INFO - 2021-01-01 05:14:07 --> Helper loaded: html_helper
+INFO - 2021-01-01 05:14:07 --> Helper loaded: file_helper
+INFO - 2021-01-01 05:14:07 --> Helper loaded: form_helper
+INFO - 2021-01-01 05:14:07 --> Helper loaded: security_helper
+INFO - 2021-01-01 05:14:07 --> Helper loaded: xss_helper
+INFO - 2021-01-01 05:14:07 --> Helper loaded: slug_helper
+INFO - 2021-01-01 05:14:07 --> Database Driver Class Initialized
+DEBUG - 2021-01-01 05:14:07 --> Session: "sess_save_path" is empty; using "session.save_path" value from php.ini.
+INFO - 2021-01-01 05:14:07 --> Session: Class initialized using 'files' driver.
+INFO - 2021-01-01 05:14:07 --> Language file loaded: language/english/pagination_lang.php
+INFO - 2021-01-01 05:14:07 --> Pagination Class Initialized
+INFO - 2021-01-01 05:14:07 --> Email Class Initialized
+INFO - 2021-01-01 05:14:07 --> Model "M_konfig" initialized
+INFO - 2021-01-01 05:14:07 --> Model "M_reff" initialized
+INFO - 2021-01-01 05:14:07 --> Model "M_total" initialized
+INFO - 2021-01-01 05:14:07 --> Controller Class Initialized
+DEBUG - 2021-01-01 05:14:07 --> File loaded: D:\xampp72\htdocs\app_grm\application\modules/apengumuman/models/Model.php
+INFO - 2021-01-01 11:14:07 --> Final output sent to browser
+DEBUG - 2021-01-01 11:14:07 --> Total execution time: 0.9362
+INFO - 2021-01-01 05:14:11 --> Config Class Initialized
+INFO - 2021-01-01 05:14:11 --> Hooks Class Initialized
+DEBUG - 2021-01-01 05:14:11 --> UTF-8 Support Enabled
+INFO - 2021-01-01 05:14:11 --> Utf8 Class Initialized
+INFO - 2021-01-01 05:14:11 --> URI Class Initialized
+INFO - 2021-01-01 05:14:11 --> Router Class Initialized
+INFO - 2021-01-01 05:14:12 --> Output Class Initialized
+INFO - 2021-01-01 05:14:12 --> Security Class Initialized
+DEBUG - 2021-01-01 05:14:12 --> Global POST, GET and COOKIE data sanitized
+INFO - 2021-01-01 05:14:12 --> Input Class Initialized
+INFO - 2021-01-01 05:14:12 --> Language Class Initialized
+INFO - 2021-01-01 05:14:12 --> Language Class Initialized
+INFO - 2021-01-01 05:14:12 --> Config Class Initialized
+INFO - 2021-01-01 05:14:12 --> Loader Class Initialized
+INFO - 2021-01-01 05:14:12 --> Helper loaded: url_helper
+INFO - 2021-01-01 05:14:12 --> Helper loaded: html_helper
+INFO - 2021-01-01 05:14:12 --> Helper loaded: file_helper
+INFO - 2021-01-01 05:14:12 --> Helper loaded: form_helper
+INFO - 2021-01-01 05:14:12 --> Helper loaded: security_helper
+INFO - 2021-01-01 05:14:12 --> Helper loaded: xss_helper
+INFO - 2021-01-01 05:14:12 --> Helper loaded: slug_helper
+INFO - 2021-01-01 05:14:12 --> Database Driver Class Initialized
+DEBUG - 2021-01-01 05:14:12 --> Session: "sess_save_path" is empty; using "session.save_path" value from php.ini.
+INFO - 2021-01-01 05:14:12 --> Session: Class initialized using 'files' driver.
+INFO - 2021-01-01 05:14:12 --> Language file loaded: language/english/pagination_lang.php
+INFO - 2021-01-01 05:14:12 --> Pagination Class Initialized
+INFO - 2021-01-01 05:14:12 --> Email Class Initialized
+INFO - 2021-01-01 05:14:12 --> Model "M_konfig" initialized
+INFO - 2021-01-01 05:14:12 --> Model "M_reff" initialized
+INFO - 2021-01-01 05:14:12 --> Model "M_total" initialized
+INFO - 2021-01-01 05:14:12 --> Controller Class Initialized
+DEBUG - 2021-01-01 05:14:12 --> File loaded: D:\xampp72\htdocs\app_grm\application\modules/apengumuman/models/Model.php
+INFO - 2021-01-01 11:14:12 --> Final output sent to browser
+DEBUG - 2021-01-01 11:14:12 --> Total execution time: 1.1121
+INFO - 2021-01-01 05:14:17 --> Config Class Initialized
+INFO - 2021-01-01 05:14:17 --> Hooks Class Initialized
+DEBUG - 2021-01-01 05:14:17 --> UTF-8 Support Enabled
+INFO - 2021-01-01 05:14:18 --> Utf8 Class Initialized
+INFO - 2021-01-01 05:14:18 --> URI Class Initialized
+INFO - 2021-01-01 05:14:18 --> Router Class Initialized
+INFO - 2021-01-01 05:14:18 --> Output Class Initialized
+INFO - 2021-01-01 05:14:18 --> Security Class Initialized
+DEBUG - 2021-01-01 05:14:18 --> Global POST, GET and COOKIE data sanitized
+INFO - 2021-01-01 05:14:18 --> Input Class Initialized
+INFO - 2021-01-01 05:14:18 --> Language Class Initialized
+INFO - 2021-01-01 05:14:18 --> Language Class Initialized
+INFO - 2021-01-01 05:14:18 --> Config Class Initialized
+INFO - 2021-01-01 05:14:18 --> Loader Class Initialized
+INFO - 2021-01-01 05:14:18 --> Helper loaded: url_helper
+INFO - 2021-01-01 05:14:18 --> Helper loaded: html_helper
+INFO - 2021-01-01 05:14:18 --> Helper loaded: file_helper
+INFO - 2021-01-01 05:14:18 --> Helper loaded: form_helper
+INFO - 2021-01-01 05:14:18 --> Helper loaded: security_helper
+INFO - 2021-01-01 05:14:18 --> Helper loaded: xss_helper
+INFO - 2021-01-01 05:14:18 --> Helper loaded: slug_helper
+INFO - 2021-01-01 05:14:18 --> Database Driver Class Initialized
+DEBUG - 2021-01-01 05:14:18 --> Session: "sess_save_path" is empty; using "session.save_path" value from php.ini.
+INFO - 2021-01-01 05:14:18 --> Session: Class initialized using 'files' driver.
+INFO - 2021-01-01 05:14:18 --> Language file loaded: language/english/pagination_lang.php
+INFO - 2021-01-01 05:14:18 --> Pagination Class Initialized
+INFO - 2021-01-01 05:14:18 --> Email Class Initialized
+INFO - 2021-01-01 05:14:18 --> Model "M_konfig" initialized
+INFO - 2021-01-01 05:14:19 --> Model "M_reff" initialized
+INFO - 2021-01-01 05:14:19 --> Model "M_total" initialized
+INFO - 2021-01-01 05:14:19 --> Controller Class Initialized
+DEBUG - 2021-01-01 05:14:19 --> File loaded: D:\xampp72\htdocs\app_grm\application\modules/apengumuman/models/Model.php
+INFO - 2021-01-01 11:14:19 --> Final output sent to browser
+DEBUG - 2021-01-01 11:14:19 --> Total execution time: 1.3056
+INFO - 2021-01-01 05:14:22 --> Config Class Initialized
+INFO - 2021-01-01 05:14:22 --> Hooks Class Initialized
+DEBUG - 2021-01-01 05:14:22 --> UTF-8 Support Enabled
+INFO - 2021-01-01 05:14:22 --> Utf8 Class Initialized
+INFO - 2021-01-01 05:14:23 --> URI Class Initialized
+INFO - 2021-01-01 05:14:23 --> Router Class Initialized
+INFO - 2021-01-01 05:14:23 --> Output Class Initialized
+INFO - 2021-01-01 05:14:23 --> Security Class Initialized
+DEBUG - 2021-01-01 05:14:23 --> Global POST, GET and COOKIE data sanitized
+INFO - 2021-01-01 05:14:23 --> Input Class Initialized
+INFO - 2021-01-01 05:14:23 --> Language Class Initialized
+INFO - 2021-01-01 05:14:23 --> Language Class Initialized
+INFO - 2021-01-01 05:14:23 --> Config Class Initialized
+INFO - 2021-01-01 05:14:23 --> Loader Class Initialized
+INFO - 2021-01-01 05:14:23 --> Helper loaded: url_helper
+INFO - 2021-01-01 05:14:23 --> Helper loaded: html_helper
+INFO - 2021-01-01 05:14:23 --> Helper loaded: file_helper
+INFO - 2021-01-01 05:14:23 --> Helper loaded: form_helper
+INFO - 2021-01-01 05:14:23 --> Helper loaded: security_helper
+INFO - 2021-01-01 05:14:23 --> Helper loaded: xss_helper
+INFO - 2021-01-01 05:14:23 --> Helper loaded: slug_helper
+INFO - 2021-01-01 05:14:23 --> Database Driver Class Initialized
+DEBUG - 2021-01-01 05:14:23 --> Session: "sess_save_path" is empty; using "session.save_path" value from php.ini.
+INFO - 2021-01-01 05:14:23 --> Session: Class initialized using 'files' driver.
+INFO - 2021-01-01 05:14:23 --> Language file loaded: language/english/pagination_lang.php
+INFO - 2021-01-01 05:14:23 --> Pagination Class Initialized
+INFO - 2021-01-01 05:14:23 --> Email Class Initialized
+INFO - 2021-01-01 05:14:23 --> Model "M_konfig" initialized
+INFO - 2021-01-01 05:14:23 --> Model "M_reff" initialized
+INFO - 2021-01-01 05:14:23 --> Model "M_total" initialized
+INFO - 2021-01-01 05:14:23 --> Controller Class Initialized
+DEBUG - 2021-01-01 05:14:23 --> File loaded: D:\xampp72\htdocs\app_grm\application\modules/apengumuman/models/Model.php
+INFO - 2021-01-01 11:14:23 --> Final output sent to browser
+DEBUG - 2021-01-01 11:14:23 --> Total execution time: 0.9843
+INFO - 2021-01-01 05:14:27 --> Config Class Initialized
+INFO - 2021-01-01 05:14:28 --> Hooks Class Initialized
+DEBUG - 2021-01-01 05:14:28 --> UTF-8 Support Enabled
+INFO - 2021-01-01 05:14:28 --> Utf8 Class Initialized
+INFO - 2021-01-01 05:14:28 --> URI Class Initialized
+INFO - 2021-01-01 05:14:28 --> Router Class Initialized
+INFO - 2021-01-01 05:14:28 --> Output Class Initialized
+INFO - 2021-01-01 05:14:28 --> Security Class Initialized
+DEBUG - 2021-01-01 05:14:28 --> Global POST, GET and COOKIE data sanitized
+INFO - 2021-01-01 05:14:28 --> Input Class Initialized
+INFO - 2021-01-01 05:14:28 --> Language Class Initialized
+INFO - 2021-01-01 05:14:28 --> Language Class Initialized
+INFO - 2021-01-01 05:14:28 --> Config Class Initialized
+INFO - 2021-01-01 05:14:28 --> Loader Class Initialized
+INFO - 2021-01-01 05:14:28 --> Helper loaded: url_helper
+INFO - 2021-01-01 05:14:28 --> Helper loaded: html_helper
+INFO - 2021-01-01 05:14:28 --> Helper loaded: file_helper
+INFO - 2021-01-01 05:14:28 --> Helper loaded: form_helper
+INFO - 2021-01-01 05:14:28 --> Helper loaded: security_helper
+INFO - 2021-01-01 05:14:28 --> Helper loaded: xss_helper
+INFO - 2021-01-01 05:14:28 --> Helper loaded: slug_helper
+INFO - 2021-01-01 05:14:28 --> Database Driver Class Initialized
+DEBUG - 2021-01-01 05:14:28 --> Session: "sess_save_path" is empty; using "session.save_path" value from php.ini.
+INFO - 2021-01-01 05:14:28 --> Session: Class initialized using 'files' driver.
+INFO - 2021-01-01 05:14:28 --> Language file loaded: language/english/pagination_lang.php
+INFO - 2021-01-01 05:14:28 --> Pagination Class Initialized
+INFO - 2021-01-01 05:14:28 --> Email Class Initialized
+INFO - 2021-01-01 05:14:28 --> Model "M_konfig" initialized
+INFO - 2021-01-01 05:14:28 --> Model "M_reff" initialized
+INFO - 2021-01-01 05:14:28 --> Model "M_total" initialized
+INFO - 2021-01-01 05:14:28 --> Controller Class Initialized
+DEBUG - 2021-01-01 05:14:28 --> File loaded: D:\xampp72\htdocs\app_grm\application\modules/apengumuman/models/Model.php
+INFO - 2021-01-01 11:14:28 --> Final output sent to browser
+DEBUG - 2021-01-01 11:14:28 --> Total execution time: 0.9011
+INFO - 2021-01-01 05:14:33 --> Config Class Initialized
+INFO - 2021-01-01 05:14:33 --> Hooks Class Initialized
+DEBUG - 2021-01-01 05:14:33 --> UTF-8 Support Enabled
+INFO - 2021-01-01 05:14:33 --> Utf8 Class Initialized
+INFO - 2021-01-01 05:14:33 --> URI Class Initialized
+INFO - 2021-01-01 05:14:33 --> Router Class Initialized
+INFO - 2021-01-01 05:14:33 --> Output Class Initialized
+INFO - 2021-01-01 05:14:33 --> Security Class Initialized
+DEBUG - 2021-01-01 05:14:33 --> Global POST, GET and COOKIE data sanitized
+INFO - 2021-01-01 05:14:33 --> Input Class Initialized
+INFO - 2021-01-01 05:14:33 --> Language Class Initialized
+INFO - 2021-01-01 05:14:33 --> Language Class Initialized
+INFO - 2021-01-01 05:14:33 --> Config Class Initialized
+INFO - 2021-01-01 05:14:33 --> Loader Class Initialized
+INFO - 2021-01-01 05:14:33 --> Helper loaded: url_helper
+INFO - 2021-01-01 05:14:33 --> Helper loaded: html_helper
+INFO - 2021-01-01 05:14:33 --> Helper loaded: file_helper
+INFO - 2021-01-01 05:14:33 --> Helper loaded: form_helper
+INFO - 2021-01-01 05:14:33 --> Helper loaded: security_helper
+INFO - 2021-01-01 05:14:33 --> Helper loaded: xss_helper
+INFO - 2021-01-01 05:14:33 --> Helper loaded: slug_helper
+INFO - 2021-01-01 05:14:33 --> Database Driver Class Initialized
+DEBUG - 2021-01-01 05:14:33 --> Session: "sess_save_path" is empty; using "session.save_path" value from php.ini.
+INFO - 2021-01-01 05:14:33 --> Session: Class initialized using 'files' driver.
+INFO - 2021-01-01 05:14:33 --> Language file loaded: language/english/pagination_lang.php
+INFO - 2021-01-01 05:14:33 --> Pagination Class Initialized
+INFO - 2021-01-01 05:14:33 --> Email Class Initialized
+INFO - 2021-01-01 05:14:33 --> Model "M_konfig" initialized
+INFO - 2021-01-01 05:14:33 --> Model "M_reff" initialized
+INFO - 2021-01-01 05:14:33 --> Model "M_total" initialized
+INFO - 2021-01-01 05:14:33 --> Controller Class Initialized
+DEBUG - 2021-01-01 05:14:33 --> File loaded: D:\xampp72\htdocs\app_grm\application\modules/apengumuman/models/Model.php
+INFO - 2021-01-01 11:14:33 --> Final output sent to browser
+DEBUG - 2021-01-01 11:14:33 --> Total execution time: 0.8957
+INFO - 2021-01-01 05:14:38 --> Config Class Initialized
+INFO - 2021-01-01 05:14:38 --> Hooks Class Initialized
+DEBUG - 2021-01-01 05:14:38 --> UTF-8 Support Enabled
+INFO - 2021-01-01 05:14:38 --> Utf8 Class Initialized
+INFO - 2021-01-01 05:14:38 --> URI Class Initialized
+INFO - 2021-01-01 05:14:38 --> Router Class Initialized
+INFO - 2021-01-01 05:14:38 --> Output Class Initialized
+INFO - 2021-01-01 05:14:38 --> Security Class Initialized
+DEBUG - 2021-01-01 05:14:38 --> Global POST, GET and COOKIE data sanitized
+INFO - 2021-01-01 05:14:38 --> Input Class Initialized
+INFO - 2021-01-01 05:14:38 --> Language Class Initialized
+INFO - 2021-01-01 05:14:38 --> Language Class Initialized
+INFO - 2021-01-01 05:14:38 --> Config Class Initialized
+INFO - 2021-01-01 05:14:38 --> Loader Class Initialized
+INFO - 2021-01-01 05:14:38 --> Helper loaded: url_helper
+INFO - 2021-01-01 05:14:38 --> Helper loaded: html_helper
+INFO - 2021-01-01 05:14:38 --> Helper loaded: file_helper
+INFO - 2021-01-01 05:14:38 --> Helper loaded: form_helper
+INFO - 2021-01-01 05:14:38 --> Helper loaded: security_helper
+INFO - 2021-01-01 05:14:38 --> Helper loaded: xss_helper
+INFO - 2021-01-01 05:14:38 --> Helper loaded: slug_helper
+INFO - 2021-01-01 05:14:38 --> Database Driver Class Initialized
+DEBUG - 2021-01-01 05:14:38 --> Session: "sess_save_path" is empty; using "session.save_path" value from php.ini.
+INFO - 2021-01-01 05:14:38 --> Session: Class initialized using 'files' driver.
+INFO - 2021-01-01 05:14:38 --> Language file loaded: language/english/pagination_lang.php
+INFO - 2021-01-01 05:14:38 --> Pagination Class Initialized
+INFO - 2021-01-01 05:14:38 --> Email Class Initialized
+INFO - 2021-01-01 05:14:38 --> Model "M_konfig" initialized
+INFO - 2021-01-01 05:14:38 --> Model "M_reff" initialized
+INFO - 2021-01-01 05:14:39 --> Model "M_total" initialized
+INFO - 2021-01-01 05:14:39 --> Controller Class Initialized
+DEBUG - 2021-01-01 05:14:39 --> File loaded: D:\xampp72\htdocs\app_grm\application\modules/apengumuman/models/Model.php
+INFO - 2021-01-01 11:14:39 --> Final output sent to browser
+DEBUG - 2021-01-01 11:14:39 --> Total execution time: 1.1464
+INFO - 2021-01-01 05:14:43 --> Config Class Initialized
+INFO - 2021-01-01 05:14:43 --> Hooks Class Initialized
+DEBUG - 2021-01-01 05:14:43 --> UTF-8 Support Enabled
+INFO - 2021-01-01 05:14:43 --> Utf8 Class Initialized
+INFO - 2021-01-01 05:14:43 --> URI Class Initialized
+INFO - 2021-01-01 05:14:43 --> Router Class Initialized
+INFO - 2021-01-01 05:14:43 --> Output Class Initialized
+INFO - 2021-01-01 05:14:43 --> Security Class Initialized
+DEBUG - 2021-01-01 05:14:43 --> Global POST, GET and COOKIE data sanitized
+INFO - 2021-01-01 05:14:43 --> Input Class Initialized
+INFO - 2021-01-01 05:14:43 --> Language Class Initialized
+INFO - 2021-01-01 05:14:43 --> Language Class Initialized
+INFO - 2021-01-01 05:14:43 --> Config Class Initialized
+INFO - 2021-01-01 05:14:43 --> Loader Class Initialized
+INFO - 2021-01-01 05:14:43 --> Helper loaded: url_helper
+INFO - 2021-01-01 05:14:43 --> Helper loaded: html_helper
+INFO - 2021-01-01 05:14:43 --> Helper loaded: file_helper
+INFO - 2021-01-01 05:14:43 --> Helper loaded: form_helper
+INFO - 2021-01-01 05:14:43 --> Helper loaded: security_helper
+INFO - 2021-01-01 05:14:43 --> Helper loaded: xss_helper
+INFO - 2021-01-01 05:14:43 --> Helper loaded: slug_helper
+INFO - 2021-01-01 05:14:43 --> Database Driver Class Initialized
+DEBUG - 2021-01-01 05:14:43 --> Session: "sess_save_path" is empty; using "session.save_path" value from php.ini.
+INFO - 2021-01-01 05:14:43 --> Session: Class initialized using 'files' driver.
+INFO - 2021-01-01 05:14:43 --> Language file loaded: language/english/pagination_lang.php
+INFO - 2021-01-01 05:14:43 --> Pagination Class Initialized
+INFO - 2021-01-01 05:14:43 --> Email Class Initialized
+INFO - 2021-01-01 05:14:43 --> Model "M_konfig" initialized
+INFO - 2021-01-01 05:14:43 --> Model "M_reff" initialized
+INFO - 2021-01-01 05:14:43 --> Model "M_total" initialized
+INFO - 2021-01-01 05:14:44 --> Controller Class Initialized
+DEBUG - 2021-01-01 05:14:44 --> File loaded: D:\xampp72\htdocs\app_grm\application\modules/apengumuman/models/Model.php
+INFO - 2021-01-01 11:14:44 --> Final output sent to browser
+DEBUG - 2021-01-01 11:14:44 --> Total execution time: 0.9500
+INFO - 2021-01-01 05:14:48 --> Config Class Initialized
+INFO - 2021-01-01 05:14:48 --> Hooks Class Initialized
+DEBUG - 2021-01-01 05:14:48 --> UTF-8 Support Enabled
+INFO - 2021-01-01 05:14:48 --> Utf8 Class Initialized
+INFO - 2021-01-01 05:14:48 --> URI Class Initialized
+INFO - 2021-01-01 05:14:48 --> Router Class Initialized
+INFO - 2021-01-01 05:14:48 --> Output Class Initialized
+INFO - 2021-01-01 05:14:48 --> Security Class Initialized
+DEBUG - 2021-01-01 05:14:48 --> Global POST, GET and COOKIE data sanitized
+INFO - 2021-01-01 05:14:48 --> Input Class Initialized
+INFO - 2021-01-01 05:14:48 --> Language Class Initialized
+INFO - 2021-01-01 05:14:48 --> Language Class Initialized
+INFO - 2021-01-01 05:14:48 --> Config Class Initialized
+INFO - 2021-01-01 05:14:48 --> Loader Class Initialized
+INFO - 2021-01-01 05:14:48 --> Helper loaded: url_helper
+INFO - 2021-01-01 05:14:48 --> Helper loaded: html_helper
+INFO - 2021-01-01 05:14:48 --> Helper loaded: file_helper
+INFO - 2021-01-01 05:14:48 --> Helper loaded: form_helper
+INFO - 2021-01-01 05:14:48 --> Helper loaded: security_helper
+INFO - 2021-01-01 05:14:48 --> Helper loaded: xss_helper
+INFO - 2021-01-01 05:14:48 --> Helper loaded: slug_helper
+INFO - 2021-01-01 05:14:48 --> Database Driver Class Initialized
+DEBUG - 2021-01-01 05:14:48 --> Session: "sess_save_path" is empty; using "session.save_path" value from php.ini.
+INFO - 2021-01-01 05:14:48 --> Session: Class initialized using 'files' driver.
+INFO - 2021-01-01 05:14:48 --> Language file loaded: language/english/pagination_lang.php
+INFO - 2021-01-01 05:14:48 --> Pagination Class Initialized
+INFO - 2021-01-01 05:14:48 --> Email Class Initialized
+INFO - 2021-01-01 05:14:48 --> Model "M_konfig" initialized
+INFO - 2021-01-01 05:14:48 --> Model "M_reff" initialized
+INFO - 2021-01-01 05:14:49 --> Model "M_total" initialized
+INFO - 2021-01-01 05:14:49 --> Controller Class Initialized
+DEBUG - 2021-01-01 05:14:49 --> File loaded: D:\xampp72\htdocs\app_grm\application\modules/apengumuman/models/Model.php
+INFO - 2021-01-01 11:14:49 --> Final output sent to browser
+DEBUG - 2021-01-01 11:14:49 --> Total execution time: 0.9276
+INFO - 2021-01-01 05:14:53 --> Config Class Initialized
+INFO - 2021-01-01 05:14:53 --> Hooks Class Initialized
+DEBUG - 2021-01-01 05:14:53 --> UTF-8 Support Enabled
+INFO - 2021-01-01 05:14:53 --> Utf8 Class Initialized
+INFO - 2021-01-01 05:14:53 --> URI Class Initialized
+INFO - 2021-01-01 05:14:53 --> Router Class Initialized
+INFO - 2021-01-01 05:14:53 --> Output Class Initialized
+INFO - 2021-01-01 05:14:53 --> Security Class Initialized
+DEBUG - 2021-01-01 05:14:53 --> Global POST, GET and COOKIE data sanitized
+INFO - 2021-01-01 05:14:53 --> Input Class Initialized
+INFO - 2021-01-01 05:14:53 --> Language Class Initialized
+INFO - 2021-01-01 05:14:53 --> Language Class Initialized
+INFO - 2021-01-01 05:14:53 --> Config Class Initialized
+INFO - 2021-01-01 05:14:53 --> Loader Class Initialized
+INFO - 2021-01-01 05:14:53 --> Helper loaded: url_helper
+INFO - 2021-01-01 05:14:53 --> Helper loaded: html_helper
+INFO - 2021-01-01 05:14:53 --> Helper loaded: file_helper
+INFO - 2021-01-01 05:14:53 --> Helper loaded: form_helper
+INFO - 2021-01-01 05:14:53 --> Helper loaded: security_helper
+INFO - 2021-01-01 05:14:53 --> Helper loaded: xss_helper
+INFO - 2021-01-01 05:14:53 --> Helper loaded: slug_helper
+INFO - 2021-01-01 05:14:53 --> Database Driver Class Initialized
+DEBUG - 2021-01-01 05:14:53 --> Session: "sess_save_path" is empty; using "session.save_path" value from php.ini.
+INFO - 2021-01-01 05:14:53 --> Session: Class initialized using 'files' driver.
+INFO - 2021-01-01 05:14:53 --> Language file loaded: language/english/pagination_lang.php
+INFO - 2021-01-01 05:14:53 --> Pagination Class Initialized
+INFO - 2021-01-01 05:14:53 --> Email Class Initialized
+INFO - 2021-01-01 05:14:53 --> Model "M_konfig" initialized
+INFO - 2021-01-01 05:14:54 --> Model "M_reff" initialized
+INFO - 2021-01-01 05:14:54 --> Model "M_total" initialized
+INFO - 2021-01-01 05:14:54 --> Controller Class Initialized
+DEBUG - 2021-01-01 05:14:54 --> File loaded: D:\xampp72\htdocs\app_grm\application\modules/apengumuman/models/Model.php
+INFO - 2021-01-01 11:14:54 --> Final output sent to browser
+DEBUG - 2021-01-01 11:14:54 --> Total execution time: 0.9503
+INFO - 2021-01-01 05:14:58 --> Config Class Initialized
+INFO - 2021-01-01 05:14:58 --> Hooks Class Initialized
+DEBUG - 2021-01-01 05:14:58 --> UTF-8 Support Enabled
+INFO - 2021-01-01 05:14:58 --> Utf8 Class Initialized
+INFO - 2021-01-01 05:14:58 --> URI Class Initialized
+INFO - 2021-01-01 05:14:58 --> Router Class Initialized
+INFO - 2021-01-01 05:14:58 --> Output Class Initialized
+INFO - 2021-01-01 05:14:58 --> Security Class Initialized
+DEBUG - 2021-01-01 05:14:58 --> Global POST, GET and COOKIE data sanitized
+INFO - 2021-01-01 05:14:58 --> Input Class Initialized
+INFO - 2021-01-01 05:14:58 --> Language Class Initialized
+INFO - 2021-01-01 05:14:58 --> Language Class Initialized
+INFO - 2021-01-01 05:14:58 --> Config Class Initialized
+INFO - 2021-01-01 05:14:58 --> Loader Class Initialized
+INFO - 2021-01-01 05:14:58 --> Helper loaded: url_helper
+INFO - 2021-01-01 05:14:58 --> Helper loaded: html_helper
+INFO - 2021-01-01 05:14:58 --> Helper loaded: file_helper
+INFO - 2021-01-01 05:14:58 --> Helper loaded: form_helper
+INFO - 2021-01-01 05:14:58 --> Helper loaded: security_helper
+INFO - 2021-01-01 05:14:58 --> Helper loaded: xss_helper
+INFO - 2021-01-01 05:14:58 --> Helper loaded: slug_helper
+INFO - 2021-01-01 05:14:58 --> Database Driver Class Initialized
+DEBUG - 2021-01-01 05:14:59 --> Session: "sess_save_path" is empty; using "session.save_path" value from php.ini.
+INFO - 2021-01-01 05:14:59 --> Session: Class initialized using 'files' driver.
+INFO - 2021-01-01 05:14:59 --> Language file loaded: language/english/pagination_lang.php
+INFO - 2021-01-01 05:14:59 --> Pagination Class Initialized
+INFO - 2021-01-01 05:14:59 --> Email Class Initialized
+INFO - 2021-01-01 05:14:59 --> Model "M_konfig" initialized
+INFO - 2021-01-01 05:14:59 --> Model "M_reff" initialized
+INFO - 2021-01-01 05:14:59 --> Model "M_total" initialized
+INFO - 2021-01-01 05:14:59 --> Controller Class Initialized
+DEBUG - 2021-01-01 05:14:59 --> File loaded: D:\xampp72\htdocs\app_grm\application\modules/apengumuman/models/Model.php
+ERROR - 2021-01-01 11:14:59 --> Query error: You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near '...`viewer` LIKE '%128%' ESCAPE '!'
+AND `sts` = 'Publish'' at line 3 - Invalid query: SELECT `id`
+FROM `pengumuman`
+WHERE ...`viewer` LIKE '%128%' ESCAPE '!'
+AND `sts` = 'Publish'
+INFO - 2021-01-01 11:14:59 --> Language file loaded: language/english/db_lang.php
+INFO - 2021-01-01 05:15:03 --> Config Class Initialized
+INFO - 2021-01-01 05:15:03 --> Hooks Class Initialized
+DEBUG - 2021-01-01 05:15:03 --> UTF-8 Support Enabled
+INFO - 2021-01-01 05:15:03 --> Utf8 Class Initialized
+INFO - 2021-01-01 05:15:03 --> URI Class Initialized
+INFO - 2021-01-01 05:15:03 --> Router Class Initialized
+INFO - 2021-01-01 05:15:03 --> Output Class Initialized
+INFO - 2021-01-01 05:15:03 --> Security Class Initialized
+DEBUG - 2021-01-01 05:15:03 --> Global POST, GET and COOKIE data sanitized
+INFO - 2021-01-01 05:15:03 --> Input Class Initialized
+INFO - 2021-01-01 05:15:03 --> Language Class Initialized
+INFO - 2021-01-01 05:15:03 --> Language Class Initialized
+INFO - 2021-01-01 05:15:03 --> Config Class Initialized
+INFO - 2021-01-01 05:15:03 --> Loader Class Initialized
+INFO - 2021-01-01 05:15:03 --> Helper loaded: url_helper
+INFO - 2021-01-01 05:15:03 --> Helper loaded: html_helper
+INFO - 2021-01-01 05:15:03 --> Helper loaded: file_helper
+INFO - 2021-01-01 05:15:03 --> Helper loaded: form_helper
+INFO - 2021-01-01 05:15:03 --> Helper loaded: security_helper
+INFO - 2021-01-01 05:15:03 --> Helper loaded: xss_helper
+INFO - 2021-01-01 05:15:03 --> Helper loaded: slug_helper
+INFO - 2021-01-01 05:15:04 --> Database Driver Class Initialized
+DEBUG - 2021-01-01 05:15:04 --> Session: "sess_save_path" is empty; using "session.save_path" value from php.ini.
+INFO - 2021-01-01 05:15:04 --> Session: Class initialized using 'files' driver.
+INFO - 2021-01-01 05:15:04 --> Language file loaded: language/english/pagination_lang.php
+INFO - 2021-01-01 05:15:04 --> Pagination Class Initialized
+INFO - 2021-01-01 05:15:04 --> Email Class Initialized
+INFO - 2021-01-01 05:15:04 --> Model "M_konfig" initialized
+INFO - 2021-01-01 05:15:04 --> Model "M_reff" initialized
+INFO - 2021-01-01 05:15:04 --> Model "M_total" initialized
+INFO - 2021-01-01 05:15:04 --> Controller Class Initialized
+DEBUG - 2021-01-01 05:15:04 --> File loaded: D:\xampp72\htdocs\app_grm\application\modules/apengumuman/models/Model.php
+ERROR - 2021-01-01 11:15:04 --> Query error: You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near '...`viewer` LIKE '%128%' ESCAPE '!'
+AND `sts` = 'Publish'' at line 3 - Invalid query: SELECT `id`
+FROM `pengumuman`
+WHERE ...`viewer` LIKE '%128%' ESCAPE '!'
+AND `sts` = 'Publish'
+INFO - 2021-01-01 11:15:04 --> Language file loaded: language/english/db_lang.php
+INFO - 2021-01-01 05:15:08 --> Config Class Initialized
+INFO - 2021-01-01 05:15:08 --> Hooks Class Initialized
+DEBUG - 2021-01-01 05:15:08 --> UTF-8 Support Enabled
+INFO - 2021-01-01 05:15:08 --> Utf8 Class Initialized
+INFO - 2021-01-01 05:15:08 --> URI Class Initialized
+INFO - 2021-01-01 05:15:08 --> Router Class Initialized
+INFO - 2021-01-01 05:15:08 --> Output Class Initialized
+INFO - 2021-01-01 05:15:08 --> Security Class Initialized
+DEBUG - 2021-01-01 05:15:08 --> Global POST, GET and COOKIE data sanitized
+INFO - 2021-01-01 05:15:08 --> Input Class Initialized
+INFO - 2021-01-01 05:15:08 --> Language Class Initialized
+INFO - 2021-01-01 05:15:08 --> Language Class Initialized
+INFO - 2021-01-01 05:15:08 --> Config Class Initialized
+INFO - 2021-01-01 05:15:08 --> Loader Class Initialized
+INFO - 2021-01-01 05:15:08 --> Helper loaded: url_helper
+INFO - 2021-01-01 05:15:08 --> Helper loaded: html_helper
+INFO - 2021-01-01 05:15:08 --> Helper loaded: file_helper
+INFO - 2021-01-01 05:15:08 --> Helper loaded: form_helper
+INFO - 2021-01-01 05:15:08 --> Helper loaded: security_helper
+INFO - 2021-01-01 05:15:08 --> Helper loaded: xss_helper
+INFO - 2021-01-01 05:15:08 --> Helper loaded: slug_helper
+INFO - 2021-01-01 05:15:08 --> Database Driver Class Initialized
+DEBUG - 2021-01-01 05:15:08 --> Session: "sess_save_path" is empty; using "session.save_path" value from php.ini.
+INFO - 2021-01-01 05:15:09 --> Session: Class initialized using 'files' driver.
+INFO - 2021-01-01 05:15:09 --> Language file loaded: language/english/pagination_lang.php
+INFO - 2021-01-01 05:15:09 --> Pagination Class Initialized
+INFO - 2021-01-01 05:15:09 --> Email Class Initialized
+INFO - 2021-01-01 05:15:09 --> Model "M_konfig" initialized
+INFO - 2021-01-01 05:15:09 --> Model "M_reff" initialized
+INFO - 2021-01-01 05:15:09 --> Model "M_total" initialized
+INFO - 2021-01-01 05:15:09 --> Controller Class Initialized
+DEBUG - 2021-01-01 05:15:09 --> File loaded: D:\xampp72\htdocs\app_grm\application\modules/apengumuman/models/Model.php
+ERROR - 2021-01-01 11:15:09 --> Query error: You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near '...`viewer` LIKE '%128%' ESCAPE '!'
+AND `sts` = 'Publish'' at line 3 - Invalid query: SELECT `id`
+FROM `pengumuman`
+WHERE ...`viewer` LIKE '%128%' ESCAPE '!'
+AND `sts` = 'Publish'
+INFO - 2021-01-01 11:15:09 --> Language file loaded: language/english/db_lang.php
+INFO - 2021-01-01 05:15:13 --> Config Class Initialized
+INFO - 2021-01-01 05:15:13 --> Hooks Class Initialized
+DEBUG - 2021-01-01 05:15:13 --> UTF-8 Support Enabled
+INFO - 2021-01-01 05:15:13 --> Utf8 Class Initialized
+INFO - 2021-01-01 05:15:13 --> URI Class Initialized
+INFO - 2021-01-01 05:15:13 --> Router Class Initialized
+INFO - 2021-01-01 05:15:13 --> Config Class Initialized
+INFO - 2021-01-01 05:15:13 --> Hooks Class Initialized
+DEBUG - 2021-01-01 05:15:13 --> UTF-8 Support Enabled
+INFO - 2021-01-01 05:15:13 --> Output Class Initialized
+INFO - 2021-01-01 05:15:13 --> Security Class Initialized
+DEBUG - 2021-01-01 05:15:13 --> Global POST, GET and COOKIE data sanitized
+INFO - 2021-01-01 05:15:13 --> Input Class Initialized
+INFO - 2021-01-01 05:15:13 --> Language Class Initialized
+ERROR - 2021-01-01 05:15:13 --> 404 Page Not Found: /index
+INFO - 2021-01-01 05:15:13 --> Utf8 Class Initialized
+INFO - 2021-01-01 05:15:13 --> URI Class Initialized
+INFO - 2021-01-01 05:15:13 --> Router Class Initialized
+INFO - 2021-01-01 05:15:13 --> Output Class Initialized
+INFO - 2021-01-01 05:15:13 --> Security Class Initialized
+DEBUG - 2021-01-01 05:15:13 --> Global POST, GET and COOKIE data sanitized
+INFO - 2021-01-01 05:15:13 --> Input Class Initialized
+INFO - 2021-01-01 05:15:13 --> Language Class Initialized
+INFO - 2021-01-01 05:15:13 --> Language Class Initialized
+INFO - 2021-01-01 05:15:13 --> Config Class Initialized
+INFO - 2021-01-01 05:15:13 --> Loader Class Initialized
+INFO - 2021-01-01 05:15:13 --> Helper loaded: url_helper
+INFO - 2021-01-01 05:15:13 --> Helper loaded: html_helper
+INFO - 2021-01-01 05:15:13 --> Helper loaded: file_helper
+INFO - 2021-01-01 05:15:13 --> Helper loaded: form_helper
+INFO - 2021-01-01 05:15:13 --> Helper loaded: security_helper
+INFO - 2021-01-01 05:15:13 --> Helper loaded: xss_helper
+INFO - 2021-01-01 05:15:13 --> Helper loaded: slug_helper
+INFO - 2021-01-01 05:15:14 --> Database Driver Class Initialized
+DEBUG - 2021-01-01 05:15:14 --> Session: "sess_save_path" is empty; using "session.save_path" value from php.ini.
+INFO - 2021-01-01 05:15:14 --> Session: Class initialized using 'files' driver.
+INFO - 2021-01-01 05:15:14 --> Language file loaded: language/english/pagination_lang.php
+INFO - 2021-01-01 05:15:14 --> Pagination Class Initialized
+INFO - 2021-01-01 05:15:14 --> Email Class Initialized
+INFO - 2021-01-01 05:15:14 --> Model "M_konfig" initialized
+INFO - 2021-01-01 05:15:14 --> Model "M_reff" initialized
+INFO - 2021-01-01 05:15:14 --> Model "M_total" initialized
+INFO - 2021-01-01 05:15:14 --> Controller Class Initialized
+DEBUG - 2021-01-01 05:15:14 --> File loaded: D:\xampp72\htdocs\app_grm\application\modules/apengumuman/models/Model.php
+ERROR - 2021-01-01 11:15:14 --> Query error: You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near '...`viewer` LIKE '%128%' ESCAPE '!'
+AND `sts` = 'Publish'' at line 3 - Invalid query: SELECT `id`
+FROM `pengumuman`
+WHERE ...`viewer` LIKE '%128%' ESCAPE '!'
+AND `sts` = 'Publish'
+INFO - 2021-01-01 11:15:14 --> Language file loaded: language/english/db_lang.php
+INFO - 2021-01-01 05:15:14 --> Config Class Initialized
+INFO - 2021-01-01 05:15:14 --> Hooks Class Initialized
+DEBUG - 2021-01-01 05:15:15 --> UTF-8 Support Enabled
+INFO - 2021-01-01 05:15:15 --> Utf8 Class Initialized
+INFO - 2021-01-01 05:15:15 --> URI Class Initialized
+INFO - 2021-01-01 05:15:15 --> Router Class Initialized
+INFO - 2021-01-01 05:15:15 --> Output Class Initialized
+INFO - 2021-01-01 05:15:15 --> Security Class Initialized
+DEBUG - 2021-01-01 05:15:15 --> Global POST, GET and COOKIE data sanitized
+INFO - 2021-01-01 05:15:15 --> Input Class Initialized
+INFO - 2021-01-01 05:15:15 --> Language Class Initialized
+INFO - 2021-01-01 05:15:15 --> Language Class Initialized
+INFO - 2021-01-01 05:15:15 --> Config Class Initialized
+INFO - 2021-01-01 05:15:15 --> Loader Class Initialized
+INFO - 2021-01-01 05:15:15 --> Helper loaded: url_helper
+INFO - 2021-01-01 05:15:15 --> Helper loaded: html_helper
+INFO - 2021-01-01 05:15:15 --> Helper loaded: file_helper
+INFO - 2021-01-01 05:15:15 --> Helper loaded: form_helper
+INFO - 2021-01-01 05:15:15 --> Helper loaded: security_helper
+INFO - 2021-01-01 05:15:15 --> Helper loaded: xss_helper
+INFO - 2021-01-01 05:15:15 --> Helper loaded: slug_helper
+INFO - 2021-01-01 05:15:15 --> Database Driver Class Initialized
+DEBUG - 2021-01-01 05:15:15 --> Session: "sess_save_path" is empty; using "session.save_path" value from php.ini.
+INFO - 2021-01-01 05:15:15 --> Session: Class initialized using 'files' driver.
+INFO - 2021-01-01 05:15:15 --> Language file loaded: language/english/pagination_lang.php
+INFO - 2021-01-01 05:15:15 --> Pagination Class Initialized
+INFO - 2021-01-01 05:15:15 --> Email Class Initialized
+INFO - 2021-01-01 05:15:15 --> Model "M_konfig" initialized
+INFO - 2021-01-01 05:15:16 --> Model "M_reff" initialized
+INFO - 2021-01-01 05:15:16 --> Model "M_total" initialized
+INFO - 2021-01-01 05:15:16 --> Controller Class Initialized
+DEBUG - 2021-01-01 05:15:16 --> Maps_kri MX_Controller Initialized
+DEBUG - 2021-01-01 05:15:16 --> File loaded: D:\xampp72\htdocs\app_grm\application\modules/maps_kri/models/Model.php
+DEBUG - 2021-01-01 11:15:16 --> File loaded: D:\xampp72\htdocs\app_grm\application\views\temp_maps_kri/head.php
+DEBUG - 2021-01-01 11:15:16 --> File loaded: D:\xampp72\htdocs\app_grm\application\views\temp_maps_kri/navbar.php
+DEBUG - 2021-01-01 11:15:16 --> File loaded: D:\xampp72\htdocs\app_grm\application\views\temp_maps_kri/sidebar_left.php
+DEBUG - 2021-01-01 11:15:16 --> File loaded: D:\xampp72\htdocs\app_grm\application\views\temp_maps_kri/sidebar_right.php
+DEBUG - 2021-01-01 11:15:16 --> File loaded: D:\xampp72\htdocs\app_grm\application\modules/maps_kri/views/index.php
+DEBUG - 2021-01-01 11:15:16 --> File loaded: D:\xampp72\htdocs\app_grm\application\views\temp_maps_kri/quick_bar.php
+DEBUG - 2021-01-01 11:15:16 --> File loaded: D:\xampp72\htdocs\app_grm\application\views\temp_maps_kri/toggle.php
+DEBUG - 2021-01-01 11:15:16 --> File loaded: D:\xampp72\htdocs\app_grm\application\views\temp_maps_kri/konten.php
+DEBUG - 2021-01-01 11:15:16 --> File loaded: D:\xampp72\htdocs\app_grm\application\views\temp_maps_kri/foot.php
+DEBUG - 2021-01-01 11:15:16 --> File loaded: D:\xampp72\htdocs\app_grm\application\views\temp_maps_kri/main.php
+INFO - 2021-01-01 11:15:16 --> Final output sent to browser
+DEBUG - 2021-01-01 11:15:16 --> Total execution time: 1.5039
+INFO - 2021-01-01 05:15:19 --> Config Class Initialized
+INFO - 2021-01-01 05:15:19 --> Hooks Class Initialized
+DEBUG - 2021-01-01 05:15:19 --> UTF-8 Support Enabled
+INFO - 2021-01-01 05:15:19 --> Utf8 Class Initialized
+INFO - 2021-01-01 05:15:19 --> Config Class Initialized
+INFO - 2021-01-01 05:15:19 --> Hooks Class Initialized
+DEBUG - 2021-01-01 05:15:19 --> UTF-8 Support Enabled
+INFO - 2021-01-01 05:15:19 --> URI Class Initialized
+INFO - 2021-01-01 05:15:19 --> Router Class Initialized
+INFO - 2021-01-01 05:15:19 --> Output Class Initialized
+INFO - 2021-01-01 05:15:19 --> Security Class Initialized
+DEBUG - 2021-01-01 05:15:19 --> Global POST, GET and COOKIE data sanitized
+INFO - 2021-01-01 05:15:19 --> Input Class Initialized
+INFO - 2021-01-01 05:15:19 --> Language Class Initialized
+INFO - 2021-01-01 05:15:19 --> Utf8 Class Initialized
+INFO - 2021-01-01 05:15:19 --> Language Class Initialized
+INFO - 2021-01-01 05:15:19 --> Config Class Initialized
+INFO - 2021-01-01 05:15:19 --> Loader Class Initialized
+INFO - 2021-01-01 05:15:19 --> Helper loaded: url_helper
+INFO - 2021-01-01 05:15:19 --> Helper loaded: html_helper
+INFO - 2021-01-01 05:15:19 --> Helper loaded: file_helper
+INFO - 2021-01-01 05:15:19 --> Helper loaded: form_helper
+INFO - 2021-01-01 05:15:19 --> Helper loaded: security_helper
+INFO - 2021-01-01 05:15:19 --> Helper loaded: xss_helper
+INFO - 2021-01-01 05:15:19 --> Helper loaded: slug_helper
+INFO - 2021-01-01 05:15:19 --> Database Driver Class Initialized
+DEBUG - 2021-01-01 05:15:19 --> Session: "sess_save_path" is empty; using "session.save_path" value from php.ini.
+INFO - 2021-01-01 05:15:19 --> Session: Class initialized using 'files' driver.
+INFO - 2021-01-01 05:15:19 --> URI Class Initialized
+INFO - 2021-01-01 05:15:19 --> Router Class Initialized
+INFO - 2021-01-01 05:15:19 --> Output Class Initialized
+INFO - 2021-01-01 05:15:19 --> Security Class Initialized
+DEBUG - 2021-01-01 05:15:19 --> Global POST, GET and COOKIE data sanitized
+INFO - 2021-01-01 05:15:19 --> Input Class Initialized
+INFO - 2021-01-01 05:15:19 --> Language Class Initialized
+ERROR - 2021-01-01 05:15:19 --> 404 Page Not Found: /index
+INFO - 2021-01-01 05:15:19 --> Language file loaded: language/english/pagination_lang.php
+INFO - 2021-01-01 05:15:19 --> Pagination Class Initialized
+INFO - 2021-01-01 05:15:20 --> Email Class Initialized
+INFO - 2021-01-01 05:15:20 --> Model "M_konfig" initialized
+INFO - 2021-01-01 05:15:20 --> Model "M_reff" initialized
+INFO - 2021-01-01 05:15:20 --> Model "M_total" initialized
+INFO - 2021-01-01 05:15:20 --> Controller Class Initialized
+DEBUG - 2021-01-01 05:15:20 --> File loaded: D:\xampp72\htdocs\app_grm\application\modules/apengumuman/models/Model.php
+ERROR - 2021-01-01 11:15:20 --> Query error: You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near '...`viewer` LIKE '%128%' ESCAPE '!'
+AND `sts` = 'Publish'' at line 3 - Invalid query: SELECT `id`
+FROM `pengumuman`
+WHERE ...`viewer` LIKE '%128%' ESCAPE '!'
+AND `sts` = 'Publish'
+INFO - 2021-01-01 11:15:20 --> Language file loaded: language/english/db_lang.php
+INFO - 2021-01-01 05:15:21 --> Config Class Initialized
+INFO - 2021-01-01 05:15:22 --> Hooks Class Initialized
+DEBUG - 2021-01-01 05:15:22 --> UTF-8 Support Enabled
+INFO - 2021-01-01 05:15:22 --> Utf8 Class Initialized
+INFO - 2021-01-01 05:15:22 --> URI Class Initialized
+INFO - 2021-01-01 05:15:22 --> Router Class Initialized
+INFO - 2021-01-01 05:15:22 --> Output Class Initialized
+INFO - 2021-01-01 05:15:22 --> Security Class Initialized
+DEBUG - 2021-01-01 05:15:22 --> Global POST, GET and COOKIE data sanitized
+INFO - 2021-01-01 05:15:22 --> Input Class Initialized
+INFO - 2021-01-01 05:15:22 --> Language Class Initialized
+INFO - 2021-01-01 05:15:22 --> Language Class Initialized
+INFO - 2021-01-01 05:15:22 --> Config Class Initialized
+INFO - 2021-01-01 05:15:22 --> Loader Class Initialized
+INFO - 2021-01-01 05:15:22 --> Helper loaded: url_helper
+INFO - 2021-01-01 05:15:22 --> Helper loaded: html_helper
+INFO - 2021-01-01 05:15:22 --> Helper loaded: file_helper
+INFO - 2021-01-01 05:15:22 --> Helper loaded: form_helper
+INFO - 2021-01-01 05:15:22 --> Helper loaded: security_helper
+INFO - 2021-01-01 05:15:22 --> Helper loaded: xss_helper
+INFO - 2021-01-01 05:15:22 --> Helper loaded: slug_helper
+INFO - 2021-01-01 05:15:23 --> Database Driver Class Initialized
+DEBUG - 2021-01-01 05:15:23 --> Session: "sess_save_path" is empty; using "session.save_path" value from php.ini.
+INFO - 2021-01-01 05:15:23 --> Session: Class initialized using 'files' driver.
+INFO - 2021-01-01 05:15:23 --> Language file loaded: language/english/pagination_lang.php
+INFO - 2021-01-01 05:15:23 --> Pagination Class Initialized
+INFO - 2021-01-01 05:15:23 --> Email Class Initialized
+INFO - 2021-01-01 05:15:23 --> Config Class Initialized
+INFO - 2021-01-01 05:15:23 --> Hooks Class Initialized
+DEBUG - 2021-01-01 05:15:23 --> UTF-8 Support Enabled
+INFO - 2021-01-01 05:15:23 --> Utf8 Class Initialized
+INFO - 2021-01-01 05:15:23 --> URI Class Initialized
+INFO - 2021-01-01 05:15:23 --> Router Class Initialized
+INFO - 2021-01-01 05:15:23 --> Output Class Initialized
+INFO - 2021-01-01 05:15:23 --> Security Class Initialized
+INFO - 2021-01-01 05:15:23 --> Model "M_konfig" initialized
+INFO - 2021-01-01 05:15:23 --> Model "M_reff" initialized
+INFO - 2021-01-01 05:15:23 --> Model "M_total" initialized
+INFO - 2021-01-01 05:15:23 --> Controller Class Initialized
+DEBUG - 2021-01-01 05:15:23 --> Maps_kri MX_Controller Initialized
+DEBUG - 2021-01-01 05:15:23 --> File loaded: D:\xampp72\htdocs\app_grm\application\modules/maps_kri/models/Model.php
+INFO - 2021-01-01 11:15:23 --> Final output sent to browser
+DEBUG - 2021-01-01 11:15:23 --> Total execution time: 1.3396
+DEBUG - 2021-01-01 05:15:23 --> Global POST, GET and COOKIE data sanitized
+INFO - 2021-01-01 05:15:23 --> Input Class Initialized
+INFO - 2021-01-01 05:15:23 --> Language Class Initialized
+INFO - 2021-01-01 05:15:23 --> Language Class Initialized
+INFO - 2021-01-01 05:15:23 --> Config Class Initialized
+INFO - 2021-01-01 05:15:23 --> Loader Class Initialized
+INFO - 2021-01-01 05:15:23 --> Helper loaded: url_helper
+INFO - 2021-01-01 05:15:23 --> Helper loaded: html_helper
+INFO - 2021-01-01 05:15:23 --> Helper loaded: file_helper
+INFO - 2021-01-01 05:15:23 --> Helper loaded: form_helper
+INFO - 2021-01-01 05:15:23 --> Helper loaded: security_helper
+INFO - 2021-01-01 05:15:23 --> Helper loaded: xss_helper
+INFO - 2021-01-01 05:15:23 --> Helper loaded: slug_helper
+INFO - 2021-01-01 05:15:23 --> Database Driver Class Initialized
+DEBUG - 2021-01-01 05:15:23 --> Session: "sess_save_path" is empty; using "session.save_path" value from php.ini.
+INFO - 2021-01-01 05:15:23 --> Session: Class initialized using 'files' driver.
+INFO - 2021-01-01 05:15:23 --> Language file loaded: language/english/pagination_lang.php
+INFO - 2021-01-01 05:15:23 --> Pagination Class Initialized
+INFO - 2021-01-01 05:15:23 --> Email Class Initialized
+INFO - 2021-01-01 05:15:23 --> Model "M_konfig" initialized
+INFO - 2021-01-01 05:15:24 --> Model "M_reff" initialized
+INFO - 2021-01-01 05:15:24 --> Model "M_total" initialized
+INFO - 2021-01-01 05:15:24 --> Controller Class Initialized
+DEBUG - 2021-01-01 05:15:24 --> File loaded: D:\xampp72\htdocs\app_grm\application\modules/apengumuman/models/Model.php
+ERROR - 2021-01-01 11:15:24 --> Query error: You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near '...`viewer` LIKE '%128%' ESCAPE '!'
+AND `sts` = 'Publish'' at line 3 - Invalid query: SELECT `id`
+FROM `pengumuman`
+WHERE ...`viewer` LIKE '%128%' ESCAPE '!'
+AND `sts` = 'Publish'
+INFO - 2021-01-01 11:15:24 --> Language file loaded: language/english/db_lang.php
+INFO - 2021-01-01 05:15:28 --> Config Class Initialized
+INFO - 2021-01-01 05:15:28 --> Hooks Class Initialized
+DEBUG - 2021-01-01 05:15:28 --> UTF-8 Support Enabled
+INFO - 2021-01-01 05:15:28 --> Utf8 Class Initialized
+INFO - 2021-01-01 05:15:28 --> URI Class Initialized
+INFO - 2021-01-01 05:15:28 --> Router Class Initialized
+INFO - 2021-01-01 05:15:28 --> Output Class Initialized
+INFO - 2021-01-01 05:15:28 --> Security Class Initialized
+DEBUG - 2021-01-01 05:15:28 --> Global POST, GET and COOKIE data sanitized
+INFO - 2021-01-01 05:15:28 --> Input Class Initialized
+INFO - 2021-01-01 05:15:28 --> Language Class Initialized
+INFO - 2021-01-01 05:15:28 --> Language Class Initialized
+INFO - 2021-01-01 05:15:28 --> Config Class Initialized
+INFO - 2021-01-01 05:15:28 --> Loader Class Initialized
+INFO - 2021-01-01 05:15:28 --> Helper loaded: url_helper
+INFO - 2021-01-01 05:15:28 --> Helper loaded: html_helper
+INFO - 2021-01-01 05:15:28 --> Helper loaded: file_helper
+INFO - 2021-01-01 05:15:28 --> Helper loaded: form_helper
+INFO - 2021-01-01 05:15:28 --> Helper loaded: security_helper
+INFO - 2021-01-01 05:15:28 --> Helper loaded: xss_helper
+INFO - 2021-01-01 05:15:28 --> Helper loaded: slug_helper
+INFO - 2021-01-01 05:15:29 --> Database Driver Class Initialized
+DEBUG - 2021-01-01 05:15:29 --> Session: "sess_save_path" is empty; using "session.save_path" value from php.ini.
+INFO - 2021-01-01 05:15:29 --> Session: Class initialized using 'files' driver.
+INFO - 2021-01-01 05:15:29 --> Language file loaded: language/english/pagination_lang.php
+INFO - 2021-01-01 05:15:29 --> Pagination Class Initialized
+INFO - 2021-01-01 05:15:29 --> Email Class Initialized
+INFO - 2021-01-01 05:15:29 --> Model "M_konfig" initialized
+INFO - 2021-01-01 05:15:29 --> Model "M_reff" initialized
+INFO - 2021-01-01 05:15:29 --> Model "M_total" initialized
+INFO - 2021-01-01 05:15:29 --> Controller Class Initialized
+DEBUG - 2021-01-01 05:15:29 --> File loaded: D:\xampp72\htdocs\app_grm\application\modules/apengumuman/models/Model.php
+ERROR - 2021-01-01 11:15:29 --> Query error: You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near '...`viewer` LIKE '%128%' ESCAPE '!'
+AND `sts` = 'Publish'' at line 3 - Invalid query: SELECT `id`
+FROM `pengumuman`
+WHERE ...`viewer` LIKE '%128%' ESCAPE '!'
+AND `sts` = 'Publish'
+INFO - 2021-01-01 11:15:29 --> Language file loaded: language/english/db_lang.php
+INFO - 2021-01-01 05:15:33 --> Config Class Initialized
+INFO - 2021-01-01 05:15:33 --> Hooks Class Initialized
+DEBUG - 2021-01-01 05:15:33 --> UTF-8 Support Enabled
+INFO - 2021-01-01 05:15:33 --> Utf8 Class Initialized
+INFO - 2021-01-01 05:15:33 --> URI Class Initialized
+INFO - 2021-01-01 05:15:33 --> Router Class Initialized
+INFO - 2021-01-01 05:15:33 --> Output Class Initialized
+INFO - 2021-01-01 05:15:33 --> Security Class Initialized
+DEBUG - 2021-01-01 05:15:33 --> Global POST, GET and COOKIE data sanitized
+INFO - 2021-01-01 05:15:33 --> Input Class Initialized
+INFO - 2021-01-01 05:15:33 --> Language Class Initialized
+INFO - 2021-01-01 05:15:33 --> Language Class Initialized
+INFO - 2021-01-01 05:15:33 --> Config Class Initialized
+INFO - 2021-01-01 05:15:33 --> Loader Class Initialized
+INFO - 2021-01-01 05:15:33 --> Helper loaded: url_helper
+INFO - 2021-01-01 05:15:33 --> Helper loaded: html_helper
+INFO - 2021-01-01 05:15:33 --> Helper loaded: file_helper
+INFO - 2021-01-01 05:15:33 --> Helper loaded: form_helper
+INFO - 2021-01-01 05:15:33 --> Helper loaded: security_helper
+INFO - 2021-01-01 05:15:33 --> Helper loaded: xss_helper
+INFO - 2021-01-01 05:15:33 --> Helper loaded: slug_helper
+INFO - 2021-01-01 05:15:33 --> Database Driver Class Initialized
+DEBUG - 2021-01-01 05:15:34 --> Session: "sess_save_path" is empty; using "session.save_path" value from php.ini.
+INFO - 2021-01-01 05:15:34 --> Session: Class initialized using 'files' driver.
+INFO - 2021-01-01 05:15:34 --> Language file loaded: language/english/pagination_lang.php
+INFO - 2021-01-01 05:15:34 --> Pagination Class Initialized
+INFO - 2021-01-01 05:15:34 --> Email Class Initialized
+INFO - 2021-01-01 05:15:34 --> Model "M_konfig" initialized
+INFO - 2021-01-01 05:15:34 --> Model "M_reff" initialized
+INFO - 2021-01-01 05:15:34 --> Model "M_total" initialized
+INFO - 2021-01-01 05:15:34 --> Controller Class Initialized
+DEBUG - 2021-01-01 05:15:34 --> File loaded: D:\xampp72\htdocs\app_grm\application\modules/apengumuman/models/Model.php
+ERROR - 2021-01-01 11:15:34 --> Query error: You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near '...`viewer` LIKE '%128%' ESCAPE '!'
+AND `sts` = 'Publish'' at line 3 - Invalid query: SELECT `id`
+FROM `pengumuman`
+WHERE ...`viewer` LIKE '%128%' ESCAPE '!'
+AND `sts` = 'Publish'
+INFO - 2021-01-01 11:15:34 --> Language file loaded: language/english/db_lang.php
+INFO - 2021-01-01 05:15:38 --> Config Class Initialized
+INFO - 2021-01-01 05:15:38 --> Hooks Class Initialized
+DEBUG - 2021-01-01 05:15:38 --> UTF-8 Support Enabled
+INFO - 2021-01-01 05:15:38 --> Utf8 Class Initialized
+INFO - 2021-01-01 05:15:38 --> URI Class Initialized
+INFO - 2021-01-01 05:15:38 --> Router Class Initialized
+INFO - 2021-01-01 05:15:38 --> Output Class Initialized
+INFO - 2021-01-01 05:15:38 --> Security Class Initialized
+DEBUG - 2021-01-01 05:15:38 --> Global POST, GET and COOKIE data sanitized
+INFO - 2021-01-01 05:15:38 --> Input Class Initialized
+INFO - 2021-01-01 05:15:38 --> Language Class Initialized
+INFO - 2021-01-01 05:15:38 --> Language Class Initialized
+INFO - 2021-01-01 05:15:38 --> Config Class Initialized
+INFO - 2021-01-01 05:15:38 --> Loader Class Initialized
+INFO - 2021-01-01 05:15:38 --> Helper loaded: url_helper
+INFO - 2021-01-01 05:15:38 --> Helper loaded: html_helper
+INFO - 2021-01-01 05:15:38 --> Helper loaded: file_helper
+INFO - 2021-01-01 05:15:38 --> Helper loaded: form_helper
+INFO - 2021-01-01 05:15:38 --> Helper loaded: security_helper
+INFO - 2021-01-01 05:15:38 --> Helper loaded: xss_helper
+INFO - 2021-01-01 05:15:38 --> Helper loaded: slug_helper
+INFO - 2021-01-01 05:15:38 --> Database Driver Class Initialized
+DEBUG - 2021-01-01 05:15:39 --> Session: "sess_save_path" is empty; using "session.save_path" value from php.ini.
+INFO - 2021-01-01 05:15:39 --> Session: Class initialized using 'files' driver.
+INFO - 2021-01-01 05:15:39 --> Language file loaded: language/english/pagination_lang.php
+INFO - 2021-01-01 05:15:39 --> Pagination Class Initialized
+INFO - 2021-01-01 05:15:39 --> Email Class Initialized
+INFO - 2021-01-01 05:15:39 --> Model "M_konfig" initialized
+INFO - 2021-01-01 05:15:39 --> Model "M_reff" initialized
+INFO - 2021-01-01 05:15:39 --> Model "M_total" initialized
+INFO - 2021-01-01 05:15:39 --> Controller Class Initialized
+DEBUG - 2021-01-01 05:15:39 --> File loaded: D:\xampp72\htdocs\app_grm\application\modules/apengumuman/models/Model.php
+ERROR - 2021-01-01 11:15:39 --> Query error: You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near '...`viewer` LIKE '%128%' ESCAPE '!'
+AND `sts` = 'Publish'' at line 3 - Invalid query: SELECT `id`
+FROM `pengumuman`
+WHERE ...`viewer` LIKE '%128%' ESCAPE '!'
+AND `sts` = 'Publish'
+INFO - 2021-01-01 11:15:39 --> Language file loaded: language/english/db_lang.php
+INFO - 2021-01-01 05:15:43 --> Config Class Initialized
+INFO - 2021-01-01 05:15:43 --> Hooks Class Initialized
+DEBUG - 2021-01-01 05:15:43 --> UTF-8 Support Enabled
+INFO - 2021-01-01 05:15:43 --> Utf8 Class Initialized
+INFO - 2021-01-01 05:15:43 --> URI Class Initialized
+INFO - 2021-01-01 05:15:43 --> Router Class Initialized
+INFO - 2021-01-01 05:15:43 --> Output Class Initialized
+INFO - 2021-01-01 05:15:43 --> Security Class Initialized
+DEBUG - 2021-01-01 05:15:43 --> Global POST, GET and COOKIE data sanitized
+INFO - 2021-01-01 05:15:43 --> Input Class Initialized
+INFO - 2021-01-01 05:15:43 --> Language Class Initialized
+INFO - 2021-01-01 05:15:43 --> Language Class Initialized
+INFO - 2021-01-01 05:15:43 --> Config Class Initialized
+INFO - 2021-01-01 05:15:43 --> Loader Class Initialized
+INFO - 2021-01-01 05:15:43 --> Helper loaded: url_helper
+INFO - 2021-01-01 05:15:43 --> Helper loaded: html_helper
+INFO - 2021-01-01 05:15:43 --> Helper loaded: file_helper
+INFO - 2021-01-01 05:15:43 --> Helper loaded: form_helper
+INFO - 2021-01-01 05:15:44 --> Helper loaded: security_helper
+INFO - 2021-01-01 05:15:44 --> Helper loaded: xss_helper
+INFO - 2021-01-01 05:15:44 --> Helper loaded: slug_helper
+INFO - 2021-01-01 05:15:44 --> Database Driver Class Initialized
+DEBUG - 2021-01-01 05:15:44 --> Session: "sess_save_path" is empty; using "session.save_path" value from php.ini.
+INFO - 2021-01-01 05:15:44 --> Session: Class initialized using 'files' driver.
+INFO - 2021-01-01 05:15:44 --> Language file loaded: language/english/pagination_lang.php
+INFO - 2021-01-01 05:15:44 --> Pagination Class Initialized
+INFO - 2021-01-01 05:15:44 --> Email Class Initialized
+INFO - 2021-01-01 05:15:44 --> Model "M_konfig" initialized
+INFO - 2021-01-01 05:15:44 --> Model "M_reff" initialized
+INFO - 2021-01-01 05:15:44 --> Model "M_total" initialized
+INFO - 2021-01-01 05:15:44 --> Controller Class Initialized
+DEBUG - 2021-01-01 05:15:44 --> File loaded: D:\xampp72\htdocs\app_grm\application\modules/apengumuman/models/Model.php
+INFO - 2021-01-01 11:15:44 --> Final output sent to browser
+DEBUG - 2021-01-01 11:15:44 --> Total execution time: 1.3301
+INFO - 2021-01-01 05:15:45 --> Config Class Initialized
+INFO - 2021-01-01 05:15:45 --> Hooks Class Initialized
+DEBUG - 2021-01-01 05:15:45 --> UTF-8 Support Enabled
+INFO - 2021-01-01 05:15:45 --> Utf8 Class Initialized
+INFO - 2021-01-01 05:15:45 --> URI Class Initialized
+INFO - 2021-01-01 05:15:45 --> Router Class Initialized
+INFO - 2021-01-01 05:15:45 --> Output Class Initialized
+INFO - 2021-01-01 05:15:45 --> Security Class Initialized
+DEBUG - 2021-01-01 05:15:45 --> Global POST, GET and COOKIE data sanitized
+INFO - 2021-01-01 05:15:45 --> Input Class Initialized
+INFO - 2021-01-01 05:15:45 --> Language Class Initialized
+INFO - 2021-01-01 05:15:45 --> Language Class Initialized
+INFO - 2021-01-01 05:15:45 --> Config Class Initialized
+INFO - 2021-01-01 05:15:45 --> Loader Class Initialized
+INFO - 2021-01-01 05:15:45 --> Helper loaded: url_helper
+INFO - 2021-01-01 05:15:45 --> Helper loaded: html_helper
+INFO - 2021-01-01 05:15:45 --> Helper loaded: file_helper
+INFO - 2021-01-01 05:15:45 --> Helper loaded: form_helper
+INFO - 2021-01-01 05:15:45 --> Helper loaded: security_helper
+INFO - 2021-01-01 05:15:45 --> Helper loaded: xss_helper
+INFO - 2021-01-01 05:15:45 --> Helper loaded: slug_helper
+INFO - 2021-01-01 05:15:45 --> Database Driver Class Initialized
+DEBUG - 2021-01-01 05:15:46 --> Session: "sess_save_path" is empty; using "session.save_path" value from php.ini.
+INFO - 2021-01-01 05:15:46 --> Session: Class initialized using 'files' driver.
+INFO - 2021-01-01 05:15:46 --> Language file loaded: language/english/pagination_lang.php
+INFO - 2021-01-01 05:15:46 --> Pagination Class Initialized
+INFO - 2021-01-01 05:15:46 --> Email Class Initialized
+INFO - 2021-01-01 05:15:46 --> Model "M_konfig" initialized
+INFO - 2021-01-01 05:15:46 --> Model "M_reff" initialized
+INFO - 2021-01-01 05:15:46 --> Model "M_total" initialized
+INFO - 2021-01-01 05:15:46 --> Controller Class Initialized
+DEBUG - 2021-01-01 05:15:46 --> Maps_kri MX_Controller Initialized
+DEBUG - 2021-01-01 05:15:46 --> File loaded: D:\xampp72\htdocs\app_grm\application\modules/maps_kri/models/Model.php
+DEBUG - 2021-01-01 11:15:46 --> File loaded: D:\xampp72\htdocs\app_grm\application\views\temp_maps_kri/head.php
+DEBUG - 2021-01-01 11:15:46 --> File loaded: D:\xampp72\htdocs\app_grm\application\views\temp_maps_kri/navbar.php
+DEBUG - 2021-01-01 11:15:46 --> File loaded: D:\xampp72\htdocs\app_grm\application\views\temp_maps_kri/sidebar_left.php
+DEBUG - 2021-01-01 11:15:46 --> File loaded: D:\xampp72\htdocs\app_grm\application\views\temp_maps_kri/sidebar_right.php
+DEBUG - 2021-01-01 11:15:46 --> File loaded: D:\xampp72\htdocs\app_grm\application\modules/maps_kri/views/index.php
+DEBUG - 2021-01-01 11:15:46 --> File loaded: D:\xampp72\htdocs\app_grm\application\views\temp_maps_kri/quick_bar.php
+DEBUG - 2021-01-01 11:15:46 --> File loaded: D:\xampp72\htdocs\app_grm\application\views\temp_maps_kri/toggle.php
+DEBUG - 2021-01-01 11:15:46 --> File loaded: D:\xampp72\htdocs\app_grm\application\views\temp_maps_kri/konten.php
+DEBUG - 2021-01-01 11:15:46 --> File loaded: D:\xampp72\htdocs\app_grm\application\views\temp_maps_kri/foot.php
+DEBUG - 2021-01-01 11:15:46 --> File loaded: D:\xampp72\htdocs\app_grm\application\views\temp_maps_kri/main.php
+INFO - 2021-01-01 11:15:46 --> Final output sent to browser
+DEBUG - 2021-01-01 11:15:46 --> Total execution time: 1.6151
+INFO - 2021-01-01 05:15:48 --> Config Class Initialized
+INFO - 2021-01-01 05:15:48 --> Hooks Class Initialized
+DEBUG - 2021-01-01 05:15:48 --> UTF-8 Support Enabled
+INFO - 2021-01-01 05:15:48 --> Utf8 Class Initialized
+INFO - 2021-01-01 05:15:48 --> URI Class Initialized
+INFO - 2021-01-01 05:15:48 --> Router Class Initialized
+INFO - 2021-01-01 05:15:48 --> Output Class Initialized
+INFO - 2021-01-01 05:15:48 --> Security Class Initialized
+DEBUG - 2021-01-01 05:15:48 --> Global POST, GET and COOKIE data sanitized
+INFO - 2021-01-01 05:15:48 --> Input Class Initialized
+INFO - 2021-01-01 05:15:48 --> Language Class Initialized
+INFO - 2021-01-01 05:15:48 --> Language Class Initialized
+INFO - 2021-01-01 05:15:48 --> Config Class Initialized
+INFO - 2021-01-01 05:15:48 --> Loader Class Initialized
+INFO - 2021-01-01 05:15:48 --> Helper loaded: url_helper
+INFO - 2021-01-01 05:15:48 --> Helper loaded: html_helper
+INFO - 2021-01-01 05:15:48 --> Helper loaded: file_helper
+INFO - 2021-01-01 05:15:48 --> Helper loaded: form_helper
+INFO - 2021-01-01 05:15:48 --> Helper loaded: security_helper
+INFO - 2021-01-01 05:15:48 --> Helper loaded: xss_helper
+INFO - 2021-01-01 05:15:48 --> Helper loaded: slug_helper
+INFO - 2021-01-01 05:15:48 --> Database Driver Class Initialized
+DEBUG - 2021-01-01 05:15:48 --> Session: "sess_save_path" is empty; using "session.save_path" value from php.ini.
+INFO - 2021-01-01 05:15:48 --> Session: Class initialized using 'files' driver.
+INFO - 2021-01-01 05:15:48 --> Language file loaded: language/english/pagination_lang.php
+INFO - 2021-01-01 05:15:49 --> Pagination Class Initialized
+INFO - 2021-01-01 05:15:49 --> Email Class Initialized
+INFO - 2021-01-01 05:15:49 --> Model "M_konfig" initialized
+INFO - 2021-01-01 05:15:49 --> Model "M_reff" initialized
+INFO - 2021-01-01 05:15:49 --> Model "M_total" initialized
+INFO - 2021-01-01 05:15:49 --> Controller Class Initialized
+DEBUG - 2021-01-01 05:15:49 --> File loaded: D:\xampp72\htdocs\app_grm\application\modules/apengumuman/models/Model.php
+INFO - 2021-01-01 11:15:49 --> Final output sent to browser
+DEBUG - 2021-01-01 11:15:49 --> Total execution time: 1.3791
+INFO - 2021-01-01 05:15:49 --> Config Class Initialized
+INFO - 2021-01-01 05:15:49 --> Hooks Class Initialized
+DEBUG - 2021-01-01 05:15:50 --> UTF-8 Support Enabled
+INFO - 2021-01-01 05:15:50 --> Utf8 Class Initialized
+INFO - 2021-01-01 05:15:50 --> URI Class Initialized
+INFO - 2021-01-01 05:15:50 --> Router Class Initialized
+INFO - 2021-01-01 05:15:50 --> Output Class Initialized
+INFO - 2021-01-01 05:15:50 --> Security Class Initialized
+DEBUG - 2021-01-01 05:15:50 --> Global POST, GET and COOKIE data sanitized
+INFO - 2021-01-01 05:15:50 --> Input Class Initialized
+INFO - 2021-01-01 05:15:50 --> Language Class Initialized
+INFO - 2021-01-01 05:15:50 --> Language Class Initialized
+INFO - 2021-01-01 05:15:50 --> Config Class Initialized
+INFO - 2021-01-01 05:15:50 --> Loader Class Initialized
+INFO - 2021-01-01 05:15:50 --> Helper loaded: url_helper
+INFO - 2021-01-01 05:15:50 --> Helper loaded: html_helper
+INFO - 2021-01-01 05:15:50 --> Helper loaded: file_helper
+INFO - 2021-01-01 05:15:50 --> Helper loaded: form_helper
+INFO - 2021-01-01 05:15:50 --> Helper loaded: security_helper
+INFO - 2021-01-01 05:15:50 --> Helper loaded: xss_helper
+INFO - 2021-01-01 05:15:50 --> Helper loaded: slug_helper
+INFO - 2021-01-01 05:15:50 --> Database Driver Class Initialized
+DEBUG - 2021-01-01 05:15:50 --> Session: "sess_save_path" is empty; using "session.save_path" value from php.ini.
+INFO - 2021-01-01 05:15:51 --> Session: Class initialized using 'files' driver.
+INFO - 2021-01-01 05:15:51 --> Language file loaded: language/english/pagination_lang.php
+INFO - 2021-01-01 05:15:51 --> Pagination Class Initialized
+INFO - 2021-01-01 05:15:51 --> Email Class Initialized
+INFO - 2021-01-01 05:15:51 --> Model "M_konfig" initialized
+INFO - 2021-01-01 05:15:51 --> Config Class Initialized
+INFO - 2021-01-01 05:15:51 --> Hooks Class Initialized
+DEBUG - 2021-01-01 05:15:51 --> UTF-8 Support Enabled
+INFO - 2021-01-01 05:15:51 --> Utf8 Class Initialized
+INFO - 2021-01-01 05:15:51 --> URI Class Initialized
+INFO - 2021-01-01 05:15:51 --> Router Class Initialized
+INFO - 2021-01-01 05:15:51 --> Output Class Initialized
+INFO - 2021-01-01 05:15:51 --> Security Class Initialized
+DEBUG - 2021-01-01 05:15:51 --> Global POST, GET and COOKIE data sanitized
+INFO - 2021-01-01 05:15:51 --> Input Class Initialized
+INFO - 2021-01-01 05:15:51 --> Language Class Initialized
+INFO - 2021-01-01 05:15:51 --> Language Class Initialized
+INFO - 2021-01-01 05:15:51 --> Config Class Initialized
+INFO - 2021-01-01 05:15:51 --> Loader Class Initialized
+INFO - 2021-01-01 05:15:51 --> Helper loaded: url_helper
+INFO - 2021-01-01 05:15:51 --> Helper loaded: html_helper
+INFO - 2021-01-01 05:15:51 --> Helper loaded: file_helper
+INFO - 2021-01-01 05:15:51 --> Helper loaded: form_helper
+INFO - 2021-01-01 05:15:51 --> Helper loaded: security_helper
+INFO - 2021-01-01 05:15:51 --> Helper loaded: xss_helper
+INFO - 2021-01-01 05:15:51 --> Helper loaded: slug_helper
+INFO - 2021-01-01 05:15:51 --> Model "M_reff" initialized
+INFO - 2021-01-01 05:15:51 --> Database Driver Class Initialized
+DEBUG - 2021-01-01 05:15:51 --> Session: "sess_save_path" is empty; using "session.save_path" value from php.ini.
+INFO - 2021-01-01 05:15:51 --> Model "M_total" initialized
+INFO - 2021-01-01 05:15:51 --> Controller Class Initialized
+DEBUG - 2021-01-01 05:15:51 --> Maps_kri MX_Controller Initialized
+DEBUG - 2021-01-01 05:15:51 --> File loaded: D:\xampp72\htdocs\app_grm\application\modules/maps_kri/models/Model.php
+INFO - 2021-01-01 11:15:51 --> Final output sent to browser
+DEBUG - 2021-01-01 11:15:51 --> Total execution time: 1.4765
+INFO - 2021-01-01 05:15:51 --> Session: Class initialized using 'files' driver.
+INFO - 2021-01-01 05:15:51 --> Language file loaded: language/english/pagination_lang.php
+INFO - 2021-01-01 05:15:51 --> Pagination Class Initialized
+INFO - 2021-01-01 05:15:51 --> Email Class Initialized
+INFO - 2021-01-01 05:15:51 --> Model "M_konfig" initialized
+INFO - 2021-01-01 05:15:51 --> Model "M_reff" initialized
+INFO - 2021-01-01 05:15:51 --> Model "M_total" initialized
+INFO - 2021-01-01 05:15:51 --> Controller Class Initialized
+DEBUG - 2021-01-01 05:15:51 --> File loaded: D:\xampp72\htdocs\app_grm\application\modules/apengumuman/models/Model.php
+DEBUG - 2021-01-01 11:15:51 --> File loaded: D:\xampp72\htdocs\app_grm\application\modules/apengumuman/views/pengumuman.php
+INFO - 2021-01-01 11:15:51 --> Final output sent to browser
+DEBUG - 2021-01-01 11:15:51 --> Total execution time: 0.7180
+INFO - 2021-01-01 05:15:52 --> Config Class Initialized
+INFO - 2021-01-01 05:15:52 --> Hooks Class Initialized
+DEBUG - 2021-01-01 05:15:52 --> UTF-8 Support Enabled
+INFO - 2021-01-01 05:15:52 --> Utf8 Class Initialized
+INFO - 2021-01-01 05:15:52 --> URI Class Initialized
+INFO - 2021-01-01 05:15:52 --> Router Class Initialized
+INFO - 2021-01-01 05:15:52 --> Output Class Initialized
+INFO - 2021-01-01 05:15:52 --> Security Class Initialized
+DEBUG - 2021-01-01 05:15:52 --> Global POST, GET and COOKIE data sanitized
+INFO - 2021-01-01 05:15:52 --> Input Class Initialized
+INFO - 2021-01-01 05:15:52 --> Language Class Initialized
+INFO - 2021-01-01 05:15:52 --> Language Class Initialized
+INFO - 2021-01-01 05:15:52 --> Config Class Initialized
+INFO - 2021-01-01 05:15:52 --> Loader Class Initialized
+INFO - 2021-01-01 05:15:52 --> Helper loaded: url_helper
+INFO - 2021-01-01 05:15:52 --> Helper loaded: html_helper
+INFO - 2021-01-01 05:15:52 --> Helper loaded: file_helper
+INFO - 2021-01-01 05:15:52 --> Config Class Initialized
+INFO - 2021-01-01 05:15:52 --> Hooks Class Initialized
+DEBUG - 2021-01-01 05:15:52 --> UTF-8 Support Enabled
+INFO - 2021-01-01 05:15:52 --> Utf8 Class Initialized
+INFO - 2021-01-01 05:15:52 --> URI Class Initialized
+INFO - 2021-01-01 05:15:52 --> Router Class Initialized
+INFO - 2021-01-01 05:15:52 --> Output Class Initialized
+INFO - 2021-01-01 05:15:52 --> Security Class Initialized
+DEBUG - 2021-01-01 05:15:52 --> Global POST, GET and COOKIE data sanitized
+INFO - 2021-01-01 05:15:52 --> Input Class Initialized
+INFO - 2021-01-01 05:15:52 --> Language Class Initialized
+INFO - 2021-01-01 05:15:52 --> Helper loaded: form_helper
+INFO - 2021-01-01 05:15:52 --> Helper loaded: security_helper
+INFO - 2021-01-01 05:15:52 --> Helper loaded: xss_helper
+INFO - 2021-01-01 05:15:52 --> Helper loaded: slug_helper
+INFO - 2021-01-01 05:15:52 --> Database Driver Class Initialized
+DEBUG - 2021-01-01 05:15:52 --> Session: "sess_save_path" is empty; using "session.save_path" value from php.ini.
+INFO - 2021-01-01 05:15:52 --> Session: Class initialized using 'files' driver.
+INFO - 2021-01-01 05:15:52 --> Language file loaded: language/english/pagination_lang.php
+INFO - 2021-01-01 05:15:52 --> Pagination Class Initialized
+INFO - 2021-01-01 05:15:52 --> Email Class Initialized
+INFO - 2021-01-01 05:15:52 --> Model "M_konfig" initialized
+INFO - 2021-01-01 05:15:52 --> Model "M_reff" initialized
+INFO - 2021-01-01 05:15:52 --> Model "M_total" initialized
+INFO - 2021-01-01 05:15:52 --> Controller Class Initialized
+DEBUG - 2021-01-01 05:15:52 --> File loaded: D:\xampp72\htdocs\app_grm\application\modules/apengumuman/models/Model.php
+INFO - 2021-01-01 05:15:52 --> Language Class Initialized
+INFO - 2021-01-01 05:15:52 --> Config Class Initialized
+INFO - 2021-01-01 05:15:52 --> Loader Class Initialized
+INFO - 2021-01-01 05:15:52 --> Helper loaded: url_helper
+INFO - 2021-01-01 05:15:52 --> Helper loaded: html_helper
+INFO - 2021-01-01 05:15:52 --> Helper loaded: file_helper
+INFO - 2021-01-01 05:15:52 --> Helper loaded: form_helper
+INFO - 2021-01-01 05:15:52 --> Helper loaded: security_helper
+INFO - 2021-01-01 05:15:52 --> Helper loaded: xss_helper
+INFO - 2021-01-01 05:15:52 --> Helper loaded: slug_helper
+INFO - 2021-01-01 05:15:52 --> Database Driver Class Initialized
+INFO - 2021-01-01 11:15:52 --> Final output sent to browser
+DEBUG - 2021-01-01 05:15:52 --> Session: "sess_save_path" is empty; using "session.save_path" value from php.ini.
+DEBUG - 2021-01-01 11:15:52 --> Total execution time: 0.6546
+INFO - 2021-01-01 05:15:52 --> Session: Class initialized using 'files' driver.
+INFO - 2021-01-01 05:15:52 --> Language file loaded: language/english/pagination_lang.php
+INFO - 2021-01-01 05:15:52 --> Pagination Class Initialized
+INFO - 2021-01-01 05:15:52 --> Email Class Initialized
+INFO - 2021-01-01 05:15:52 --> Model "M_konfig" initialized
+INFO - 2021-01-01 05:15:52 --> Model "M_reff" initialized
+INFO - 2021-01-01 05:15:52 --> Model "M_total" initialized
+INFO - 2021-01-01 05:15:53 --> Controller Class Initialized
+DEBUG - 2021-01-01 05:15:53 --> File loaded: D:\xampp72\htdocs\app_grm\application\modules/apengumuman/models/Model.php
+INFO - 2021-01-01 11:15:53 --> Final output sent to browser
+DEBUG - 2021-01-01 11:15:53 --> Total execution time: 0.4732
+INFO - 2021-01-01 05:15:57 --> Config Class Initialized
+INFO - 2021-01-01 05:15:57 --> Hooks Class Initialized
+DEBUG - 2021-01-01 05:15:57 --> UTF-8 Support Enabled
+INFO - 2021-01-01 05:15:57 --> Utf8 Class Initialized
+INFO - 2021-01-01 05:15:57 --> URI Class Initialized
+INFO - 2021-01-01 05:15:57 --> Router Class Initialized
+INFO - 2021-01-01 05:15:57 --> Output Class Initialized
+INFO - 2021-01-01 05:15:57 --> Security Class Initialized
+DEBUG - 2021-01-01 05:15:57 --> Global POST, GET and COOKIE data sanitized
+INFO - 2021-01-01 05:15:57 --> Input Class Initialized
+INFO - 2021-01-01 05:15:57 --> Language Class Initialized
+INFO - 2021-01-01 05:15:57 --> Language Class Initialized
+INFO - 2021-01-01 05:15:57 --> Config Class Initialized
+INFO - 2021-01-01 05:15:57 --> Loader Class Initialized
+INFO - 2021-01-01 05:15:58 --> Helper loaded: url_helper
+INFO - 2021-01-01 05:15:58 --> Helper loaded: html_helper
+INFO - 2021-01-01 05:15:58 --> Helper loaded: file_helper
+INFO - 2021-01-01 05:15:58 --> Helper loaded: form_helper
+INFO - 2021-01-01 05:15:58 --> Helper loaded: security_helper
+INFO - 2021-01-01 05:15:58 --> Helper loaded: xss_helper
+INFO - 2021-01-01 05:15:58 --> Helper loaded: slug_helper
+INFO - 2021-01-01 05:15:58 --> Database Driver Class Initialized
+DEBUG - 2021-01-01 05:15:58 --> Session: "sess_save_path" is empty; using "session.save_path" value from php.ini.
+INFO - 2021-01-01 05:15:58 --> Session: Class initialized using 'files' driver.
+INFO - 2021-01-01 05:15:58 --> Language file loaded: language/english/pagination_lang.php
+INFO - 2021-01-01 05:15:58 --> Pagination Class Initialized
+INFO - 2021-01-01 05:15:58 --> Email Class Initialized
+INFO - 2021-01-01 05:15:58 --> Model "M_konfig" initialized
+INFO - 2021-01-01 05:15:58 --> Model "M_reff" initialized
+INFO - 2021-01-01 05:15:58 --> Model "M_total" initialized
+INFO - 2021-01-01 05:15:58 --> Controller Class Initialized
+DEBUG - 2021-01-01 05:15:58 --> File loaded: D:\xampp72\htdocs\app_grm\application\modules/apengumuman/models/Model.php
+INFO - 2021-01-01 11:15:58 --> Final output sent to browser
+DEBUG - 2021-01-01 11:15:58 --> Total execution time: 0.9323
+INFO - 2021-01-01 05:16:02 --> Config Class Initialized
+INFO - 2021-01-01 05:16:02 --> Hooks Class Initialized
+DEBUG - 2021-01-01 05:16:02 --> UTF-8 Support Enabled
+INFO - 2021-01-01 05:16:02 --> Utf8 Class Initialized
+INFO - 2021-01-01 05:16:02 --> URI Class Initialized
+INFO - 2021-01-01 05:16:02 --> Router Class Initialized
+INFO - 2021-01-01 05:16:02 --> Output Class Initialized
+INFO - 2021-01-01 05:16:02 --> Security Class Initialized
+DEBUG - 2021-01-01 05:16:02 --> Global POST, GET and COOKIE data sanitized
+INFO - 2021-01-01 05:16:02 --> Input Class Initialized
+INFO - 2021-01-01 05:16:02 --> Language Class Initialized
+INFO - 2021-01-01 05:16:02 --> Language Class Initialized
+INFO - 2021-01-01 05:16:02 --> Config Class Initialized
+INFO - 2021-01-01 05:16:02 --> Loader Class Initialized
+INFO - 2021-01-01 05:16:03 --> Helper loaded: url_helper
+INFO - 2021-01-01 05:16:03 --> Helper loaded: html_helper
+INFO - 2021-01-01 05:16:03 --> Helper loaded: file_helper
+INFO - 2021-01-01 05:16:03 --> Helper loaded: form_helper
+INFO - 2021-01-01 05:16:03 --> Helper loaded: security_helper
+INFO - 2021-01-01 05:16:03 --> Helper loaded: xss_helper
+INFO - 2021-01-01 05:16:03 --> Helper loaded: slug_helper
+INFO - 2021-01-01 05:16:03 --> Database Driver Class Initialized
+DEBUG - 2021-01-01 05:16:03 --> Session: "sess_save_path" is empty; using "session.save_path" value from php.ini.
+INFO - 2021-01-01 05:16:03 --> Session: Class initialized using 'files' driver.
+INFO - 2021-01-01 05:16:03 --> Language file loaded: language/english/pagination_lang.php
+INFO - 2021-01-01 05:16:03 --> Pagination Class Initialized
+INFO - 2021-01-01 05:16:03 --> Email Class Initialized
+INFO - 2021-01-01 05:16:03 --> Model "M_konfig" initialized
+INFO - 2021-01-01 05:16:03 --> Model "M_reff" initialized
+INFO - 2021-01-01 05:16:03 --> Model "M_total" initialized
+INFO - 2021-01-01 05:16:03 --> Controller Class Initialized
+DEBUG - 2021-01-01 05:16:03 --> File loaded: D:\xampp72\htdocs\app_grm\application\modules/apengumuman/models/Model.php
+INFO - 2021-01-01 11:16:03 --> Final output sent to browser
+DEBUG - 2021-01-01 11:16:03 --> Total execution time: 0.9663
+INFO - 2021-01-01 05:16:07 --> Config Class Initialized
+INFO - 2021-01-01 05:16:07 --> Hooks Class Initialized
+DEBUG - 2021-01-01 05:16:07 --> UTF-8 Support Enabled
+INFO - 2021-01-01 05:16:07 --> Utf8 Class Initialized
+INFO - 2021-01-01 05:16:07 --> URI Class Initialized
+INFO - 2021-01-01 05:16:07 --> Router Class Initialized
+INFO - 2021-01-01 05:16:07 --> Output Class Initialized
+INFO - 2021-01-01 05:16:07 --> Security Class Initialized
+DEBUG - 2021-01-01 05:16:07 --> Global POST, GET and COOKIE data sanitized
+INFO - 2021-01-01 05:16:07 --> Input Class Initialized
+INFO - 2021-01-01 05:16:07 --> Language Class Initialized
+INFO - 2021-01-01 05:16:07 --> Language Class Initialized
+INFO - 2021-01-01 05:16:07 --> Config Class Initialized
+INFO - 2021-01-01 05:16:07 --> Loader Class Initialized
+INFO - 2021-01-01 05:16:08 --> Helper loaded: url_helper
+INFO - 2021-01-01 05:16:08 --> Helper loaded: html_helper
+INFO - 2021-01-01 05:16:08 --> Helper loaded: file_helper
+INFO - 2021-01-01 05:16:08 --> Helper loaded: form_helper
+INFO - 2021-01-01 05:16:08 --> Helper loaded: security_helper
+INFO - 2021-01-01 05:16:08 --> Helper loaded: xss_helper
+INFO - 2021-01-01 05:16:08 --> Helper loaded: slug_helper
+INFO - 2021-01-01 05:16:08 --> Database Driver Class Initialized
+DEBUG - 2021-01-01 05:16:08 --> Session: "sess_save_path" is empty; using "session.save_path" value from php.ini.
+INFO - 2021-01-01 05:16:08 --> Session: Class initialized using 'files' driver.
+INFO - 2021-01-01 05:16:08 --> Language file loaded: language/english/pagination_lang.php
+INFO - 2021-01-01 05:16:08 --> Pagination Class Initialized
+INFO - 2021-01-01 05:16:08 --> Email Class Initialized
+INFO - 2021-01-01 05:16:08 --> Model "M_konfig" initialized
+INFO - 2021-01-01 05:16:08 --> Model "M_reff" initialized
+INFO - 2021-01-01 05:16:08 --> Model "M_total" initialized
+INFO - 2021-01-01 05:16:08 --> Controller Class Initialized
+DEBUG - 2021-01-01 05:16:08 --> File loaded: D:\xampp72\htdocs\app_grm\application\modules/apengumuman/models/Model.php
+INFO - 2021-01-01 11:16:08 --> Final output sent to browser
+DEBUG - 2021-01-01 11:16:08 --> Total execution time: 0.9191
+INFO - 2021-01-01 05:16:12 --> Config Class Initialized
+INFO - 2021-01-01 05:16:12 --> Hooks Class Initialized
+DEBUG - 2021-01-01 05:16:12 --> UTF-8 Support Enabled
+INFO - 2021-01-01 05:16:12 --> Utf8 Class Initialized
+INFO - 2021-01-01 05:16:12 --> URI Class Initialized
+INFO - 2021-01-01 05:16:12 --> Router Class Initialized
+INFO - 2021-01-01 05:16:12 --> Output Class Initialized
+INFO - 2021-01-01 05:16:12 --> Security Class Initialized
+DEBUG - 2021-01-01 05:16:12 --> Global POST, GET and COOKIE data sanitized
+INFO - 2021-01-01 05:16:12 --> Input Class Initialized
+INFO - 2021-01-01 05:16:12 --> Language Class Initialized
+INFO - 2021-01-01 05:16:12 --> Language Class Initialized
+INFO - 2021-01-01 05:16:12 --> Config Class Initialized
+INFO - 2021-01-01 05:16:12 --> Loader Class Initialized
+INFO - 2021-01-01 05:16:13 --> Helper loaded: url_helper
+INFO - 2021-01-01 05:16:13 --> Helper loaded: html_helper
+INFO - 2021-01-01 05:16:13 --> Helper loaded: file_helper
+INFO - 2021-01-01 05:16:13 --> Helper loaded: form_helper
+INFO - 2021-01-01 05:16:13 --> Helper loaded: security_helper
+INFO - 2021-01-01 05:16:13 --> Helper loaded: xss_helper
+INFO - 2021-01-01 05:16:13 --> Helper loaded: slug_helper
+INFO - 2021-01-01 05:16:13 --> Database Driver Class Initialized
+DEBUG - 2021-01-01 05:16:13 --> Session: "sess_save_path" is empty; using "session.save_path" value from php.ini.
+INFO - 2021-01-01 05:16:13 --> Session: Class initialized using 'files' driver.
+INFO - 2021-01-01 05:16:13 --> Language file loaded: language/english/pagination_lang.php
+INFO - 2021-01-01 05:16:13 --> Pagination Class Initialized
+INFO - 2021-01-01 05:16:13 --> Email Class Initialized
+INFO - 2021-01-01 05:16:13 --> Model "M_konfig" initialized
+INFO - 2021-01-01 05:16:13 --> Model "M_reff" initialized
+INFO - 2021-01-01 05:16:13 --> Model "M_total" initialized
+INFO - 2021-01-01 05:16:13 --> Controller Class Initialized
+DEBUG - 2021-01-01 05:16:13 --> File loaded: D:\xampp72\htdocs\app_grm\application\modules/apengumuman/models/Model.php
+INFO - 2021-01-01 11:16:13 --> Final output sent to browser
+DEBUG - 2021-01-01 11:16:13 --> Total execution time: 0.9768
+INFO - 2021-01-01 05:16:17 --> Config Class Initialized
+INFO - 2021-01-01 05:16:17 --> Hooks Class Initialized
+DEBUG - 2021-01-01 05:16:17 --> UTF-8 Support Enabled
+INFO - 2021-01-01 05:16:17 --> Utf8 Class Initialized
+INFO - 2021-01-01 05:16:17 --> URI Class Initialized
+INFO - 2021-01-01 05:16:17 --> Router Class Initialized
+INFO - 2021-01-01 05:16:17 --> Output Class Initialized
+INFO - 2021-01-01 05:16:17 --> Security Class Initialized
+DEBUG - 2021-01-01 05:16:17 --> Global POST, GET and COOKIE data sanitized
+INFO - 2021-01-01 05:16:17 --> Input Class Initialized
+INFO - 2021-01-01 05:16:17 --> Language Class Initialized
+INFO - 2021-01-01 05:16:17 --> Language Class Initialized
+INFO - 2021-01-01 05:16:17 --> Config Class Initialized
+INFO - 2021-01-01 05:16:17 --> Loader Class Initialized
+INFO - 2021-01-01 05:16:18 --> Helper loaded: url_helper
+INFO - 2021-01-01 05:16:18 --> Helper loaded: html_helper
+INFO - 2021-01-01 05:16:18 --> Helper loaded: file_helper
+INFO - 2021-01-01 05:16:18 --> Helper loaded: form_helper
+INFO - 2021-01-01 05:16:18 --> Helper loaded: security_helper
+INFO - 2021-01-01 05:16:18 --> Helper loaded: xss_helper
+INFO - 2021-01-01 05:16:18 --> Helper loaded: slug_helper
+INFO - 2021-01-01 05:16:18 --> Database Driver Class Initialized
+DEBUG - 2021-01-01 05:16:18 --> Session: "sess_save_path" is empty; using "session.save_path" value from php.ini.
+INFO - 2021-01-01 05:16:18 --> Session: Class initialized using 'files' driver.
+INFO - 2021-01-01 05:16:18 --> Language file loaded: language/english/pagination_lang.php
+INFO - 2021-01-01 05:16:18 --> Pagination Class Initialized
+INFO - 2021-01-01 05:16:18 --> Email Class Initialized
+INFO - 2021-01-01 05:16:18 --> Model "M_konfig" initialized
+INFO - 2021-01-01 05:16:18 --> Model "M_reff" initialized
+INFO - 2021-01-01 05:16:18 --> Model "M_total" initialized
+INFO - 2021-01-01 05:16:18 --> Controller Class Initialized
+DEBUG - 2021-01-01 05:16:18 --> File loaded: D:\xampp72\htdocs\app_grm\application\modules/apengumuman/models/Model.php
+INFO - 2021-01-01 11:16:18 --> Final output sent to browser
+DEBUG - 2021-01-01 11:16:18 --> Total execution time: 0.9523
+INFO - 2021-01-01 05:16:22 --> Config Class Initialized
+INFO - 2021-01-01 05:16:22 --> Hooks Class Initialized
+DEBUG - 2021-01-01 05:16:22 --> UTF-8 Support Enabled
+INFO - 2021-01-01 05:16:22 --> Utf8 Class Initialized
+INFO - 2021-01-01 05:16:22 --> URI Class Initialized
+INFO - 2021-01-01 05:16:22 --> Router Class Initialized
+INFO - 2021-01-01 05:16:22 --> Output Class Initialized
+INFO - 2021-01-01 05:16:22 --> Security Class Initialized
+DEBUG - 2021-01-01 05:16:22 --> Global POST, GET and COOKIE data sanitized
+INFO - 2021-01-01 05:16:22 --> Input Class Initialized
+INFO - 2021-01-01 05:16:22 --> Language Class Initialized
+INFO - 2021-01-01 05:16:22 --> Language Class Initialized
+INFO - 2021-01-01 05:16:22 --> Config Class Initialized
+INFO - 2021-01-01 05:16:23 --> Loader Class Initialized
+INFO - 2021-01-01 05:16:23 --> Helper loaded: url_helper
+INFO - 2021-01-01 05:16:23 --> Helper loaded: html_helper
+INFO - 2021-01-01 05:16:23 --> Helper loaded: file_helper
+INFO - 2021-01-01 05:16:23 --> Helper loaded: form_helper
+INFO - 2021-01-01 05:16:23 --> Helper loaded: security_helper
+INFO - 2021-01-01 05:16:23 --> Helper loaded: xss_helper
+INFO - 2021-01-01 05:16:23 --> Helper loaded: slug_helper
+INFO - 2021-01-01 05:16:23 --> Database Driver Class Initialized
+DEBUG - 2021-01-01 05:16:23 --> Session: "sess_save_path" is empty; using "session.save_path" value from php.ini.
+INFO - 2021-01-01 05:16:23 --> Session: Class initialized using 'files' driver.
+INFO - 2021-01-01 05:16:23 --> Language file loaded: language/english/pagination_lang.php
+INFO - 2021-01-01 05:16:23 --> Pagination Class Initialized
+INFO - 2021-01-01 05:16:23 --> Email Class Initialized
+INFO - 2021-01-01 05:16:23 --> Model "M_konfig" initialized
+INFO - 2021-01-01 05:16:23 --> Model "M_reff" initialized
+INFO - 2021-01-01 05:16:23 --> Model "M_total" initialized
+INFO - 2021-01-01 05:16:23 --> Controller Class Initialized
+DEBUG - 2021-01-01 05:16:23 --> File loaded: D:\xampp72\htdocs\app_grm\application\modules/apengumuman/models/Model.php
+INFO - 2021-01-01 11:16:23 --> Final output sent to browser
+DEBUG - 2021-01-01 11:16:23 --> Total execution time: 1.0173
+INFO - 2021-01-01 05:16:25 --> Config Class Initialized
+INFO - 2021-01-01 05:16:25 --> Hooks Class Initialized
+DEBUG - 2021-01-01 05:16:26 --> UTF-8 Support Enabled
+INFO - 2021-01-01 05:16:26 --> Utf8 Class Initialized
+INFO - 2021-01-01 05:16:26 --> URI Class Initialized
+INFO - 2021-01-01 05:16:26 --> Router Class Initialized
+INFO - 2021-01-01 05:16:26 --> Output Class Initialized
+INFO - 2021-01-01 05:16:26 --> Security Class Initialized
+DEBUG - 2021-01-01 05:16:26 --> Global POST, GET and COOKIE data sanitized
+INFO - 2021-01-01 05:16:26 --> Input Class Initialized
+INFO - 2021-01-01 05:16:26 --> Language Class Initialized
+INFO - 2021-01-01 05:16:26 --> Language Class Initialized
+INFO - 2021-01-01 05:16:26 --> Config Class Initialized
+INFO - 2021-01-01 05:16:26 --> Loader Class Initialized
+INFO - 2021-01-01 05:16:26 --> Helper loaded: url_helper
+INFO - 2021-01-01 05:16:26 --> Helper loaded: html_helper
+INFO - 2021-01-01 05:16:26 --> Helper loaded: file_helper
+INFO - 2021-01-01 05:16:26 --> Helper loaded: form_helper
+INFO - 2021-01-01 05:16:26 --> Helper loaded: security_helper
+INFO - 2021-01-01 05:16:26 --> Helper loaded: xss_helper
+INFO - 2021-01-01 05:16:26 --> Helper loaded: slug_helper
+INFO - 2021-01-01 05:16:26 --> Database Driver Class Initialized
+DEBUG - 2021-01-01 05:16:26 --> Session: "sess_save_path" is empty; using "session.save_path" value from php.ini.
+INFO - 2021-01-01 05:16:26 --> Session: Class initialized using 'files' driver.
+INFO - 2021-01-01 05:16:26 --> Language file loaded: language/english/pagination_lang.php
+INFO - 2021-01-01 05:16:26 --> Pagination Class Initialized
+INFO - 2021-01-01 05:16:26 --> Email Class Initialized
+INFO - 2021-01-01 05:16:26 --> Model "M_konfig" initialized
+INFO - 2021-01-01 05:16:27 --> Model "M_reff" initialized
+INFO - 2021-01-01 05:16:27 --> Model "M_total" initialized
+INFO - 2021-01-01 05:16:27 --> Controller Class Initialized
+DEBUG - 2021-01-01 05:16:27 --> Maps_kri MX_Controller Initialized
+DEBUG - 2021-01-01 05:16:27 --> File loaded: D:\xampp72\htdocs\app_grm\application\modules/maps_kri/models/Model.php
+DEBUG - 2021-01-01 11:16:27 --> File loaded: D:\xampp72\htdocs\app_grm\application\views\temp_maps_kri/head.php
+DEBUG - 2021-01-01 11:16:27 --> File loaded: D:\xampp72\htdocs\app_grm\application\views\temp_maps_kri/navbar.php
+DEBUG - 2021-01-01 11:16:27 --> File loaded: D:\xampp72\htdocs\app_grm\application\views\temp_maps_kri/sidebar_left.php
+DEBUG - 2021-01-01 11:16:27 --> File loaded: D:\xampp72\htdocs\app_grm\application\views\temp_maps_kri/sidebar_right.php
+DEBUG - 2021-01-01 11:16:27 --> File loaded: D:\xampp72\htdocs\app_grm\application\modules/maps_kri/views/index.php
+DEBUG - 2021-01-01 11:16:27 --> File loaded: D:\xampp72\htdocs\app_grm\application\views\temp_maps_kri/quick_bar.php
+DEBUG - 2021-01-01 11:16:27 --> File loaded: D:\xampp72\htdocs\app_grm\application\views\temp_maps_kri/toggle.php
+DEBUG - 2021-01-01 11:16:27 --> File loaded: D:\xampp72\htdocs\app_grm\application\views\temp_maps_kri/konten.php
+DEBUG - 2021-01-01 11:16:27 --> File loaded: D:\xampp72\htdocs\app_grm\application\views\temp_maps_kri/foot.php
+DEBUG - 2021-01-01 11:16:27 --> File loaded: D:\xampp72\htdocs\app_grm\application\views\temp_maps_kri/main.php
+INFO - 2021-01-01 11:16:27 --> Final output sent to browser
+DEBUG - 2021-01-01 11:16:27 --> Total execution time: 1.5073
+INFO - 2021-01-01 05:16:28 --> Config Class Initialized
+INFO - 2021-01-01 05:16:28 --> Hooks Class Initialized
+DEBUG - 2021-01-01 05:16:28 --> UTF-8 Support Enabled
+INFO - 2021-01-01 05:16:28 --> Utf8 Class Initialized
+INFO - 2021-01-01 05:16:28 --> URI Class Initialized
+INFO - 2021-01-01 05:16:28 --> Router Class Initialized
+INFO - 2021-01-01 05:16:28 --> Output Class Initialized
+INFO - 2021-01-01 05:16:28 --> Security Class Initialized
+DEBUG - 2021-01-01 05:16:29 --> Global POST, GET and COOKIE data sanitized
+INFO - 2021-01-01 05:16:29 --> Input Class Initialized
+INFO - 2021-01-01 05:16:29 --> Language Class Initialized
+INFO - 2021-01-01 05:16:29 --> Language Class Initialized
+INFO - 2021-01-01 05:16:29 --> Config Class Initialized
+INFO - 2021-01-01 05:16:29 --> Loader Class Initialized
+INFO - 2021-01-01 05:16:29 --> Helper loaded: url_helper
+INFO - 2021-01-01 05:16:29 --> Helper loaded: html_helper
+INFO - 2021-01-01 05:16:29 --> Helper loaded: file_helper
+INFO - 2021-01-01 05:16:29 --> Helper loaded: form_helper
+INFO - 2021-01-01 05:16:29 --> Helper loaded: security_helper
+INFO - 2021-01-01 05:16:29 --> Helper loaded: xss_helper
+INFO - 2021-01-01 05:16:29 --> Helper loaded: slug_helper
+INFO - 2021-01-01 05:16:29 --> Config Class Initialized
+INFO - 2021-01-01 05:16:29 --> Hooks Class Initialized
+DEBUG - 2021-01-01 05:16:29 --> UTF-8 Support Enabled
+INFO - 2021-01-01 05:16:29 --> Utf8 Class Initialized
+INFO - 2021-01-01 05:16:29 --> URI Class Initialized
+INFO - 2021-01-01 05:16:29 --> Router Class Initialized
+INFO - 2021-01-01 05:16:29 --> Output Class Initialized
+INFO - 2021-01-01 05:16:29 --> Security Class Initialized
+DEBUG - 2021-01-01 05:16:29 --> Global POST, GET and COOKIE data sanitized
+INFO - 2021-01-01 05:16:29 --> Input Class Initialized
+INFO - 2021-01-01 05:16:29 --> Language Class Initialized
+INFO - 2021-01-01 05:16:29 --> Language Class Initialized
+INFO - 2021-01-01 05:16:29 --> Config Class Initialized
+INFO - 2021-01-01 05:16:29 --> Loader Class Initialized
+INFO - 2021-01-01 05:16:29 --> Database Driver Class Initialized
+DEBUG - 2021-01-01 05:16:29 --> Session: "sess_save_path" is empty; using "session.save_path" value from php.ini.
+INFO - 2021-01-01 05:16:29 --> Session: Class initialized using 'files' driver.
+INFO - 2021-01-01 05:16:29 --> Language file loaded: language/english/pagination_lang.php
+INFO - 2021-01-01 05:16:29 --> Pagination Class Initialized
+INFO - 2021-01-01 05:16:29 --> Helper loaded: url_helper
+INFO - 2021-01-01 05:16:29 --> Email Class Initialized
+INFO - 2021-01-01 05:16:29 --> Model "M_konfig" initialized
+INFO - 2021-01-01 05:16:29 --> Model "M_reff" initialized
+INFO - 2021-01-01 05:16:29 --> Model "M_total" initialized
+INFO - 2021-01-01 05:16:29 --> Controller Class Initialized
+DEBUG - 2021-01-01 05:16:29 --> File loaded: D:\xampp72\htdocs\app_grm\application\modules/apengumuman/models/Model.php
+INFO - 2021-01-01 11:16:29 --> Final output sent to browser
+DEBUG - 2021-01-01 11:16:29 --> Total execution time: 1.0796
+INFO - 2021-01-01 05:16:29 --> Helper loaded: html_helper
+INFO - 2021-01-01 05:16:29 --> Helper loaded: file_helper
+INFO - 2021-01-01 05:16:29 --> Helper loaded: form_helper
+INFO - 2021-01-01 05:16:30 --> Helper loaded: security_helper
+INFO - 2021-01-01 05:16:30 --> Helper loaded: xss_helper
+INFO - 2021-01-01 05:16:30 --> Helper loaded: slug_helper
+INFO - 2021-01-01 05:16:30 --> Database Driver Class Initialized
+DEBUG - 2021-01-01 05:16:30 --> Session: "sess_save_path" is empty; using "session.save_path" value from php.ini.
+INFO - 2021-01-01 05:16:30 --> Session: Class initialized using 'files' driver.
+INFO - 2021-01-01 05:16:30 --> Language file loaded: language/english/pagination_lang.php
+INFO - 2021-01-01 05:16:30 --> Pagination Class Initialized
+INFO - 2021-01-01 05:16:30 --> Email Class Initialized
+INFO - 2021-01-01 05:16:30 --> Model "M_konfig" initialized
+INFO - 2021-01-01 05:16:30 --> Model "M_reff" initialized
+INFO - 2021-01-01 05:16:30 --> Model "M_total" initialized
+INFO - 2021-01-01 05:16:30 --> Controller Class Initialized
+DEBUG - 2021-01-01 05:16:30 --> Maps_kri MX_Controller Initialized
+DEBUG - 2021-01-01 05:16:30 --> File loaded: D:\xampp72\htdocs\app_grm\application\modules/maps_kri/models/Model.php
+INFO - 2021-01-01 11:16:30 --> Final output sent to browser
+DEBUG - 2021-01-01 11:16:30 --> Total execution time: 1.1357
+INFO - 2021-01-01 05:16:33 --> Config Class Initialized
+INFO - 2021-01-01 05:16:33 --> Hooks Class Initialized
+DEBUG - 2021-01-01 05:16:33 --> UTF-8 Support Enabled
+INFO - 2021-01-01 05:16:33 --> Utf8 Class Initialized
+INFO - 2021-01-01 05:16:33 --> URI Class Initialized
+INFO - 2021-01-01 05:16:33 --> Router Class Initialized
+INFO - 2021-01-01 05:16:33 --> Output Class Initialized
+INFO - 2021-01-01 05:16:33 --> Security Class Initialized
+DEBUG - 2021-01-01 05:16:33 --> Global POST, GET and COOKIE data sanitized
+INFO - 2021-01-01 05:16:33 --> Input Class Initialized
+INFO - 2021-01-01 05:16:33 --> Language Class Initialized
+INFO - 2021-01-01 05:16:33 --> Language Class Initialized
+INFO - 2021-01-01 05:16:33 --> Config Class Initialized
+INFO - 2021-01-01 05:16:33 --> Loader Class Initialized
+INFO - 2021-01-01 05:16:33 --> Helper loaded: url_helper
+INFO - 2021-01-01 05:16:33 --> Helper loaded: html_helper
+INFO - 2021-01-01 05:16:33 --> Helper loaded: file_helper
+INFO - 2021-01-01 05:16:33 --> Helper loaded: form_helper
+INFO - 2021-01-01 05:16:33 --> Helper loaded: security_helper
+INFO - 2021-01-01 05:16:33 --> Helper loaded: xss_helper
+INFO - 2021-01-01 05:16:34 --> Helper loaded: slug_helper
+INFO - 2021-01-01 05:16:34 --> Database Driver Class Initialized
+DEBUG - 2021-01-01 05:16:34 --> Session: "sess_save_path" is empty; using "session.save_path" value from php.ini.
+INFO - 2021-01-01 05:16:34 --> Session: Class initialized using 'files' driver.
+INFO - 2021-01-01 05:16:34 --> Language file loaded: language/english/pagination_lang.php
+INFO - 2021-01-01 05:16:34 --> Pagination Class Initialized
+INFO - 2021-01-01 05:16:34 --> Email Class Initialized
+INFO - 2021-01-01 05:16:34 --> Model "M_konfig" initialized
+INFO - 2021-01-01 05:16:34 --> Model "M_reff" initialized
+INFO - 2021-01-01 05:16:34 --> Model "M_total" initialized
+INFO - 2021-01-01 05:16:34 --> Controller Class Initialized
+DEBUG - 2021-01-01 05:16:34 --> File loaded: D:\xampp72\htdocs\app_grm\application\modules/apengumuman/models/Model.php
+INFO - 2021-01-01 11:16:34 --> Final output sent to browser
+DEBUG - 2021-01-01 11:16:34 --> Total execution time: 1.1852
+INFO - 2021-01-01 05:16:38 --> Config Class Initialized
+INFO - 2021-01-01 05:16:38 --> Hooks Class Initialized
+DEBUG - 2021-01-01 05:16:38 --> UTF-8 Support Enabled
+INFO - 2021-01-01 05:16:38 --> Utf8 Class Initialized
+INFO - 2021-01-01 05:16:38 --> URI Class Initialized
+INFO - 2021-01-01 05:16:38 --> Router Class Initialized
+INFO - 2021-01-01 05:16:38 --> Output Class Initialized
+INFO - 2021-01-01 05:16:38 --> Security Class Initialized
+DEBUG - 2021-01-01 05:16:38 --> Global POST, GET and COOKIE data sanitized
+INFO - 2021-01-01 05:16:38 --> Input Class Initialized
+INFO - 2021-01-01 05:16:38 --> Language Class Initialized
+INFO - 2021-01-01 05:16:38 --> Language Class Initialized
+INFO - 2021-01-01 05:16:38 --> Config Class Initialized
+INFO - 2021-01-01 05:16:38 --> Loader Class Initialized
+INFO - 2021-01-01 05:16:38 --> Helper loaded: url_helper
+INFO - 2021-01-01 05:16:38 --> Helper loaded: html_helper
+INFO - 2021-01-01 05:16:38 --> Helper loaded: file_helper
+INFO - 2021-01-01 05:16:38 --> Helper loaded: form_helper
+INFO - 2021-01-01 05:16:38 --> Helper loaded: security_helper
+INFO - 2021-01-01 05:16:38 --> Helper loaded: xss_helper
+INFO - 2021-01-01 05:16:38 --> Helper loaded: slug_helper
+INFO - 2021-01-01 05:16:38 --> Database Driver Class Initialized
+DEBUG - 2021-01-01 05:16:38 --> Session: "sess_save_path" is empty; using "session.save_path" value from php.ini.
+INFO - 2021-01-01 05:16:38 --> Session: Class initialized using 'files' driver.
+INFO - 2021-01-01 05:16:38 --> Language file loaded: language/english/pagination_lang.php
+INFO - 2021-01-01 05:16:39 --> Pagination Class Initialized
+INFO - 2021-01-01 05:16:39 --> Email Class Initialized
+INFO - 2021-01-01 05:16:39 --> Model "M_konfig" initialized
+INFO - 2021-01-01 05:16:39 --> Model "M_reff" initialized
+INFO - 2021-01-01 05:16:39 --> Model "M_total" initialized
+INFO - 2021-01-01 05:16:39 --> Controller Class Initialized
+DEBUG - 2021-01-01 05:16:39 --> File loaded: D:\xampp72\htdocs\app_grm\application\modules/apengumuman/models/Model.php
+INFO - 2021-01-01 11:16:39 --> Final output sent to browser
+DEBUG - 2021-01-01 11:16:39 --> Total execution time: 0.9715
+INFO - 2021-01-01 05:16:43 --> Config Class Initialized
+INFO - 2021-01-01 05:16:43 --> Hooks Class Initialized
+DEBUG - 2021-01-01 05:16:43 --> UTF-8 Support Enabled
+INFO - 2021-01-01 05:16:43 --> Utf8 Class Initialized
+INFO - 2021-01-01 05:16:43 --> URI Class Initialized
+INFO - 2021-01-01 05:16:43 --> Router Class Initialized
+INFO - 2021-01-01 05:16:43 --> Output Class Initialized
+INFO - 2021-01-01 05:16:43 --> Security Class Initialized
+DEBUG - 2021-01-01 05:16:43 --> Global POST, GET and COOKIE data sanitized
+INFO - 2021-01-01 05:16:43 --> Input Class Initialized
+INFO - 2021-01-01 05:16:43 --> Language Class Initialized
+INFO - 2021-01-01 05:16:43 --> Language Class Initialized
+INFO - 2021-01-01 05:16:43 --> Config Class Initialized
+INFO - 2021-01-01 05:16:43 --> Loader Class Initialized
+INFO - 2021-01-01 05:16:43 --> Helper loaded: url_helper
+INFO - 2021-01-01 05:16:43 --> Helper loaded: html_helper
+INFO - 2021-01-01 05:16:43 --> Helper loaded: file_helper
+INFO - 2021-01-01 05:16:43 --> Helper loaded: form_helper
+INFO - 2021-01-01 05:16:43 --> Helper loaded: security_helper
+INFO - 2021-01-01 05:16:43 --> Helper loaded: xss_helper
+INFO - 2021-01-01 05:16:43 --> Helper loaded: slug_helper
+INFO - 2021-01-01 05:16:43 --> Database Driver Class Initialized
+DEBUG - 2021-01-01 05:16:43 --> Session: "sess_save_path" is empty; using "session.save_path" value from php.ini.
+INFO - 2021-01-01 05:16:43 --> Session: Class initialized using 'files' driver.
+INFO - 2021-01-01 05:16:44 --> Language file loaded: language/english/pagination_lang.php
+INFO - 2021-01-01 05:16:44 --> Pagination Class Initialized
+INFO - 2021-01-01 05:16:44 --> Email Class Initialized
+INFO - 2021-01-01 05:16:44 --> Model "M_konfig" initialized
+INFO - 2021-01-01 05:16:44 --> Model "M_reff" initialized
+INFO - 2021-01-01 05:16:44 --> Model "M_total" initialized
+INFO - 2021-01-01 05:16:44 --> Controller Class Initialized
+DEBUG - 2021-01-01 05:16:44 --> File loaded: D:\xampp72\htdocs\app_grm\application\modules/apengumuman/models/Model.php
+INFO - 2021-01-01 11:16:44 --> Final output sent to browser
+DEBUG - 2021-01-01 11:16:44 --> Total execution time: 0.9886
+INFO - 2021-01-01 05:16:44 --> Config Class Initialized
+INFO - 2021-01-01 05:16:44 --> Hooks Class Initialized
+DEBUG - 2021-01-01 05:16:44 --> UTF-8 Support Enabled
+INFO - 2021-01-01 05:16:44 --> Utf8 Class Initialized
+INFO - 2021-01-01 05:16:44 --> URI Class Initialized
+INFO - 2021-01-01 05:16:44 --> Router Class Initialized
+INFO - 2021-01-01 05:16:44 --> Output Class Initialized
+INFO - 2021-01-01 05:16:44 --> Security Class Initialized
+DEBUG - 2021-01-01 05:16:44 --> Global POST, GET and COOKIE data sanitized
+INFO - 2021-01-01 05:16:44 --> Input Class Initialized
+INFO - 2021-01-01 05:16:44 --> Language Class Initialized
+INFO - 2021-01-01 05:16:44 --> Language Class Initialized
+INFO - 2021-01-01 05:16:44 --> Config Class Initialized
+INFO - 2021-01-01 05:16:44 --> Loader Class Initialized
+INFO - 2021-01-01 05:16:44 --> Helper loaded: url_helper
+INFO - 2021-01-01 05:16:44 --> Helper loaded: html_helper
+INFO - 2021-01-01 05:16:44 --> Helper loaded: file_helper
+INFO - 2021-01-01 05:16:44 --> Helper loaded: form_helper
+INFO - 2021-01-01 05:16:45 --> Helper loaded: security_helper
+INFO - 2021-01-01 05:16:45 --> Helper loaded: xss_helper
+INFO - 2021-01-01 05:16:45 --> Helper loaded: slug_helper
+INFO - 2021-01-01 05:16:45 --> Database Driver Class Initialized
+DEBUG - 2021-01-01 05:16:45 --> Session: "sess_save_path" is empty; using "session.save_path" value from php.ini.
+INFO - 2021-01-01 05:16:45 --> Session: Class initialized using 'files' driver.
+INFO - 2021-01-01 05:16:45 --> Language file loaded: language/english/pagination_lang.php
+INFO - 2021-01-01 05:16:45 --> Pagination Class Initialized
+INFO - 2021-01-01 05:16:45 --> Email Class Initialized
+INFO - 2021-01-01 05:16:45 --> Model "M_konfig" initialized
+INFO - 2021-01-01 05:16:45 --> Model "M_reff" initialized
+INFO - 2021-01-01 05:16:45 --> Model "M_total" initialized
+INFO - 2021-01-01 05:16:45 --> Controller Class Initialized
+DEBUG - 2021-01-01 05:16:45 --> File loaded: D:\xampp72\htdocs\app_grm\application\modules/apengumuman/models/Model.php
+DEBUG - 2021-01-01 11:16:45 --> File loaded: D:\xampp72\htdocs\app_grm\application\modules/apengumuman/views/pengumuman.php
+INFO - 2021-01-01 11:16:45 --> Final output sent to browser
+DEBUG - 2021-01-01 11:16:45 --> Total execution time: 1.0765
+INFO - 2021-01-01 05:16:45 --> Config Class Initialized
+INFO - 2021-01-01 05:16:45 --> Hooks Class Initialized
+DEBUG - 2021-01-01 05:16:45 --> UTF-8 Support Enabled
+INFO - 2021-01-01 05:16:45 --> Utf8 Class Initialized
+INFO - 2021-01-01 05:16:45 --> URI Class Initialized
+INFO - 2021-01-01 05:16:45 --> Router Class Initialized
+INFO - 2021-01-01 05:16:45 --> Output Class Initialized
+INFO - 2021-01-01 05:16:45 --> Security Class Initialized
+DEBUG - 2021-01-01 05:16:45 --> Global POST, GET and COOKIE data sanitized
+INFO - 2021-01-01 05:16:45 --> Input Class Initialized
+INFO - 2021-01-01 05:16:45 --> Language Class Initialized
+INFO - 2021-01-01 05:16:45 --> Language Class Initialized
+INFO - 2021-01-01 05:16:45 --> Config Class Initialized
+INFO - 2021-01-01 05:16:45 --> Loader Class Initialized
+INFO - 2021-01-01 05:16:46 --> Helper loaded: url_helper
+INFO - 2021-01-01 05:16:46 --> Helper loaded: html_helper
+INFO - 2021-01-01 05:16:46 --> Helper loaded: file_helper
+INFO - 2021-01-01 05:16:46 --> Helper loaded: form_helper
+INFO - 2021-01-01 05:16:46 --> Helper loaded: security_helper
+INFO - 2021-01-01 05:16:46 --> Helper loaded: xss_helper
+INFO - 2021-01-01 05:16:46 --> Helper loaded: slug_helper
+INFO - 2021-01-01 05:16:46 --> Database Driver Class Initialized
+DEBUG - 2021-01-01 05:16:46 --> Session: "sess_save_path" is empty; using "session.save_path" value from php.ini.
+INFO - 2021-01-01 05:16:46 --> Session: Class initialized using 'files' driver.
+INFO - 2021-01-01 05:16:46 --> Language file loaded: language/english/pagination_lang.php
+INFO - 2021-01-01 05:16:46 --> Pagination Class Initialized
+INFO - 2021-01-01 05:16:46 --> Email Class Initialized
+INFO - 2021-01-01 05:16:46 --> Model "M_konfig" initialized
+INFO - 2021-01-01 05:16:46 --> Model "M_reff" initialized
+INFO - 2021-01-01 05:16:46 --> Model "M_total" initialized
+INFO - 2021-01-01 05:16:46 --> Controller Class Initialized
+DEBUG - 2021-01-01 05:16:46 --> File loaded: D:\xampp72\htdocs\app_grm\application\modules/apengumuman/models/Model.php
+INFO - 2021-01-01 11:16:46 --> Final output sent to browser
+DEBUG - 2021-01-01 11:16:46 --> Total execution time: 0.9354
+INFO - 2021-01-01 05:16:48 --> Config Class Initialized
+INFO - 2021-01-01 05:16:48 --> Hooks Class Initialized
+DEBUG - 2021-01-01 05:16:48 --> UTF-8 Support Enabled
+INFO - 2021-01-01 05:16:48 --> Utf8 Class Initialized
+INFO - 2021-01-01 05:16:48 --> URI Class Initialized
+INFO - 2021-01-01 05:16:48 --> Router Class Initialized
+INFO - 2021-01-01 05:16:48 --> Output Class Initialized
+INFO - 2021-01-01 05:16:48 --> Security Class Initialized
+DEBUG - 2021-01-01 05:16:48 --> Global POST, GET and COOKIE data sanitized
+INFO - 2021-01-01 05:16:48 --> Input Class Initialized
+INFO - 2021-01-01 05:16:48 --> Language Class Initialized
+INFO - 2021-01-01 05:16:48 --> Language Class Initialized
+INFO - 2021-01-01 05:16:48 --> Config Class Initialized
+INFO - 2021-01-01 05:16:48 --> Loader Class Initialized
+INFO - 2021-01-01 05:16:48 --> Helper loaded: url_helper
+INFO - 2021-01-01 05:16:48 --> Helper loaded: html_helper
+INFO - 2021-01-01 05:16:48 --> Helper loaded: file_helper
+INFO - 2021-01-01 05:16:48 --> Helper loaded: form_helper
+INFO - 2021-01-01 05:16:48 --> Helper loaded: security_helper
+INFO - 2021-01-01 05:16:48 --> Helper loaded: xss_helper
+INFO - 2021-01-01 05:16:48 --> Helper loaded: slug_helper
+INFO - 2021-01-01 05:16:48 --> Database Driver Class Initialized
+DEBUG - 2021-01-01 05:16:48 --> Session: "sess_save_path" is empty; using "session.save_path" value from php.ini.
+INFO - 2021-01-01 05:16:48 --> Session: Class initialized using 'files' driver.
+INFO - 2021-01-01 05:16:48 --> Language file loaded: language/english/pagination_lang.php
+INFO - 2021-01-01 05:16:48 --> Pagination Class Initialized
+INFO - 2021-01-01 05:16:49 --> Email Class Initialized
+INFO - 2021-01-01 05:16:49 --> Model "M_konfig" initialized
+INFO - 2021-01-01 05:16:49 --> Model "M_reff" initialized
+INFO - 2021-01-01 05:16:49 --> Model "M_total" initialized
+INFO - 2021-01-01 05:16:49 --> Controller Class Initialized
+DEBUG - 2021-01-01 05:16:49 --> File loaded: D:\xampp72\htdocs\app_grm\application\modules/apengumuman/models/Model.php
+INFO - 2021-01-01 11:16:49 --> Final output sent to browser
+DEBUG - 2021-01-01 11:16:49 --> Total execution time: 0.9284
+INFO - 2021-01-01 05:16:53 --> Config Class Initialized
+INFO - 2021-01-01 05:16:53 --> Hooks Class Initialized
+DEBUG - 2021-01-01 05:16:53 --> UTF-8 Support Enabled
+INFO - 2021-01-01 05:16:53 --> Utf8 Class Initialized
+INFO - 2021-01-01 05:16:53 --> URI Class Initialized
+INFO - 2021-01-01 05:16:53 --> Router Class Initialized
+INFO - 2021-01-01 05:16:53 --> Output Class Initialized
+INFO - 2021-01-01 05:16:53 --> Security Class Initialized
+DEBUG - 2021-01-01 05:16:53 --> Global POST, GET and COOKIE data sanitized
+INFO - 2021-01-01 05:16:53 --> Input Class Initialized
+INFO - 2021-01-01 05:16:53 --> Language Class Initialized
+INFO - 2021-01-01 05:16:53 --> Language Class Initialized
+INFO - 2021-01-01 05:16:53 --> Config Class Initialized
+INFO - 2021-01-01 05:16:53 --> Loader Class Initialized
+INFO - 2021-01-01 05:16:53 --> Helper loaded: url_helper
+INFO - 2021-01-01 05:16:53 --> Helper loaded: html_helper
+INFO - 2021-01-01 05:16:53 --> Helper loaded: file_helper
+INFO - 2021-01-01 05:16:53 --> Helper loaded: form_helper
+INFO - 2021-01-01 05:16:53 --> Helper loaded: security_helper
+INFO - 2021-01-01 05:16:53 --> Helper loaded: xss_helper
+INFO - 2021-01-01 05:16:53 --> Helper loaded: slug_helper
+INFO - 2021-01-01 05:16:53 --> Database Driver Class Initialized
+DEBUG - 2021-01-01 05:16:53 --> Session: "sess_save_path" is empty; using "session.save_path" value from php.ini.
+INFO - 2021-01-01 05:16:53 --> Session: Class initialized using 'files' driver.
+INFO - 2021-01-01 05:16:54 --> Language file loaded: language/english/pagination_lang.php
+INFO - 2021-01-01 05:16:54 --> Pagination Class Initialized
+INFO - 2021-01-01 05:16:54 --> Email Class Initialized
+INFO - 2021-01-01 05:16:54 --> Model "M_konfig" initialized
+INFO - 2021-01-01 05:16:54 --> Model "M_reff" initialized
+INFO - 2021-01-01 05:16:54 --> Model "M_total" initialized
+INFO - 2021-01-01 05:16:54 --> Controller Class Initialized
+DEBUG - 2021-01-01 05:16:54 --> File loaded: D:\xampp72\htdocs\app_grm\application\modules/apengumuman/models/Model.php
+INFO - 2021-01-01 11:16:54 --> Final output sent to browser
+DEBUG - 2021-01-01 11:16:54 --> Total execution time: 0.9956
+INFO - 2021-01-01 05:16:58 --> Config Class Initialized
+INFO - 2021-01-01 05:16:58 --> Hooks Class Initialized
+DEBUG - 2021-01-01 05:16:58 --> UTF-8 Support Enabled
+INFO - 2021-01-01 05:16:58 --> Utf8 Class Initialized
+INFO - 2021-01-01 05:16:58 --> URI Class Initialized
+INFO - 2021-01-01 05:16:58 --> Router Class Initialized
+INFO - 2021-01-01 05:16:58 --> Output Class Initialized
+INFO - 2021-01-01 05:16:58 --> Security Class Initialized
+DEBUG - 2021-01-01 05:16:58 --> Global POST, GET and COOKIE data sanitized
+INFO - 2021-01-01 05:16:58 --> Input Class Initialized
+INFO - 2021-01-01 05:16:58 --> Language Class Initialized
+INFO - 2021-01-01 05:16:58 --> Language Class Initialized
+INFO - 2021-01-01 05:16:58 --> Config Class Initialized
+INFO - 2021-01-01 05:16:58 --> Loader Class Initialized
+INFO - 2021-01-01 05:16:58 --> Helper loaded: url_helper
+INFO - 2021-01-01 05:16:58 --> Helper loaded: html_helper
+INFO - 2021-01-01 05:16:58 --> Helper loaded: file_helper
+INFO - 2021-01-01 05:16:58 --> Helper loaded: form_helper
+INFO - 2021-01-01 05:16:58 --> Helper loaded: security_helper
+INFO - 2021-01-01 05:16:58 --> Helper loaded: xss_helper
+INFO - 2021-01-01 05:16:58 --> Helper loaded: slug_helper
+INFO - 2021-01-01 05:16:58 --> Database Driver Class Initialized
+DEBUG - 2021-01-01 05:16:58 --> Session: "sess_save_path" is empty; using "session.save_path" value from php.ini.
+INFO - 2021-01-01 05:16:58 --> Session: Class initialized using 'files' driver.
+INFO - 2021-01-01 05:16:59 --> Language file loaded: language/english/pagination_lang.php
+INFO - 2021-01-01 05:16:59 --> Pagination Class Initialized
+INFO - 2021-01-01 05:16:59 --> Email Class Initialized
+INFO - 2021-01-01 05:16:59 --> Model "M_konfig" initialized
+INFO - 2021-01-01 05:16:59 --> Model "M_reff" initialized
+INFO - 2021-01-01 05:16:59 --> Model "M_total" initialized
+INFO - 2021-01-01 05:16:59 --> Controller Class Initialized
+DEBUG - 2021-01-01 05:16:59 --> File loaded: D:\xampp72\htdocs\app_grm\application\modules/apengumuman/models/Model.php
+INFO - 2021-01-01 11:16:59 --> Final output sent to browser
+DEBUG - 2021-01-01 11:16:59 --> Total execution time: 0.9804
+INFO - 2021-01-01 05:17:03 --> Config Class Initialized
+INFO - 2021-01-01 05:17:03 --> Hooks Class Initialized
+DEBUG - 2021-01-01 05:17:03 --> UTF-8 Support Enabled
+INFO - 2021-01-01 05:17:03 --> Utf8 Class Initialized
+INFO - 2021-01-01 05:17:03 --> URI Class Initialized
+INFO - 2021-01-01 05:17:03 --> Router Class Initialized
+INFO - 2021-01-01 05:17:03 --> Output Class Initialized
+INFO - 2021-01-01 05:17:03 --> Security Class Initialized
+DEBUG - 2021-01-01 05:17:03 --> Global POST, GET and COOKIE data sanitized
+INFO - 2021-01-01 05:17:03 --> Input Class Initialized
+INFO - 2021-01-01 05:17:03 --> Language Class Initialized
+INFO - 2021-01-01 05:17:03 --> Language Class Initialized
+INFO - 2021-01-01 05:17:03 --> Config Class Initialized
+INFO - 2021-01-01 05:17:03 --> Loader Class Initialized
+INFO - 2021-01-01 05:17:03 --> Helper loaded: url_helper
+INFO - 2021-01-01 05:17:03 --> Helper loaded: html_helper
+INFO - 2021-01-01 05:17:03 --> Helper loaded: file_helper
+INFO - 2021-01-01 05:17:03 --> Helper loaded: form_helper
+INFO - 2021-01-01 05:17:03 --> Helper loaded: security_helper
+INFO - 2021-01-01 05:17:03 --> Helper loaded: xss_helper
+INFO - 2021-01-01 05:17:03 --> Helper loaded: slug_helper
+INFO - 2021-01-01 05:17:03 --> Database Driver Class Initialized
+DEBUG - 2021-01-01 05:17:04 --> Session: "sess_save_path" is empty; using "session.save_path" value from php.ini.
+INFO - 2021-01-01 05:17:04 --> Session: Class initialized using 'files' driver.
+INFO - 2021-01-01 05:17:04 --> Language file loaded: language/english/pagination_lang.php
+INFO - 2021-01-01 05:17:04 --> Pagination Class Initialized
+INFO - 2021-01-01 05:17:04 --> Email Class Initialized
+INFO - 2021-01-01 05:17:04 --> Model "M_konfig" initialized
+INFO - 2021-01-01 05:17:04 --> Model "M_reff" initialized
+INFO - 2021-01-01 05:17:04 --> Model "M_total" initialized
+INFO - 2021-01-01 05:17:04 --> Controller Class Initialized
+DEBUG - 2021-01-01 05:17:04 --> File loaded: D:\xampp72\htdocs\app_grm\application\modules/apengumuman/models/Model.php
+INFO - 2021-01-01 11:17:04 --> Final output sent to browser
+DEBUG - 2021-01-01 11:17:04 --> Total execution time: 1.0230
+INFO - 2021-01-01 05:17:08 --> Config Class Initialized
+INFO - 2021-01-01 05:17:08 --> Hooks Class Initialized
+DEBUG - 2021-01-01 05:17:08 --> UTF-8 Support Enabled
+INFO - 2021-01-01 05:17:08 --> Utf8 Class Initialized
+INFO - 2021-01-01 05:17:08 --> URI Class Initialized
+INFO - 2021-01-01 05:17:08 --> Router Class Initialized
+INFO - 2021-01-01 05:17:08 --> Output Class Initialized
+INFO - 2021-01-01 05:17:08 --> Security Class Initialized
+DEBUG - 2021-01-01 05:17:08 --> Global POST, GET and COOKIE data sanitized
+INFO - 2021-01-01 05:17:08 --> Input Class Initialized
+INFO - 2021-01-01 05:17:08 --> Language Class Initialized
+INFO - 2021-01-01 05:17:08 --> Language Class Initialized
+INFO - 2021-01-01 05:17:08 --> Config Class Initialized
+INFO - 2021-01-01 05:17:08 --> Loader Class Initialized
+INFO - 2021-01-01 05:17:08 --> Helper loaded: url_helper
+INFO - 2021-01-01 05:17:08 --> Helper loaded: html_helper
+INFO - 2021-01-01 05:17:08 --> Helper loaded: file_helper
+INFO - 2021-01-01 05:17:08 --> Helper loaded: form_helper
+INFO - 2021-01-01 05:17:08 --> Helper loaded: security_helper
+INFO - 2021-01-01 05:17:09 --> Helper loaded: xss_helper
+INFO - 2021-01-01 05:17:09 --> Helper loaded: slug_helper
+INFO - 2021-01-01 05:17:09 --> Database Driver Class Initialized
+DEBUG - 2021-01-01 05:17:09 --> Session: "sess_save_path" is empty; using "session.save_path" value from php.ini.
+INFO - 2021-01-01 05:17:09 --> Session: Class initialized using 'files' driver.
+INFO - 2021-01-01 05:17:09 --> Language file loaded: language/english/pagination_lang.php
+INFO - 2021-01-01 05:17:09 --> Pagination Class Initialized
+INFO - 2021-01-01 05:17:09 --> Email Class Initialized
+INFO - 2021-01-01 05:17:09 --> Model "M_konfig" initialized
+INFO - 2021-01-01 05:17:09 --> Model "M_reff" initialized
+INFO - 2021-01-01 05:17:09 --> Model "M_total" initialized
+INFO - 2021-01-01 05:17:09 --> Controller Class Initialized
+DEBUG - 2021-01-01 05:17:09 --> File loaded: D:\xampp72\htdocs\app_grm\application\modules/apengumuman/models/Model.php
+INFO - 2021-01-01 11:17:09 --> Final output sent to browser
+DEBUG - 2021-01-01 11:17:09 --> Total execution time: 1.1243
+INFO - 2021-01-01 05:17:13 --> Config Class Initialized
+INFO - 2021-01-01 05:17:13 --> Hooks Class Initialized
+DEBUG - 2021-01-01 05:17:13 --> UTF-8 Support Enabled
+INFO - 2021-01-01 05:17:13 --> Utf8 Class Initialized
+INFO - 2021-01-01 05:17:13 --> URI Class Initialized
+INFO - 2021-01-01 05:17:13 --> Router Class Initialized
+INFO - 2021-01-01 05:17:13 --> Output Class Initialized
+INFO - 2021-01-01 05:17:13 --> Security Class Initialized
+DEBUG - 2021-01-01 05:17:13 --> Global POST, GET and COOKIE data sanitized
+INFO - 2021-01-01 05:17:13 --> Input Class Initialized
+INFO - 2021-01-01 05:17:13 --> Language Class Initialized
+INFO - 2021-01-01 05:17:13 --> Language Class Initialized
+INFO - 2021-01-01 05:17:13 --> Config Class Initialized
+INFO - 2021-01-01 05:17:13 --> Loader Class Initialized
+INFO - 2021-01-01 05:17:13 --> Helper loaded: url_helper
+INFO - 2021-01-01 05:17:13 --> Helper loaded: html_helper
+INFO - 2021-01-01 05:17:13 --> Helper loaded: file_helper
+INFO - 2021-01-01 05:17:13 --> Helper loaded: form_helper
+INFO - 2021-01-01 05:17:13 --> Helper loaded: security_helper
+INFO - 2021-01-01 05:17:13 --> Helper loaded: xss_helper
+INFO - 2021-01-01 05:17:13 --> Helper loaded: slug_helper
+INFO - 2021-01-01 05:17:13 --> Database Driver Class Initialized
+DEBUG - 2021-01-01 05:17:13 --> Session: "sess_save_path" is empty; using "session.save_path" value from php.ini.
+INFO - 2021-01-01 05:17:13 --> Session: Class initialized using 'files' driver.
+INFO - 2021-01-01 05:17:14 --> Language file loaded: language/english/pagination_lang.php
+INFO - 2021-01-01 05:17:14 --> Pagination Class Initialized
+INFO - 2021-01-01 05:17:14 --> Email Class Initialized
+INFO - 2021-01-01 05:17:14 --> Model "M_konfig" initialized
+INFO - 2021-01-01 05:17:14 --> Model "M_reff" initialized
+INFO - 2021-01-01 05:17:14 --> Model "M_total" initialized
+INFO - 2021-01-01 05:17:14 --> Controller Class Initialized
+DEBUG - 2021-01-01 05:17:14 --> File loaded: D:\xampp72\htdocs\app_grm\application\modules/apengumuman/models/Model.php
+INFO - 2021-01-01 11:17:14 --> Final output sent to browser
+DEBUG - 2021-01-01 11:17:14 --> Total execution time: 1.0303
+INFO - 2021-01-01 05:17:18 --> Config Class Initialized
+INFO - 2021-01-01 05:17:18 --> Hooks Class Initialized
+DEBUG - 2021-01-01 05:17:18 --> UTF-8 Support Enabled
+INFO - 2021-01-01 05:17:18 --> Utf8 Class Initialized
+INFO - 2021-01-01 05:17:18 --> URI Class Initialized
+INFO - 2021-01-01 05:17:18 --> Router Class Initialized
+INFO - 2021-01-01 05:17:18 --> Output Class Initialized
+INFO - 2021-01-01 05:17:18 --> Security Class Initialized
+DEBUG - 2021-01-01 05:17:18 --> Global POST, GET and COOKIE data sanitized
+INFO - 2021-01-01 05:17:18 --> Input Class Initialized
+INFO - 2021-01-01 05:17:18 --> Language Class Initialized
+INFO - 2021-01-01 05:17:18 --> Language Class Initialized
+INFO - 2021-01-01 05:17:18 --> Config Class Initialized
+INFO - 2021-01-01 05:17:18 --> Loader Class Initialized
+INFO - 2021-01-01 05:17:18 --> Helper loaded: url_helper
+INFO - 2021-01-01 05:17:18 --> Helper loaded: html_helper
+INFO - 2021-01-01 05:17:18 --> Helper loaded: file_helper
+INFO - 2021-01-01 05:17:18 --> Helper loaded: form_helper
+INFO - 2021-01-01 05:17:18 --> Helper loaded: security_helper
+INFO - 2021-01-01 05:17:18 --> Helper loaded: xss_helper
+INFO - 2021-01-01 05:17:18 --> Helper loaded: slug_helper
+INFO - 2021-01-01 05:17:18 --> Database Driver Class Initialized
+DEBUG - 2021-01-01 05:17:18 --> Session: "sess_save_path" is empty; using "session.save_path" value from php.ini.
+INFO - 2021-01-01 05:17:18 --> Session: Class initialized using 'files' driver.
+INFO - 2021-01-01 05:17:19 --> Language file loaded: language/english/pagination_lang.php
+INFO - 2021-01-01 05:17:19 --> Pagination Class Initialized
+INFO - 2021-01-01 05:17:19 --> Email Class Initialized
+INFO - 2021-01-01 05:17:19 --> Model "M_konfig" initialized
+INFO - 2021-01-01 05:17:19 --> Model "M_reff" initialized
+INFO - 2021-01-01 05:17:19 --> Model "M_total" initialized
+INFO - 2021-01-01 05:17:19 --> Controller Class Initialized
+DEBUG - 2021-01-01 05:17:19 --> File loaded: D:\xampp72\htdocs\app_grm\application\modules/apengumuman/models/Model.php
+INFO - 2021-01-01 11:17:19 --> Final output sent to browser
+DEBUG - 2021-01-01 11:17:19 --> Total execution time: 0.9473
+INFO - 2021-01-01 05:17:23 --> Config Class Initialized
+INFO - 2021-01-01 05:17:23 --> Hooks Class Initialized
+DEBUG - 2021-01-01 05:17:23 --> UTF-8 Support Enabled
+INFO - 2021-01-01 05:17:23 --> Utf8 Class Initialized
+INFO - 2021-01-01 05:17:23 --> URI Class Initialized
+INFO - 2021-01-01 05:17:23 --> Router Class Initialized
+INFO - 2021-01-01 05:17:23 --> Output Class Initialized
+INFO - 2021-01-01 05:17:23 --> Security Class Initialized
+DEBUG - 2021-01-01 05:17:23 --> Global POST, GET and COOKIE data sanitized
+INFO - 2021-01-01 05:17:23 --> Input Class Initialized
+INFO - 2021-01-01 05:17:23 --> Language Class Initialized
+INFO - 2021-01-01 05:17:23 --> Language Class Initialized
+INFO - 2021-01-01 05:17:23 --> Config Class Initialized
+INFO - 2021-01-01 05:17:23 --> Loader Class Initialized
+INFO - 2021-01-01 05:17:23 --> Helper loaded: url_helper
+INFO - 2021-01-01 05:17:23 --> Helper loaded: html_helper
+INFO - 2021-01-01 05:17:23 --> Helper loaded: file_helper
+INFO - 2021-01-01 05:17:23 --> Helper loaded: form_helper
+INFO - 2021-01-01 05:17:23 --> Helper loaded: security_helper
+INFO - 2021-01-01 05:17:23 --> Helper loaded: xss_helper
+INFO - 2021-01-01 05:17:24 --> Helper loaded: slug_helper
+INFO - 2021-01-01 05:17:24 --> Database Driver Class Initialized
+DEBUG - 2021-01-01 05:17:24 --> Session: "sess_save_path" is empty; using "session.save_path" value from php.ini.
+INFO - 2021-01-01 05:17:24 --> Session: Class initialized using 'files' driver.
+INFO - 2021-01-01 05:17:24 --> Language file loaded: language/english/pagination_lang.php
+INFO - 2021-01-01 05:17:24 --> Pagination Class Initialized
+INFO - 2021-01-01 05:17:24 --> Email Class Initialized
+INFO - 2021-01-01 05:17:24 --> Model "M_konfig" initialized
+INFO - 2021-01-01 05:17:24 --> Model "M_reff" initialized
+INFO - 2021-01-01 05:17:24 --> Model "M_total" initialized
+INFO - 2021-01-01 05:17:24 --> Controller Class Initialized
+DEBUG - 2021-01-01 05:17:24 --> File loaded: D:\xampp72\htdocs\app_grm\application\modules/apengumuman/models/Model.php
+INFO - 2021-01-01 11:17:24 --> Final output sent to browser
+DEBUG - 2021-01-01 11:17:24 --> Total execution time: 1.1081
+INFO - 2021-01-01 05:17:28 --> Config Class Initialized
+INFO - 2021-01-01 05:17:28 --> Hooks Class Initialized
+DEBUG - 2021-01-01 05:17:28 --> UTF-8 Support Enabled
+INFO - 2021-01-01 05:17:28 --> Utf8 Class Initialized
+INFO - 2021-01-01 05:17:28 --> URI Class Initialized
+INFO - 2021-01-01 05:17:28 --> Router Class Initialized
+INFO - 2021-01-01 05:17:28 --> Output Class Initialized
+INFO - 2021-01-01 05:17:28 --> Security Class Initialized
+DEBUG - 2021-01-01 05:17:28 --> Global POST, GET and COOKIE data sanitized
+INFO - 2021-01-01 05:17:28 --> Input Class Initialized
+INFO - 2021-01-01 05:17:28 --> Language Class Initialized
+INFO - 2021-01-01 05:17:28 --> Language Class Initialized
+INFO - 2021-01-01 05:17:28 --> Config Class Initialized
+INFO - 2021-01-01 05:17:28 --> Loader Class Initialized
+INFO - 2021-01-01 05:17:28 --> Helper loaded: url_helper
+INFO - 2021-01-01 05:17:28 --> Helper loaded: html_helper
+INFO - 2021-01-01 05:17:28 --> Helper loaded: file_helper
+INFO - 2021-01-01 05:17:28 --> Helper loaded: form_helper
+INFO - 2021-01-01 05:17:28 --> Helper loaded: security_helper
+INFO - 2021-01-01 05:17:28 --> Helper loaded: xss_helper
+INFO - 2021-01-01 05:17:28 --> Helper loaded: slug_helper
+INFO - 2021-01-01 05:17:28 --> Database Driver Class Initialized
+DEBUG - 2021-01-01 05:17:28 --> Session: "sess_save_path" is empty; using "session.save_path" value from php.ini.
+INFO - 2021-01-01 05:17:29 --> Session: Class initialized using 'files' driver.
+INFO - 2021-01-01 05:17:29 --> Language file loaded: language/english/pagination_lang.php
+INFO - 2021-01-01 05:17:29 --> Pagination Class Initialized
+INFO - 2021-01-01 05:17:29 --> Email Class Initialized
+INFO - 2021-01-01 05:17:29 --> Model "M_konfig" initialized
+INFO - 2021-01-01 05:17:29 --> Model "M_reff" initialized
+INFO - 2021-01-01 05:17:29 --> Model "M_total" initialized
+INFO - 2021-01-01 05:17:29 --> Controller Class Initialized
+DEBUG - 2021-01-01 05:17:29 --> File loaded: D:\xampp72\htdocs\app_grm\application\modules/apengumuman/models/Model.php
+INFO - 2021-01-01 11:17:29 --> Final output sent to browser
+DEBUG - 2021-01-01 11:17:29 --> Total execution time: 0.9619
+INFO - 2021-01-01 05:17:33 --> Config Class Initialized
+INFO - 2021-01-01 05:17:33 --> Hooks Class Initialized
+DEBUG - 2021-01-01 05:17:33 --> UTF-8 Support Enabled
+INFO - 2021-01-01 05:17:33 --> Utf8 Class Initialized
+INFO - 2021-01-01 05:17:33 --> URI Class Initialized
+INFO - 2021-01-01 05:17:33 --> Router Class Initialized
+INFO - 2021-01-01 05:17:33 --> Output Class Initialized
+INFO - 2021-01-01 05:17:33 --> Security Class Initialized
+DEBUG - 2021-01-01 05:17:33 --> Global POST, GET and COOKIE data sanitized
+INFO - 2021-01-01 05:17:33 --> Input Class Initialized
+INFO - 2021-01-01 05:17:33 --> Language Class Initialized
+INFO - 2021-01-01 05:17:33 --> Language Class Initialized
+INFO - 2021-01-01 05:17:33 --> Config Class Initialized
+INFO - 2021-01-01 05:17:33 --> Loader Class Initialized
+INFO - 2021-01-01 05:17:33 --> Helper loaded: url_helper
+INFO - 2021-01-01 05:17:33 --> Helper loaded: html_helper
+INFO - 2021-01-01 05:17:33 --> Helper loaded: file_helper
+INFO - 2021-01-01 05:17:33 --> Helper loaded: form_helper
+INFO - 2021-01-01 05:17:33 --> Helper loaded: security_helper
+INFO - 2021-01-01 05:17:33 --> Helper loaded: xss_helper
+INFO - 2021-01-01 05:17:33 --> Helper loaded: slug_helper
+INFO - 2021-01-01 05:17:33 --> Database Driver Class Initialized
+DEBUG - 2021-01-01 05:17:33 --> Session: "sess_save_path" is empty; using "session.save_path" value from php.ini.
+INFO - 2021-01-01 05:17:33 --> Session: Class initialized using 'files' driver.
+INFO - 2021-01-01 05:17:34 --> Language file loaded: language/english/pagination_lang.php
+INFO - 2021-01-01 05:17:34 --> Pagination Class Initialized
+INFO - 2021-01-01 05:17:34 --> Email Class Initialized
+INFO - 2021-01-01 05:17:34 --> Model "M_konfig" initialized
+INFO - 2021-01-01 05:17:34 --> Model "M_reff" initialized
+INFO - 2021-01-01 05:17:34 --> Model "M_total" initialized
+INFO - 2021-01-01 05:17:34 --> Controller Class Initialized
+DEBUG - 2021-01-01 05:17:34 --> File loaded: D:\xampp72\htdocs\app_grm\application\modules/apengumuman/models/Model.php
+INFO - 2021-01-01 11:17:34 --> Final output sent to browser
+DEBUG - 2021-01-01 11:17:34 --> Total execution time: 0.9424
+INFO - 2021-01-01 05:17:38 --> Config Class Initialized
+INFO - 2021-01-01 05:17:38 --> Hooks Class Initialized
+DEBUG - 2021-01-01 05:17:38 --> UTF-8 Support Enabled
+INFO - 2021-01-01 05:17:38 --> Utf8 Class Initialized
+INFO - 2021-01-01 05:17:38 --> URI Class Initialized
+INFO - 2021-01-01 05:17:38 --> Router Class Initialized
+INFO - 2021-01-01 05:17:38 --> Output Class Initialized
+INFO - 2021-01-01 05:17:38 --> Security Class Initialized
+DEBUG - 2021-01-01 05:17:38 --> Global POST, GET and COOKIE data sanitized
+INFO - 2021-01-01 05:17:38 --> Input Class Initialized
+INFO - 2021-01-01 05:17:38 --> Language Class Initialized
+INFO - 2021-01-01 05:17:38 --> Language Class Initialized
+INFO - 2021-01-01 05:17:38 --> Config Class Initialized
+INFO - 2021-01-01 05:17:38 --> Loader Class Initialized
+INFO - 2021-01-01 05:17:38 --> Helper loaded: url_helper
+INFO - 2021-01-01 05:17:38 --> Helper loaded: html_helper
+INFO - 2021-01-01 05:17:38 --> Helper loaded: file_helper
+INFO - 2021-01-01 05:17:38 --> Helper loaded: form_helper
+INFO - 2021-01-01 05:17:38 --> Helper loaded: security_helper
+INFO - 2021-01-01 05:17:38 --> Helper loaded: xss_helper
+INFO - 2021-01-01 05:17:38 --> Helper loaded: slug_helper
+INFO - 2021-01-01 05:17:39 --> Database Driver Class Initialized
+DEBUG - 2021-01-01 05:17:39 --> Session: "sess_save_path" is empty; using "session.save_path" value from php.ini.
+INFO - 2021-01-01 05:17:39 --> Session: Class initialized using 'files' driver.
+INFO - 2021-01-01 05:17:39 --> Language file loaded: language/english/pagination_lang.php
+INFO - 2021-01-01 05:17:39 --> Pagination Class Initialized
+INFO - 2021-01-01 05:17:39 --> Email Class Initialized
+INFO - 2021-01-01 05:17:39 --> Model "M_konfig" initialized
+INFO - 2021-01-01 05:17:39 --> Model "M_reff" initialized
+INFO - 2021-01-01 05:17:39 --> Model "M_total" initialized
+INFO - 2021-01-01 05:17:39 --> Controller Class Initialized
+DEBUG - 2021-01-01 05:17:39 --> File loaded: D:\xampp72\htdocs\app_grm\application\modules/apengumuman/models/Model.php
+INFO - 2021-01-01 11:17:39 --> Final output sent to browser
+DEBUG - 2021-01-01 11:17:39 --> Total execution time: 1.0407
+INFO - 2021-01-01 05:17:43 --> Config Class Initialized
+INFO - 2021-01-01 05:17:43 --> Hooks Class Initialized
+DEBUG - 2021-01-01 05:17:43 --> UTF-8 Support Enabled
+INFO - 2021-01-01 05:17:43 --> Utf8 Class Initialized
+INFO - 2021-01-01 05:17:43 --> URI Class Initialized
+INFO - 2021-01-01 05:17:43 --> Router Class Initialized
+INFO - 2021-01-01 05:17:43 --> Output Class Initialized
+INFO - 2021-01-01 05:17:43 --> Security Class Initialized
+DEBUG - 2021-01-01 05:17:43 --> Global POST, GET and COOKIE data sanitized
+INFO - 2021-01-01 05:17:43 --> Input Class Initialized
+INFO - 2021-01-01 05:17:43 --> Language Class Initialized
+INFO - 2021-01-01 05:17:43 --> Language Class Initialized
+INFO - 2021-01-01 05:17:43 --> Config Class Initialized
+INFO - 2021-01-01 05:17:43 --> Loader Class Initialized
+INFO - 2021-01-01 05:17:43 --> Helper loaded: url_helper
+INFO - 2021-01-01 05:17:43 --> Helper loaded: html_helper
+INFO - 2021-01-01 05:17:43 --> Helper loaded: file_helper
+INFO - 2021-01-01 05:17:43 --> Helper loaded: form_helper
+INFO - 2021-01-01 05:17:43 --> Helper loaded: security_helper
+INFO - 2021-01-01 05:17:43 --> Helper loaded: xss_helper
+INFO - 2021-01-01 05:17:43 --> Helper loaded: slug_helper
+INFO - 2021-01-01 05:17:43 --> Database Driver Class Initialized
+DEBUG - 2021-01-01 05:17:43 --> Session: "sess_save_path" is empty; using "session.save_path" value from php.ini.
+INFO - 2021-01-01 05:17:44 --> Session: Class initialized using 'files' driver.
+INFO - 2021-01-01 05:17:44 --> Language file loaded: language/english/pagination_lang.php
+INFO - 2021-01-01 05:17:44 --> Pagination Class Initialized
+INFO - 2021-01-01 05:17:44 --> Email Class Initialized
+INFO - 2021-01-01 05:17:44 --> Model "M_konfig" initialized
+INFO - 2021-01-01 05:17:44 --> Model "M_reff" initialized
+INFO - 2021-01-01 05:17:44 --> Model "M_total" initialized
+INFO - 2021-01-01 05:17:44 --> Controller Class Initialized
+DEBUG - 2021-01-01 05:17:44 --> File loaded: D:\xampp72\htdocs\app_grm\application\modules/apengumuman/models/Model.php
+INFO - 2021-01-01 11:17:44 --> Final output sent to browser
+DEBUG - 2021-01-01 11:17:44 --> Total execution time: 0.9468
+INFO - 2021-01-01 05:17:48 --> Config Class Initialized
+INFO - 2021-01-01 05:17:48 --> Hooks Class Initialized
+DEBUG - 2021-01-01 05:17:48 --> UTF-8 Support Enabled
+INFO - 2021-01-01 05:17:48 --> Utf8 Class Initialized
+INFO - 2021-01-01 05:17:48 --> URI Class Initialized
+INFO - 2021-01-01 05:17:48 --> Router Class Initialized
+INFO - 2021-01-01 05:17:48 --> Output Class Initialized
+INFO - 2021-01-01 05:17:48 --> Security Class Initialized
+DEBUG - 2021-01-01 05:17:48 --> Global POST, GET and COOKIE data sanitized
+INFO - 2021-01-01 05:17:48 --> Input Class Initialized
+INFO - 2021-01-01 05:17:48 --> Language Class Initialized
+INFO - 2021-01-01 05:17:48 --> Language Class Initialized
+INFO - 2021-01-01 05:17:48 --> Config Class Initialized
+INFO - 2021-01-01 05:17:48 --> Loader Class Initialized
+INFO - 2021-01-01 05:17:48 --> Helper loaded: url_helper
+INFO - 2021-01-01 05:17:48 --> Helper loaded: html_helper
+INFO - 2021-01-01 05:17:48 --> Helper loaded: file_helper
+INFO - 2021-01-01 05:17:48 --> Helper loaded: form_helper
+INFO - 2021-01-01 05:17:48 --> Helper loaded: security_helper
+INFO - 2021-01-01 05:17:49 --> Helper loaded: xss_helper
+INFO - 2021-01-01 05:17:49 --> Helper loaded: slug_helper
+INFO - 2021-01-01 05:17:49 --> Database Driver Class Initialized
+DEBUG - 2021-01-01 05:17:49 --> Session: "sess_save_path" is empty; using "session.save_path" value from php.ini.
+INFO - 2021-01-01 05:17:49 --> Session: Class initialized using 'files' driver.
+INFO - 2021-01-01 05:17:49 --> Language file loaded: language/english/pagination_lang.php
+INFO - 2021-01-01 05:17:49 --> Pagination Class Initialized
+INFO - 2021-01-01 05:17:49 --> Email Class Initialized
+INFO - 2021-01-01 05:17:49 --> Model "M_konfig" initialized
+INFO - 2021-01-01 05:17:49 --> Model "M_reff" initialized
+INFO - 2021-01-01 05:17:49 --> Model "M_total" initialized
+INFO - 2021-01-01 05:17:49 --> Controller Class Initialized
+DEBUG - 2021-01-01 05:17:49 --> File loaded: D:\xampp72\htdocs\app_grm\application\modules/apengumuman/models/Model.php
+INFO - 2021-01-01 11:17:49 --> Final output sent to browser
+DEBUG - 2021-01-01 11:17:49 --> Total execution time: 1.0744
+INFO - 2021-01-01 05:17:53 --> Config Class Initialized
+INFO - 2021-01-01 05:17:53 --> Hooks Class Initialized
+DEBUG - 2021-01-01 05:17:53 --> UTF-8 Support Enabled
+INFO - 2021-01-01 05:17:53 --> Utf8 Class Initialized
+INFO - 2021-01-01 05:17:53 --> URI Class Initialized
+INFO - 2021-01-01 05:17:53 --> Router Class Initialized
+INFO - 2021-01-01 05:17:53 --> Output Class Initialized
+INFO - 2021-01-01 05:17:53 --> Security Class Initialized
+DEBUG - 2021-01-01 05:17:53 --> Global POST, GET and COOKIE data sanitized
+INFO - 2021-01-01 05:17:53 --> Input Class Initialized
+INFO - 2021-01-01 05:17:53 --> Language Class Initialized
+INFO - 2021-01-01 05:17:53 --> Language Class Initialized
+INFO - 2021-01-01 05:17:54 --> Config Class Initialized
+INFO - 2021-01-01 05:17:54 --> Loader Class Initialized
+INFO - 2021-01-01 05:17:54 --> Helper loaded: url_helper
+INFO - 2021-01-01 05:17:54 --> Helper loaded: html_helper
+INFO - 2021-01-01 05:17:54 --> Helper loaded: file_helper
+INFO - 2021-01-01 05:17:54 --> Helper loaded: form_helper
+INFO - 2021-01-01 05:17:54 --> Helper loaded: security_helper
+INFO - 2021-01-01 05:17:54 --> Helper loaded: xss_helper
+INFO - 2021-01-01 05:17:54 --> Helper loaded: slug_helper
+INFO - 2021-01-01 05:17:54 --> Database Driver Class Initialized
+DEBUG - 2021-01-01 05:17:54 --> Session: "sess_save_path" is empty; using "session.save_path" value from php.ini.
+INFO - 2021-01-01 05:17:54 --> Session: Class initialized using 'files' driver.
+INFO - 2021-01-01 05:17:54 --> Language file loaded: language/english/pagination_lang.php
+INFO - 2021-01-01 05:17:54 --> Pagination Class Initialized
+INFO - 2021-01-01 05:17:54 --> Email Class Initialized
+INFO - 2021-01-01 05:17:54 --> Model "M_konfig" initialized
+INFO - 2021-01-01 05:17:54 --> Model "M_reff" initialized
+INFO - 2021-01-01 05:17:54 --> Model "M_total" initialized
+INFO - 2021-01-01 05:17:54 --> Controller Class Initialized
+DEBUG - 2021-01-01 05:17:54 --> File loaded: D:\xampp72\htdocs\app_grm\application\modules/apengumuman/models/Model.php
+INFO - 2021-01-01 11:17:54 --> Final output sent to browser
+DEBUG - 2021-01-01 11:17:54 --> Total execution time: 1.2944
+INFO - 2021-01-01 05:17:58 --> Config Class Initialized
+INFO - 2021-01-01 05:17:58 --> Hooks Class Initialized
+DEBUG - 2021-01-01 05:17:58 --> UTF-8 Support Enabled
+INFO - 2021-01-01 05:17:58 --> Utf8 Class Initialized
+INFO - 2021-01-01 05:17:58 --> URI Class Initialized
+INFO - 2021-01-01 05:17:58 --> Router Class Initialized
+INFO - 2021-01-01 05:17:58 --> Output Class Initialized
+INFO - 2021-01-01 05:17:58 --> Security Class Initialized
+DEBUG - 2021-01-01 05:17:58 --> Global POST, GET and COOKIE data sanitized
+INFO - 2021-01-01 05:17:58 --> Input Class Initialized
+INFO - 2021-01-01 05:17:58 --> Language Class Initialized
+INFO - 2021-01-01 05:17:58 --> Language Class Initialized
+INFO - 2021-01-01 05:17:58 --> Config Class Initialized
+INFO - 2021-01-01 05:17:58 --> Loader Class Initialized
+INFO - 2021-01-01 05:17:58 --> Helper loaded: url_helper
+INFO - 2021-01-01 05:17:58 --> Helper loaded: html_helper
+INFO - 2021-01-01 05:17:58 --> Helper loaded: file_helper
+INFO - 2021-01-01 05:17:58 --> Helper loaded: form_helper
+INFO - 2021-01-01 05:17:58 --> Helper loaded: security_helper
+INFO - 2021-01-01 05:17:59 --> Helper loaded: xss_helper
+INFO - 2021-01-01 05:17:59 --> Helper loaded: slug_helper
+INFO - 2021-01-01 05:17:59 --> Database Driver Class Initialized
+DEBUG - 2021-01-01 05:17:59 --> Session: "sess_save_path" is empty; using "session.save_path" value from php.ini.
+INFO - 2021-01-01 05:17:59 --> Session: Class initialized using 'files' driver.
+INFO - 2021-01-01 05:17:59 --> Language file loaded: language/english/pagination_lang.php
+INFO - 2021-01-01 05:17:59 --> Pagination Class Initialized
+INFO - 2021-01-01 05:17:59 --> Email Class Initialized
+INFO - 2021-01-01 05:17:59 --> Model "M_konfig" initialized
+INFO - 2021-01-01 05:17:59 --> Model "M_reff" initialized
+INFO - 2021-01-01 05:17:59 --> Model "M_total" initialized
+INFO - 2021-01-01 05:17:59 --> Controller Class Initialized
+DEBUG - 2021-01-01 05:17:59 --> File loaded: D:\xampp72\htdocs\app_grm\application\modules/apengumuman/models/Model.php
+INFO - 2021-01-01 11:17:59 --> Final output sent to browser
+DEBUG - 2021-01-01 11:17:59 --> Total execution time: 1.1939
+INFO - 2021-01-01 05:18:03 --> Config Class Initialized
+INFO - 2021-01-01 05:18:03 --> Hooks Class Initialized
+DEBUG - 2021-01-01 05:18:03 --> UTF-8 Support Enabled
+INFO - 2021-01-01 05:18:03 --> Utf8 Class Initialized
+INFO - 2021-01-01 05:18:03 --> URI Class Initialized
+INFO - 2021-01-01 05:18:03 --> Router Class Initialized
+INFO - 2021-01-01 05:18:03 --> Output Class Initialized
+INFO - 2021-01-01 05:18:03 --> Security Class Initialized
+DEBUG - 2021-01-01 05:18:03 --> Global POST, GET and COOKIE data sanitized
+INFO - 2021-01-01 05:18:03 --> Input Class Initialized
+INFO - 2021-01-01 05:18:03 --> Language Class Initialized
+INFO - 2021-01-01 05:18:03 --> Language Class Initialized
+INFO - 2021-01-01 05:18:03 --> Config Class Initialized
+INFO - 2021-01-01 05:18:03 --> Loader Class Initialized
+INFO - 2021-01-01 05:18:03 --> Helper loaded: url_helper
+INFO - 2021-01-01 05:18:03 --> Helper loaded: html_helper
+INFO - 2021-01-01 05:18:03 --> Helper loaded: file_helper
+INFO - 2021-01-01 05:18:03 --> Helper loaded: form_helper
+INFO - 2021-01-01 05:18:04 --> Helper loaded: security_helper
+INFO - 2021-01-01 05:18:04 --> Helper loaded: xss_helper
+INFO - 2021-01-01 05:18:04 --> Helper loaded: slug_helper
+INFO - 2021-01-01 05:18:04 --> Database Driver Class Initialized
+DEBUG - 2021-01-01 05:18:04 --> Session: "sess_save_path" is empty; using "session.save_path" value from php.ini.
+INFO - 2021-01-01 05:18:04 --> Session: Class initialized using 'files' driver.
+INFO - 2021-01-01 05:18:04 --> Language file loaded: language/english/pagination_lang.php
+INFO - 2021-01-01 05:18:04 --> Pagination Class Initialized
+INFO - 2021-01-01 05:18:04 --> Email Class Initialized
+INFO - 2021-01-01 05:18:04 --> Model "M_konfig" initialized
+INFO - 2021-01-01 05:18:04 --> Model "M_reff" initialized
+INFO - 2021-01-01 05:18:04 --> Model "M_total" initialized
+INFO - 2021-01-01 05:18:04 --> Controller Class Initialized
+DEBUG - 2021-01-01 05:18:04 --> File loaded: D:\xampp72\htdocs\app_grm\application\modules/apengumuman/models/Model.php
+INFO - 2021-01-01 11:18:04 --> Final output sent to browser
+DEBUG - 2021-01-01 11:18:04 --> Total execution time: 1.1049
+INFO - 2021-01-01 05:18:08 --> Config Class Initialized
+INFO - 2021-01-01 05:18:08 --> Hooks Class Initialized
+DEBUG - 2021-01-01 05:18:08 --> UTF-8 Support Enabled
+INFO - 2021-01-01 05:18:08 --> Utf8 Class Initialized
+INFO - 2021-01-01 05:18:08 --> URI Class Initialized
+INFO - 2021-01-01 05:18:08 --> Router Class Initialized
+INFO - 2021-01-01 05:18:08 --> Output Class Initialized
+INFO - 2021-01-01 05:18:08 --> Security Class Initialized
+DEBUG - 2021-01-01 05:18:08 --> Global POST, GET and COOKIE data sanitized
+INFO - 2021-01-01 05:18:08 --> Input Class Initialized
+INFO - 2021-01-01 05:18:08 --> Language Class Initialized
+INFO - 2021-01-01 05:18:08 --> Language Class Initialized
+INFO - 2021-01-01 05:18:08 --> Config Class Initialized
+INFO - 2021-01-01 05:18:08 --> Loader Class Initialized
+INFO - 2021-01-01 05:18:08 --> Helper loaded: url_helper
+INFO - 2021-01-01 05:18:08 --> Helper loaded: html_helper
+INFO - 2021-01-01 05:18:08 --> Helper loaded: file_helper
+INFO - 2021-01-01 05:18:08 --> Helper loaded: form_helper
+INFO - 2021-01-01 05:18:08 --> Helper loaded: security_helper
+INFO - 2021-01-01 05:18:08 --> Helper loaded: xss_helper
+INFO - 2021-01-01 05:18:08 --> Helper loaded: slug_helper
+INFO - 2021-01-01 05:18:09 --> Database Driver Class Initialized
+DEBUG - 2021-01-01 05:18:09 --> Session: "sess_save_path" is empty; using "session.save_path" value from php.ini.
+INFO - 2021-01-01 05:18:09 --> Session: Class initialized using 'files' driver.
+INFO - 2021-01-01 05:18:09 --> Language file loaded: language/english/pagination_lang.php
+INFO - 2021-01-01 05:18:09 --> Pagination Class Initialized
+INFO - 2021-01-01 05:18:09 --> Email Class Initialized
+INFO - 2021-01-01 05:18:09 --> Model "M_konfig" initialized
+INFO - 2021-01-01 05:18:09 --> Model "M_reff" initialized
+INFO - 2021-01-01 05:18:09 --> Model "M_total" initialized
+INFO - 2021-01-01 05:18:09 --> Controller Class Initialized
+DEBUG - 2021-01-01 05:18:09 --> File loaded: D:\xampp72\htdocs\app_grm\application\modules/apengumuman/models/Model.php
+INFO - 2021-01-01 11:18:09 --> Final output sent to browser
+DEBUG - 2021-01-01 11:18:09 --> Total execution time: 0.9671
+INFO - 2021-01-01 05:18:13 --> Config Class Initialized
+INFO - 2021-01-01 05:18:13 --> Hooks Class Initialized
+DEBUG - 2021-01-01 05:18:13 --> UTF-8 Support Enabled
+INFO - 2021-01-01 05:18:13 --> Utf8 Class Initialized
+INFO - 2021-01-01 05:18:13 --> URI Class Initialized
+INFO - 2021-01-01 05:18:13 --> Router Class Initialized
+INFO - 2021-01-01 05:18:13 --> Output Class Initialized
+INFO - 2021-01-01 05:18:13 --> Security Class Initialized
+DEBUG - 2021-01-01 05:18:13 --> Global POST, GET and COOKIE data sanitized
+INFO - 2021-01-01 05:18:13 --> Input Class Initialized
+INFO - 2021-01-01 05:18:13 --> Language Class Initialized
+INFO - 2021-01-01 05:18:13 --> Language Class Initialized
+INFO - 2021-01-01 05:18:13 --> Config Class Initialized
+INFO - 2021-01-01 05:18:13 --> Loader Class Initialized
+INFO - 2021-01-01 05:18:13 --> Helper loaded: url_helper
+INFO - 2021-01-01 05:18:13 --> Helper loaded: html_helper
+INFO - 2021-01-01 05:18:13 --> Helper loaded: file_helper
+INFO - 2021-01-01 05:18:13 --> Helper loaded: form_helper
+INFO - 2021-01-01 05:18:13 --> Helper loaded: security_helper
+INFO - 2021-01-01 05:18:13 --> Helper loaded: xss_helper
+INFO - 2021-01-01 05:18:13 --> Helper loaded: slug_helper
+INFO - 2021-01-01 05:18:14 --> Database Driver Class Initialized
+DEBUG - 2021-01-01 05:18:14 --> Session: "sess_save_path" is empty; using "session.save_path" value from php.ini.
+INFO - 2021-01-01 05:18:14 --> Session: Class initialized using 'files' driver.
+INFO - 2021-01-01 05:18:14 --> Language file loaded: language/english/pagination_lang.php
+INFO - 2021-01-01 05:18:14 --> Pagination Class Initialized
+INFO - 2021-01-01 05:18:14 --> Email Class Initialized
+INFO - 2021-01-01 05:18:14 --> Model "M_konfig" initialized
+INFO - 2021-01-01 05:18:14 --> Model "M_reff" initialized
+INFO - 2021-01-01 05:18:14 --> Model "M_total" initialized
+INFO - 2021-01-01 05:18:14 --> Controller Class Initialized
+DEBUG - 2021-01-01 05:18:14 --> File loaded: D:\xampp72\htdocs\app_grm\application\modules/apengumuman/models/Model.php
+INFO - 2021-01-01 11:18:14 --> Final output sent to browser
+DEBUG - 2021-01-01 11:18:14 --> Total execution time: 1.0127
+INFO - 2021-01-01 05:18:18 --> Config Class Initialized
+INFO - 2021-01-01 05:18:18 --> Hooks Class Initialized
+DEBUG - 2021-01-01 05:18:18 --> UTF-8 Support Enabled
+INFO - 2021-01-01 05:18:18 --> Utf8 Class Initialized
+INFO - 2021-01-01 05:18:18 --> URI Class Initialized
+INFO - 2021-01-01 05:18:18 --> Router Class Initialized
+INFO - 2021-01-01 05:18:18 --> Output Class Initialized
+INFO - 2021-01-01 05:18:18 --> Security Class Initialized
+DEBUG - 2021-01-01 05:18:18 --> Global POST, GET and COOKIE data sanitized
+INFO - 2021-01-01 05:18:18 --> Input Class Initialized
+INFO - 2021-01-01 05:18:18 --> Language Class Initialized
+INFO - 2021-01-01 05:18:18 --> Language Class Initialized
+INFO - 2021-01-01 05:18:18 --> Config Class Initialized
+INFO - 2021-01-01 05:18:18 --> Loader Class Initialized
+INFO - 2021-01-01 05:18:18 --> Helper loaded: url_helper
+INFO - 2021-01-01 05:18:18 --> Helper loaded: html_helper
+INFO - 2021-01-01 05:18:18 --> Helper loaded: file_helper
+INFO - 2021-01-01 05:18:18 --> Helper loaded: form_helper
+INFO - 2021-01-01 05:18:18 --> Helper loaded: security_helper
+INFO - 2021-01-01 05:18:18 --> Helper loaded: xss_helper
+INFO - 2021-01-01 05:18:18 --> Helper loaded: slug_helper
+INFO - 2021-01-01 05:18:19 --> Database Driver Class Initialized
+DEBUG - 2021-01-01 05:18:19 --> Session: "sess_save_path" is empty; using "session.save_path" value from php.ini.
+INFO - 2021-01-01 05:18:19 --> Session: Class initialized using 'files' driver.
+INFO - 2021-01-01 05:18:19 --> Language file loaded: language/english/pagination_lang.php
+INFO - 2021-01-01 05:18:19 --> Pagination Class Initialized
+INFO - 2021-01-01 05:18:19 --> Email Class Initialized
+INFO - 2021-01-01 05:18:19 --> Model "M_konfig" initialized
+INFO - 2021-01-01 05:18:19 --> Model "M_reff" initialized
+INFO - 2021-01-01 05:18:19 --> Model "M_total" initialized
+INFO - 2021-01-01 05:18:19 --> Controller Class Initialized
+DEBUG - 2021-01-01 05:18:19 --> File loaded: D:\xampp72\htdocs\app_grm\application\modules/apengumuman/models/Model.php
+INFO - 2021-01-01 11:18:19 --> Final output sent to browser
+DEBUG - 2021-01-01 11:18:19 --> Total execution time: 0.9800
+INFO - 2021-01-01 05:18:23 --> Config Class Initialized
+INFO - 2021-01-01 05:18:23 --> Hooks Class Initialized
+DEBUG - 2021-01-01 05:18:23 --> UTF-8 Support Enabled
+INFO - 2021-01-01 05:18:23 --> Utf8 Class Initialized
+INFO - 2021-01-01 05:18:23 --> URI Class Initialized
+INFO - 2021-01-01 05:18:23 --> Router Class Initialized
+INFO - 2021-01-01 05:18:23 --> Output Class Initialized
+INFO - 2021-01-01 05:18:23 --> Security Class Initialized
+DEBUG - 2021-01-01 05:18:23 --> Global POST, GET and COOKIE data sanitized
+INFO - 2021-01-01 05:18:23 --> Input Class Initialized
+INFO - 2021-01-01 05:18:23 --> Language Class Initialized
+INFO - 2021-01-01 05:18:23 --> Language Class Initialized
+INFO - 2021-01-01 05:18:23 --> Config Class Initialized
+INFO - 2021-01-01 05:18:23 --> Loader Class Initialized
+INFO - 2021-01-01 05:18:23 --> Helper loaded: url_helper
+INFO - 2021-01-01 05:18:23 --> Helper loaded: html_helper
+INFO - 2021-01-01 05:18:23 --> Helper loaded: file_helper
+INFO - 2021-01-01 05:18:23 --> Helper loaded: form_helper
+INFO - 2021-01-01 05:18:23 --> Helper loaded: security_helper
+INFO - 2021-01-01 05:18:24 --> Helper loaded: xss_helper
+INFO - 2021-01-01 05:18:24 --> Helper loaded: slug_helper
+INFO - 2021-01-01 05:18:24 --> Database Driver Class Initialized
+DEBUG - 2021-01-01 05:18:24 --> Session: "sess_save_path" is empty; using "session.save_path" value from php.ini.
+INFO - 2021-01-01 05:18:24 --> Session: Class initialized using 'files' driver.
+INFO - 2021-01-01 05:18:24 --> Language file loaded: language/english/pagination_lang.php
+INFO - 2021-01-01 05:18:24 --> Pagination Class Initialized
+INFO - 2021-01-01 05:18:24 --> Email Class Initialized
+INFO - 2021-01-01 05:18:24 --> Model "M_konfig" initialized
+INFO - 2021-01-01 05:18:24 --> Model "M_reff" initialized
+INFO - 2021-01-01 05:18:24 --> Model "M_total" initialized
+INFO - 2021-01-01 05:18:24 --> Controller Class Initialized
+DEBUG - 2021-01-01 05:18:24 --> File loaded: D:\xampp72\htdocs\app_grm\application\modules/apengumuman/models/Model.php
+INFO - 2021-01-01 11:18:24 --> Final output sent to browser
+DEBUG - 2021-01-01 11:18:24 --> Total execution time: 0.9994
+INFO - 2021-01-01 05:18:28 --> Config Class Initialized
+INFO - 2021-01-01 05:18:28 --> Hooks Class Initialized
+DEBUG - 2021-01-01 05:18:28 --> UTF-8 Support Enabled
+INFO - 2021-01-01 05:18:28 --> Utf8 Class Initialized
+INFO - 2021-01-01 05:18:28 --> URI Class Initialized
+INFO - 2021-01-01 05:18:28 --> Router Class Initialized
+INFO - 2021-01-01 05:18:28 --> Output Class Initialized
+INFO - 2021-01-01 05:18:28 --> Security Class Initialized
+DEBUG - 2021-01-01 05:18:28 --> Global POST, GET and COOKIE data sanitized
+INFO - 2021-01-01 05:18:28 --> Input Class Initialized
+INFO - 2021-01-01 05:18:28 --> Language Class Initialized
+INFO - 2021-01-01 05:18:28 --> Language Class Initialized
+INFO - 2021-01-01 05:18:28 --> Config Class Initialized
+INFO - 2021-01-01 05:18:28 --> Loader Class Initialized
+INFO - 2021-01-01 05:18:28 --> Helper loaded: url_helper
+INFO - 2021-01-01 05:18:28 --> Helper loaded: html_helper
+INFO - 2021-01-01 05:18:28 --> Helper loaded: file_helper
+INFO - 2021-01-01 05:18:28 --> Helper loaded: form_helper
+INFO - 2021-01-01 05:18:28 --> Helper loaded: security_helper
+INFO - 2021-01-01 05:18:28 --> Helper loaded: xss_helper
+INFO - 2021-01-01 05:18:29 --> Helper loaded: slug_helper
+INFO - 2021-01-01 05:18:29 --> Database Driver Class Initialized
+DEBUG - 2021-01-01 05:18:29 --> Session: "sess_save_path" is empty; using "session.save_path" value from php.ini.
+INFO - 2021-01-01 05:18:29 --> Session: Class initialized using 'files' driver.
+INFO - 2021-01-01 05:18:29 --> Language file loaded: language/english/pagination_lang.php
+INFO - 2021-01-01 05:18:29 --> Pagination Class Initialized
+INFO - 2021-01-01 05:18:29 --> Email Class Initialized
+INFO - 2021-01-01 05:18:29 --> Model "M_konfig" initialized
+INFO - 2021-01-01 05:18:29 --> Model "M_reff" initialized
+INFO - 2021-01-01 05:18:29 --> Model "M_total" initialized
+INFO - 2021-01-01 05:18:29 --> Controller Class Initialized
+DEBUG - 2021-01-01 05:18:29 --> File loaded: D:\xampp72\htdocs\app_grm\application\modules/apengumuman/models/Model.php
+INFO - 2021-01-01 11:18:29 --> Final output sent to browser
+DEBUG - 2021-01-01 11:18:29 --> Total execution time: 0.9975
+INFO - 2021-01-01 05:18:33 --> Config Class Initialized
+INFO - 2021-01-01 05:18:33 --> Hooks Class Initialized
+DEBUG - 2021-01-01 05:18:33 --> UTF-8 Support Enabled
+INFO - 2021-01-01 05:18:33 --> Utf8 Class Initialized
+INFO - 2021-01-01 05:18:33 --> URI Class Initialized
+INFO - 2021-01-01 05:18:33 --> Router Class Initialized
+INFO - 2021-01-01 05:18:33 --> Output Class Initialized
+INFO - 2021-01-01 05:18:33 --> Security Class Initialized
+DEBUG - 2021-01-01 05:18:33 --> Global POST, GET and COOKIE data sanitized
+INFO - 2021-01-01 05:18:33 --> Input Class Initialized
+INFO - 2021-01-01 05:18:33 --> Language Class Initialized
+INFO - 2021-01-01 05:18:33 --> Language Class Initialized
+INFO - 2021-01-01 05:18:33 --> Config Class Initialized
+INFO - 2021-01-01 05:18:33 --> Loader Class Initialized
+INFO - 2021-01-01 05:18:33 --> Helper loaded: url_helper
+INFO - 2021-01-01 05:18:33 --> Helper loaded: html_helper
+INFO - 2021-01-01 05:18:33 --> Helper loaded: file_helper
+INFO - 2021-01-01 05:18:33 --> Helper loaded: form_helper
+INFO - 2021-01-01 05:18:33 --> Helper loaded: security_helper
+INFO - 2021-01-01 05:18:33 --> Helper loaded: xss_helper
+INFO - 2021-01-01 05:18:34 --> Helper loaded: slug_helper
+INFO - 2021-01-01 05:18:34 --> Database Driver Class Initialized
+DEBUG - 2021-01-01 05:18:34 --> Session: "sess_save_path" is empty; using "session.save_path" value from php.ini.
+INFO - 2021-01-01 05:18:34 --> Session: Class initialized using 'files' driver.
+INFO - 2021-01-01 05:18:34 --> Language file loaded: language/english/pagination_lang.php
+INFO - 2021-01-01 05:18:34 --> Pagination Class Initialized
+INFO - 2021-01-01 05:18:34 --> Email Class Initialized
+INFO - 2021-01-01 05:18:34 --> Model "M_konfig" initialized
+INFO - 2021-01-01 05:18:34 --> Model "M_reff" initialized
+INFO - 2021-01-01 05:18:34 --> Model "M_total" initialized
+INFO - 2021-01-01 05:18:34 --> Controller Class Initialized
+DEBUG - 2021-01-01 05:18:34 --> File loaded: D:\xampp72\htdocs\app_grm\application\modules/apengumuman/models/Model.php
+INFO - 2021-01-01 11:18:34 --> Final output sent to browser
+DEBUG - 2021-01-01 11:18:34 --> Total execution time: 0.9681
+INFO - 2021-01-01 05:18:38 --> Config Class Initialized
+INFO - 2021-01-01 05:18:38 --> Hooks Class Initialized
+DEBUG - 2021-01-01 05:18:38 --> UTF-8 Support Enabled
+INFO - 2021-01-01 05:18:38 --> Utf8 Class Initialized
+INFO - 2021-01-01 05:18:38 --> URI Class Initialized
+INFO - 2021-01-01 05:18:38 --> Router Class Initialized
+INFO - 2021-01-01 05:18:38 --> Output Class Initialized
+INFO - 2021-01-01 05:18:38 --> Security Class Initialized
+DEBUG - 2021-01-01 05:18:38 --> Global POST, GET and COOKIE data sanitized
+INFO - 2021-01-01 05:18:38 --> Input Class Initialized
+INFO - 2021-01-01 05:18:38 --> Language Class Initialized
+INFO - 2021-01-01 05:18:38 --> Language Class Initialized
+INFO - 2021-01-01 05:18:38 --> Config Class Initialized
+INFO - 2021-01-01 05:18:38 --> Loader Class Initialized
+INFO - 2021-01-01 05:18:38 --> Helper loaded: url_helper
+INFO - 2021-01-01 05:18:38 --> Helper loaded: html_helper
+INFO - 2021-01-01 05:18:38 --> Helper loaded: file_helper
+INFO - 2021-01-01 05:18:39 --> Helper loaded: form_helper
+INFO - 2021-01-01 05:18:39 --> Helper loaded: security_helper
+INFO - 2021-01-01 05:18:39 --> Helper loaded: xss_helper
+INFO - 2021-01-01 05:18:39 --> Helper loaded: slug_helper
+INFO - 2021-01-01 05:18:39 --> Database Driver Class Initialized
+DEBUG - 2021-01-01 05:18:39 --> Session: "sess_save_path" is empty; using "session.save_path" value from php.ini.
+INFO - 2021-01-01 05:18:39 --> Session: Class initialized using 'files' driver.
+INFO - 2021-01-01 05:18:39 --> Language file loaded: language/english/pagination_lang.php
+INFO - 2021-01-01 05:18:39 --> Pagination Class Initialized
+INFO - 2021-01-01 05:18:39 --> Email Class Initialized
+INFO - 2021-01-01 05:18:39 --> Model "M_konfig" initialized
+INFO - 2021-01-01 05:18:39 --> Model "M_reff" initialized
+INFO - 2021-01-01 05:18:39 --> Model "M_total" initialized
+INFO - 2021-01-01 05:18:39 --> Controller Class Initialized
+DEBUG - 2021-01-01 05:18:39 --> File loaded: D:\xampp72\htdocs\app_grm\application\modules/apengumuman/models/Model.php
+INFO - 2021-01-01 11:18:39 --> Final output sent to browser
+DEBUG - 2021-01-01 11:18:39 --> Total execution time: 1.0523
+INFO - 2021-01-01 05:18:43 --> Config Class Initialized
+INFO - 2021-01-01 05:18:43 --> Hooks Class Initialized
+DEBUG - 2021-01-01 05:18:43 --> UTF-8 Support Enabled
+INFO - 2021-01-01 05:18:43 --> Utf8 Class Initialized
+INFO - 2021-01-01 05:18:43 --> URI Class Initialized
+INFO - 2021-01-01 05:18:43 --> Router Class Initialized
+INFO - 2021-01-01 05:18:43 --> Output Class Initialized
+INFO - 2021-01-01 05:18:43 --> Security Class Initialized
+DEBUG - 2021-01-01 05:18:43 --> Global POST, GET and COOKIE data sanitized
+INFO - 2021-01-01 05:18:43 --> Input Class Initialized
+INFO - 2021-01-01 05:18:43 --> Language Class Initialized
+INFO - 2021-01-01 05:18:43 --> Language Class Initialized
+INFO - 2021-01-01 05:18:43 --> Config Class Initialized
+INFO - 2021-01-01 05:18:43 --> Loader Class Initialized
+INFO - 2021-01-01 05:18:43 --> Helper loaded: url_helper
+INFO - 2021-01-01 05:18:44 --> Helper loaded: html_helper
+INFO - 2021-01-01 05:18:44 --> Helper loaded: file_helper
+INFO - 2021-01-01 05:18:44 --> Helper loaded: form_helper
+INFO - 2021-01-01 05:18:44 --> Helper loaded: security_helper
+INFO - 2021-01-01 05:18:44 --> Helper loaded: xss_helper
+INFO - 2021-01-01 05:18:44 --> Helper loaded: slug_helper
+INFO - 2021-01-01 05:18:44 --> Database Driver Class Initialized
+DEBUG - 2021-01-01 05:18:44 --> Session: "sess_save_path" is empty; using "session.save_path" value from php.ini.
+INFO - 2021-01-01 05:18:44 --> Session: Class initialized using 'files' driver.
+INFO - 2021-01-01 05:18:44 --> Language file loaded: language/english/pagination_lang.php
+INFO - 2021-01-01 05:18:44 --> Pagination Class Initialized
+INFO - 2021-01-01 05:18:44 --> Email Class Initialized
+INFO - 2021-01-01 05:18:44 --> Model "M_konfig" initialized
+INFO - 2021-01-01 05:18:44 --> Model "M_reff" initialized
+INFO - 2021-01-01 05:18:44 --> Model "M_total" initialized
+INFO - 2021-01-01 05:18:44 --> Controller Class Initialized
+DEBUG - 2021-01-01 05:18:44 --> File loaded: D:\xampp72\htdocs\app_grm\application\modules/apengumuman/models/Model.php
+INFO - 2021-01-01 11:18:44 --> Final output sent to browser
+DEBUG - 2021-01-01 11:18:44 --> Total execution time: 1.2427
+INFO - 2021-01-01 05:18:48 --> Config Class Initialized
+INFO - 2021-01-01 05:18:48 --> Hooks Class Initialized
+DEBUG - 2021-01-01 05:18:48 --> UTF-8 Support Enabled
+INFO - 2021-01-01 05:18:48 --> Utf8 Class Initialized
+INFO - 2021-01-01 05:18:48 --> URI Class Initialized
+INFO - 2021-01-01 05:18:48 --> Router Class Initialized
+INFO - 2021-01-01 05:18:48 --> Output Class Initialized
+INFO - 2021-01-01 05:18:48 --> Security Class Initialized
+DEBUG - 2021-01-01 05:18:48 --> Global POST, GET and COOKIE data sanitized
+INFO - 2021-01-01 05:18:48 --> Input Class Initialized
+INFO - 2021-01-01 05:18:48 --> Language Class Initialized
+INFO - 2021-01-01 05:18:48 --> Language Class Initialized
+INFO - 2021-01-01 05:18:48 --> Config Class Initialized
+INFO - 2021-01-01 05:18:48 --> Loader Class Initialized
+INFO - 2021-01-01 05:18:48 --> Helper loaded: url_helper
+INFO - 2021-01-01 05:18:48 --> Helper loaded: html_helper
+INFO - 2021-01-01 05:18:48 --> Helper loaded: file_helper
+INFO - 2021-01-01 05:18:48 --> Helper loaded: form_helper
+INFO - 2021-01-01 05:18:48 --> Helper loaded: security_helper
+INFO - 2021-01-01 05:18:49 --> Helper loaded: xss_helper
+INFO - 2021-01-01 05:18:49 --> Helper loaded: slug_helper
+INFO - 2021-01-01 05:18:49 --> Database Driver Class Initialized
+DEBUG - 2021-01-01 05:18:49 --> Session: "sess_save_path" is empty; using "session.save_path" value from php.ini.
+INFO - 2021-01-01 05:18:49 --> Session: Class initialized using 'files' driver.
+INFO - 2021-01-01 05:18:49 --> Language file loaded: language/english/pagination_lang.php
+INFO - 2021-01-01 05:18:49 --> Pagination Class Initialized
+INFO - 2021-01-01 05:18:49 --> Email Class Initialized
+INFO - 2021-01-01 05:18:49 --> Model "M_konfig" initialized
+INFO - 2021-01-01 05:18:49 --> Model "M_reff" initialized
+INFO - 2021-01-01 05:18:49 --> Model "M_total" initialized
+INFO - 2021-01-01 05:18:49 --> Controller Class Initialized
+DEBUG - 2021-01-01 05:18:49 --> File loaded: D:\xampp72\htdocs\app_grm\application\modules/apengumuman/models/Model.php
+INFO - 2021-01-01 11:18:49 --> Final output sent to browser
+DEBUG - 2021-01-01 11:18:49 --> Total execution time: 1.0739
+INFO - 2021-01-01 05:18:53 --> Config Class Initialized
+INFO - 2021-01-01 05:18:53 --> Hooks Class Initialized
+DEBUG - 2021-01-01 05:18:53 --> UTF-8 Support Enabled
+INFO - 2021-01-01 05:18:53 --> Utf8 Class Initialized
+INFO - 2021-01-01 05:18:53 --> URI Class Initialized
+INFO - 2021-01-01 05:18:53 --> Router Class Initialized
+INFO - 2021-01-01 05:18:53 --> Output Class Initialized
+INFO - 2021-01-01 05:18:53 --> Security Class Initialized
+DEBUG - 2021-01-01 05:18:53 --> Global POST, GET and COOKIE data sanitized
+INFO - 2021-01-01 05:18:53 --> Input Class Initialized
+INFO - 2021-01-01 05:18:53 --> Language Class Initialized
+INFO - 2021-01-01 05:18:53 --> Language Class Initialized
+INFO - 2021-01-01 05:18:53 --> Config Class Initialized
+INFO - 2021-01-01 05:18:53 --> Loader Class Initialized
+INFO - 2021-01-01 05:18:53 --> Helper loaded: url_helper
+INFO - 2021-01-01 05:18:53 --> Helper loaded: html_helper
+INFO - 2021-01-01 05:18:53 --> Helper loaded: file_helper
+INFO - 2021-01-01 05:18:53 --> Helper loaded: form_helper
+INFO - 2021-01-01 05:18:53 --> Helper loaded: security_helper
+INFO - 2021-01-01 05:18:54 --> Helper loaded: xss_helper
+INFO - 2021-01-01 05:18:54 --> Helper loaded: slug_helper
+INFO - 2021-01-01 05:18:54 --> Database Driver Class Initialized
+DEBUG - 2021-01-01 05:18:54 --> Session: "sess_save_path" is empty; using "session.save_path" value from php.ini.
+INFO - 2021-01-01 05:18:54 --> Session: Class initialized using 'files' driver.
+INFO - 2021-01-01 05:18:54 --> Language file loaded: language/english/pagination_lang.php
+INFO - 2021-01-01 05:18:54 --> Pagination Class Initialized
+INFO - 2021-01-01 05:18:54 --> Email Class Initialized
+INFO - 2021-01-01 05:18:54 --> Model "M_konfig" initialized
+INFO - 2021-01-01 05:18:54 --> Model "M_reff" initialized
+INFO - 2021-01-01 05:18:54 --> Model "M_total" initialized
+INFO - 2021-01-01 05:18:54 --> Controller Class Initialized
+DEBUG - 2021-01-01 05:18:54 --> File loaded: D:\xampp72\htdocs\app_grm\application\modules/apengumuman/models/Model.php
+INFO - 2021-01-01 11:18:54 --> Final output sent to browser
+DEBUG - 2021-01-01 11:18:54 --> Total execution time: 0.9763
+INFO - 2021-01-01 05:18:58 --> Config Class Initialized
+INFO - 2021-01-01 05:18:58 --> Hooks Class Initialized
+DEBUG - 2021-01-01 05:18:58 --> UTF-8 Support Enabled
+INFO - 2021-01-01 05:18:58 --> Utf8 Class Initialized
+INFO - 2021-01-01 05:18:58 --> URI Class Initialized
+INFO - 2021-01-01 05:18:58 --> Router Class Initialized
+INFO - 2021-01-01 05:18:58 --> Output Class Initialized
+INFO - 2021-01-01 05:18:58 --> Security Class Initialized
+DEBUG - 2021-01-01 05:18:58 --> Global POST, GET and COOKIE data sanitized
+INFO - 2021-01-01 05:18:58 --> Input Class Initialized
+INFO - 2021-01-01 05:18:58 --> Language Class Initialized
+INFO - 2021-01-01 05:18:58 --> Language Class Initialized
+INFO - 2021-01-01 05:18:58 --> Config Class Initialized
+INFO - 2021-01-01 05:18:58 --> Loader Class Initialized
+INFO - 2021-01-01 05:18:58 --> Helper loaded: url_helper
+INFO - 2021-01-01 05:18:58 --> Helper loaded: html_helper
+INFO - 2021-01-01 05:18:58 --> Helper loaded: file_helper
+INFO - 2021-01-01 05:18:58 --> Helper loaded: form_helper
+INFO - 2021-01-01 05:18:58 --> Helper loaded: security_helper
+INFO - 2021-01-01 05:18:59 --> Helper loaded: xss_helper
+INFO - 2021-01-01 05:18:59 --> Helper loaded: slug_helper
+INFO - 2021-01-01 05:18:59 --> Database Driver Class Initialized
+DEBUG - 2021-01-01 05:18:59 --> Session: "sess_save_path" is empty; using "session.save_path" value from php.ini.
+INFO - 2021-01-01 05:18:59 --> Session: Class initialized using 'files' driver.
+INFO - 2021-01-01 05:18:59 --> Language file loaded: language/english/pagination_lang.php
+INFO - 2021-01-01 05:18:59 --> Pagination Class Initialized
+INFO - 2021-01-01 05:18:59 --> Email Class Initialized
+INFO - 2021-01-01 05:18:59 --> Model "M_konfig" initialized
+INFO - 2021-01-01 05:18:59 --> Model "M_reff" initialized
+INFO - 2021-01-01 05:18:59 --> Model "M_total" initialized
+INFO - 2021-01-01 05:18:59 --> Controller Class Initialized
+DEBUG - 2021-01-01 05:18:59 --> File loaded: D:\xampp72\htdocs\app_grm\application\modules/apengumuman/models/Model.php
+INFO - 2021-01-01 11:18:59 --> Final output sent to browser
+DEBUG - 2021-01-01 11:18:59 --> Total execution time: 0.9742
+INFO - 2021-01-01 05:19:03 --> Config Class Initialized
+INFO - 2021-01-01 05:19:03 --> Hooks Class Initialized
+DEBUG - 2021-01-01 05:19:03 --> UTF-8 Support Enabled
+INFO - 2021-01-01 05:19:03 --> Utf8 Class Initialized
+INFO - 2021-01-01 05:19:03 --> URI Class Initialized
+INFO - 2021-01-01 05:19:03 --> Router Class Initialized
+INFO - 2021-01-01 05:19:03 --> Output Class Initialized
+INFO - 2021-01-01 05:19:03 --> Security Class Initialized
+DEBUG - 2021-01-01 05:19:03 --> Global POST, GET and COOKIE data sanitized
+INFO - 2021-01-01 05:19:03 --> Input Class Initialized
+INFO - 2021-01-01 05:19:03 --> Language Class Initialized
+INFO - 2021-01-01 05:19:03 --> Language Class Initialized
+INFO - 2021-01-01 05:19:03 --> Config Class Initialized
+INFO - 2021-01-01 05:19:03 --> Loader Class Initialized
+INFO - 2021-01-01 05:19:04 --> Helper loaded: url_helper
+INFO - 2021-01-01 05:19:04 --> Helper loaded: html_helper
+INFO - 2021-01-01 05:19:04 --> Helper loaded: file_helper
+INFO - 2021-01-01 05:19:04 --> Helper loaded: form_helper
+INFO - 2021-01-01 05:19:04 --> Helper loaded: security_helper
+INFO - 2021-01-01 05:19:04 --> Helper loaded: xss_helper
+INFO - 2021-01-01 05:19:04 --> Helper loaded: slug_helper
+INFO - 2021-01-01 05:19:04 --> Database Driver Class Initialized
+DEBUG - 2021-01-01 05:19:04 --> Session: "sess_save_path" is empty; using "session.save_path" value from php.ini.
+INFO - 2021-01-01 05:19:04 --> Session: Class initialized using 'files' driver.
+INFO - 2021-01-01 05:19:04 --> Language file loaded: language/english/pagination_lang.php
+INFO - 2021-01-01 05:19:04 --> Pagination Class Initialized
+INFO - 2021-01-01 05:19:04 --> Email Class Initialized
+INFO - 2021-01-01 05:19:04 --> Model "M_konfig" initialized
+INFO - 2021-01-01 05:19:04 --> Model "M_reff" initialized
+INFO - 2021-01-01 05:19:04 --> Model "M_total" initialized
+INFO - 2021-01-01 05:19:04 --> Controller Class Initialized
+DEBUG - 2021-01-01 05:19:04 --> File loaded: D:\xampp72\htdocs\app_grm\application\modules/apengumuman/models/Model.php
+INFO - 2021-01-01 11:19:04 --> Final output sent to browser
+DEBUG - 2021-01-01 11:19:04 --> Total execution time: 1.1994
+INFO - 2021-01-01 05:19:08 --> Config Class Initialized
+INFO - 2021-01-01 05:19:08 --> Hooks Class Initialized
+DEBUG - 2021-01-01 05:19:08 --> UTF-8 Support Enabled
+INFO - 2021-01-01 05:19:08 --> Utf8 Class Initialized
+INFO - 2021-01-01 05:19:08 --> URI Class Initialized
+INFO - 2021-01-01 05:19:08 --> Router Class Initialized
+INFO - 2021-01-01 05:19:08 --> Output Class Initialized
+INFO - 2021-01-01 05:19:08 --> Security Class Initialized
+DEBUG - 2021-01-01 05:19:08 --> Global POST, GET and COOKIE data sanitized
+INFO - 2021-01-01 05:19:08 --> Input Class Initialized
+INFO - 2021-01-01 05:19:08 --> Language Class Initialized
+INFO - 2021-01-01 05:19:08 --> Language Class Initialized
+INFO - 2021-01-01 05:19:08 --> Config Class Initialized
+INFO - 2021-01-01 05:19:08 --> Loader Class Initialized
+INFO - 2021-01-01 05:19:08 --> Helper loaded: url_helper
+INFO - 2021-01-01 05:19:08 --> Helper loaded: html_helper
+INFO - 2021-01-01 05:19:08 --> Helper loaded: file_helper
+INFO - 2021-01-01 05:19:09 --> Helper loaded: form_helper
+INFO - 2021-01-01 05:19:09 --> Helper loaded: security_helper
+INFO - 2021-01-01 05:19:09 --> Helper loaded: xss_helper
+INFO - 2021-01-01 05:19:09 --> Helper loaded: slug_helper
+INFO - 2021-01-01 05:19:09 --> Database Driver Class Initialized
+DEBUG - 2021-01-01 05:19:09 --> Session: "sess_save_path" is empty; using "session.save_path" value from php.ini.
+INFO - 2021-01-01 05:19:09 --> Session: Class initialized using 'files' driver.
+INFO - 2021-01-01 05:19:09 --> Language file loaded: language/english/pagination_lang.php
+INFO - 2021-01-01 05:19:09 --> Pagination Class Initialized
+INFO - 2021-01-01 05:19:09 --> Email Class Initialized
+INFO - 2021-01-01 05:19:09 --> Model "M_konfig" initialized
+INFO - 2021-01-01 05:19:09 --> Model "M_reff" initialized
+INFO - 2021-01-01 05:19:09 --> Model "M_total" initialized
+INFO - 2021-01-01 05:19:09 --> Controller Class Initialized
+DEBUG - 2021-01-01 05:19:09 --> File loaded: D:\xampp72\htdocs\app_grm\application\modules/apengumuman/models/Model.php
+INFO - 2021-01-01 11:19:09 --> Final output sent to browser
+DEBUG - 2021-01-01 11:19:09 --> Total execution time: 0.9857
+INFO - 2021-01-01 05:19:13 --> Config Class Initialized
+INFO - 2021-01-01 05:19:13 --> Hooks Class Initialized
+DEBUG - 2021-01-01 05:19:13 --> UTF-8 Support Enabled
+INFO - 2021-01-01 05:19:13 --> Utf8 Class Initialized
+INFO - 2021-01-01 05:19:13 --> URI Class Initialized
+INFO - 2021-01-01 05:19:13 --> Router Class Initialized
+INFO - 2021-01-01 05:19:13 --> Output Class Initialized
+INFO - 2021-01-01 05:19:13 --> Security Class Initialized
+DEBUG - 2021-01-01 05:19:13 --> Global POST, GET and COOKIE data sanitized
+INFO - 2021-01-01 05:19:13 --> Input Class Initialized
+INFO - 2021-01-01 05:19:13 --> Language Class Initialized
+INFO - 2021-01-01 05:19:13 --> Language Class Initialized
+INFO - 2021-01-01 05:19:13 --> Config Class Initialized
+INFO - 2021-01-01 05:19:13 --> Loader Class Initialized
+INFO - 2021-01-01 05:19:13 --> Helper loaded: url_helper
+INFO - 2021-01-01 05:19:13 --> Helper loaded: html_helper
+INFO - 2021-01-01 05:19:13 --> Helper loaded: file_helper
+INFO - 2021-01-01 05:19:14 --> Helper loaded: form_helper
+INFO - 2021-01-01 05:19:14 --> Helper loaded: security_helper
+INFO - 2021-01-01 05:19:14 --> Helper loaded: xss_helper
+INFO - 2021-01-01 05:19:14 --> Helper loaded: slug_helper
+INFO - 2021-01-01 05:19:14 --> Database Driver Class Initialized
+DEBUG - 2021-01-01 05:19:14 --> Session: "sess_save_path" is empty; using "session.save_path" value from php.ini.
+INFO - 2021-01-01 05:19:14 --> Session: Class initialized using 'files' driver.
+INFO - 2021-01-01 05:19:14 --> Language file loaded: language/english/pagination_lang.php
+INFO - 2021-01-01 05:19:14 --> Pagination Class Initialized
+INFO - 2021-01-01 05:19:14 --> Email Class Initialized
+INFO - 2021-01-01 05:19:14 --> Model "M_konfig" initialized
+INFO - 2021-01-01 05:19:14 --> Model "M_reff" initialized
+INFO - 2021-01-01 05:19:14 --> Model "M_total" initialized
+INFO - 2021-01-01 05:19:14 --> Controller Class Initialized
+DEBUG - 2021-01-01 05:19:14 --> File loaded: D:\xampp72\htdocs\app_grm\application\modules/apengumuman/models/Model.php
+INFO - 2021-01-01 11:19:14 --> Final output sent to browser
+DEBUG - 2021-01-01 11:19:14 --> Total execution time: 0.9890
+INFO - 2021-01-01 05:19:18 --> Config Class Initialized
+INFO - 2021-01-01 05:19:18 --> Hooks Class Initialized
+DEBUG - 2021-01-01 05:19:18 --> UTF-8 Support Enabled
+INFO - 2021-01-01 05:19:18 --> Utf8 Class Initialized
+INFO - 2021-01-01 05:19:18 --> URI Class Initialized
+INFO - 2021-01-01 05:19:18 --> Router Class Initialized
+INFO - 2021-01-01 05:19:18 --> Output Class Initialized
+INFO - 2021-01-01 05:19:18 --> Security Class Initialized
+DEBUG - 2021-01-01 05:19:18 --> Global POST, GET and COOKIE data sanitized
+INFO - 2021-01-01 05:19:18 --> Input Class Initialized
+INFO - 2021-01-01 05:19:18 --> Language Class Initialized
+INFO - 2021-01-01 05:19:18 --> Language Class Initialized
+INFO - 2021-01-01 05:19:18 --> Config Class Initialized
+INFO - 2021-01-01 05:19:18 --> Loader Class Initialized
+INFO - 2021-01-01 05:19:18 --> Helper loaded: url_helper
+INFO - 2021-01-01 05:19:18 --> Helper loaded: html_helper
+INFO - 2021-01-01 05:19:19 --> Helper loaded: file_helper
+INFO - 2021-01-01 05:19:19 --> Helper loaded: form_helper
+INFO - 2021-01-01 05:19:19 --> Helper loaded: security_helper
+INFO - 2021-01-01 05:19:19 --> Helper loaded: xss_helper
+INFO - 2021-01-01 05:19:19 --> Helper loaded: slug_helper
+INFO - 2021-01-01 05:19:19 --> Database Driver Class Initialized
+DEBUG - 2021-01-01 05:19:19 --> Session: "sess_save_path" is empty; using "session.save_path" value from php.ini.
+INFO - 2021-01-01 05:19:19 --> Session: Class initialized using 'files' driver.
+INFO - 2021-01-01 05:19:19 --> Language file loaded: language/english/pagination_lang.php
+INFO - 2021-01-01 05:19:19 --> Pagination Class Initialized
+INFO - 2021-01-01 05:19:19 --> Email Class Initialized
+INFO - 2021-01-01 05:19:19 --> Model "M_konfig" initialized
+INFO - 2021-01-01 05:19:19 --> Model "M_reff" initialized
+INFO - 2021-01-01 05:19:19 --> Model "M_total" initialized
+INFO - 2021-01-01 05:19:19 --> Controller Class Initialized
+DEBUG - 2021-01-01 05:19:19 --> File loaded: D:\xampp72\htdocs\app_grm\application\modules/apengumuman/models/Model.php
+INFO - 2021-01-01 11:19:19 --> Final output sent to browser
+DEBUG - 2021-01-01 11:19:19 --> Total execution time: 1.0375
+INFO - 2021-01-01 05:19:23 --> Config Class Initialized
+INFO - 2021-01-01 05:19:23 --> Hooks Class Initialized
+DEBUG - 2021-01-01 05:19:23 --> UTF-8 Support Enabled
+INFO - 2021-01-01 05:19:23 --> Utf8 Class Initialized
+INFO - 2021-01-01 05:19:23 --> URI Class Initialized
+INFO - 2021-01-01 05:19:23 --> Router Class Initialized
+INFO - 2021-01-01 05:19:23 --> Output Class Initialized
+INFO - 2021-01-01 05:19:23 --> Security Class Initialized
+DEBUG - 2021-01-01 05:19:23 --> Global POST, GET and COOKIE data sanitized
+INFO - 2021-01-01 05:19:23 --> Input Class Initialized
+INFO - 2021-01-01 05:19:23 --> Language Class Initialized
+INFO - 2021-01-01 05:19:24 --> Language Class Initialized
+INFO - 2021-01-01 05:19:24 --> Config Class Initialized
+INFO - 2021-01-01 05:19:24 --> Loader Class Initialized
+INFO - 2021-01-01 05:19:24 --> Helper loaded: url_helper
+INFO - 2021-01-01 05:19:24 --> Helper loaded: html_helper
+INFO - 2021-01-01 05:19:24 --> Helper loaded: file_helper
+INFO - 2021-01-01 05:19:24 --> Helper loaded: form_helper
+INFO - 2021-01-01 05:19:24 --> Helper loaded: security_helper
+INFO - 2021-01-01 05:19:24 --> Helper loaded: xss_helper
+INFO - 2021-01-01 05:19:24 --> Helper loaded: slug_helper
+INFO - 2021-01-01 05:19:24 --> Database Driver Class Initialized
+DEBUG - 2021-01-01 05:19:24 --> Session: "sess_save_path" is empty; using "session.save_path" value from php.ini.
+INFO - 2021-01-01 05:19:24 --> Session: Class initialized using 'files' driver.
+INFO - 2021-01-01 05:19:24 --> Language file loaded: language/english/pagination_lang.php
+INFO - 2021-01-01 05:19:24 --> Pagination Class Initialized
+INFO - 2021-01-01 05:19:24 --> Email Class Initialized
+INFO - 2021-01-01 05:19:24 --> Model "M_konfig" initialized
+INFO - 2021-01-01 05:19:24 --> Model "M_reff" initialized
+INFO - 2021-01-01 05:19:24 --> Model "M_total" initialized
+INFO - 2021-01-01 05:19:24 --> Controller Class Initialized
+DEBUG - 2021-01-01 05:19:24 --> File loaded: D:\xampp72\htdocs\app_grm\application\modules/apengumuman/models/Model.php
+INFO - 2021-01-01 11:19:24 --> Final output sent to browser
+DEBUG - 2021-01-01 11:19:24 --> Total execution time: 1.1976
+INFO - 2021-01-01 05:19:28 --> Config Class Initialized
+INFO - 2021-01-01 05:19:28 --> Hooks Class Initialized
+DEBUG - 2021-01-01 05:19:28 --> UTF-8 Support Enabled
+INFO - 2021-01-01 05:19:28 --> Utf8 Class Initialized
+INFO - 2021-01-01 05:19:28 --> URI Class Initialized
+INFO - 2021-01-01 05:19:28 --> Router Class Initialized
+INFO - 2021-01-01 05:19:28 --> Output Class Initialized
+INFO - 2021-01-01 05:19:28 --> Security Class Initialized
+DEBUG - 2021-01-01 05:19:28 --> Global POST, GET and COOKIE data sanitized
+INFO - 2021-01-01 05:19:28 --> Input Class Initialized
+INFO - 2021-01-01 05:19:28 --> Language Class Initialized
+INFO - 2021-01-01 05:19:28 --> Language Class Initialized
+INFO - 2021-01-01 05:19:28 --> Config Class Initialized
+INFO - 2021-01-01 05:19:28 --> Loader Class Initialized
+INFO - 2021-01-01 05:19:28 --> Helper loaded: url_helper
+INFO - 2021-01-01 05:19:28 --> Helper loaded: html_helper
+INFO - 2021-01-01 05:19:29 --> Helper loaded: file_helper
+INFO - 2021-01-01 05:19:29 --> Helper loaded: form_helper
+INFO - 2021-01-01 05:19:29 --> Helper loaded: security_helper
+INFO - 2021-01-01 05:19:29 --> Helper loaded: xss_helper
+INFO - 2021-01-01 05:19:29 --> Helper loaded: slug_helper
+INFO - 2021-01-01 05:19:29 --> Database Driver Class Initialized
+DEBUG - 2021-01-01 05:19:29 --> Session: "sess_save_path" is empty; using "session.save_path" value from php.ini.
+INFO - 2021-01-01 05:19:29 --> Session: Class initialized using 'files' driver.
+INFO - 2021-01-01 05:19:29 --> Language file loaded: language/english/pagination_lang.php
+INFO - 2021-01-01 05:19:29 --> Pagination Class Initialized
+INFO - 2021-01-01 05:19:29 --> Email Class Initialized
+INFO - 2021-01-01 05:19:29 --> Model "M_konfig" initialized
+INFO - 2021-01-01 05:19:29 --> Model "M_reff" initialized
+INFO - 2021-01-01 05:19:29 --> Model "M_total" initialized
+INFO - 2021-01-01 05:19:29 --> Controller Class Initialized
+DEBUG - 2021-01-01 05:19:29 --> File loaded: D:\xampp72\htdocs\app_grm\application\modules/apengumuman/models/Model.php
+INFO - 2021-01-01 11:19:29 --> Final output sent to browser
+DEBUG - 2021-01-01 11:19:29 --> Total execution time: 1.1779
+INFO - 2021-01-01 05:19:33 --> Config Class Initialized
+INFO - 2021-01-01 05:19:33 --> Hooks Class Initialized
+DEBUG - 2021-01-01 05:19:33 --> UTF-8 Support Enabled
+INFO - 2021-01-01 05:19:33 --> Utf8 Class Initialized
+INFO - 2021-01-01 05:19:33 --> URI Class Initialized
+INFO - 2021-01-01 05:19:33 --> Router Class Initialized
+INFO - 2021-01-01 05:19:33 --> Output Class Initialized
+INFO - 2021-01-01 05:19:33 --> Security Class Initialized
+DEBUG - 2021-01-01 05:19:33 --> Global POST, GET and COOKIE data sanitized
+INFO - 2021-01-01 05:19:33 --> Input Class Initialized
+INFO - 2021-01-01 05:19:33 --> Language Class Initialized
+INFO - 2021-01-01 05:19:33 --> Language Class Initialized
+INFO - 2021-01-01 05:19:33 --> Config Class Initialized
+INFO - 2021-01-01 05:19:33 --> Loader Class Initialized
+INFO - 2021-01-01 05:19:33 --> Helper loaded: url_helper
+INFO - 2021-01-01 05:19:34 --> Helper loaded: html_helper
+INFO - 2021-01-01 05:19:34 --> Helper loaded: file_helper
+INFO - 2021-01-01 05:19:34 --> Helper loaded: form_helper
+INFO - 2021-01-01 05:19:34 --> Helper loaded: security_helper
+INFO - 2021-01-01 05:19:34 --> Helper loaded: xss_helper
+INFO - 2021-01-01 05:19:34 --> Helper loaded: slug_helper
+INFO - 2021-01-01 05:19:34 --> Database Driver Class Initialized
+DEBUG - 2021-01-01 05:19:34 --> Session: "sess_save_path" is empty; using "session.save_path" value from php.ini.
+INFO - 2021-01-01 05:19:34 --> Session: Class initialized using 'files' driver.
+INFO - 2021-01-01 05:19:34 --> Language file loaded: language/english/pagination_lang.php
+INFO - 2021-01-01 05:19:34 --> Pagination Class Initialized
+INFO - 2021-01-01 05:19:34 --> Email Class Initialized
+INFO - 2021-01-01 05:19:34 --> Model "M_konfig" initialized
+INFO - 2021-01-01 05:19:34 --> Model "M_reff" initialized
+INFO - 2021-01-01 05:19:34 --> Model "M_total" initialized
+INFO - 2021-01-01 05:19:34 --> Controller Class Initialized
+DEBUG - 2021-01-01 05:19:34 --> File loaded: D:\xampp72\htdocs\app_grm\application\modules/apengumuman/models/Model.php
+INFO - 2021-01-01 11:19:34 --> Final output sent to browser
+DEBUG - 2021-01-01 11:19:34 --> Total execution time: 0.9884
+INFO - 2021-01-01 05:19:38 --> Config Class Initialized
+INFO - 2021-01-01 05:19:38 --> Hooks Class Initialized
+DEBUG - 2021-01-01 05:19:38 --> UTF-8 Support Enabled
+INFO - 2021-01-01 05:19:38 --> Utf8 Class Initialized
+INFO - 2021-01-01 05:19:38 --> URI Class Initialized
+INFO - 2021-01-01 05:19:38 --> Router Class Initialized
+INFO - 2021-01-01 05:19:38 --> Output Class Initialized
+INFO - 2021-01-01 05:19:38 --> Security Class Initialized
+DEBUG - 2021-01-01 05:19:38 --> Global POST, GET and COOKIE data sanitized
+INFO - 2021-01-01 05:19:38 --> Input Class Initialized
+INFO - 2021-01-01 05:19:38 --> Language Class Initialized
+INFO - 2021-01-01 05:19:38 --> Language Class Initialized
+INFO - 2021-01-01 05:19:38 --> Config Class Initialized
+INFO - 2021-01-01 05:19:38 --> Loader Class Initialized
+INFO - 2021-01-01 05:19:38 --> Helper loaded: url_helper
+INFO - 2021-01-01 05:19:38 --> Helper loaded: html_helper
+INFO - 2021-01-01 05:19:39 --> Helper loaded: file_helper
+INFO - 2021-01-01 05:19:39 --> Helper loaded: form_helper
+INFO - 2021-01-01 05:19:39 --> Helper loaded: security_helper
+INFO - 2021-01-01 05:19:39 --> Helper loaded: xss_helper
+INFO - 2021-01-01 05:19:39 --> Helper loaded: slug_helper
+INFO - 2021-01-01 05:19:39 --> Database Driver Class Initialized
+DEBUG - 2021-01-01 05:19:39 --> Session: "sess_save_path" is empty; using "session.save_path" value from php.ini.
+INFO - 2021-01-01 05:19:39 --> Session: Class initialized using 'files' driver.
+INFO - 2021-01-01 05:19:39 --> Language file loaded: language/english/pagination_lang.php
+INFO - 2021-01-01 05:19:39 --> Pagination Class Initialized
+INFO - 2021-01-01 05:19:39 --> Email Class Initialized
+INFO - 2021-01-01 05:19:39 --> Model "M_konfig" initialized
+INFO - 2021-01-01 05:19:39 --> Model "M_reff" initialized
+INFO - 2021-01-01 05:19:39 --> Model "M_total" initialized
+INFO - 2021-01-01 05:19:39 --> Controller Class Initialized
+DEBUG - 2021-01-01 05:19:39 --> File loaded: D:\xampp72\htdocs\app_grm\application\modules/apengumuman/models/Model.php
+INFO - 2021-01-01 11:19:39 --> Final output sent to browser
+DEBUG - 2021-01-01 11:19:39 --> Total execution time: 0.9740
+INFO - 2021-01-01 05:19:43 --> Config Class Initialized
+INFO - 2021-01-01 05:19:43 --> Hooks Class Initialized
+DEBUG - 2021-01-01 05:19:43 --> UTF-8 Support Enabled
+INFO - 2021-01-01 05:19:43 --> Utf8 Class Initialized
+INFO - 2021-01-01 05:19:43 --> URI Class Initialized
+INFO - 2021-01-01 05:19:43 --> Router Class Initialized
+INFO - 2021-01-01 05:19:43 --> Output Class Initialized
+INFO - 2021-01-01 05:19:43 --> Security Class Initialized
+DEBUG - 2021-01-01 05:19:43 --> Global POST, GET and COOKIE data sanitized
+INFO - 2021-01-01 05:19:43 --> Input Class Initialized
+INFO - 2021-01-01 05:19:43 --> Language Class Initialized
+INFO - 2021-01-01 05:19:43 --> Language Class Initialized
+INFO - 2021-01-01 05:19:43 --> Config Class Initialized
+INFO - 2021-01-01 05:19:43 --> Loader Class Initialized
+INFO - 2021-01-01 05:19:43 --> Helper loaded: url_helper
+INFO - 2021-01-01 05:19:44 --> Helper loaded: html_helper
+INFO - 2021-01-01 05:19:44 --> Helper loaded: file_helper
+INFO - 2021-01-01 05:19:44 --> Helper loaded: form_helper
+INFO - 2021-01-01 05:19:44 --> Helper loaded: security_helper
+INFO - 2021-01-01 05:19:44 --> Helper loaded: xss_helper
+INFO - 2021-01-01 05:19:44 --> Helper loaded: slug_helper
+INFO - 2021-01-01 05:19:44 --> Database Driver Class Initialized
+DEBUG - 2021-01-01 05:19:44 --> Session: "sess_save_path" is empty; using "session.save_path" value from php.ini.
+INFO - 2021-01-01 05:19:44 --> Session: Class initialized using 'files' driver.
+INFO - 2021-01-01 05:19:44 --> Language file loaded: language/english/pagination_lang.php
+INFO - 2021-01-01 05:19:44 --> Pagination Class Initialized
+INFO - 2021-01-01 05:19:44 --> Email Class Initialized
+INFO - 2021-01-01 05:19:44 --> Model "M_konfig" initialized
+INFO - 2021-01-01 05:19:44 --> Model "M_reff" initialized
+INFO - 2021-01-01 05:19:44 --> Model "M_total" initialized
+INFO - 2021-01-01 05:19:44 --> Controller Class Initialized
+DEBUG - 2021-01-01 05:19:44 --> File loaded: D:\xampp72\htdocs\app_grm\application\modules/apengumuman/models/Model.php
+INFO - 2021-01-01 11:19:44 --> Final output sent to browser
+DEBUG - 2021-01-01 11:19:44 --> Total execution time: 0.9948
+INFO - 2021-01-01 05:19:48 --> Config Class Initialized
+INFO - 2021-01-01 05:19:48 --> Hooks Class Initialized
+DEBUG - 2021-01-01 05:19:48 --> UTF-8 Support Enabled
+INFO - 2021-01-01 05:19:48 --> Utf8 Class Initialized
+INFO - 2021-01-01 05:19:48 --> URI Class Initialized
+INFO - 2021-01-01 05:19:48 --> Router Class Initialized
+INFO - 2021-01-01 05:19:48 --> Output Class Initialized
+INFO - 2021-01-01 05:19:48 --> Security Class Initialized
+DEBUG - 2021-01-01 05:19:48 --> Global POST, GET and COOKIE data sanitized
+INFO - 2021-01-01 05:19:48 --> Input Class Initialized
+INFO - 2021-01-01 05:19:48 --> Language Class Initialized
+INFO - 2021-01-01 05:19:48 --> Language Class Initialized
+INFO - 2021-01-01 05:19:48 --> Config Class Initialized
+INFO - 2021-01-01 05:19:48 --> Loader Class Initialized
+INFO - 2021-01-01 05:19:48 --> Helper loaded: url_helper
+INFO - 2021-01-01 05:19:49 --> Helper loaded: html_helper
+INFO - 2021-01-01 05:19:49 --> Helper loaded: file_helper
+INFO - 2021-01-01 05:19:49 --> Helper loaded: form_helper
+INFO - 2021-01-01 05:19:49 --> Helper loaded: security_helper
+INFO - 2021-01-01 05:19:49 --> Helper loaded: xss_helper
+INFO - 2021-01-01 05:19:49 --> Helper loaded: slug_helper
+INFO - 2021-01-01 05:19:49 --> Database Driver Class Initialized
+DEBUG - 2021-01-01 05:19:49 --> Session: "sess_save_path" is empty; using "session.save_path" value from php.ini.
+INFO - 2021-01-01 05:19:49 --> Session: Class initialized using 'files' driver.
+INFO - 2021-01-01 05:19:49 --> Language file loaded: language/english/pagination_lang.php
+INFO - 2021-01-01 05:19:49 --> Pagination Class Initialized
+INFO - 2021-01-01 05:19:49 --> Email Class Initialized
+INFO - 2021-01-01 05:19:49 --> Model "M_konfig" initialized
+INFO - 2021-01-01 05:19:49 --> Model "M_reff" initialized
+INFO - 2021-01-01 05:19:49 --> Model "M_total" initialized
+INFO - 2021-01-01 05:19:49 --> Controller Class Initialized
+DEBUG - 2021-01-01 05:19:49 --> File loaded: D:\xampp72\htdocs\app_grm\application\modules/apengumuman/models/Model.php
+INFO - 2021-01-01 11:19:49 --> Final output sent to browser
+DEBUG - 2021-01-01 11:19:49 --> Total execution time: 0.9746
+INFO - 2021-01-01 05:19:53 --> Config Class Initialized
+INFO - 2021-01-01 05:19:53 --> Hooks Class Initialized
+DEBUG - 2021-01-01 05:19:53 --> UTF-8 Support Enabled
+INFO - 2021-01-01 05:19:53 --> Utf8 Class Initialized
+INFO - 2021-01-01 05:19:53 --> URI Class Initialized
+INFO - 2021-01-01 05:19:53 --> Router Class Initialized
+INFO - 2021-01-01 05:19:53 --> Output Class Initialized
+INFO - 2021-01-01 05:19:53 --> Security Class Initialized
+DEBUG - 2021-01-01 05:19:53 --> Global POST, GET and COOKIE data sanitized
+INFO - 2021-01-01 05:19:53 --> Input Class Initialized
+INFO - 2021-01-01 05:19:53 --> Language Class Initialized
+INFO - 2021-01-01 05:19:53 --> Language Class Initialized
+INFO - 2021-01-01 05:19:53 --> Config Class Initialized
+INFO - 2021-01-01 05:19:54 --> Loader Class Initialized
+INFO - 2021-01-01 05:19:54 --> Helper loaded: url_helper
+INFO - 2021-01-01 05:19:54 --> Helper loaded: html_helper
+INFO - 2021-01-01 05:19:54 --> Helper loaded: file_helper
+INFO - 2021-01-01 05:19:54 --> Helper loaded: form_helper
+INFO - 2021-01-01 05:19:54 --> Helper loaded: security_helper
+INFO - 2021-01-01 05:19:54 --> Helper loaded: xss_helper
+INFO - 2021-01-01 05:19:54 --> Helper loaded: slug_helper
+INFO - 2021-01-01 05:19:54 --> Database Driver Class Initialized
+DEBUG - 2021-01-01 05:19:54 --> Session: "sess_save_path" is empty; using "session.save_path" value from php.ini.
+INFO - 2021-01-01 05:19:54 --> Session: Class initialized using 'files' driver.
+INFO - 2021-01-01 05:19:54 --> Language file loaded: language/english/pagination_lang.php
+INFO - 2021-01-01 05:19:54 --> Pagination Class Initialized
+INFO - 2021-01-01 05:19:54 --> Email Class Initialized
+INFO - 2021-01-01 05:19:54 --> Model "M_konfig" initialized
+INFO - 2021-01-01 05:19:54 --> Model "M_reff" initialized
+INFO - 2021-01-01 05:19:54 --> Model "M_total" initialized
+INFO - 2021-01-01 05:19:54 --> Controller Class Initialized
+DEBUG - 2021-01-01 05:19:54 --> File loaded: D:\xampp72\htdocs\app_grm\application\modules/apengumuman/models/Model.php
+INFO - 2021-01-01 11:19:54 --> Final output sent to browser
+DEBUG - 2021-01-01 11:19:54 --> Total execution time: 1.0880
+INFO - 2021-01-01 05:19:58 --> Config Class Initialized
+INFO - 2021-01-01 05:19:58 --> Hooks Class Initialized
+DEBUG - 2021-01-01 05:19:58 --> UTF-8 Support Enabled
+INFO - 2021-01-01 05:19:58 --> Utf8 Class Initialized
+INFO - 2021-01-01 05:19:58 --> URI Class Initialized
+INFO - 2021-01-01 05:19:58 --> Router Class Initialized
+INFO - 2021-01-01 05:19:58 --> Output Class Initialized
+INFO - 2021-01-01 05:19:58 --> Security Class Initialized
+DEBUG - 2021-01-01 05:19:58 --> Global POST, GET and COOKIE data sanitized
+INFO - 2021-01-01 05:19:58 --> Input Class Initialized
+INFO - 2021-01-01 05:19:58 --> Language Class Initialized
+INFO - 2021-01-01 05:19:58 --> Language Class Initialized
+INFO - 2021-01-01 05:19:58 --> Config Class Initialized
+INFO - 2021-01-01 05:19:58 --> Loader Class Initialized
+INFO - 2021-01-01 05:19:59 --> Helper loaded: url_helper
+INFO - 2021-01-01 05:19:59 --> Helper loaded: html_helper
+INFO - 2021-01-01 05:19:59 --> Helper loaded: file_helper
+INFO - 2021-01-01 05:19:59 --> Helper loaded: form_helper
+INFO - 2021-01-01 05:19:59 --> Helper loaded: security_helper
+INFO - 2021-01-01 05:19:59 --> Helper loaded: xss_helper
+INFO - 2021-01-01 05:19:59 --> Helper loaded: slug_helper
+INFO - 2021-01-01 05:19:59 --> Database Driver Class Initialized
+DEBUG - 2021-01-01 05:19:59 --> Session: "sess_save_path" is empty; using "session.save_path" value from php.ini.
+INFO - 2021-01-01 05:19:59 --> Session: Class initialized using 'files' driver.
+INFO - 2021-01-01 05:19:59 --> Language file loaded: language/english/pagination_lang.php
+INFO - 2021-01-01 05:19:59 --> Pagination Class Initialized
+INFO - 2021-01-01 05:19:59 --> Email Class Initialized
+INFO - 2021-01-01 05:19:59 --> Model "M_konfig" initialized
+INFO - 2021-01-01 05:19:59 --> Model "M_reff" initialized
+INFO - 2021-01-01 05:19:59 --> Model "M_total" initialized
+INFO - 2021-01-01 05:19:59 --> Controller Class Initialized
+DEBUG - 2021-01-01 05:19:59 --> File loaded: D:\xampp72\htdocs\app_grm\application\modules/apengumuman/models/Model.php
+INFO - 2021-01-01 11:19:59 --> Final output sent to browser
+DEBUG - 2021-01-01 11:19:59 --> Total execution time: 0.9879
+INFO - 2021-01-01 05:20:03 --> Config Class Initialized
+INFO - 2021-01-01 05:20:03 --> Hooks Class Initialized
+DEBUG - 2021-01-01 05:20:03 --> UTF-8 Support Enabled
+INFO - 2021-01-01 05:20:03 --> Utf8 Class Initialized
+INFO - 2021-01-01 05:20:03 --> URI Class Initialized
+INFO - 2021-01-01 05:20:03 --> Router Class Initialized
+INFO - 2021-01-01 05:20:03 --> Output Class Initialized
+INFO - 2021-01-01 05:20:03 --> Security Class Initialized
+DEBUG - 2021-01-01 05:20:03 --> Global POST, GET and COOKIE data sanitized
+INFO - 2021-01-01 05:20:03 --> Input Class Initialized
+INFO - 2021-01-01 05:20:03 --> Language Class Initialized
+INFO - 2021-01-01 05:20:03 --> Language Class Initialized
+INFO - 2021-01-01 05:20:03 --> Config Class Initialized
+INFO - 2021-01-01 05:20:03 --> Loader Class Initialized
+INFO - 2021-01-01 05:20:04 --> Helper loaded: url_helper
+INFO - 2021-01-01 05:20:04 --> Helper loaded: html_helper
+INFO - 2021-01-01 05:20:04 --> Helper loaded: file_helper
+INFO - 2021-01-01 05:20:04 --> Helper loaded: form_helper
+INFO - 2021-01-01 05:20:04 --> Helper loaded: security_helper
+INFO - 2021-01-01 05:20:04 --> Helper loaded: xss_helper
+INFO - 2021-01-01 05:20:04 --> Helper loaded: slug_helper
+INFO - 2021-01-01 05:20:04 --> Database Driver Class Initialized
+DEBUG - 2021-01-01 05:20:04 --> Session: "sess_save_path" is empty; using "session.save_path" value from php.ini.
+INFO - 2021-01-01 05:20:04 --> Session: Class initialized using 'files' driver.
+INFO - 2021-01-01 05:20:04 --> Language file loaded: language/english/pagination_lang.php
+INFO - 2021-01-01 05:20:04 --> Pagination Class Initialized
+INFO - 2021-01-01 05:20:04 --> Email Class Initialized
+INFO - 2021-01-01 05:20:04 --> Model "M_konfig" initialized
+INFO - 2021-01-01 05:20:04 --> Model "M_reff" initialized
+INFO - 2021-01-01 05:20:04 --> Model "M_total" initialized
+INFO - 2021-01-01 05:20:04 --> Controller Class Initialized
+DEBUG - 2021-01-01 05:20:04 --> File loaded: D:\xampp72\htdocs\app_grm\application\modules/apengumuman/models/Model.php
+INFO - 2021-01-01 11:20:04 --> Final output sent to browser
+DEBUG - 2021-01-01 11:20:04 --> Total execution time: 0.9998
+INFO - 2021-01-01 05:20:08 --> Config Class Initialized
+INFO - 2021-01-01 05:20:08 --> Hooks Class Initialized
+DEBUG - 2021-01-01 05:20:08 --> UTF-8 Support Enabled
+INFO - 2021-01-01 05:20:08 --> Utf8 Class Initialized
+INFO - 2021-01-01 05:20:08 --> URI Class Initialized
+INFO - 2021-01-01 05:20:08 --> Router Class Initialized
+INFO - 2021-01-01 05:20:08 --> Output Class Initialized
+INFO - 2021-01-01 05:20:08 --> Security Class Initialized
+DEBUG - 2021-01-01 05:20:08 --> Global POST, GET and COOKIE data sanitized
+INFO - 2021-01-01 05:20:08 --> Input Class Initialized
+INFO - 2021-01-01 05:20:09 --> Language Class Initialized
+INFO - 2021-01-01 05:20:09 --> Language Class Initialized
+INFO - 2021-01-01 05:20:09 --> Config Class Initialized
+INFO - 2021-01-01 05:20:09 --> Loader Class Initialized
+INFO - 2021-01-01 05:20:09 --> Helper loaded: url_helper
+INFO - 2021-01-01 05:20:09 --> Helper loaded: html_helper
+INFO - 2021-01-01 05:20:09 --> Helper loaded: file_helper
+INFO - 2021-01-01 05:20:09 --> Helper loaded: form_helper
+INFO - 2021-01-01 05:20:09 --> Helper loaded: security_helper
+INFO - 2021-01-01 05:20:09 --> Helper loaded: xss_helper
+INFO - 2021-01-01 05:20:09 --> Helper loaded: slug_helper
+INFO - 2021-01-01 05:20:09 --> Database Driver Class Initialized
+DEBUG - 2021-01-01 05:20:09 --> Session: "sess_save_path" is empty; using "session.save_path" value from php.ini.
+INFO - 2021-01-01 05:20:09 --> Session: Class initialized using 'files' driver.
+INFO - 2021-01-01 05:20:09 --> Language file loaded: language/english/pagination_lang.php
+INFO - 2021-01-01 05:20:09 --> Pagination Class Initialized
+INFO - 2021-01-01 05:20:09 --> Email Class Initialized
+INFO - 2021-01-01 05:20:09 --> Model "M_konfig" initialized
+INFO - 2021-01-01 05:20:09 --> Model "M_reff" initialized
+INFO - 2021-01-01 05:20:09 --> Model "M_total" initialized
+INFO - 2021-01-01 05:20:09 --> Controller Class Initialized
+DEBUG - 2021-01-01 05:20:09 --> File loaded: D:\xampp72\htdocs\app_grm\application\modules/apengumuman/models/Model.php
+INFO - 2021-01-01 11:20:09 --> Final output sent to browser
+DEBUG - 2021-01-01 11:20:09 --> Total execution time: 1.1556
+INFO - 2021-01-01 05:20:13 --> Config Class Initialized
+INFO - 2021-01-01 05:20:13 --> Hooks Class Initialized
+DEBUG - 2021-01-01 05:20:13 --> UTF-8 Support Enabled
+INFO - 2021-01-01 05:20:13 --> Utf8 Class Initialized
+INFO - 2021-01-01 05:20:13 --> URI Class Initialized
+INFO - 2021-01-01 05:20:13 --> Router Class Initialized
+INFO - 2021-01-01 05:20:13 --> Output Class Initialized
+INFO - 2021-01-01 05:20:13 --> Security Class Initialized
+DEBUG - 2021-01-01 05:20:13 --> Global POST, GET and COOKIE data sanitized
+INFO - 2021-01-01 05:20:13 --> Input Class Initialized
+INFO - 2021-01-01 05:20:13 --> Language Class Initialized
+INFO - 2021-01-01 05:20:13 --> Language Class Initialized
+INFO - 2021-01-01 05:20:13 --> Config Class Initialized
+INFO - 2021-01-01 05:20:13 --> Loader Class Initialized
+INFO - 2021-01-01 05:20:14 --> Helper loaded: url_helper
+INFO - 2021-01-01 05:20:14 --> Helper loaded: html_helper
+INFO - 2021-01-01 05:20:14 --> Helper loaded: file_helper
+INFO - 2021-01-01 05:20:14 --> Helper loaded: form_helper
+INFO - 2021-01-01 05:20:14 --> Helper loaded: security_helper
+INFO - 2021-01-01 05:20:14 --> Helper loaded: xss_helper
+INFO - 2021-01-01 05:20:14 --> Helper loaded: slug_helper
+INFO - 2021-01-01 05:20:14 --> Database Driver Class Initialized
+DEBUG - 2021-01-01 05:20:14 --> Session: "sess_save_path" is empty; using "session.save_path" value from php.ini.
+INFO - 2021-01-01 05:20:14 --> Session: Class initialized using 'files' driver.
+INFO - 2021-01-01 05:20:14 --> Language file loaded: language/english/pagination_lang.php
+INFO - 2021-01-01 05:20:14 --> Pagination Class Initialized
+INFO - 2021-01-01 05:20:14 --> Email Class Initialized
+INFO - 2021-01-01 05:20:14 --> Model "M_konfig" initialized
+INFO - 2021-01-01 05:20:14 --> Model "M_reff" initialized
+INFO - 2021-01-01 05:20:14 --> Model "M_total" initialized
+INFO - 2021-01-01 05:20:14 --> Controller Class Initialized
+DEBUG - 2021-01-01 05:20:14 --> File loaded: D:\xampp72\htdocs\app_grm\application\modules/apengumuman/models/Model.php
+INFO - 2021-01-01 11:20:14 --> Final output sent to browser
+DEBUG - 2021-01-01 11:20:14 --> Total execution time: 1.1900
+INFO - 2021-01-01 05:20:18 --> Config Class Initialized
+INFO - 2021-01-01 05:20:18 --> Hooks Class Initialized
+DEBUG - 2021-01-01 05:20:18 --> UTF-8 Support Enabled
+INFO - 2021-01-01 05:20:18 --> Utf8 Class Initialized
+INFO - 2021-01-01 05:20:18 --> URI Class Initialized
+INFO - 2021-01-01 05:20:18 --> Router Class Initialized
+INFO - 2021-01-01 05:20:18 --> Output Class Initialized
+INFO - 2021-01-01 05:20:18 --> Security Class Initialized
+DEBUG - 2021-01-01 05:20:18 --> Global POST, GET and COOKIE data sanitized
+INFO - 2021-01-01 05:20:18 --> Input Class Initialized
+INFO - 2021-01-01 05:20:18 --> Language Class Initialized
+INFO - 2021-01-01 05:20:18 --> Language Class Initialized
+INFO - 2021-01-01 05:20:18 --> Config Class Initialized
+INFO - 2021-01-01 05:20:18 --> Loader Class Initialized
+INFO - 2021-01-01 05:20:19 --> Helper loaded: url_helper
+INFO - 2021-01-01 05:20:19 --> Helper loaded: html_helper
+INFO - 2021-01-01 05:20:19 --> Helper loaded: file_helper
+INFO - 2021-01-01 05:20:19 --> Helper loaded: form_helper
+INFO - 2021-01-01 05:20:19 --> Helper loaded: security_helper
+INFO - 2021-01-01 05:20:19 --> Helper loaded: xss_helper
+INFO - 2021-01-01 05:20:19 --> Helper loaded: slug_helper
+INFO - 2021-01-01 05:20:19 --> Database Driver Class Initialized
+DEBUG - 2021-01-01 05:20:19 --> Session: "sess_save_path" is empty; using "session.save_path" value from php.ini.
+INFO - 2021-01-01 05:20:19 --> Session: Class initialized using 'files' driver.
+INFO - 2021-01-01 05:20:19 --> Language file loaded: language/english/pagination_lang.php
+INFO - 2021-01-01 05:20:19 --> Pagination Class Initialized
+INFO - 2021-01-01 05:20:19 --> Email Class Initialized
+INFO - 2021-01-01 05:20:19 --> Model "M_konfig" initialized
+INFO - 2021-01-01 05:20:19 --> Model "M_reff" initialized
+INFO - 2021-01-01 05:20:19 --> Model "M_total" initialized
+INFO - 2021-01-01 05:20:19 --> Controller Class Initialized
+DEBUG - 2021-01-01 05:20:19 --> File loaded: D:\xampp72\htdocs\app_grm\application\modules/apengumuman/models/Model.php
+INFO - 2021-01-01 11:20:19 --> Final output sent to browser
+DEBUG - 2021-01-01 11:20:19 --> Total execution time: 1.0186
+INFO - 2021-01-01 05:20:23 --> Config Class Initialized
+INFO - 2021-01-01 05:20:23 --> Hooks Class Initialized
+DEBUG - 2021-01-01 05:20:23 --> UTF-8 Support Enabled
+INFO - 2021-01-01 05:20:23 --> Utf8 Class Initialized
+INFO - 2021-01-01 05:20:23 --> URI Class Initialized
+INFO - 2021-01-01 05:20:23 --> Router Class Initialized
+INFO - 2021-01-01 05:20:23 --> Output Class Initialized
+INFO - 2021-01-01 05:20:23 --> Security Class Initialized
+DEBUG - 2021-01-01 05:20:23 --> Global POST, GET and COOKIE data sanitized
+INFO - 2021-01-01 05:20:23 --> Input Class Initialized
+INFO - 2021-01-01 05:20:23 --> Language Class Initialized
+INFO - 2021-01-01 05:20:23 --> Language Class Initialized
+INFO - 2021-01-01 05:20:23 --> Config Class Initialized
+INFO - 2021-01-01 05:20:23 --> Loader Class Initialized
+INFO - 2021-01-01 05:20:24 --> Helper loaded: url_helper
+INFO - 2021-01-01 05:20:24 --> Helper loaded: html_helper
+INFO - 2021-01-01 05:20:24 --> Helper loaded: file_helper
+INFO - 2021-01-01 05:20:24 --> Helper loaded: form_helper
+INFO - 2021-01-01 05:20:24 --> Helper loaded: security_helper
+INFO - 2021-01-01 05:20:24 --> Helper loaded: xss_helper
+INFO - 2021-01-01 05:20:24 --> Helper loaded: slug_helper
+INFO - 2021-01-01 05:20:24 --> Database Driver Class Initialized
+DEBUG - 2021-01-01 05:20:24 --> Session: "sess_save_path" is empty; using "session.save_path" value from php.ini.
+INFO - 2021-01-01 05:20:24 --> Session: Class initialized using 'files' driver.
+INFO - 2021-01-01 05:20:24 --> Language file loaded: language/english/pagination_lang.php
+INFO - 2021-01-01 05:20:24 --> Pagination Class Initialized
+INFO - 2021-01-01 05:20:24 --> Email Class Initialized
+INFO - 2021-01-01 05:20:24 --> Model "M_konfig" initialized
+INFO - 2021-01-01 05:20:24 --> Model "M_reff" initialized
+INFO - 2021-01-01 05:20:24 --> Model "M_total" initialized
+INFO - 2021-01-01 05:20:24 --> Controller Class Initialized
+DEBUG - 2021-01-01 05:20:24 --> File loaded: D:\xampp72\htdocs\app_grm\application\modules/apengumuman/models/Model.php
+INFO - 2021-01-01 11:20:24 --> Final output sent to browser
+DEBUG - 2021-01-01 11:20:24 --> Total execution time: 1.0263
+INFO - 2021-01-01 05:20:28 --> Config Class Initialized
+INFO - 2021-01-01 05:20:28 --> Hooks Class Initialized
+DEBUG - 2021-01-01 05:20:28 --> UTF-8 Support Enabled
+INFO - 2021-01-01 05:20:28 --> Utf8 Class Initialized
+INFO - 2021-01-01 05:20:28 --> URI Class Initialized
+INFO - 2021-01-01 05:20:28 --> Router Class Initialized
+INFO - 2021-01-01 05:20:28 --> Output Class Initialized
+INFO - 2021-01-01 05:20:28 --> Security Class Initialized
+DEBUG - 2021-01-01 05:20:28 --> Global POST, GET and COOKIE data sanitized
+INFO - 2021-01-01 05:20:28 --> Input Class Initialized
+INFO - 2021-01-01 05:20:28 --> Language Class Initialized
+INFO - 2021-01-01 05:20:28 --> Language Class Initialized
+INFO - 2021-01-01 05:20:28 --> Config Class Initialized
+INFO - 2021-01-01 05:20:29 --> Loader Class Initialized
+INFO - 2021-01-01 05:20:29 --> Helper loaded: url_helper
+INFO - 2021-01-01 05:20:29 --> Helper loaded: html_helper
+INFO - 2021-01-01 05:20:29 --> Helper loaded: file_helper
+INFO - 2021-01-01 05:20:29 --> Helper loaded: form_helper
+INFO - 2021-01-01 05:20:29 --> Helper loaded: security_helper
+INFO - 2021-01-01 05:20:29 --> Helper loaded: xss_helper
+INFO - 2021-01-01 05:20:29 --> Helper loaded: slug_helper
+INFO - 2021-01-01 05:20:29 --> Database Driver Class Initialized
+DEBUG - 2021-01-01 05:20:29 --> Session: "sess_save_path" is empty; using "session.save_path" value from php.ini.
+INFO - 2021-01-01 05:20:29 --> Session: Class initialized using 'files' driver.
+INFO - 2021-01-01 05:20:29 --> Language file loaded: language/english/pagination_lang.php
+INFO - 2021-01-01 05:20:29 --> Pagination Class Initialized
+INFO - 2021-01-01 05:20:29 --> Email Class Initialized
+INFO - 2021-01-01 05:20:29 --> Model "M_konfig" initialized
+INFO - 2021-01-01 05:20:29 --> Model "M_reff" initialized
+INFO - 2021-01-01 05:20:29 --> Model "M_total" initialized
+INFO - 2021-01-01 05:20:29 --> Controller Class Initialized
+DEBUG - 2021-01-01 05:20:29 --> File loaded: D:\xampp72\htdocs\app_grm\application\modules/apengumuman/models/Model.php
+INFO - 2021-01-01 11:20:29 --> Final output sent to browser
+DEBUG - 2021-01-01 11:20:29 --> Total execution time: 1.0090
+INFO - 2021-01-01 05:20:33 --> Config Class Initialized
+INFO - 2021-01-01 05:20:33 --> Hooks Class Initialized
+DEBUG - 2021-01-01 05:20:33 --> UTF-8 Support Enabled
+INFO - 2021-01-01 05:20:33 --> Utf8 Class Initialized
+INFO - 2021-01-01 05:20:33 --> URI Class Initialized
+INFO - 2021-01-01 05:20:33 --> Router Class Initialized
+INFO - 2021-01-01 05:20:33 --> Output Class Initialized
+INFO - 2021-01-01 05:20:33 --> Security Class Initialized
+DEBUG - 2021-01-01 05:20:33 --> Global POST, GET and COOKIE data sanitized
+INFO - 2021-01-01 05:20:33 --> Input Class Initialized
+INFO - 2021-01-01 05:20:33 --> Language Class Initialized
+INFO - 2021-01-01 05:20:33 --> Language Class Initialized
+INFO - 2021-01-01 05:20:33 --> Config Class Initialized
+INFO - 2021-01-01 05:20:33 --> Loader Class Initialized
+INFO - 2021-01-01 05:20:34 --> Helper loaded: url_helper
+INFO - 2021-01-01 05:20:34 --> Helper loaded: html_helper
+INFO - 2021-01-01 05:20:34 --> Helper loaded: file_helper
+INFO - 2021-01-01 05:20:34 --> Helper loaded: form_helper
+INFO - 2021-01-01 05:20:34 --> Helper loaded: security_helper
+INFO - 2021-01-01 05:20:34 --> Helper loaded: xss_helper
+INFO - 2021-01-01 05:20:34 --> Helper loaded: slug_helper
+INFO - 2021-01-01 05:20:34 --> Database Driver Class Initialized
+DEBUG - 2021-01-01 05:20:34 --> Session: "sess_save_path" is empty; using "session.save_path" value from php.ini.
+INFO - 2021-01-01 05:20:34 --> Session: Class initialized using 'files' driver.
+INFO - 2021-01-01 05:20:34 --> Language file loaded: language/english/pagination_lang.php
+INFO - 2021-01-01 05:20:34 --> Pagination Class Initialized
+INFO - 2021-01-01 05:20:34 --> Email Class Initialized
+INFO - 2021-01-01 05:20:34 --> Model "M_konfig" initialized
+INFO - 2021-01-01 05:20:34 --> Model "M_reff" initialized
+INFO - 2021-01-01 05:20:34 --> Model "M_total" initialized
+INFO - 2021-01-01 05:20:34 --> Controller Class Initialized
+DEBUG - 2021-01-01 05:20:34 --> File loaded: D:\xampp72\htdocs\app_grm\application\modules/apengumuman/models/Model.php
+INFO - 2021-01-01 11:20:34 --> Final output sent to browser
+DEBUG - 2021-01-01 11:20:34 --> Total execution time: 1.0166
+INFO - 2021-01-01 05:20:38 --> Config Class Initialized
+INFO - 2021-01-01 05:20:38 --> Hooks Class Initialized
+DEBUG - 2021-01-01 05:20:38 --> UTF-8 Support Enabled
+INFO - 2021-01-01 05:20:38 --> Utf8 Class Initialized
+INFO - 2021-01-01 05:20:38 --> URI Class Initialized
+INFO - 2021-01-01 05:20:38 --> Router Class Initialized
+INFO - 2021-01-01 05:20:38 --> Output Class Initialized
+INFO - 2021-01-01 05:20:38 --> Security Class Initialized
+DEBUG - 2021-01-01 05:20:38 --> Global POST, GET and COOKIE data sanitized
+INFO - 2021-01-01 05:20:38 --> Input Class Initialized
+INFO - 2021-01-01 05:20:38 --> Language Class Initialized
+INFO - 2021-01-01 05:20:38 --> Language Class Initialized
+INFO - 2021-01-01 05:20:38 --> Config Class Initialized
+INFO - 2021-01-01 05:20:38 --> Loader Class Initialized
+INFO - 2021-01-01 05:20:39 --> Helper loaded: url_helper
+INFO - 2021-01-01 05:20:39 --> Helper loaded: html_helper
+INFO - 2021-01-01 05:20:39 --> Helper loaded: file_helper
+INFO - 2021-01-01 05:20:39 --> Helper loaded: form_helper
+INFO - 2021-01-01 05:20:39 --> Helper loaded: security_helper
+INFO - 2021-01-01 05:20:39 --> Helper loaded: xss_helper
+INFO - 2021-01-01 05:20:39 --> Helper loaded: slug_helper
+INFO - 2021-01-01 05:20:39 --> Database Driver Class Initialized
+DEBUG - 2021-01-01 05:20:39 --> Session: "sess_save_path" is empty; using "session.save_path" value from php.ini.
+INFO - 2021-01-01 05:20:39 --> Session: Class initialized using 'files' driver.
+INFO - 2021-01-01 05:20:39 --> Language file loaded: language/english/pagination_lang.php
+INFO - 2021-01-01 05:20:39 --> Pagination Class Initialized
+INFO - 2021-01-01 05:20:39 --> Email Class Initialized
+INFO - 2021-01-01 05:20:39 --> Model "M_konfig" initialized
+INFO - 2021-01-01 05:20:39 --> Model "M_reff" initialized
+INFO - 2021-01-01 05:20:39 --> Model "M_total" initialized
+INFO - 2021-01-01 05:20:39 --> Controller Class Initialized
+DEBUG - 2021-01-01 05:20:39 --> File loaded: D:\xampp72\htdocs\app_grm\application\modules/apengumuman/models/Model.php
+INFO - 2021-01-01 11:20:39 --> Final output sent to browser
+DEBUG - 2021-01-01 11:20:39 --> Total execution time: 1.0005
+INFO - 2021-01-01 05:20:43 --> Config Class Initialized
+INFO - 2021-01-01 05:20:43 --> Hooks Class Initialized
+DEBUG - 2021-01-01 05:20:43 --> UTF-8 Support Enabled
+INFO - 2021-01-01 05:20:43 --> Utf8 Class Initialized
+INFO - 2021-01-01 05:20:43 --> URI Class Initialized
+INFO - 2021-01-01 05:20:43 --> Router Class Initialized
+INFO - 2021-01-01 05:20:43 --> Output Class Initialized
+INFO - 2021-01-01 05:20:43 --> Security Class Initialized
+DEBUG - 2021-01-01 05:20:43 --> Global POST, GET and COOKIE data sanitized
+INFO - 2021-01-01 05:20:43 --> Input Class Initialized
+INFO - 2021-01-01 05:20:43 --> Language Class Initialized
+INFO - 2021-01-01 05:20:43 --> Language Class Initialized
+INFO - 2021-01-01 05:20:44 --> Config Class Initialized
+INFO - 2021-01-01 05:20:44 --> Loader Class Initialized
+INFO - 2021-01-01 05:20:44 --> Helper loaded: url_helper
+INFO - 2021-01-01 05:20:44 --> Helper loaded: html_helper
+INFO - 2021-01-01 05:20:44 --> Helper loaded: file_helper
+INFO - 2021-01-01 05:20:44 --> Helper loaded: form_helper
+INFO - 2021-01-01 05:20:44 --> Helper loaded: security_helper
+INFO - 2021-01-01 05:20:44 --> Helper loaded: xss_helper
+INFO - 2021-01-01 05:20:44 --> Helper loaded: slug_helper
+INFO - 2021-01-01 05:20:44 --> Database Driver Class Initialized
+DEBUG - 2021-01-01 05:20:44 --> Session: "sess_save_path" is empty; using "session.save_path" value from php.ini.
+INFO - 2021-01-01 05:20:44 --> Session: Class initialized using 'files' driver.
+INFO - 2021-01-01 05:20:44 --> Language file loaded: language/english/pagination_lang.php
+INFO - 2021-01-01 05:20:44 --> Pagination Class Initialized
+INFO - 2021-01-01 05:20:44 --> Email Class Initialized
+INFO - 2021-01-01 05:20:44 --> Model "M_konfig" initialized
+INFO - 2021-01-01 05:20:44 --> Model "M_reff" initialized
+INFO - 2021-01-01 05:20:44 --> Model "M_total" initialized
+INFO - 2021-01-01 05:20:44 --> Controller Class Initialized
+DEBUG - 2021-01-01 05:20:44 --> File loaded: D:\xampp72\htdocs\app_grm\application\modules/apengumuman/models/Model.php
+INFO - 2021-01-01 11:20:44 --> Final output sent to browser
+DEBUG - 2021-01-01 11:20:44 --> Total execution time: 1.1175
+INFO - 2021-01-01 05:20:49 --> Config Class Initialized
+INFO - 2021-01-01 05:20:49 --> Hooks Class Initialized
+DEBUG - 2021-01-01 05:20:49 --> UTF-8 Support Enabled
+INFO - 2021-01-01 05:20:49 --> Utf8 Class Initialized
+INFO - 2021-01-01 05:20:49 --> URI Class Initialized
+INFO - 2021-01-01 05:20:49 --> Router Class Initialized
+INFO - 2021-01-01 05:20:49 --> Output Class Initialized
+INFO - 2021-01-01 05:20:49 --> Security Class Initialized
+DEBUG - 2021-01-01 05:20:49 --> Global POST, GET and COOKIE data sanitized
+INFO - 2021-01-01 05:20:49 --> Input Class Initialized
+INFO - 2021-01-01 05:20:49 --> Language Class Initialized
+INFO - 2021-01-01 05:20:49 --> Language Class Initialized
+INFO - 2021-01-01 05:20:49 --> Config Class Initialized
+INFO - 2021-01-01 05:20:49 --> Loader Class Initialized
+INFO - 2021-01-01 05:20:49 --> Helper loaded: url_helper
+INFO - 2021-01-01 05:20:49 --> Helper loaded: html_helper
+INFO - 2021-01-01 05:20:49 --> Helper loaded: file_helper
+INFO - 2021-01-01 05:20:49 --> Helper loaded: form_helper
+INFO - 2021-01-01 05:20:49 --> Helper loaded: security_helper
+INFO - 2021-01-01 05:20:49 --> Helper loaded: xss_helper
+INFO - 2021-01-01 05:20:49 --> Helper loaded: slug_helper
+INFO - 2021-01-01 05:20:50 --> Database Driver Class Initialized
+DEBUG - 2021-01-01 05:20:50 --> Session: "sess_save_path" is empty; using "session.save_path" value from php.ini.
+INFO - 2021-01-01 05:20:50 --> Session: Class initialized using 'files' driver.
+INFO - 2021-01-01 05:20:50 --> Language file loaded: language/english/pagination_lang.php
+INFO - 2021-01-01 05:20:50 --> Pagination Class Initialized
+INFO - 2021-01-01 05:20:50 --> Email Class Initialized
+INFO - 2021-01-01 05:20:50 --> Model "M_konfig" initialized
+INFO - 2021-01-01 05:20:50 --> Model "M_reff" initialized
+INFO - 2021-01-01 05:20:50 --> Model "M_total" initialized
+INFO - 2021-01-01 05:20:50 --> Controller Class Initialized
+DEBUG - 2021-01-01 05:20:50 --> File loaded: D:\xampp72\htdocs\app_grm\application\modules/apengumuman/models/Model.php
+INFO - 2021-01-01 11:20:50 --> Final output sent to browser
+DEBUG - 2021-01-01 11:20:50 --> Total execution time: 1.0851
+INFO - 2021-01-01 05:20:54 --> Config Class Initialized
+INFO - 2021-01-01 05:20:54 --> Hooks Class Initialized
+DEBUG - 2021-01-01 05:20:54 --> UTF-8 Support Enabled
+INFO - 2021-01-01 05:20:54 --> Utf8 Class Initialized
+INFO - 2021-01-01 05:20:54 --> URI Class Initialized
+INFO - 2021-01-01 05:20:54 --> Router Class Initialized
+INFO - 2021-01-01 05:20:54 --> Output Class Initialized
+INFO - 2021-01-01 05:20:54 --> Security Class Initialized
+DEBUG - 2021-01-01 05:20:54 --> Global POST, GET and COOKIE data sanitized
+INFO - 2021-01-01 05:20:54 --> Input Class Initialized
+INFO - 2021-01-01 05:20:54 --> Language Class Initialized
+INFO - 2021-01-01 05:20:54 --> Language Class Initialized
+INFO - 2021-01-01 05:20:54 --> Config Class Initialized
+INFO - 2021-01-01 05:20:54 --> Loader Class Initialized
+INFO - 2021-01-01 05:20:54 --> Helper loaded: url_helper
+INFO - 2021-01-01 05:20:54 --> Helper loaded: html_helper
+INFO - 2021-01-01 05:20:54 --> Helper loaded: file_helper
+INFO - 2021-01-01 05:20:54 --> Helper loaded: form_helper
+INFO - 2021-01-01 05:20:54 --> Helper loaded: security_helper
+INFO - 2021-01-01 05:20:54 --> Helper loaded: xss_helper
+INFO - 2021-01-01 05:20:54 --> Helper loaded: slug_helper
+INFO - 2021-01-01 05:20:54 --> Database Driver Class Initialized
+DEBUG - 2021-01-01 05:20:55 --> Session: "sess_save_path" is empty; using "session.save_path" value from php.ini.
+INFO - 2021-01-01 05:20:55 --> Session: Class initialized using 'files' driver.
+INFO - 2021-01-01 05:20:55 --> Language file loaded: language/english/pagination_lang.php
+INFO - 2021-01-01 05:20:55 --> Pagination Class Initialized
+INFO - 2021-01-01 05:20:55 --> Email Class Initialized
+INFO - 2021-01-01 05:20:55 --> Model "M_konfig" initialized
+INFO - 2021-01-01 05:20:55 --> Model "M_reff" initialized
+INFO - 2021-01-01 05:20:55 --> Model "M_total" initialized
+INFO - 2021-01-01 05:20:55 --> Controller Class Initialized
+DEBUG - 2021-01-01 05:20:55 --> File loaded: D:\xampp72\htdocs\app_grm\application\modules/apengumuman/models/Model.php
+INFO - 2021-01-01 11:20:55 --> Final output sent to browser
+DEBUG - 2021-01-01 11:20:55 --> Total execution time: 0.9790
+INFO - 2021-01-01 05:20:59 --> Config Class Initialized
+INFO - 2021-01-01 05:20:59 --> Hooks Class Initialized
+DEBUG - 2021-01-01 05:20:59 --> UTF-8 Support Enabled
+INFO - 2021-01-01 05:20:59 --> Utf8 Class Initialized
+INFO - 2021-01-01 05:20:59 --> URI Class Initialized
+INFO - 2021-01-01 05:20:59 --> Router Class Initialized
+INFO - 2021-01-01 05:20:59 --> Output Class Initialized
+INFO - 2021-01-01 05:20:59 --> Security Class Initialized
+DEBUG - 2021-01-01 05:20:59 --> Global POST, GET and COOKIE data sanitized
+INFO - 2021-01-01 05:20:59 --> Input Class Initialized
+INFO - 2021-01-01 05:20:59 --> Language Class Initialized
+INFO - 2021-01-01 05:20:59 --> Language Class Initialized
+INFO - 2021-01-01 05:20:59 --> Config Class Initialized
+INFO - 2021-01-01 05:20:59 --> Loader Class Initialized
+INFO - 2021-01-01 05:20:59 --> Helper loaded: url_helper
+INFO - 2021-01-01 05:20:59 --> Helper loaded: html_helper
+INFO - 2021-01-01 05:20:59 --> Helper loaded: file_helper
+INFO - 2021-01-01 05:20:59 --> Helper loaded: form_helper
+INFO - 2021-01-01 05:20:59 --> Helper loaded: security_helper
+INFO - 2021-01-01 05:20:59 --> Helper loaded: xss_helper
+INFO - 2021-01-01 05:20:59 --> Helper loaded: slug_helper
+INFO - 2021-01-01 05:21:00 --> Database Driver Class Initialized
+DEBUG - 2021-01-01 05:21:00 --> Session: "sess_save_path" is empty; using "session.save_path" value from php.ini.
+INFO - 2021-01-01 05:21:00 --> Session: Class initialized using 'files' driver.
+INFO - 2021-01-01 05:21:00 --> Language file loaded: language/english/pagination_lang.php
+INFO - 2021-01-01 05:21:00 --> Pagination Class Initialized
+INFO - 2021-01-01 05:21:00 --> Email Class Initialized
+INFO - 2021-01-01 05:21:00 --> Model "M_konfig" initialized
+INFO - 2021-01-01 05:21:00 --> Model "M_reff" initialized
+INFO - 2021-01-01 05:21:00 --> Model "M_total" initialized
+INFO - 2021-01-01 05:21:00 --> Controller Class Initialized
+DEBUG - 2021-01-01 05:21:00 --> File loaded: D:\xampp72\htdocs\app_grm\application\modules/apengumuman/models/Model.php
+INFO - 2021-01-01 11:21:00 --> Final output sent to browser
+DEBUG - 2021-01-01 11:21:00 --> Total execution time: 1.0500
+INFO - 2021-01-01 05:21:04 --> Config Class Initialized
+INFO - 2021-01-01 05:21:04 --> Hooks Class Initialized
+DEBUG - 2021-01-01 05:21:04 --> UTF-8 Support Enabled
+INFO - 2021-01-01 05:21:04 --> Utf8 Class Initialized
+INFO - 2021-01-01 05:21:04 --> URI Class Initialized
+INFO - 2021-01-01 05:21:04 --> Router Class Initialized
+INFO - 2021-01-01 05:21:04 --> Output Class Initialized
+INFO - 2021-01-01 05:21:04 --> Security Class Initialized
+DEBUG - 2021-01-01 05:21:04 --> Global POST, GET and COOKIE data sanitized
+INFO - 2021-01-01 05:21:04 --> Input Class Initialized
+INFO - 2021-01-01 05:21:04 --> Language Class Initialized
+INFO - 2021-01-01 05:21:04 --> Language Class Initialized
+INFO - 2021-01-01 05:21:04 --> Config Class Initialized
+INFO - 2021-01-01 05:21:04 --> Loader Class Initialized
+INFO - 2021-01-01 05:21:04 --> Helper loaded: url_helper
+INFO - 2021-01-01 05:21:04 --> Helper loaded: html_helper
+INFO - 2021-01-01 05:21:04 --> Helper loaded: file_helper
+INFO - 2021-01-01 05:21:04 --> Helper loaded: form_helper
+INFO - 2021-01-01 05:21:04 --> Helper loaded: security_helper
+INFO - 2021-01-01 05:21:04 --> Helper loaded: xss_helper
+INFO - 2021-01-01 05:21:04 --> Helper loaded: slug_helper
+INFO - 2021-01-01 05:21:04 --> Database Driver Class Initialized
+DEBUG - 2021-01-01 05:21:05 --> Session: "sess_save_path" is empty; using "session.save_path" value from php.ini.
+INFO - 2021-01-01 05:21:05 --> Session: Class initialized using 'files' driver.
+INFO - 2021-01-01 05:21:05 --> Language file loaded: language/english/pagination_lang.php
+INFO - 2021-01-01 05:21:05 --> Pagination Class Initialized
+INFO - 2021-01-01 05:21:05 --> Email Class Initialized
+INFO - 2021-01-01 05:21:05 --> Model "M_konfig" initialized
+INFO - 2021-01-01 05:21:05 --> Model "M_reff" initialized
+INFO - 2021-01-01 05:21:05 --> Model "M_total" initialized
+INFO - 2021-01-01 05:21:05 --> Controller Class Initialized
+DEBUG - 2021-01-01 05:21:05 --> File loaded: D:\xampp72\htdocs\app_grm\application\modules/apengumuman/models/Model.php
+INFO - 2021-01-01 11:21:05 --> Final output sent to browser
+DEBUG - 2021-01-01 11:21:05 --> Total execution time: 0.9792
+INFO - 2021-01-01 05:21:09 --> Config Class Initialized
+INFO - 2021-01-01 05:21:09 --> Hooks Class Initialized
+DEBUG - 2021-01-01 05:21:09 --> UTF-8 Support Enabled
+INFO - 2021-01-01 05:21:09 --> Utf8 Class Initialized
+INFO - 2021-01-01 05:21:09 --> URI Class Initialized
+INFO - 2021-01-01 05:21:09 --> Router Class Initialized
+INFO - 2021-01-01 05:21:09 --> Output Class Initialized
+INFO - 2021-01-01 05:21:09 --> Security Class Initialized
+DEBUG - 2021-01-01 05:21:09 --> Global POST, GET and COOKIE data sanitized
+INFO - 2021-01-01 05:21:09 --> Input Class Initialized
+INFO - 2021-01-01 05:21:09 --> Language Class Initialized
+INFO - 2021-01-01 05:21:09 --> Language Class Initialized
+INFO - 2021-01-01 05:21:09 --> Config Class Initialized
+INFO - 2021-01-01 05:21:09 --> Loader Class Initialized
+INFO - 2021-01-01 05:21:09 --> Helper loaded: url_helper
+INFO - 2021-01-01 05:21:09 --> Helper loaded: html_helper
+INFO - 2021-01-01 05:21:09 --> Helper loaded: file_helper
+INFO - 2021-01-01 05:21:09 --> Helper loaded: form_helper
+INFO - 2021-01-01 05:21:09 --> Helper loaded: security_helper
+INFO - 2021-01-01 05:21:09 --> Helper loaded: xss_helper
+INFO - 2021-01-01 05:21:09 --> Helper loaded: slug_helper
+INFO - 2021-01-01 05:21:09 --> Database Driver Class Initialized
+DEBUG - 2021-01-01 05:21:10 --> Session: "sess_save_path" is empty; using "session.save_path" value from php.ini.
+INFO - 2021-01-01 05:21:10 --> Session: Class initialized using 'files' driver.
+INFO - 2021-01-01 05:21:10 --> Language file loaded: language/english/pagination_lang.php
+INFO - 2021-01-01 05:21:10 --> Pagination Class Initialized
+INFO - 2021-01-01 05:21:10 --> Email Class Initialized
+INFO - 2021-01-01 05:21:10 --> Model "M_konfig" initialized
+INFO - 2021-01-01 05:21:10 --> Model "M_reff" initialized
+INFO - 2021-01-01 05:21:10 --> Model "M_total" initialized
+INFO - 2021-01-01 05:21:10 --> Controller Class Initialized
+DEBUG - 2021-01-01 05:21:10 --> File loaded: D:\xampp72\htdocs\app_grm\application\modules/apengumuman/models/Model.php
+INFO - 2021-01-01 11:21:10 --> Final output sent to browser
+DEBUG - 2021-01-01 11:21:10 --> Total execution time: 0.9743
+INFO - 2021-01-01 05:21:14 --> Config Class Initialized
+INFO - 2021-01-01 05:21:14 --> Hooks Class Initialized
+DEBUG - 2021-01-01 05:21:14 --> UTF-8 Support Enabled
+INFO - 2021-01-01 05:21:14 --> Utf8 Class Initialized
+INFO - 2021-01-01 05:21:14 --> URI Class Initialized
+INFO - 2021-01-01 05:21:14 --> Router Class Initialized
+INFO - 2021-01-01 05:21:14 --> Output Class Initialized
+INFO - 2021-01-01 05:21:14 --> Security Class Initialized
+DEBUG - 2021-01-01 05:21:14 --> Global POST, GET and COOKIE data sanitized
+INFO - 2021-01-01 05:21:14 --> Input Class Initialized
+INFO - 2021-01-01 05:21:14 --> Language Class Initialized
+INFO - 2021-01-01 05:21:14 --> Language Class Initialized
+INFO - 2021-01-01 05:21:14 --> Config Class Initialized
+INFO - 2021-01-01 05:21:14 --> Loader Class Initialized
+INFO - 2021-01-01 05:21:14 --> Helper loaded: url_helper
+INFO - 2021-01-01 05:21:14 --> Helper loaded: html_helper
+INFO - 2021-01-01 05:21:14 --> Helper loaded: file_helper
+INFO - 2021-01-01 05:21:15 --> Helper loaded: form_helper
+INFO - 2021-01-01 05:21:15 --> Helper loaded: security_helper
+INFO - 2021-01-01 05:21:15 --> Helper loaded: xss_helper
+INFO - 2021-01-01 05:21:15 --> Helper loaded: slug_helper
+INFO - 2021-01-01 05:21:15 --> Database Driver Class Initialized
+DEBUG - 2021-01-01 05:21:15 --> Session: "sess_save_path" is empty; using "session.save_path" value from php.ini.
+INFO - 2021-01-01 05:21:15 --> Session: Class initialized using 'files' driver.
+INFO - 2021-01-01 05:21:15 --> Language file loaded: language/english/pagination_lang.php
+INFO - 2021-01-01 05:21:15 --> Pagination Class Initialized
+INFO - 2021-01-01 05:21:15 --> Email Class Initialized
+INFO - 2021-01-01 05:21:15 --> Model "M_konfig" initialized
+INFO - 2021-01-01 05:21:15 --> Model "M_reff" initialized
+INFO - 2021-01-01 05:21:15 --> Model "M_total" initialized
+INFO - 2021-01-01 05:21:15 --> Controller Class Initialized
+DEBUG - 2021-01-01 05:21:15 --> File loaded: D:\xampp72\htdocs\app_grm\application\modules/apengumuman/models/Model.php
+INFO - 2021-01-01 11:21:15 --> Final output sent to browser
+DEBUG - 2021-01-01 11:21:15 --> Total execution time: 1.1306
+INFO - 2021-01-01 05:21:19 --> Config Class Initialized
+INFO - 2021-01-01 05:21:19 --> Hooks Class Initialized
+DEBUG - 2021-01-01 05:21:19 --> UTF-8 Support Enabled
+INFO - 2021-01-01 05:21:19 --> Utf8 Class Initialized
+INFO - 2021-01-01 05:21:19 --> URI Class Initialized
+INFO - 2021-01-01 05:21:19 --> Router Class Initialized
+INFO - 2021-01-01 05:21:19 --> Output Class Initialized
+INFO - 2021-01-01 05:21:19 --> Security Class Initialized
+DEBUG - 2021-01-01 05:21:19 --> Global POST, GET and COOKIE data sanitized
+INFO - 2021-01-01 05:21:19 --> Input Class Initialized
+INFO - 2021-01-01 05:21:19 --> Language Class Initialized
+INFO - 2021-01-01 05:21:19 --> Language Class Initialized
+INFO - 2021-01-01 05:21:19 --> Config Class Initialized
+INFO - 2021-01-01 05:21:19 --> Loader Class Initialized
+INFO - 2021-01-01 05:21:19 --> Helper loaded: url_helper
+INFO - 2021-01-01 05:21:19 --> Helper loaded: html_helper
+INFO - 2021-01-01 05:21:19 --> Helper loaded: file_helper
+INFO - 2021-01-01 05:21:19 --> Helper loaded: form_helper
+INFO - 2021-01-01 05:21:19 --> Helper loaded: security_helper
+INFO - 2021-01-01 05:21:20 --> Helper loaded: xss_helper
+INFO - 2021-01-01 05:21:20 --> Helper loaded: slug_helper
+INFO - 2021-01-01 05:21:20 --> Database Driver Class Initialized
+DEBUG - 2021-01-01 05:21:20 --> Session: "sess_save_path" is empty; using "session.save_path" value from php.ini.
+INFO - 2021-01-01 05:21:20 --> Session: Class initialized using 'files' driver.
+INFO - 2021-01-01 05:21:20 --> Language file loaded: language/english/pagination_lang.php
+INFO - 2021-01-01 05:21:20 --> Pagination Class Initialized
+INFO - 2021-01-01 05:21:20 --> Email Class Initialized
+INFO - 2021-01-01 05:21:20 --> Model "M_konfig" initialized
+INFO - 2021-01-01 05:21:20 --> Model "M_reff" initialized
+INFO - 2021-01-01 05:21:20 --> Model "M_total" initialized
+INFO - 2021-01-01 05:21:20 --> Controller Class Initialized
+DEBUG - 2021-01-01 05:21:20 --> File loaded: D:\xampp72\htdocs\app_grm\application\modules/apengumuman/models/Model.php
+INFO - 2021-01-01 11:21:20 --> Final output sent to browser
+DEBUG - 2021-01-01 11:21:20 --> Total execution time: 1.1641
+INFO - 2021-01-01 05:21:24 --> Config Class Initialized
+INFO - 2021-01-01 05:21:24 --> Hooks Class Initialized
+DEBUG - 2021-01-01 05:21:24 --> UTF-8 Support Enabled
+INFO - 2021-01-01 05:21:24 --> Utf8 Class Initialized
+INFO - 2021-01-01 05:21:24 --> URI Class Initialized
+INFO - 2021-01-01 05:21:24 --> Router Class Initialized
+INFO - 2021-01-01 05:21:24 --> Output Class Initialized
+INFO - 2021-01-01 05:21:24 --> Security Class Initialized
+DEBUG - 2021-01-01 05:21:24 --> Global POST, GET and COOKIE data sanitized
+INFO - 2021-01-01 05:21:24 --> Input Class Initialized
+INFO - 2021-01-01 05:21:24 --> Language Class Initialized
+INFO - 2021-01-01 05:21:24 --> Language Class Initialized
+INFO - 2021-01-01 05:21:24 --> Config Class Initialized
+INFO - 2021-01-01 05:21:24 --> Loader Class Initialized
+INFO - 2021-01-01 05:21:24 --> Helper loaded: url_helper
+INFO - 2021-01-01 05:21:24 --> Helper loaded: html_helper
+INFO - 2021-01-01 05:21:24 --> Helper loaded: file_helper
+INFO - 2021-01-01 05:21:24 --> Helper loaded: form_helper
+INFO - 2021-01-01 05:21:24 --> Helper loaded: security_helper
+INFO - 2021-01-01 05:21:24 --> Helper loaded: xss_helper
+INFO - 2021-01-01 05:21:24 --> Helper loaded: slug_helper
+INFO - 2021-01-01 05:21:25 --> Database Driver Class Initialized
+DEBUG - 2021-01-01 05:21:25 --> Session: "sess_save_path" is empty; using "session.save_path" value from php.ini.
+INFO - 2021-01-01 05:21:25 --> Session: Class initialized using 'files' driver.
+INFO - 2021-01-01 05:21:25 --> Language file loaded: language/english/pagination_lang.php
+INFO - 2021-01-01 05:21:25 --> Pagination Class Initialized
+INFO - 2021-01-01 05:21:25 --> Email Class Initialized
+INFO - 2021-01-01 05:21:25 --> Model "M_konfig" initialized
+INFO - 2021-01-01 05:21:25 --> Model "M_reff" initialized
+INFO - 2021-01-01 05:21:25 --> Model "M_total" initialized
+INFO - 2021-01-01 05:21:25 --> Controller Class Initialized
+DEBUG - 2021-01-01 05:21:25 --> File loaded: D:\xampp72\htdocs\app_grm\application\modules/apengumuman/models/Model.php
+INFO - 2021-01-01 11:21:25 --> Final output sent to browser
+DEBUG - 2021-01-01 11:21:25 --> Total execution time: 0.9849
+INFO - 2021-01-01 05:21:29 --> Config Class Initialized
+INFO - 2021-01-01 05:21:29 --> Hooks Class Initialized
+DEBUG - 2021-01-01 05:21:29 --> UTF-8 Support Enabled
+INFO - 2021-01-01 05:21:29 --> Utf8 Class Initialized
+INFO - 2021-01-01 05:21:29 --> URI Class Initialized
+INFO - 2021-01-01 05:21:29 --> Router Class Initialized
+INFO - 2021-01-01 05:21:29 --> Output Class Initialized
+INFO - 2021-01-01 05:21:29 --> Security Class Initialized
+DEBUG - 2021-01-01 05:21:29 --> Global POST, GET and COOKIE data sanitized
+INFO - 2021-01-01 05:21:29 --> Input Class Initialized
+INFO - 2021-01-01 05:21:29 --> Language Class Initialized
+INFO - 2021-01-01 05:21:29 --> Language Class Initialized
+INFO - 2021-01-01 05:21:29 --> Config Class Initialized
+INFO - 2021-01-01 05:21:29 --> Loader Class Initialized
+INFO - 2021-01-01 05:21:29 --> Helper loaded: url_helper
+INFO - 2021-01-01 05:21:29 --> Helper loaded: html_helper
+INFO - 2021-01-01 05:21:29 --> Helper loaded: file_helper
+INFO - 2021-01-01 05:21:29 --> Helper loaded: form_helper
+INFO - 2021-01-01 05:21:29 --> Helper loaded: security_helper
+INFO - 2021-01-01 05:21:29 --> Helper loaded: xss_helper
+INFO - 2021-01-01 05:21:29 --> Helper loaded: slug_helper
+INFO - 2021-01-01 05:21:30 --> Database Driver Class Initialized
+DEBUG - 2021-01-01 05:21:30 --> Session: "sess_save_path" is empty; using "session.save_path" value from php.ini.
+INFO - 2021-01-01 05:21:30 --> Session: Class initialized using 'files' driver.
+INFO - 2021-01-01 05:21:30 --> Language file loaded: language/english/pagination_lang.php
+INFO - 2021-01-01 05:21:30 --> Pagination Class Initialized
+INFO - 2021-01-01 05:21:30 --> Email Class Initialized
+INFO - 2021-01-01 05:21:30 --> Model "M_konfig" initialized
+INFO - 2021-01-01 05:21:30 --> Model "M_reff" initialized
+INFO - 2021-01-01 05:21:30 --> Model "M_total" initialized
+INFO - 2021-01-01 05:21:30 --> Controller Class Initialized
+DEBUG - 2021-01-01 05:21:30 --> File loaded: D:\xampp72\htdocs\app_grm\application\modules/apengumuman/models/Model.php
+INFO - 2021-01-01 11:21:30 --> Final output sent to browser
+DEBUG - 2021-01-01 11:21:30 --> Total execution time: 1.0111
+INFO - 2021-01-01 05:21:34 --> Config Class Initialized
+INFO - 2021-01-01 05:21:34 --> Hooks Class Initialized
+DEBUG - 2021-01-01 05:21:34 --> UTF-8 Support Enabled
+INFO - 2021-01-01 05:21:34 --> Utf8 Class Initialized
+INFO - 2021-01-01 05:21:34 --> URI Class Initialized
+INFO - 2021-01-01 05:21:34 --> Router Class Initialized
+INFO - 2021-01-01 05:21:34 --> Output Class Initialized
+INFO - 2021-01-01 05:21:34 --> Security Class Initialized
+DEBUG - 2021-01-01 05:21:34 --> Global POST, GET and COOKIE data sanitized
+INFO - 2021-01-01 05:21:34 --> Input Class Initialized
+INFO - 2021-01-01 05:21:34 --> Language Class Initialized
+INFO - 2021-01-01 05:21:34 --> Language Class Initialized
+INFO - 2021-01-01 05:21:34 --> Config Class Initialized
+INFO - 2021-01-01 05:21:34 --> Loader Class Initialized
+INFO - 2021-01-01 05:21:34 --> Helper loaded: url_helper
+INFO - 2021-01-01 05:21:34 --> Helper loaded: html_helper
+INFO - 2021-01-01 05:21:34 --> Helper loaded: file_helper
+INFO - 2021-01-01 05:21:34 --> Helper loaded: form_helper
+INFO - 2021-01-01 05:21:34 --> Helper loaded: security_helper
+INFO - 2021-01-01 05:21:34 --> Helper loaded: xss_helper
+INFO - 2021-01-01 05:21:34 --> Helper loaded: slug_helper
+INFO - 2021-01-01 05:21:35 --> Database Driver Class Initialized
+DEBUG - 2021-01-01 05:21:35 --> Session: "sess_save_path" is empty; using "session.save_path" value from php.ini.
+INFO - 2021-01-01 05:21:35 --> Session: Class initialized using 'files' driver.
+INFO - 2021-01-01 05:21:35 --> Language file loaded: language/english/pagination_lang.php
+INFO - 2021-01-01 05:21:35 --> Pagination Class Initialized
+INFO - 2021-01-01 05:21:35 --> Email Class Initialized
+INFO - 2021-01-01 05:21:35 --> Model "M_konfig" initialized
+INFO - 2021-01-01 05:21:35 --> Model "M_reff" initialized
+INFO - 2021-01-01 05:21:35 --> Model "M_total" initialized
+INFO - 2021-01-01 05:21:35 --> Controller Class Initialized
+DEBUG - 2021-01-01 05:21:35 --> File loaded: D:\xampp72\htdocs\app_grm\application\modules/apengumuman/models/Model.php
+INFO - 2021-01-01 11:21:35 --> Final output sent to browser
+DEBUG - 2021-01-01 11:21:35 --> Total execution time: 0.9892
+INFO - 2021-01-01 05:21:39 --> Config Class Initialized
+INFO - 2021-01-01 05:21:39 --> Hooks Class Initialized
+DEBUG - 2021-01-01 05:21:39 --> UTF-8 Support Enabled
+INFO - 2021-01-01 05:21:39 --> Utf8 Class Initialized
+INFO - 2021-01-01 05:21:39 --> URI Class Initialized
+INFO - 2021-01-01 05:21:39 --> Router Class Initialized
+INFO - 2021-01-01 05:21:39 --> Output Class Initialized
+INFO - 2021-01-01 05:21:39 --> Security Class Initialized
+DEBUG - 2021-01-01 05:21:39 --> Global POST, GET and COOKIE data sanitized
+INFO - 2021-01-01 05:21:39 --> Input Class Initialized
+INFO - 2021-01-01 05:21:39 --> Language Class Initialized
+INFO - 2021-01-01 05:21:39 --> Language Class Initialized
+INFO - 2021-01-01 05:21:39 --> Config Class Initialized
+INFO - 2021-01-01 05:21:39 --> Loader Class Initialized
+INFO - 2021-01-01 05:21:39 --> Helper loaded: url_helper
+INFO - 2021-01-01 05:21:39 --> Helper loaded: html_helper
+INFO - 2021-01-01 05:21:39 --> Helper loaded: file_helper
+INFO - 2021-01-01 05:21:39 --> Helper loaded: form_helper
+INFO - 2021-01-01 05:21:39 --> Helper loaded: security_helper
+INFO - 2021-01-01 05:21:39 --> Helper loaded: xss_helper
+INFO - 2021-01-01 05:21:39 --> Helper loaded: slug_helper
+INFO - 2021-01-01 05:21:40 --> Database Driver Class Initialized
+DEBUG - 2021-01-01 05:21:40 --> Session: "sess_save_path" is empty; using "session.save_path" value from php.ini.
+INFO - 2021-01-01 05:21:40 --> Session: Class initialized using 'files' driver.
+INFO - 2021-01-01 05:21:40 --> Language file loaded: language/english/pagination_lang.php
+INFO - 2021-01-01 05:21:40 --> Pagination Class Initialized
+INFO - 2021-01-01 05:21:40 --> Email Class Initialized
+INFO - 2021-01-01 05:21:40 --> Model "M_konfig" initialized
+INFO - 2021-01-01 05:21:40 --> Model "M_reff" initialized
+INFO - 2021-01-01 05:21:40 --> Model "M_total" initialized
+INFO - 2021-01-01 05:21:40 --> Controller Class Initialized
+DEBUG - 2021-01-01 05:21:40 --> File loaded: D:\xampp72\htdocs\app_grm\application\modules/apengumuman/models/Model.php
+INFO - 2021-01-01 11:21:40 --> Final output sent to browser
+DEBUG - 2021-01-01 11:21:40 --> Total execution time: 1.0243
+INFO - 2021-01-01 05:21:44 --> Config Class Initialized
+INFO - 2021-01-01 05:21:44 --> Hooks Class Initialized
+DEBUG - 2021-01-01 05:21:44 --> UTF-8 Support Enabled
+INFO - 2021-01-01 05:21:44 --> Utf8 Class Initialized
+INFO - 2021-01-01 05:21:44 --> URI Class Initialized
+INFO - 2021-01-01 05:21:44 --> Router Class Initialized
+INFO - 2021-01-01 05:21:44 --> Output Class Initialized
+INFO - 2021-01-01 05:21:44 --> Security Class Initialized
+DEBUG - 2021-01-01 05:21:44 --> Global POST, GET and COOKIE data sanitized
+INFO - 2021-01-01 05:21:44 --> Input Class Initialized
+INFO - 2021-01-01 05:21:44 --> Language Class Initialized
+INFO - 2021-01-01 05:21:44 --> Language Class Initialized
+INFO - 2021-01-01 05:21:44 --> Config Class Initialized
+INFO - 2021-01-01 05:21:44 --> Loader Class Initialized
+INFO - 2021-01-01 05:21:44 --> Helper loaded: url_helper
+INFO - 2021-01-01 05:21:44 --> Helper loaded: html_helper
+INFO - 2021-01-01 05:21:44 --> Helper loaded: file_helper
+INFO - 2021-01-01 05:21:44 --> Helper loaded: form_helper
+INFO - 2021-01-01 05:21:44 --> Helper loaded: security_helper
+INFO - 2021-01-01 05:21:45 --> Helper loaded: xss_helper
+INFO - 2021-01-01 05:21:45 --> Helper loaded: slug_helper
+INFO - 2021-01-01 05:21:45 --> Database Driver Class Initialized
+DEBUG - 2021-01-01 05:21:45 --> Session: "sess_save_path" is empty; using "session.save_path" value from php.ini.
+INFO - 2021-01-01 05:21:45 --> Session: Class initialized using 'files' driver.
+INFO - 2021-01-01 05:21:45 --> Language file loaded: language/english/pagination_lang.php
+INFO - 2021-01-01 05:21:45 --> Pagination Class Initialized
+INFO - 2021-01-01 05:21:45 --> Email Class Initialized
+INFO - 2021-01-01 05:21:45 --> Model "M_konfig" initialized
+INFO - 2021-01-01 05:21:45 --> Model "M_reff" initialized
+INFO - 2021-01-01 05:21:45 --> Model "M_total" initialized
+INFO - 2021-01-01 05:21:45 --> Controller Class Initialized
+DEBUG - 2021-01-01 05:21:45 --> File loaded: D:\xampp72\htdocs\app_grm\application\modules/apengumuman/models/Model.php
+INFO - 2021-01-01 11:21:45 --> Final output sent to browser
+DEBUG - 2021-01-01 11:21:45 --> Total execution time: 1.0216
+INFO - 2021-01-01 05:21:49 --> Config Class Initialized
+INFO - 2021-01-01 05:21:49 --> Hooks Class Initialized
+DEBUG - 2021-01-01 05:21:49 --> UTF-8 Support Enabled
+INFO - 2021-01-01 05:21:49 --> Utf8 Class Initialized
+INFO - 2021-01-01 05:21:49 --> URI Class Initialized
+INFO - 2021-01-01 05:21:49 --> Router Class Initialized
+INFO - 2021-01-01 05:21:49 --> Output Class Initialized
+INFO - 2021-01-01 05:21:49 --> Security Class Initialized
+DEBUG - 2021-01-01 05:21:49 --> Global POST, GET and COOKIE data sanitized
+INFO - 2021-01-01 05:21:49 --> Input Class Initialized
+INFO - 2021-01-01 05:21:49 --> Language Class Initialized
+INFO - 2021-01-01 05:21:49 --> Language Class Initialized
+INFO - 2021-01-01 05:21:49 --> Config Class Initialized
+INFO - 2021-01-01 05:21:49 --> Loader Class Initialized
+INFO - 2021-01-01 05:21:49 --> Helper loaded: url_helper
+INFO - 2021-01-01 05:21:49 --> Helper loaded: html_helper
+INFO - 2021-01-01 05:21:49 --> Helper loaded: file_helper
+INFO - 2021-01-01 05:21:49 --> Helper loaded: form_helper
+INFO - 2021-01-01 05:21:49 --> Helper loaded: security_helper
+INFO - 2021-01-01 05:21:49 --> Helper loaded: xss_helper
+INFO - 2021-01-01 05:21:50 --> Helper loaded: slug_helper
+INFO - 2021-01-01 05:21:50 --> Database Driver Class Initialized
+DEBUG - 2021-01-01 05:21:50 --> Session: "sess_save_path" is empty; using "session.save_path" value from php.ini.
+INFO - 2021-01-01 05:21:50 --> Session: Class initialized using 'files' driver.
+INFO - 2021-01-01 05:21:50 --> Language file loaded: language/english/pagination_lang.php
+INFO - 2021-01-01 05:21:50 --> Pagination Class Initialized
+INFO - 2021-01-01 05:21:50 --> Email Class Initialized
+INFO - 2021-01-01 05:21:50 --> Model "M_konfig" initialized
+INFO - 2021-01-01 05:21:50 --> Model "M_reff" initialized
+INFO - 2021-01-01 05:21:50 --> Model "M_total" initialized
+INFO - 2021-01-01 05:21:50 --> Controller Class Initialized
+DEBUG - 2021-01-01 05:21:50 --> File loaded: D:\xampp72\htdocs\app_grm\application\modules/apengumuman/models/Model.php
+INFO - 2021-01-01 11:21:50 --> Final output sent to browser
+DEBUG - 2021-01-01 11:21:50 --> Total execution time: 1.0122
+INFO - 2021-01-01 05:21:54 --> Config Class Initialized
+INFO - 2021-01-01 05:21:54 --> Hooks Class Initialized
+DEBUG - 2021-01-01 05:21:54 --> UTF-8 Support Enabled
+INFO - 2021-01-01 05:21:54 --> Utf8 Class Initialized
+INFO - 2021-01-01 05:21:54 --> URI Class Initialized
+INFO - 2021-01-01 05:21:54 --> Router Class Initialized
+INFO - 2021-01-01 05:21:54 --> Output Class Initialized
+INFO - 2021-01-01 05:21:54 --> Security Class Initialized
+DEBUG - 2021-01-01 05:21:54 --> Global POST, GET and COOKIE data sanitized
+INFO - 2021-01-01 05:21:54 --> Input Class Initialized
+INFO - 2021-01-01 05:21:54 --> Language Class Initialized
+INFO - 2021-01-01 05:21:54 --> Language Class Initialized
+INFO - 2021-01-01 05:21:54 --> Config Class Initialized
+INFO - 2021-01-01 05:21:54 --> Loader Class Initialized
+INFO - 2021-01-01 05:21:54 --> Helper loaded: url_helper
+INFO - 2021-01-01 05:21:55 --> Helper loaded: html_helper
+INFO - 2021-01-01 05:21:55 --> Helper loaded: file_helper
+INFO - 2021-01-01 05:21:55 --> Helper loaded: form_helper
+INFO - 2021-01-01 05:21:55 --> Helper loaded: security_helper
+INFO - 2021-01-01 05:21:55 --> Helper loaded: xss_helper
+INFO - 2021-01-01 05:21:55 --> Helper loaded: slug_helper
+INFO - 2021-01-01 05:21:55 --> Database Driver Class Initialized
+DEBUG - 2021-01-01 05:21:55 --> Session: "sess_save_path" is empty; using "session.save_path" value from php.ini.
+INFO - 2021-01-01 05:21:55 --> Session: Class initialized using 'files' driver.
+INFO - 2021-01-01 05:21:55 --> Language file loaded: language/english/pagination_lang.php
+INFO - 2021-01-01 05:21:55 --> Pagination Class Initialized
+INFO - 2021-01-01 05:21:55 --> Email Class Initialized
+INFO - 2021-01-01 05:21:55 --> Model "M_konfig" initialized
+INFO - 2021-01-01 05:21:55 --> Model "M_reff" initialized
+INFO - 2021-01-01 05:21:55 --> Model "M_total" initialized
+INFO - 2021-01-01 05:21:55 --> Controller Class Initialized
+DEBUG - 2021-01-01 05:21:55 --> File loaded: D:\xampp72\htdocs\app_grm\application\modules/apengumuman/models/Model.php
+INFO - 2021-01-01 11:21:55 --> Final output sent to browser
+DEBUG - 2021-01-01 11:21:55 --> Total execution time: 1.1603
+INFO - 2021-01-01 05:21:59 --> Config Class Initialized
+INFO - 2021-01-01 05:21:59 --> Hooks Class Initialized
+DEBUG - 2021-01-01 05:21:59 --> UTF-8 Support Enabled
+INFO - 2021-01-01 05:21:59 --> Utf8 Class Initialized
+INFO - 2021-01-01 05:21:59 --> URI Class Initialized
+INFO - 2021-01-01 05:21:59 --> Router Class Initialized
+INFO - 2021-01-01 05:21:59 --> Output Class Initialized
+INFO - 2021-01-01 05:21:59 --> Security Class Initialized
+DEBUG - 2021-01-01 05:21:59 --> Global POST, GET and COOKIE data sanitized
+INFO - 2021-01-01 05:21:59 --> Input Class Initialized
+INFO - 2021-01-01 05:21:59 --> Language Class Initialized
+INFO - 2021-01-01 05:21:59 --> Language Class Initialized
+INFO - 2021-01-01 05:21:59 --> Config Class Initialized
+INFO - 2021-01-01 05:21:59 --> Loader Class Initialized
+INFO - 2021-01-01 05:21:59 --> Helper loaded: url_helper
+INFO - 2021-01-01 05:21:59 --> Helper loaded: html_helper
+INFO - 2021-01-01 05:22:00 --> Helper loaded: file_helper
+INFO - 2021-01-01 05:22:00 --> Helper loaded: form_helper
+INFO - 2021-01-01 05:22:00 --> Helper loaded: security_helper
+INFO - 2021-01-01 05:22:00 --> Helper loaded: xss_helper
+INFO - 2021-01-01 05:22:00 --> Helper loaded: slug_helper
+INFO - 2021-01-01 05:22:00 --> Database Driver Class Initialized
+DEBUG - 2021-01-01 05:22:00 --> Session: "sess_save_path" is empty; using "session.save_path" value from php.ini.
+INFO - 2021-01-01 05:22:00 --> Session: Class initialized using 'files' driver.
+INFO - 2021-01-01 05:22:00 --> Language file loaded: language/english/pagination_lang.php
+INFO - 2021-01-01 05:22:00 --> Pagination Class Initialized
+INFO - 2021-01-01 05:22:00 --> Email Class Initialized
+INFO - 2021-01-01 05:22:00 --> Model "M_konfig" initialized
+INFO - 2021-01-01 05:22:00 --> Model "M_reff" initialized
+INFO - 2021-01-01 05:22:00 --> Model "M_total" initialized
+INFO - 2021-01-01 05:22:00 --> Controller Class Initialized
+DEBUG - 2021-01-01 05:22:00 --> File loaded: D:\xampp72\htdocs\app_grm\application\modules/apengumuman/models/Model.php
+INFO - 2021-01-01 11:22:00 --> Final output sent to browser
+DEBUG - 2021-01-01 11:22:00 --> Total execution time: 1.3855
+INFO - 2021-01-01 05:22:04 --> Config Class Initialized
+INFO - 2021-01-01 05:22:04 --> Hooks Class Initialized
+DEBUG - 2021-01-01 05:22:04 --> UTF-8 Support Enabled
+INFO - 2021-01-01 05:22:04 --> Utf8 Class Initialized
+INFO - 2021-01-01 05:22:04 --> URI Class Initialized
+INFO - 2021-01-01 05:22:04 --> Router Class Initialized
+INFO - 2021-01-01 05:22:04 --> Output Class Initialized
+INFO - 2021-01-01 05:22:04 --> Security Class Initialized
+DEBUG - 2021-01-01 05:22:04 --> Global POST, GET and COOKIE data sanitized
+INFO - 2021-01-01 05:22:04 --> Input Class Initialized
+INFO - 2021-01-01 05:22:04 --> Language Class Initialized
+INFO - 2021-01-01 05:22:04 --> Language Class Initialized
+INFO - 2021-01-01 05:22:04 --> Config Class Initialized
+INFO - 2021-01-01 05:22:04 --> Loader Class Initialized
+INFO - 2021-01-01 05:22:05 --> Helper loaded: url_helper
+INFO - 2021-01-01 05:22:05 --> Helper loaded: html_helper
+INFO - 2021-01-01 05:22:05 --> Helper loaded: file_helper
+INFO - 2021-01-01 05:22:05 --> Helper loaded: form_helper
+INFO - 2021-01-01 05:22:05 --> Helper loaded: security_helper
+INFO - 2021-01-01 05:22:05 --> Helper loaded: xss_helper
+INFO - 2021-01-01 05:22:05 --> Helper loaded: slug_helper
+INFO - 2021-01-01 05:22:05 --> Database Driver Class Initialized
+DEBUG - 2021-01-01 05:22:05 --> Session: "sess_save_path" is empty; using "session.save_path" value from php.ini.
+INFO - 2021-01-01 05:22:05 --> Session: Class initialized using 'files' driver.
+INFO - 2021-01-01 05:22:05 --> Language file loaded: language/english/pagination_lang.php
+INFO - 2021-01-01 05:22:05 --> Pagination Class Initialized
+INFO - 2021-01-01 05:22:05 --> Email Class Initialized
+INFO - 2021-01-01 05:22:05 --> Model "M_konfig" initialized
+INFO - 2021-01-01 05:22:05 --> Model "M_reff" initialized
+INFO - 2021-01-01 05:22:05 --> Model "M_total" initialized
+INFO - 2021-01-01 05:22:05 --> Controller Class Initialized
+DEBUG - 2021-01-01 05:22:05 --> File loaded: D:\xampp72\htdocs\app_grm\application\modules/apengumuman/models/Model.php
+INFO - 2021-01-01 11:22:05 --> Final output sent to browser
+DEBUG - 2021-01-01 11:22:05 --> Total execution time: 1.3179
+INFO - 2021-01-01 05:22:09 --> Config Class Initialized
+INFO - 2021-01-01 05:22:09 --> Hooks Class Initialized
+DEBUG - 2021-01-01 05:22:09 --> UTF-8 Support Enabled
+INFO - 2021-01-01 05:22:09 --> Utf8 Class Initialized
+INFO - 2021-01-01 05:22:09 --> URI Class Initialized
+INFO - 2021-01-01 05:22:09 --> Router Class Initialized
+INFO - 2021-01-01 05:22:09 --> Output Class Initialized
+INFO - 2021-01-01 05:22:09 --> Security Class Initialized
+DEBUG - 2021-01-01 05:22:09 --> Global POST, GET and COOKIE data sanitized
+INFO - 2021-01-01 05:22:09 --> Input Class Initialized
+INFO - 2021-01-01 05:22:09 --> Language Class Initialized
+INFO - 2021-01-01 05:22:09 --> Language Class Initialized
+INFO - 2021-01-01 05:22:09 --> Config Class Initialized
+INFO - 2021-01-01 05:22:09 --> Loader Class Initialized
+INFO - 2021-01-01 05:22:09 --> Helper loaded: url_helper
+INFO - 2021-01-01 05:22:09 --> Helper loaded: html_helper
+INFO - 2021-01-01 05:22:10 --> Helper loaded: file_helper
+INFO - 2021-01-01 05:22:10 --> Helper loaded: form_helper
+INFO - 2021-01-01 05:22:10 --> Helper loaded: security_helper
+INFO - 2021-01-01 05:22:10 --> Helper loaded: xss_helper
+INFO - 2021-01-01 05:22:10 --> Helper loaded: slug_helper
+INFO - 2021-01-01 05:22:10 --> Database Driver Class Initialized
+DEBUG - 2021-01-01 05:22:10 --> Session: "sess_save_path" is empty; using "session.save_path" value from php.ini.
+INFO - 2021-01-01 05:22:10 --> Session: Class initialized using 'files' driver.
+INFO - 2021-01-01 05:22:10 --> Language file loaded: language/english/pagination_lang.php
+INFO - 2021-01-01 05:22:10 --> Pagination Class Initialized
+INFO - 2021-01-01 05:22:10 --> Email Class Initialized
+INFO - 2021-01-01 05:22:10 --> Model "M_konfig" initialized
+INFO - 2021-01-01 05:22:10 --> Model "M_reff" initialized
+INFO - 2021-01-01 05:22:10 --> Model "M_total" initialized
+INFO - 2021-01-01 05:22:10 --> Controller Class Initialized
+DEBUG - 2021-01-01 05:22:10 --> File loaded: D:\xampp72\htdocs\app_grm\application\modules/apengumuman/models/Model.php
+INFO - 2021-01-01 11:22:10 --> Final output sent to browser
+DEBUG - 2021-01-01 11:22:10 --> Total execution time: 1.0957
+INFO - 2021-01-01 05:22:14 --> Config Class Initialized
+INFO - 2021-01-01 05:22:14 --> Hooks Class Initialized
+DEBUG - 2021-01-01 05:22:14 --> UTF-8 Support Enabled
+INFO - 2021-01-01 05:22:14 --> Utf8 Class Initialized
+INFO - 2021-01-01 05:22:14 --> URI Class Initialized
+INFO - 2021-01-01 05:22:14 --> Router Class Initialized
+INFO - 2021-01-01 05:22:14 --> Output Class Initialized
+INFO - 2021-01-01 05:22:14 --> Security Class Initialized
+DEBUG - 2021-01-01 05:22:14 --> Global POST, GET and COOKIE data sanitized
+INFO - 2021-01-01 05:22:14 --> Input Class Initialized
+INFO - 2021-01-01 05:22:14 --> Language Class Initialized
+INFO - 2021-01-01 05:22:14 --> Language Class Initialized
+INFO - 2021-01-01 05:22:14 --> Config Class Initialized
+INFO - 2021-01-01 05:22:14 --> Loader Class Initialized
+INFO - 2021-01-01 05:22:14 --> Helper loaded: url_helper
+INFO - 2021-01-01 05:22:14 --> Helper loaded: html_helper
+INFO - 2021-01-01 05:22:14 --> Helper loaded: file_helper
+INFO - 2021-01-01 05:22:15 --> Helper loaded: form_helper
+INFO - 2021-01-01 05:22:15 --> Helper loaded: security_helper
+INFO - 2021-01-01 05:22:15 --> Helper loaded: xss_helper
+INFO - 2021-01-01 05:22:15 --> Helper loaded: slug_helper
+INFO - 2021-01-01 05:22:15 --> Database Driver Class Initialized
+DEBUG - 2021-01-01 05:22:15 --> Session: "sess_save_path" is empty; using "session.save_path" value from php.ini.
+INFO - 2021-01-01 05:22:15 --> Session: Class initialized using 'files' driver.
+INFO - 2021-01-01 05:22:15 --> Language file loaded: language/english/pagination_lang.php
+INFO - 2021-01-01 05:22:15 --> Pagination Class Initialized
+INFO - 2021-01-01 05:22:15 --> Email Class Initialized
+INFO - 2021-01-01 05:22:15 --> Model "M_konfig" initialized
+INFO - 2021-01-01 05:22:15 --> Model "M_reff" initialized
+INFO - 2021-01-01 05:22:15 --> Model "M_total" initialized
+INFO - 2021-01-01 05:22:15 --> Controller Class Initialized
+DEBUG - 2021-01-01 05:22:15 --> File loaded: D:\xampp72\htdocs\app_grm\application\modules/apengumuman/models/Model.php
+INFO - 2021-01-01 11:22:15 --> Final output sent to browser
+DEBUG - 2021-01-01 11:22:15 --> Total execution time: 1.1568
+INFO - 2021-01-01 05:22:19 --> Config Class Initialized
+INFO - 2021-01-01 05:22:19 --> Hooks Class Initialized
+DEBUG - 2021-01-01 05:22:19 --> UTF-8 Support Enabled
+INFO - 2021-01-01 05:22:19 --> Utf8 Class Initialized
+INFO - 2021-01-01 05:22:19 --> URI Class Initialized
+INFO - 2021-01-01 05:22:19 --> Router Class Initialized
+INFO - 2021-01-01 05:22:19 --> Output Class Initialized
+INFO - 2021-01-01 05:22:19 --> Security Class Initialized
+DEBUG - 2021-01-01 05:22:19 --> Global POST, GET and COOKIE data sanitized
+INFO - 2021-01-01 05:22:19 --> Input Class Initialized
+INFO - 2021-01-01 05:22:19 --> Language Class Initialized
+INFO - 2021-01-01 05:22:19 --> Language Class Initialized
+INFO - 2021-01-01 05:22:19 --> Config Class Initialized
+INFO - 2021-01-01 05:22:19 --> Loader Class Initialized
+INFO - 2021-01-01 05:22:19 --> Helper loaded: url_helper
+INFO - 2021-01-01 05:22:19 --> Helper loaded: html_helper
+INFO - 2021-01-01 05:22:19 --> Helper loaded: file_helper
+INFO - 2021-01-01 05:22:20 --> Helper loaded: form_helper
+INFO - 2021-01-01 05:22:20 --> Helper loaded: security_helper
+INFO - 2021-01-01 05:22:20 --> Helper loaded: xss_helper
+INFO - 2021-01-01 05:22:20 --> Helper loaded: slug_helper
+INFO - 2021-01-01 05:22:20 --> Database Driver Class Initialized
+DEBUG - 2021-01-01 05:22:20 --> Session: "sess_save_path" is empty; using "session.save_path" value from php.ini.
+INFO - 2021-01-01 05:22:20 --> Session: Class initialized using 'files' driver.
+INFO - 2021-01-01 05:22:20 --> Language file loaded: language/english/pagination_lang.php
+INFO - 2021-01-01 05:22:20 --> Pagination Class Initialized
+INFO - 2021-01-01 05:22:20 --> Email Class Initialized
+INFO - 2021-01-01 05:22:20 --> Model "M_konfig" initialized
+INFO - 2021-01-01 05:22:20 --> Model "M_reff" initialized
+INFO - 2021-01-01 05:22:20 --> Model "M_total" initialized
+INFO - 2021-01-01 05:22:20 --> Controller Class Initialized
+DEBUG - 2021-01-01 05:22:20 --> File loaded: D:\xampp72\htdocs\app_grm\application\modules/apengumuman/models/Model.php
+INFO - 2021-01-01 11:22:20 --> Final output sent to browser
+DEBUG - 2021-01-01 11:22:20 --> Total execution time: 1.0767
+INFO - 2021-01-01 05:22:24 --> Config Class Initialized
+INFO - 2021-01-01 05:22:24 --> Hooks Class Initialized
+DEBUG - 2021-01-01 05:22:24 --> UTF-8 Support Enabled
+INFO - 2021-01-01 05:22:24 --> Utf8 Class Initialized
+INFO - 2021-01-01 05:22:24 --> URI Class Initialized
+INFO - 2021-01-01 05:22:24 --> Router Class Initialized
+INFO - 2021-01-01 05:22:24 --> Output Class Initialized
+INFO - 2021-01-01 05:22:24 --> Security Class Initialized
+DEBUG - 2021-01-01 05:22:24 --> Global POST, GET and COOKIE data sanitized
+INFO - 2021-01-01 05:22:24 --> Input Class Initialized
+INFO - 2021-01-01 05:22:24 --> Language Class Initialized
+INFO - 2021-01-01 05:22:24 --> Language Class Initialized
+INFO - 2021-01-01 05:22:24 --> Config Class Initialized
+INFO - 2021-01-01 05:22:24 --> Loader Class Initialized
+INFO - 2021-01-01 05:22:24 --> Helper loaded: url_helper
+INFO - 2021-01-01 05:22:24 --> Helper loaded: html_helper
+INFO - 2021-01-01 05:22:25 --> Helper loaded: file_helper
+INFO - 2021-01-01 05:22:25 --> Helper loaded: form_helper
+INFO - 2021-01-01 05:22:25 --> Helper loaded: security_helper
+INFO - 2021-01-01 05:22:25 --> Helper loaded: xss_helper
+INFO - 2021-01-01 05:22:25 --> Helper loaded: slug_helper
+INFO - 2021-01-01 05:22:25 --> Database Driver Class Initialized
+DEBUG - 2021-01-01 05:22:25 --> Session: "sess_save_path" is empty; using "session.save_path" value from php.ini.
+INFO - 2021-01-01 05:22:25 --> Session: Class initialized using 'files' driver.
+INFO - 2021-01-01 05:22:25 --> Language file loaded: language/english/pagination_lang.php
+INFO - 2021-01-01 05:22:25 --> Pagination Class Initialized
+INFO - 2021-01-01 05:22:25 --> Email Class Initialized
+INFO - 2021-01-01 05:22:25 --> Model "M_konfig" initialized
+INFO - 2021-01-01 05:22:25 --> Model "M_reff" initialized
+INFO - 2021-01-01 05:22:25 --> Model "M_total" initialized
+INFO - 2021-01-01 05:22:25 --> Controller Class Initialized
+DEBUG - 2021-01-01 05:22:25 --> File loaded: D:\xampp72\htdocs\app_grm\application\modules/apengumuman/models/Model.php
+INFO - 2021-01-01 11:22:25 --> Final output sent to browser
+DEBUG - 2021-01-01 11:22:25 --> Total execution time: 1.0981
+INFO - 2021-01-01 05:22:29 --> Config Class Initialized
+INFO - 2021-01-01 05:22:29 --> Hooks Class Initialized
+DEBUG - 2021-01-01 05:22:29 --> UTF-8 Support Enabled
+INFO - 2021-01-01 05:22:29 --> Utf8 Class Initialized
+INFO - 2021-01-01 05:22:29 --> URI Class Initialized
+INFO - 2021-01-01 05:22:29 --> Router Class Initialized
+INFO - 2021-01-01 05:22:29 --> Output Class Initialized
+INFO - 2021-01-01 05:22:29 --> Security Class Initialized
+DEBUG - 2021-01-01 05:22:29 --> Global POST, GET and COOKIE data sanitized
+INFO - 2021-01-01 05:22:29 --> Input Class Initialized
+INFO - 2021-01-01 05:22:29 --> Language Class Initialized
+INFO - 2021-01-01 05:22:29 --> Language Class Initialized
+INFO - 2021-01-01 05:22:29 --> Config Class Initialized
+INFO - 2021-01-01 05:22:29 --> Loader Class Initialized
+INFO - 2021-01-01 05:22:29 --> Helper loaded: url_helper
+INFO - 2021-01-01 05:22:29 --> Helper loaded: html_helper
+INFO - 2021-01-01 05:22:29 --> Helper loaded: file_helper
+INFO - 2021-01-01 05:22:29 --> Helper loaded: form_helper
+INFO - 2021-01-01 05:22:30 --> Helper loaded: security_helper
+INFO - 2021-01-01 05:22:30 --> Helper loaded: xss_helper
+INFO - 2021-01-01 05:22:30 --> Helper loaded: slug_helper
+INFO - 2021-01-01 05:22:30 --> Database Driver Class Initialized
+DEBUG - 2021-01-01 05:22:30 --> Session: "sess_save_path" is empty; using "session.save_path" value from php.ini.
+INFO - 2021-01-01 05:22:30 --> Session: Class initialized using 'files' driver.
+INFO - 2021-01-01 05:22:30 --> Language file loaded: language/english/pagination_lang.php
+INFO - 2021-01-01 05:22:30 --> Pagination Class Initialized
+INFO - 2021-01-01 05:22:30 --> Email Class Initialized
+INFO - 2021-01-01 05:22:30 --> Model "M_konfig" initialized
+INFO - 2021-01-01 05:22:30 --> Model "M_reff" initialized
+INFO - 2021-01-01 05:22:30 --> Model "M_total" initialized
+INFO - 2021-01-01 05:22:30 --> Controller Class Initialized
+DEBUG - 2021-01-01 05:22:30 --> File loaded: D:\xampp72\htdocs\app_grm\application\modules/apengumuman/models/Model.php
+INFO - 2021-01-01 11:22:30 --> Final output sent to browser
+DEBUG - 2021-01-01 11:22:30 --> Total execution time: 1.0728
+INFO - 2021-01-01 05:22:34 --> Config Class Initialized
+INFO - 2021-01-01 05:22:34 --> Hooks Class Initialized
+DEBUG - 2021-01-01 05:22:34 --> UTF-8 Support Enabled
+INFO - 2021-01-01 05:22:34 --> Utf8 Class Initialized
+INFO - 2021-01-01 05:22:34 --> URI Class Initialized
+INFO - 2021-01-01 05:22:34 --> Router Class Initialized
+INFO - 2021-01-01 05:22:34 --> Output Class Initialized
+INFO - 2021-01-01 05:22:34 --> Security Class Initialized
+DEBUG - 2021-01-01 05:22:34 --> Global POST, GET and COOKIE data sanitized
+INFO - 2021-01-01 05:22:34 --> Input Class Initialized
+INFO - 2021-01-01 05:22:34 --> Language Class Initialized
+INFO - 2021-01-01 05:22:34 --> Language Class Initialized
+INFO - 2021-01-01 05:22:34 --> Config Class Initialized
+INFO - 2021-01-01 05:22:34 --> Loader Class Initialized
+INFO - 2021-01-01 05:22:35 --> Helper loaded: url_helper
+INFO - 2021-01-01 05:22:35 --> Helper loaded: html_helper
+INFO - 2021-01-01 05:22:35 --> Helper loaded: file_helper
+INFO - 2021-01-01 05:22:35 --> Helper loaded: form_helper
+INFO - 2021-01-01 05:22:35 --> Helper loaded: security_helper
+INFO - 2021-01-01 05:22:35 --> Helper loaded: xss_helper
+INFO - 2021-01-01 05:22:35 --> Helper loaded: slug_helper
+INFO - 2021-01-01 05:22:35 --> Database Driver Class Initialized
+DEBUG - 2021-01-01 05:22:35 --> Session: "sess_save_path" is empty; using "session.save_path" value from php.ini.
+INFO - 2021-01-01 05:22:35 --> Session: Class initialized using 'files' driver.
+INFO - 2021-01-01 05:22:35 --> Language file loaded: language/english/pagination_lang.php
+INFO - 2021-01-01 05:22:35 --> Pagination Class Initialized
+INFO - 2021-01-01 05:22:35 --> Email Class Initialized
+INFO - 2021-01-01 05:22:35 --> Model "M_konfig" initialized
+INFO - 2021-01-01 05:22:35 --> Model "M_reff" initialized
+INFO - 2021-01-01 05:22:35 --> Model "M_total" initialized
+INFO - 2021-01-01 05:22:35 --> Controller Class Initialized
+DEBUG - 2021-01-01 05:22:35 --> File loaded: D:\xampp72\htdocs\app_grm\application\modules/apengumuman/models/Model.php
+INFO - 2021-01-01 11:22:35 --> Final output sent to browser
+DEBUG - 2021-01-01 11:22:35 --> Total execution time: 1.1387
+INFO - 2021-01-01 05:22:39 --> Config Class Initialized
+INFO - 2021-01-01 05:22:39 --> Hooks Class Initialized
+DEBUG - 2021-01-01 05:22:39 --> UTF-8 Support Enabled
+INFO - 2021-01-01 05:22:39 --> Utf8 Class Initialized
+INFO - 2021-01-01 05:22:39 --> URI Class Initialized
+INFO - 2021-01-01 05:22:39 --> Router Class Initialized
+INFO - 2021-01-01 05:22:39 --> Output Class Initialized
+INFO - 2021-01-01 05:22:39 --> Security Class Initialized
+DEBUG - 2021-01-01 05:22:39 --> Global POST, GET and COOKIE data sanitized
+INFO - 2021-01-01 05:22:39 --> Input Class Initialized
+INFO - 2021-01-01 05:22:39 --> Language Class Initialized
+INFO - 2021-01-01 05:22:39 --> Language Class Initialized
+INFO - 2021-01-01 05:22:39 --> Config Class Initialized
+INFO - 2021-01-01 05:22:39 --> Loader Class Initialized
+INFO - 2021-01-01 05:22:39 --> Helper loaded: url_helper
+INFO - 2021-01-01 05:22:39 --> Helper loaded: html_helper
+INFO - 2021-01-01 05:22:40 --> Helper loaded: file_helper
+INFO - 2021-01-01 05:22:40 --> Helper loaded: form_helper
+INFO - 2021-01-01 05:22:40 --> Helper loaded: security_helper
+INFO - 2021-01-01 05:22:40 --> Helper loaded: xss_helper
+INFO - 2021-01-01 05:22:40 --> Helper loaded: slug_helper
+INFO - 2021-01-01 05:22:40 --> Database Driver Class Initialized
+DEBUG - 2021-01-01 05:22:40 --> Session: "sess_save_path" is empty; using "session.save_path" value from php.ini.
+INFO - 2021-01-01 05:22:40 --> Session: Class initialized using 'files' driver.
+INFO - 2021-01-01 05:22:40 --> Language file loaded: language/english/pagination_lang.php
+INFO - 2021-01-01 05:22:40 --> Pagination Class Initialized
+INFO - 2021-01-01 05:22:40 --> Email Class Initialized
+INFO - 2021-01-01 05:22:40 --> Model "M_konfig" initialized
+INFO - 2021-01-01 05:22:40 --> Model "M_reff" initialized
+INFO - 2021-01-01 05:22:40 --> Model "M_total" initialized
+INFO - 2021-01-01 05:22:40 --> Controller Class Initialized
+DEBUG - 2021-01-01 05:22:40 --> File loaded: D:\xampp72\htdocs\app_grm\application\modules/apengumuman/models/Model.php
+INFO - 2021-01-01 11:22:40 --> Final output sent to browser
+DEBUG - 2021-01-01 11:22:40 --> Total execution time: 1.1876
+INFO - 2021-01-01 05:22:44 --> Config Class Initialized
+INFO - 2021-01-01 05:22:44 --> Hooks Class Initialized
+DEBUG - 2021-01-01 05:22:44 --> UTF-8 Support Enabled
+INFO - 2021-01-01 05:22:44 --> Utf8 Class Initialized
+INFO - 2021-01-01 05:22:44 --> URI Class Initialized
+INFO - 2021-01-01 05:22:44 --> Router Class Initialized
+INFO - 2021-01-01 05:22:44 --> Output Class Initialized
+INFO - 2021-01-01 05:22:44 --> Security Class Initialized
+DEBUG - 2021-01-01 05:22:44 --> Global POST, GET and COOKIE data sanitized
+INFO - 2021-01-01 05:22:44 --> Input Class Initialized
+INFO - 2021-01-01 05:22:44 --> Language Class Initialized
+INFO - 2021-01-01 05:22:44 --> Language Class Initialized
+INFO - 2021-01-01 05:22:44 --> Config Class Initialized
+INFO - 2021-01-01 05:22:44 --> Loader Class Initialized
+INFO - 2021-01-01 05:22:44 --> Helper loaded: url_helper
+INFO - 2021-01-01 05:22:44 --> Helper loaded: html_helper
+INFO - 2021-01-01 05:22:44 --> Helper loaded: file_helper
+INFO - 2021-01-01 05:22:45 --> Helper loaded: form_helper
+INFO - 2021-01-01 05:22:45 --> Helper loaded: security_helper
+INFO - 2021-01-01 05:22:45 --> Helper loaded: xss_helper
+INFO - 2021-01-01 05:22:45 --> Helper loaded: slug_helper
+INFO - 2021-01-01 05:22:45 --> Database Driver Class Initialized
+DEBUG - 2021-01-01 05:22:45 --> Session: "sess_save_path" is empty; using "session.save_path" value from php.ini.
+INFO - 2021-01-01 05:22:45 --> Session: Class initialized using 'files' driver.
+INFO - 2021-01-01 05:22:45 --> Language file loaded: language/english/pagination_lang.php
+INFO - 2021-01-01 05:22:45 --> Pagination Class Initialized
+INFO - 2021-01-01 05:22:45 --> Email Class Initialized
+INFO - 2021-01-01 05:22:45 --> Model "M_konfig" initialized
+INFO - 2021-01-01 05:22:45 --> Model "M_reff" initialized
+INFO - 2021-01-01 05:22:45 --> Model "M_total" initialized
+INFO - 2021-01-01 05:22:45 --> Controller Class Initialized
+DEBUG - 2021-01-01 05:22:45 --> File loaded: D:\xampp72\htdocs\app_grm\application\modules/apengumuman/models/Model.php
+INFO - 2021-01-01 11:22:45 --> Final output sent to browser
+DEBUG - 2021-01-01 11:22:45 --> Total execution time: 1.1354
+INFO - 2021-01-01 05:22:49 --> Config Class Initialized
+INFO - 2021-01-01 05:22:49 --> Hooks Class Initialized
+DEBUG - 2021-01-01 05:22:49 --> UTF-8 Support Enabled
+INFO - 2021-01-01 05:22:49 --> Utf8 Class Initialized
+INFO - 2021-01-01 05:22:49 --> URI Class Initialized
+INFO - 2021-01-01 05:22:49 --> Router Class Initialized
+INFO - 2021-01-01 05:22:49 --> Output Class Initialized
+INFO - 2021-01-01 05:22:49 --> Security Class Initialized
+DEBUG - 2021-01-01 05:22:49 --> Global POST, GET and COOKIE data sanitized
+INFO - 2021-01-01 05:22:49 --> Input Class Initialized
+INFO - 2021-01-01 05:22:49 --> Language Class Initialized
+INFO - 2021-01-01 05:22:49 --> Language Class Initialized
+INFO - 2021-01-01 05:22:49 --> Config Class Initialized
+INFO - 2021-01-01 05:22:49 --> Loader Class Initialized
+INFO - 2021-01-01 05:22:49 --> Helper loaded: url_helper
+INFO - 2021-01-01 05:22:49 --> Helper loaded: html_helper
+INFO - 2021-01-01 05:22:50 --> Helper loaded: file_helper
+INFO - 2021-01-01 05:22:50 --> Helper loaded: form_helper
+INFO - 2021-01-01 05:22:50 --> Helper loaded: security_helper
+INFO - 2021-01-01 05:22:50 --> Helper loaded: xss_helper
+INFO - 2021-01-01 05:22:50 --> Helper loaded: slug_helper
+INFO - 2021-01-01 05:22:50 --> Database Driver Class Initialized
+DEBUG - 2021-01-01 05:22:50 --> Session: "sess_save_path" is empty; using "session.save_path" value from php.ini.
+INFO - 2021-01-01 05:22:50 --> Session: Class initialized using 'files' driver.
+INFO - 2021-01-01 05:22:50 --> Language file loaded: language/english/pagination_lang.php
+INFO - 2021-01-01 05:22:50 --> Pagination Class Initialized
+INFO - 2021-01-01 05:22:50 --> Email Class Initialized
+INFO - 2021-01-01 05:22:50 --> Model "M_konfig" initialized
+INFO - 2021-01-01 05:22:50 --> Model "M_reff" initialized
+INFO - 2021-01-01 05:22:50 --> Model "M_total" initialized
+INFO - 2021-01-01 05:22:50 --> Controller Class Initialized
+DEBUG - 2021-01-01 05:22:50 --> File loaded: D:\xampp72\htdocs\app_grm\application\modules/apengumuman/models/Model.php
+INFO - 2021-01-01 11:22:50 --> Final output sent to browser
+DEBUG - 2021-01-01 11:22:50 --> Total execution time: 1.1121
+INFO - 2021-01-01 05:22:54 --> Config Class Initialized
+INFO - 2021-01-01 05:22:54 --> Hooks Class Initialized
+DEBUG - 2021-01-01 05:22:54 --> UTF-8 Support Enabled
+INFO - 2021-01-01 05:22:54 --> Utf8 Class Initialized
+INFO - 2021-01-01 05:22:54 --> URI Class Initialized
+INFO - 2021-01-01 05:22:54 --> Router Class Initialized
+INFO - 2021-01-01 05:22:54 --> Output Class Initialized
+INFO - 2021-01-01 05:22:54 --> Security Class Initialized
+DEBUG - 2021-01-01 05:22:54 --> Global POST, GET and COOKIE data sanitized
+INFO - 2021-01-01 05:22:54 --> Input Class Initialized
+INFO - 2021-01-01 05:22:54 --> Language Class Initialized
+INFO - 2021-01-01 05:22:54 --> Language Class Initialized
+INFO - 2021-01-01 05:22:54 --> Config Class Initialized
+INFO - 2021-01-01 05:22:54 --> Loader Class Initialized
+INFO - 2021-01-01 05:22:54 --> Helper loaded: url_helper
+INFO - 2021-01-01 05:22:54 --> Helper loaded: html_helper
+INFO - 2021-01-01 05:22:54 --> Helper loaded: file_helper
+INFO - 2021-01-01 05:22:55 --> Helper loaded: form_helper
+INFO - 2021-01-01 05:22:55 --> Helper loaded: security_helper
+INFO - 2021-01-01 05:22:55 --> Helper loaded: xss_helper
+INFO - 2021-01-01 05:22:55 --> Helper loaded: slug_helper
+INFO - 2021-01-01 05:22:55 --> Database Driver Class Initialized
+DEBUG - 2021-01-01 05:22:55 --> Session: "sess_save_path" is empty; using "session.save_path" value from php.ini.
+INFO - 2021-01-01 05:22:55 --> Session: Class initialized using 'files' driver.
+INFO - 2021-01-01 05:22:55 --> Language file loaded: language/english/pagination_lang.php
+INFO - 2021-01-01 05:22:55 --> Pagination Class Initialized
+INFO - 2021-01-01 05:22:55 --> Email Class Initialized
+INFO - 2021-01-01 05:22:55 --> Model "M_konfig" initialized
+INFO - 2021-01-01 05:22:55 --> Model "M_reff" initialized
+INFO - 2021-01-01 05:22:55 --> Model "M_total" initialized
+INFO - 2021-01-01 05:22:55 --> Controller Class Initialized
+DEBUG - 2021-01-01 05:22:55 --> File loaded: D:\xampp72\htdocs\app_grm\application\modules/apengumuman/models/Model.php
+INFO - 2021-01-01 11:22:55 --> Final output sent to browser
+DEBUG - 2021-01-01 11:22:55 --> Total execution time: 0.9968
+INFO - 2021-01-01 05:22:59 --> Config Class Initialized
+INFO - 2021-01-01 05:22:59 --> Hooks Class Initialized
+DEBUG - 2021-01-01 05:22:59 --> UTF-8 Support Enabled
+INFO - 2021-01-01 05:22:59 --> Utf8 Class Initialized
+INFO - 2021-01-01 05:22:59 --> URI Class Initialized
+INFO - 2021-01-01 05:22:59 --> Router Class Initialized
+INFO - 2021-01-01 05:22:59 --> Output Class Initialized
+INFO - 2021-01-01 05:22:59 --> Security Class Initialized
+DEBUG - 2021-01-01 05:22:59 --> Global POST, GET and COOKIE data sanitized
+INFO - 2021-01-01 05:22:59 --> Input Class Initialized
+INFO - 2021-01-01 05:22:59 --> Language Class Initialized
+INFO - 2021-01-01 05:22:59 --> Language Class Initialized
+INFO - 2021-01-01 05:22:59 --> Config Class Initialized
+INFO - 2021-01-01 05:22:59 --> Loader Class Initialized
+INFO - 2021-01-01 05:22:59 --> Helper loaded: url_helper
+INFO - 2021-01-01 05:22:59 --> Helper loaded: html_helper
+INFO - 2021-01-01 05:23:00 --> Helper loaded: file_helper
+INFO - 2021-01-01 05:23:00 --> Helper loaded: form_helper
+INFO - 2021-01-01 05:23:00 --> Helper loaded: security_helper
+INFO - 2021-01-01 05:23:00 --> Helper loaded: xss_helper
+INFO - 2021-01-01 05:23:00 --> Helper loaded: slug_helper
+INFO - 2021-01-01 05:23:00 --> Database Driver Class Initialized
+DEBUG - 2021-01-01 05:23:00 --> Session: "sess_save_path" is empty; using "session.save_path" value from php.ini.
+INFO - 2021-01-01 05:23:00 --> Session: Class initialized using 'files' driver.
+INFO - 2021-01-01 05:23:00 --> Language file loaded: language/english/pagination_lang.php
+INFO - 2021-01-01 05:23:00 --> Pagination Class Initialized
+INFO - 2021-01-01 05:23:00 --> Email Class Initialized
+INFO - 2021-01-01 05:23:00 --> Model "M_konfig" initialized
+INFO - 2021-01-01 05:23:00 --> Model "M_reff" initialized
+INFO - 2021-01-01 05:23:00 --> Model "M_total" initialized
+INFO - 2021-01-01 05:23:00 --> Controller Class Initialized
+DEBUG - 2021-01-01 05:23:00 --> File loaded: D:\xampp72\htdocs\app_grm\application\modules/apengumuman/models/Model.php
+INFO - 2021-01-01 11:23:00 --> Final output sent to browser
+DEBUG - 2021-01-01 11:23:00 --> Total execution time: 1.2832
+INFO - 2021-01-01 05:23:04 --> Config Class Initialized
+INFO - 2021-01-01 05:23:04 --> Hooks Class Initialized
+DEBUG - 2021-01-01 05:23:04 --> UTF-8 Support Enabled
+INFO - 2021-01-01 05:23:04 --> Utf8 Class Initialized
+INFO - 2021-01-01 05:23:04 --> URI Class Initialized
+INFO - 2021-01-01 05:23:04 --> Router Class Initialized
+INFO - 2021-01-01 05:23:04 --> Output Class Initialized
+INFO - 2021-01-01 05:23:04 --> Security Class Initialized
+DEBUG - 2021-01-01 05:23:04 --> Global POST, GET and COOKIE data sanitized
+INFO - 2021-01-01 05:23:04 --> Input Class Initialized
+INFO - 2021-01-01 05:23:04 --> Language Class Initialized
+INFO - 2021-01-01 05:23:04 --> Language Class Initialized
+INFO - 2021-01-01 05:23:04 --> Config Class Initialized
+INFO - 2021-01-01 05:23:04 --> Loader Class Initialized
+INFO - 2021-01-01 05:23:04 --> Helper loaded: url_helper
+INFO - 2021-01-01 05:23:05 --> Helper loaded: html_helper
+INFO - 2021-01-01 05:23:05 --> Helper loaded: file_helper
+INFO - 2021-01-01 05:23:05 --> Helper loaded: form_helper
+INFO - 2021-01-01 05:23:05 --> Helper loaded: security_helper
+INFO - 2021-01-01 05:23:05 --> Helper loaded: xss_helper
+INFO - 2021-01-01 05:23:05 --> Helper loaded: slug_helper
+INFO - 2021-01-01 05:23:05 --> Database Driver Class Initialized
+DEBUG - 2021-01-01 05:23:05 --> Session: "sess_save_path" is empty; using "session.save_path" value from php.ini.
+INFO - 2021-01-01 05:23:05 --> Session: Class initialized using 'files' driver.
+INFO - 2021-01-01 05:23:05 --> Language file loaded: language/english/pagination_lang.php
+INFO - 2021-01-01 05:23:05 --> Pagination Class Initialized
+INFO - 2021-01-01 05:23:05 --> Email Class Initialized
+INFO - 2021-01-01 05:23:05 --> Model "M_konfig" initialized
+INFO - 2021-01-01 05:23:05 --> Model "M_reff" initialized
+INFO - 2021-01-01 05:23:05 --> Model "M_total" initialized
+INFO - 2021-01-01 05:23:05 --> Controller Class Initialized
+DEBUG - 2021-01-01 05:23:05 --> File loaded: D:\xampp72\htdocs\app_grm\application\modules/apengumuman/models/Model.php
+INFO - 2021-01-01 11:23:05 --> Final output sent to browser
+DEBUG - 2021-01-01 11:23:05 --> Total execution time: 1.0613
+INFO - 2021-01-01 05:23:09 --> Config Class Initialized
+INFO - 2021-01-01 05:23:09 --> Hooks Class Initialized
+DEBUG - 2021-01-01 05:23:09 --> UTF-8 Support Enabled
+INFO - 2021-01-01 05:23:09 --> Utf8 Class Initialized
+INFO - 2021-01-01 05:23:09 --> URI Class Initialized
+INFO - 2021-01-01 05:23:09 --> Router Class Initialized
+INFO - 2021-01-01 05:23:09 --> Output Class Initialized
+INFO - 2021-01-01 05:23:09 --> Security Class Initialized
+DEBUG - 2021-01-01 05:23:09 --> Global POST, GET and COOKIE data sanitized
+INFO - 2021-01-01 05:23:09 --> Input Class Initialized
+INFO - 2021-01-01 05:23:09 --> Language Class Initialized
+INFO - 2021-01-01 05:23:09 --> Language Class Initialized
+INFO - 2021-01-01 05:23:09 --> Config Class Initialized
+INFO - 2021-01-01 05:23:09 --> Loader Class Initialized
+INFO - 2021-01-01 05:23:10 --> Helper loaded: url_helper
+INFO - 2021-01-01 05:23:10 --> Helper loaded: html_helper
+INFO - 2021-01-01 05:23:10 --> Helper loaded: file_helper
+INFO - 2021-01-01 05:23:10 --> Helper loaded: form_helper
+INFO - 2021-01-01 05:23:10 --> Helper loaded: security_helper
+INFO - 2021-01-01 05:23:10 --> Helper loaded: xss_helper
+INFO - 2021-01-01 05:23:10 --> Helper loaded: slug_helper
+INFO - 2021-01-01 05:23:10 --> Database Driver Class Initialized
+DEBUG - 2021-01-01 05:23:10 --> Session: "sess_save_path" is empty; using "session.save_path" value from php.ini.
+INFO - 2021-01-01 05:23:10 --> Session: Class initialized using 'files' driver.
+INFO - 2021-01-01 05:23:10 --> Language file loaded: language/english/pagination_lang.php
+INFO - 2021-01-01 05:23:10 --> Pagination Class Initialized
+INFO - 2021-01-01 05:23:10 --> Email Class Initialized
+INFO - 2021-01-01 05:23:10 --> Model "M_konfig" initialized
+INFO - 2021-01-01 05:23:10 --> Model "M_reff" initialized
+INFO - 2021-01-01 05:23:10 --> Model "M_total" initialized
+INFO - 2021-01-01 05:23:10 --> Controller Class Initialized
+DEBUG - 2021-01-01 05:23:10 --> File loaded: D:\xampp72\htdocs\app_grm\application\modules/apengumuman/models/Model.php
+INFO - 2021-01-01 11:23:10 --> Final output sent to browser
+DEBUG - 2021-01-01 11:23:10 --> Total execution time: 1.2643
+INFO - 2021-01-01 05:23:14 --> Config Class Initialized
+INFO - 2021-01-01 05:23:14 --> Hooks Class Initialized
+DEBUG - 2021-01-01 05:23:14 --> UTF-8 Support Enabled
+INFO - 2021-01-01 05:23:14 --> Utf8 Class Initialized
+INFO - 2021-01-01 05:23:14 --> URI Class Initialized
+INFO - 2021-01-01 05:23:14 --> Router Class Initialized
+INFO - 2021-01-01 05:23:14 --> Output Class Initialized
+INFO - 2021-01-01 05:23:14 --> Security Class Initialized
+DEBUG - 2021-01-01 05:23:14 --> Global POST, GET and COOKIE data sanitized
+INFO - 2021-01-01 05:23:14 --> Input Class Initialized
+INFO - 2021-01-01 05:23:14 --> Language Class Initialized
+INFO - 2021-01-01 05:23:14 --> Language Class Initialized
+INFO - 2021-01-01 05:23:15 --> Config Class Initialized
+INFO - 2021-01-01 05:23:15 --> Loader Class Initialized
+INFO - 2021-01-01 05:23:15 --> Helper loaded: url_helper
+INFO - 2021-01-01 05:23:15 --> Helper loaded: html_helper
+INFO - 2021-01-01 05:23:15 --> Helper loaded: file_helper
+INFO - 2021-01-01 05:23:15 --> Helper loaded: form_helper
+INFO - 2021-01-01 05:23:15 --> Helper loaded: security_helper
+INFO - 2021-01-01 05:23:15 --> Helper loaded: xss_helper
+INFO - 2021-01-01 05:23:15 --> Helper loaded: slug_helper
+INFO - 2021-01-01 05:23:15 --> Database Driver Class Initialized
+DEBUG - 2021-01-01 05:23:15 --> Session: "sess_save_path" is empty; using "session.save_path" value from php.ini.
+INFO - 2021-01-01 05:23:15 --> Session: Class initialized using 'files' driver.
+INFO - 2021-01-01 05:23:15 --> Language file loaded: language/english/pagination_lang.php
+INFO - 2021-01-01 05:23:15 --> Pagination Class Initialized
+INFO - 2021-01-01 05:23:15 --> Email Class Initialized
+INFO - 2021-01-01 05:23:15 --> Model "M_konfig" initialized
+INFO - 2021-01-01 05:23:15 --> Model "M_reff" initialized
+INFO - 2021-01-01 05:23:15 --> Model "M_total" initialized
+INFO - 2021-01-01 05:23:15 --> Controller Class Initialized
+DEBUG - 2021-01-01 05:23:15 --> File loaded: D:\xampp72\htdocs\app_grm\application\modules/apengumuman/models/Model.php
+INFO - 2021-01-01 11:23:15 --> Final output sent to browser
+DEBUG - 2021-01-01 11:23:15 --> Total execution time: 1.1320
+INFO - 2021-01-01 05:23:19 --> Config Class Initialized
+INFO - 2021-01-01 05:23:19 --> Hooks Class Initialized
+DEBUG - 2021-01-01 05:23:19 --> UTF-8 Support Enabled
+INFO - 2021-01-01 05:23:19 --> Utf8 Class Initialized
+INFO - 2021-01-01 05:23:19 --> URI Class Initialized
+INFO - 2021-01-01 05:23:19 --> Router Class Initialized
+INFO - 2021-01-01 05:23:19 --> Output Class Initialized
+INFO - 2021-01-01 05:23:19 --> Security Class Initialized
+DEBUG - 2021-01-01 05:23:19 --> Global POST, GET and COOKIE data sanitized
+INFO - 2021-01-01 05:23:19 --> Input Class Initialized
+INFO - 2021-01-01 05:23:19 --> Language Class Initialized
+INFO - 2021-01-01 05:23:20 --> Language Class Initialized
+INFO - 2021-01-01 05:23:20 --> Config Class Initialized
+INFO - 2021-01-01 05:23:20 --> Loader Class Initialized
+INFO - 2021-01-01 05:23:20 --> Helper loaded: url_helper
+INFO - 2021-01-01 05:23:20 --> Helper loaded: html_helper
+INFO - 2021-01-01 05:23:20 --> Helper loaded: file_helper
+INFO - 2021-01-01 05:23:20 --> Helper loaded: form_helper
+INFO - 2021-01-01 05:23:20 --> Helper loaded: security_helper
+INFO - 2021-01-01 05:23:20 --> Helper loaded: xss_helper
+INFO - 2021-01-01 05:23:20 --> Helper loaded: slug_helper
+INFO - 2021-01-01 05:23:20 --> Database Driver Class Initialized
+DEBUG - 2021-01-01 05:23:20 --> Session: "sess_save_path" is empty; using "session.save_path" value from php.ini.
+INFO - 2021-01-01 05:23:20 --> Session: Class initialized using 'files' driver.
+INFO - 2021-01-01 05:23:20 --> Language file loaded: language/english/pagination_lang.php
+INFO - 2021-01-01 05:23:20 --> Pagination Class Initialized
+INFO - 2021-01-01 05:23:20 --> Email Class Initialized
+INFO - 2021-01-01 05:23:20 --> Model "M_konfig" initialized
+INFO - 2021-01-01 05:23:20 --> Model "M_reff" initialized
+INFO - 2021-01-01 05:23:20 --> Model "M_total" initialized
+INFO - 2021-01-01 05:23:20 --> Controller Class Initialized
+DEBUG - 2021-01-01 05:23:20 --> File loaded: D:\xampp72\htdocs\app_grm\application\modules/apengumuman/models/Model.php
+INFO - 2021-01-01 11:23:20 --> Final output sent to browser
+DEBUG - 2021-01-01 11:23:20 --> Total execution time: 1.3631
+INFO - 2021-01-01 05:23:24 --> Config Class Initialized
+INFO - 2021-01-01 05:23:24 --> Hooks Class Initialized
+DEBUG - 2021-01-01 05:23:24 --> UTF-8 Support Enabled
+INFO - 2021-01-01 05:23:24 --> Utf8 Class Initialized
+INFO - 2021-01-01 05:23:24 --> URI Class Initialized
+INFO - 2021-01-01 05:23:24 --> Router Class Initialized
+INFO - 2021-01-01 05:23:24 --> Output Class Initialized
+INFO - 2021-01-01 05:23:24 --> Security Class Initialized
+DEBUG - 2021-01-01 05:23:24 --> Global POST, GET and COOKIE data sanitized
+INFO - 2021-01-01 05:23:24 --> Input Class Initialized
+INFO - 2021-01-01 05:23:24 --> Language Class Initialized
+INFO - 2021-01-01 05:23:24 --> Language Class Initialized
+INFO - 2021-01-01 05:23:24 --> Config Class Initialized
+INFO - 2021-01-01 05:23:24 --> Loader Class Initialized
+INFO - 2021-01-01 05:23:25 --> Helper loaded: url_helper
+INFO - 2021-01-01 05:23:25 --> Helper loaded: html_helper
+INFO - 2021-01-01 05:23:25 --> Helper loaded: file_helper
+INFO - 2021-01-01 05:23:25 --> Helper loaded: form_helper
+INFO - 2021-01-01 05:23:25 --> Helper loaded: security_helper
+INFO - 2021-01-01 05:23:25 --> Helper loaded: xss_helper
+INFO - 2021-01-01 05:23:25 --> Helper loaded: slug_helper
+INFO - 2021-01-01 05:23:25 --> Database Driver Class Initialized
+DEBUG - 2021-01-01 05:23:25 --> Session: "sess_save_path" is empty; using "session.save_path" value from php.ini.
+INFO - 2021-01-01 05:23:25 --> Session: Class initialized using 'files' driver.
+INFO - 2021-01-01 05:23:25 --> Language file loaded: language/english/pagination_lang.php
+INFO - 2021-01-01 05:23:25 --> Pagination Class Initialized
+INFO - 2021-01-01 05:23:25 --> Email Class Initialized
+INFO - 2021-01-01 05:23:25 --> Model "M_konfig" initialized
+INFO - 2021-01-01 05:23:25 --> Model "M_reff" initialized
+INFO - 2021-01-01 05:23:25 --> Model "M_total" initialized
+INFO - 2021-01-01 05:23:25 --> Controller Class Initialized
+DEBUG - 2021-01-01 05:23:25 --> File loaded: D:\xampp72\htdocs\app_grm\application\modules/apengumuman/models/Model.php
+INFO - 2021-01-01 11:23:25 --> Final output sent to browser
+DEBUG - 2021-01-01 11:23:25 --> Total execution time: 1.1550
+INFO - 2021-01-01 05:23:29 --> Config Class Initialized
+INFO - 2021-01-01 05:23:29 --> Hooks Class Initialized
+DEBUG - 2021-01-01 05:23:29 --> UTF-8 Support Enabled
+INFO - 2021-01-01 05:23:29 --> Utf8 Class Initialized
+INFO - 2021-01-01 05:23:29 --> URI Class Initialized
+INFO - 2021-01-01 05:23:29 --> Router Class Initialized
+INFO - 2021-01-01 05:23:29 --> Output Class Initialized
+INFO - 2021-01-01 05:23:29 --> Security Class Initialized
+DEBUG - 2021-01-01 05:23:29 --> Global POST, GET and COOKIE data sanitized
+INFO - 2021-01-01 05:23:29 --> Input Class Initialized
+INFO - 2021-01-01 05:23:29 --> Language Class Initialized
+INFO - 2021-01-01 05:23:29 --> Language Class Initialized
+INFO - 2021-01-01 05:23:29 --> Config Class Initialized
+INFO - 2021-01-01 05:23:29 --> Loader Class Initialized
+INFO - 2021-01-01 05:23:29 --> Helper loaded: url_helper
+INFO - 2021-01-01 05:23:30 --> Helper loaded: html_helper
+INFO - 2021-01-01 05:23:30 --> Helper loaded: file_helper
+INFO - 2021-01-01 05:23:30 --> Helper loaded: form_helper
+INFO - 2021-01-01 05:23:30 --> Helper loaded: security_helper
+INFO - 2021-01-01 05:23:30 --> Helper loaded: xss_helper
+INFO - 2021-01-01 05:23:30 --> Helper loaded: slug_helper
+INFO - 2021-01-01 05:23:30 --> Database Driver Class Initialized
+DEBUG - 2021-01-01 05:23:30 --> Session: "sess_save_path" is empty; using "session.save_path" value from php.ini.
+INFO - 2021-01-01 05:23:30 --> Session: Class initialized using 'files' driver.
+INFO - 2021-01-01 05:23:30 --> Language file loaded: language/english/pagination_lang.php
+INFO - 2021-01-01 05:23:30 --> Pagination Class Initialized
+INFO - 2021-01-01 05:23:30 --> Email Class Initialized
+INFO - 2021-01-01 05:23:30 --> Model "M_konfig" initialized
+INFO - 2021-01-01 05:23:30 --> Model "M_reff" initialized
+INFO - 2021-01-01 05:23:30 --> Model "M_total" initialized
+INFO - 2021-01-01 05:23:30 --> Controller Class Initialized
+DEBUG - 2021-01-01 05:23:30 --> File loaded: D:\xampp72\htdocs\app_grm\application\modules/apengumuman/models/Model.php
+INFO - 2021-01-01 11:23:30 --> Final output sent to browser
+DEBUG - 2021-01-01 11:23:30 --> Total execution time: 1.2352
+INFO - 2021-01-01 05:23:34 --> Config Class Initialized
+INFO - 2021-01-01 05:23:34 --> Hooks Class Initialized
+DEBUG - 2021-01-01 05:23:34 --> UTF-8 Support Enabled
+INFO - 2021-01-01 05:23:34 --> Utf8 Class Initialized
+INFO - 2021-01-01 05:23:34 --> URI Class Initialized
+INFO - 2021-01-01 05:23:34 --> Router Class Initialized
+INFO - 2021-01-01 05:23:34 --> Output Class Initialized
+INFO - 2021-01-01 05:23:34 --> Security Class Initialized
+DEBUG - 2021-01-01 05:23:34 --> Global POST, GET and COOKIE data sanitized
+INFO - 2021-01-01 05:23:34 --> Input Class Initialized
+INFO - 2021-01-01 05:23:34 --> Language Class Initialized
+INFO - 2021-01-01 05:23:34 --> Language Class Initialized
+INFO - 2021-01-01 05:23:34 --> Config Class Initialized
+INFO - 2021-01-01 05:23:34 --> Loader Class Initialized
+INFO - 2021-01-01 05:23:35 --> Helper loaded: url_helper
+INFO - 2021-01-01 05:23:35 --> Helper loaded: html_helper
+INFO - 2021-01-01 05:23:35 --> Helper loaded: file_helper
+INFO - 2021-01-01 05:23:35 --> Helper loaded: form_helper
+INFO - 2021-01-01 05:23:35 --> Helper loaded: security_helper
+INFO - 2021-01-01 05:23:35 --> Helper loaded: xss_helper
+INFO - 2021-01-01 05:23:35 --> Helper loaded: slug_helper
+INFO - 2021-01-01 05:23:35 --> Database Driver Class Initialized
+DEBUG - 2021-01-01 05:23:35 --> Session: "sess_save_path" is empty; using "session.save_path" value from php.ini.
+INFO - 2021-01-01 05:23:35 --> Session: Class initialized using 'files' driver.
+INFO - 2021-01-01 05:23:35 --> Language file loaded: language/english/pagination_lang.php
+INFO - 2021-01-01 05:23:35 --> Pagination Class Initialized
+INFO - 2021-01-01 05:23:35 --> Email Class Initialized
+INFO - 2021-01-01 05:23:35 --> Model "M_konfig" initialized
+INFO - 2021-01-01 05:23:35 --> Model "M_reff" initialized
+INFO - 2021-01-01 05:23:35 --> Model "M_total" initialized
+INFO - 2021-01-01 05:23:35 --> Controller Class Initialized
+DEBUG - 2021-01-01 05:23:35 --> File loaded: D:\xampp72\htdocs\app_grm\application\modules/apengumuman/models/Model.php
+INFO - 2021-01-01 11:23:35 --> Final output sent to browser
+DEBUG - 2021-01-01 11:23:35 --> Total execution time: 1.1309
+INFO - 2021-01-01 05:23:39 --> Config Class Initialized
+INFO - 2021-01-01 05:23:39 --> Hooks Class Initialized
+DEBUG - 2021-01-01 05:23:39 --> UTF-8 Support Enabled
+INFO - 2021-01-01 05:23:39 --> Utf8 Class Initialized
+INFO - 2021-01-01 05:23:39 --> URI Class Initialized
+INFO - 2021-01-01 05:23:39 --> Router Class Initialized
+INFO - 2021-01-01 05:23:39 --> Output Class Initialized
+INFO - 2021-01-01 05:23:39 --> Security Class Initialized
+DEBUG - 2021-01-01 05:23:39 --> Global POST, GET and COOKIE data sanitized
+INFO - 2021-01-01 05:23:39 --> Input Class Initialized
+INFO - 2021-01-01 05:23:39 --> Language Class Initialized
+INFO - 2021-01-01 05:23:39 --> Language Class Initialized
+INFO - 2021-01-01 05:23:39 --> Config Class Initialized
+INFO - 2021-01-01 05:23:39 --> Loader Class Initialized
+INFO - 2021-01-01 05:23:39 --> Helper loaded: url_helper
+INFO - 2021-01-01 05:23:40 --> Helper loaded: html_helper
+INFO - 2021-01-01 05:23:40 --> Helper loaded: file_helper
+INFO - 2021-01-01 05:23:40 --> Helper loaded: form_helper
+INFO - 2021-01-01 05:23:40 --> Helper loaded: security_helper
+INFO - 2021-01-01 05:23:40 --> Helper loaded: xss_helper
+INFO - 2021-01-01 05:23:40 --> Helper loaded: slug_helper
+INFO - 2021-01-01 05:23:40 --> Database Driver Class Initialized
+DEBUG - 2021-01-01 05:23:40 --> Session: "sess_save_path" is empty; using "session.save_path" value from php.ini.
+INFO - 2021-01-01 05:23:40 --> Session: Class initialized using 'files' driver.
+INFO - 2021-01-01 05:23:40 --> Language file loaded: language/english/pagination_lang.php
+INFO - 2021-01-01 05:23:40 --> Pagination Class Initialized
+INFO - 2021-01-01 05:23:40 --> Email Class Initialized
+INFO - 2021-01-01 05:23:40 --> Model "M_konfig" initialized
+INFO - 2021-01-01 05:23:40 --> Model "M_reff" initialized
+INFO - 2021-01-01 05:23:40 --> Model "M_total" initialized
+INFO - 2021-01-01 05:23:40 --> Controller Class Initialized
+DEBUG - 2021-01-01 05:23:40 --> File loaded: D:\xampp72\htdocs\app_grm\application\modules/apengumuman/models/Model.php
+INFO - 2021-01-01 11:23:40 --> Final output sent to browser
+DEBUG - 2021-01-01 11:23:40 --> Total execution time: 1.0033
+INFO - 2021-01-01 05:23:44 --> Config Class Initialized
+INFO - 2021-01-01 05:23:44 --> Hooks Class Initialized
+DEBUG - 2021-01-01 05:23:44 --> UTF-8 Support Enabled
+INFO - 2021-01-01 05:23:44 --> Utf8 Class Initialized
+INFO - 2021-01-01 05:23:44 --> URI Class Initialized
+INFO - 2021-01-01 05:23:44 --> Router Class Initialized
+INFO - 2021-01-01 05:23:44 --> Output Class Initialized
+INFO - 2021-01-01 05:23:44 --> Security Class Initialized
+DEBUG - 2021-01-01 05:23:44 --> Global POST, GET and COOKIE data sanitized
+INFO - 2021-01-01 05:23:44 --> Input Class Initialized
+INFO - 2021-01-01 05:23:44 --> Language Class Initialized
+INFO - 2021-01-01 05:23:44 --> Language Class Initialized
+INFO - 2021-01-01 05:23:45 --> Config Class Initialized
+INFO - 2021-01-01 05:23:45 --> Loader Class Initialized
+INFO - 2021-01-01 05:23:45 --> Helper loaded: url_helper
+INFO - 2021-01-01 05:23:45 --> Helper loaded: html_helper
+INFO - 2021-01-01 05:23:45 --> Helper loaded: file_helper
+INFO - 2021-01-01 05:23:45 --> Helper loaded: form_helper
+INFO - 2021-01-01 05:23:45 --> Helper loaded: security_helper
+INFO - 2021-01-01 05:23:45 --> Helper loaded: xss_helper
+INFO - 2021-01-01 05:23:45 --> Helper loaded: slug_helper
+INFO - 2021-01-01 05:23:45 --> Database Driver Class Initialized
+DEBUG - 2021-01-01 05:23:45 --> Session: "sess_save_path" is empty; using "session.save_path" value from php.ini.
+INFO - 2021-01-01 05:23:45 --> Session: Class initialized using 'files' driver.
+INFO - 2021-01-01 05:23:45 --> Language file loaded: language/english/pagination_lang.php
+INFO - 2021-01-01 05:23:45 --> Pagination Class Initialized
+INFO - 2021-01-01 05:23:45 --> Email Class Initialized
+INFO - 2021-01-01 05:23:45 --> Model "M_konfig" initialized
+INFO - 2021-01-01 05:23:45 --> Model "M_reff" initialized
+INFO - 2021-01-01 05:23:45 --> Model "M_total" initialized
+INFO - 2021-01-01 05:23:45 --> Controller Class Initialized
+DEBUG - 2021-01-01 05:23:45 --> File loaded: D:\xampp72\htdocs\app_grm\application\modules/apengumuman/models/Model.php
+INFO - 2021-01-01 11:23:45 --> Final output sent to browser
+DEBUG - 2021-01-01 11:23:45 --> Total execution time: 1.1089
+INFO - 2021-01-01 05:23:49 --> Config Class Initialized
+INFO - 2021-01-01 05:23:49 --> Hooks Class Initialized
+DEBUG - 2021-01-01 05:23:49 --> UTF-8 Support Enabled
+INFO - 2021-01-01 05:23:49 --> Utf8 Class Initialized
+INFO - 2021-01-01 05:23:49 --> URI Class Initialized
+INFO - 2021-01-01 05:23:49 --> Router Class Initialized
+INFO - 2021-01-01 05:23:49 --> Output Class Initialized
+INFO - 2021-01-01 05:23:49 --> Security Class Initialized
+DEBUG - 2021-01-01 05:23:49 --> Global POST, GET and COOKIE data sanitized
+INFO - 2021-01-01 05:23:49 --> Input Class Initialized
+INFO - 2021-01-01 05:23:49 --> Language Class Initialized
+INFO - 2021-01-01 05:23:49 --> Language Class Initialized
+INFO - 2021-01-01 05:23:49 --> Config Class Initialized
+INFO - 2021-01-01 05:23:49 --> Loader Class Initialized
+INFO - 2021-01-01 05:23:49 --> Helper loaded: url_helper
+INFO - 2021-01-01 05:23:50 --> Helper loaded: html_helper
+INFO - 2021-01-01 05:23:50 --> Helper loaded: file_helper
+INFO - 2021-01-01 05:23:50 --> Helper loaded: form_helper
+INFO - 2021-01-01 05:23:50 --> Helper loaded: security_helper
+INFO - 2021-01-01 05:23:50 --> Helper loaded: xss_helper
+INFO - 2021-01-01 05:23:50 --> Helper loaded: slug_helper
+INFO - 2021-01-01 05:23:50 --> Database Driver Class Initialized
+DEBUG - 2021-01-01 05:23:50 --> Session: "sess_save_path" is empty; using "session.save_path" value from php.ini.
+INFO - 2021-01-01 05:23:50 --> Session: Class initialized using 'files' driver.
+INFO - 2021-01-01 05:23:50 --> Language file loaded: language/english/pagination_lang.php
+INFO - 2021-01-01 05:23:50 --> Pagination Class Initialized
+INFO - 2021-01-01 05:23:50 --> Email Class Initialized
+INFO - 2021-01-01 05:23:50 --> Model "M_konfig" initialized
+INFO - 2021-01-01 05:23:50 --> Model "M_reff" initialized
+INFO - 2021-01-01 05:23:50 --> Model "M_total" initialized
+INFO - 2021-01-01 05:23:50 --> Controller Class Initialized
+DEBUG - 2021-01-01 05:23:50 --> File loaded: D:\xampp72\htdocs\app_grm\application\modules/apengumuman/models/Model.php
+INFO - 2021-01-01 11:23:50 --> Final output sent to browser
+DEBUG - 2021-01-01 11:23:50 --> Total execution time: 1.1447
+INFO - 2021-01-01 05:23:54 --> Config Class Initialized
+INFO - 2021-01-01 05:23:54 --> Hooks Class Initialized
+DEBUG - 2021-01-01 05:23:54 --> UTF-8 Support Enabled
+INFO - 2021-01-01 05:23:54 --> Utf8 Class Initialized
+INFO - 2021-01-01 05:23:54 --> URI Class Initialized
+INFO - 2021-01-01 05:23:54 --> Router Class Initialized
+INFO - 2021-01-01 05:23:54 --> Output Class Initialized
+INFO - 2021-01-01 05:23:54 --> Security Class Initialized
+DEBUG - 2021-01-01 05:23:54 --> Global POST, GET and COOKIE data sanitized
+INFO - 2021-01-01 05:23:54 --> Input Class Initialized
+INFO - 2021-01-01 05:23:54 --> Language Class Initialized
+INFO - 2021-01-01 05:23:54 --> Language Class Initialized
+INFO - 2021-01-01 05:23:55 --> Config Class Initialized
+INFO - 2021-01-01 05:23:55 --> Loader Class Initialized
+INFO - 2021-01-01 05:23:55 --> Helper loaded: url_helper
+INFO - 2021-01-01 05:23:55 --> Helper loaded: html_helper
+INFO - 2021-01-01 05:23:55 --> Helper loaded: file_helper
+INFO - 2021-01-01 05:23:55 --> Helper loaded: form_helper
+INFO - 2021-01-01 05:23:55 --> Helper loaded: security_helper
+INFO - 2021-01-01 05:23:55 --> Helper loaded: xss_helper
+INFO - 2021-01-01 05:23:55 --> Helper loaded: slug_helper
+INFO - 2021-01-01 05:23:55 --> Database Driver Class Initialized
+DEBUG - 2021-01-01 05:23:55 --> Session: "sess_save_path" is empty; using "session.save_path" value from php.ini.
+INFO - 2021-01-01 05:23:55 --> Session: Class initialized using 'files' driver.
+INFO - 2021-01-01 05:23:55 --> Language file loaded: language/english/pagination_lang.php
+INFO - 2021-01-01 05:23:55 --> Pagination Class Initialized
+INFO - 2021-01-01 05:23:55 --> Email Class Initialized
+INFO - 2021-01-01 05:23:55 --> Model "M_konfig" initialized
+INFO - 2021-01-01 05:23:55 --> Model "M_reff" initialized
+INFO - 2021-01-01 05:23:55 --> Model "M_total" initialized
+INFO - 2021-01-01 05:23:55 --> Controller Class Initialized
+DEBUG - 2021-01-01 05:23:55 --> File loaded: D:\xampp72\htdocs\app_grm\application\modules/apengumuman/models/Model.php
+INFO - 2021-01-01 11:23:55 --> Final output sent to browser
+DEBUG - 2021-01-01 11:23:55 --> Total execution time: 1.1127
+INFO - 2021-01-01 05:23:59 --> Config Class Initialized
+INFO - 2021-01-01 05:23:59 --> Hooks Class Initialized
+DEBUG - 2021-01-01 05:23:59 --> UTF-8 Support Enabled
+INFO - 2021-01-01 05:23:59 --> Utf8 Class Initialized
+INFO - 2021-01-01 05:23:59 --> URI Class Initialized
+INFO - 2021-01-01 05:23:59 --> Router Class Initialized
+INFO - 2021-01-01 05:23:59 --> Output Class Initialized
+INFO - 2021-01-01 05:23:59 --> Security Class Initialized
+DEBUG - 2021-01-01 05:23:59 --> Global POST, GET and COOKIE data sanitized
+INFO - 2021-01-01 05:23:59 --> Input Class Initialized
+INFO - 2021-01-01 05:23:59 --> Language Class Initialized
+INFO - 2021-01-01 05:23:59 --> Language Class Initialized
+INFO - 2021-01-01 05:23:59 --> Config Class Initialized
+INFO - 2021-01-01 05:24:00 --> Loader Class Initialized
+INFO - 2021-01-01 05:24:00 --> Helper loaded: url_helper
+INFO - 2021-01-01 05:24:00 --> Helper loaded: html_helper
+INFO - 2021-01-01 05:24:00 --> Helper loaded: file_helper
+INFO - 2021-01-01 05:24:00 --> Helper loaded: form_helper
+INFO - 2021-01-01 05:24:00 --> Helper loaded: security_helper
+INFO - 2021-01-01 05:24:00 --> Helper loaded: xss_helper
+INFO - 2021-01-01 05:24:00 --> Helper loaded: slug_helper
+INFO - 2021-01-01 05:24:00 --> Database Driver Class Initialized
+DEBUG - 2021-01-01 05:24:00 --> Session: "sess_save_path" is empty; using "session.save_path" value from php.ini.
+INFO - 2021-01-01 05:24:00 --> Session: Class initialized using 'files' driver.
+INFO - 2021-01-01 05:24:00 --> Language file loaded: language/english/pagination_lang.php
+INFO - 2021-01-01 05:24:00 --> Pagination Class Initialized
+INFO - 2021-01-01 05:24:00 --> Email Class Initialized
+INFO - 2021-01-01 05:24:00 --> Model "M_konfig" initialized
+INFO - 2021-01-01 05:24:00 --> Model "M_reff" initialized
+INFO - 2021-01-01 05:24:00 --> Model "M_total" initialized
+INFO - 2021-01-01 05:24:00 --> Controller Class Initialized
+DEBUG - 2021-01-01 05:24:00 --> File loaded: D:\xampp72\htdocs\app_grm\application\modules/apengumuman/models/Model.php
+INFO - 2021-01-01 11:24:00 --> Final output sent to browser
+DEBUG - 2021-01-01 11:24:00 --> Total execution time: 1.1943
+INFO - 2021-01-01 05:24:04 --> Config Class Initialized
+INFO - 2021-01-01 05:24:04 --> Hooks Class Initialized
+DEBUG - 2021-01-01 05:24:04 --> UTF-8 Support Enabled
+INFO - 2021-01-01 05:24:04 --> Utf8 Class Initialized
+INFO - 2021-01-01 05:24:04 --> URI Class Initialized
+INFO - 2021-01-01 05:24:04 --> Router Class Initialized
+INFO - 2021-01-01 05:24:04 --> Output Class Initialized
+INFO - 2021-01-01 05:24:04 --> Security Class Initialized
+DEBUG - 2021-01-01 05:24:04 --> Global POST, GET and COOKIE data sanitized
+INFO - 2021-01-01 05:24:04 --> Input Class Initialized
+INFO - 2021-01-01 05:24:04 --> Language Class Initialized
+INFO - 2021-01-01 05:24:04 --> Language Class Initialized
+INFO - 2021-01-01 05:24:04 --> Config Class Initialized
+INFO - 2021-01-01 05:24:04 --> Loader Class Initialized
+INFO - 2021-01-01 05:24:05 --> Helper loaded: url_helper
+INFO - 2021-01-01 05:24:05 --> Helper loaded: html_helper
+INFO - 2021-01-01 05:24:05 --> Helper loaded: file_helper
+INFO - 2021-01-01 05:24:05 --> Helper loaded: form_helper
+INFO - 2021-01-01 05:24:05 --> Helper loaded: security_helper
+INFO - 2021-01-01 05:24:05 --> Helper loaded: xss_helper
+INFO - 2021-01-01 05:24:05 --> Helper loaded: slug_helper
+INFO - 2021-01-01 05:24:05 --> Database Driver Class Initialized
+DEBUG - 2021-01-01 05:24:05 --> Session: "sess_save_path" is empty; using "session.save_path" value from php.ini.
+INFO - 2021-01-01 05:24:05 --> Session: Class initialized using 'files' driver.
+INFO - 2021-01-01 05:24:05 --> Language file loaded: language/english/pagination_lang.php
+INFO - 2021-01-01 05:24:05 --> Pagination Class Initialized
+INFO - 2021-01-01 05:24:05 --> Email Class Initialized
+INFO - 2021-01-01 05:24:05 --> Model "M_konfig" initialized
+INFO - 2021-01-01 05:24:05 --> Model "M_reff" initialized
+INFO - 2021-01-01 05:24:05 --> Model "M_total" initialized
+INFO - 2021-01-01 05:24:05 --> Controller Class Initialized
+DEBUG - 2021-01-01 05:24:05 --> File loaded: D:\xampp72\htdocs\app_grm\application\modules/apengumuman/models/Model.php
+INFO - 2021-01-01 11:24:05 --> Final output sent to browser
+DEBUG - 2021-01-01 11:24:05 --> Total execution time: 1.1119
+INFO - 2021-01-01 05:24:09 --> Config Class Initialized
+INFO - 2021-01-01 05:24:09 --> Hooks Class Initialized
+DEBUG - 2021-01-01 05:24:09 --> UTF-8 Support Enabled
+INFO - 2021-01-01 05:24:09 --> Utf8 Class Initialized
+INFO - 2021-01-01 05:24:09 --> URI Class Initialized
+INFO - 2021-01-01 05:24:09 --> Router Class Initialized
+INFO - 2021-01-01 05:24:09 --> Output Class Initialized
+INFO - 2021-01-01 05:24:09 --> Security Class Initialized
+DEBUG - 2021-01-01 05:24:09 --> Global POST, GET and COOKIE data sanitized
+INFO - 2021-01-01 05:24:09 --> Input Class Initialized
+INFO - 2021-01-01 05:24:09 --> Language Class Initialized
+INFO - 2021-01-01 05:24:09 --> Language Class Initialized
+INFO - 2021-01-01 05:24:09 --> Config Class Initialized
+INFO - 2021-01-01 05:24:09 --> Loader Class Initialized
+INFO - 2021-01-01 05:24:10 --> Helper loaded: url_helper
+INFO - 2021-01-01 05:24:10 --> Helper loaded: html_helper
+INFO - 2021-01-01 05:24:10 --> Helper loaded: file_helper
+INFO - 2021-01-01 05:24:10 --> Helper loaded: form_helper
+INFO - 2021-01-01 05:24:10 --> Helper loaded: security_helper
+INFO - 2021-01-01 05:24:10 --> Helper loaded: xss_helper
+INFO - 2021-01-01 05:24:10 --> Helper loaded: slug_helper
+INFO - 2021-01-01 05:24:10 --> Database Driver Class Initialized
+DEBUG - 2021-01-01 05:24:10 --> Session: "sess_save_path" is empty; using "session.save_path" value from php.ini.
+INFO - 2021-01-01 05:24:10 --> Session: Class initialized using 'files' driver.
+INFO - 2021-01-01 05:24:10 --> Language file loaded: language/english/pagination_lang.php
+INFO - 2021-01-01 05:24:10 --> Pagination Class Initialized
+INFO - 2021-01-01 05:24:10 --> Email Class Initialized
+INFO - 2021-01-01 05:24:10 --> Model "M_konfig" initialized
+INFO - 2021-01-01 05:24:10 --> Model "M_reff" initialized
+INFO - 2021-01-01 05:24:10 --> Model "M_total" initialized
+INFO - 2021-01-01 05:24:10 --> Controller Class Initialized
+DEBUG - 2021-01-01 05:24:10 --> File loaded: D:\xampp72\htdocs\app_grm\application\modules/apengumuman/models/Model.php
+INFO - 2021-01-01 11:24:10 --> Final output sent to browser
+DEBUG - 2021-01-01 11:24:10 --> Total execution time: 1.1644
+INFO - 2021-01-01 05:24:14 --> Config Class Initialized
+INFO - 2021-01-01 05:24:14 --> Hooks Class Initialized
+DEBUG - 2021-01-01 05:24:14 --> UTF-8 Support Enabled
+INFO - 2021-01-01 05:24:14 --> Utf8 Class Initialized
+INFO - 2021-01-01 05:24:14 --> URI Class Initialized
+INFO - 2021-01-01 05:24:14 --> Router Class Initialized
+INFO - 2021-01-01 05:24:14 --> Output Class Initialized
+INFO - 2021-01-01 05:24:14 --> Security Class Initialized
+DEBUG - 2021-01-01 05:24:14 --> Global POST, GET and COOKIE data sanitized
+INFO - 2021-01-01 05:24:14 --> Input Class Initialized
+INFO - 2021-01-01 05:24:14 --> Language Class Initialized
+INFO - 2021-01-01 05:24:14 --> Language Class Initialized
+INFO - 2021-01-01 05:24:15 --> Config Class Initialized
+INFO - 2021-01-01 05:24:15 --> Loader Class Initialized
+INFO - 2021-01-01 05:24:15 --> Helper loaded: url_helper
+INFO - 2021-01-01 05:24:15 --> Helper loaded: html_helper
+INFO - 2021-01-01 05:24:15 --> Helper loaded: file_helper
+INFO - 2021-01-01 05:24:15 --> Helper loaded: form_helper
+INFO - 2021-01-01 05:24:15 --> Helper loaded: security_helper
+INFO - 2021-01-01 05:24:15 --> Helper loaded: xss_helper
+INFO - 2021-01-01 05:24:15 --> Helper loaded: slug_helper
+INFO - 2021-01-01 05:24:15 --> Database Driver Class Initialized
+DEBUG - 2021-01-01 05:24:15 --> Session: "sess_save_path" is empty; using "session.save_path" value from php.ini.
+INFO - 2021-01-01 05:24:15 --> Session: Class initialized using 'files' driver.
+INFO - 2021-01-01 05:24:15 --> Language file loaded: language/english/pagination_lang.php
+INFO - 2021-01-01 05:24:15 --> Pagination Class Initialized
+INFO - 2021-01-01 05:24:15 --> Email Class Initialized
+INFO - 2021-01-01 05:24:15 --> Model "M_konfig" initialized
+INFO - 2021-01-01 05:24:15 --> Model "M_reff" initialized
+INFO - 2021-01-01 05:24:15 --> Model "M_total" initialized
+INFO - 2021-01-01 05:24:15 --> Controller Class Initialized
+DEBUG - 2021-01-01 05:24:15 --> File loaded: D:\xampp72\htdocs\app_grm\application\modules/apengumuman/models/Model.php
+INFO - 2021-01-01 11:24:15 --> Final output sent to browser
+DEBUG - 2021-01-01 11:24:15 --> Total execution time: 1.1792
+INFO - 2021-01-01 05:24:19 --> Config Class Initialized
+INFO - 2021-01-01 05:24:19 --> Hooks Class Initialized
+DEBUG - 2021-01-01 05:24:19 --> UTF-8 Support Enabled
+INFO - 2021-01-01 05:24:19 --> Utf8 Class Initialized
+INFO - 2021-01-01 05:24:19 --> URI Class Initialized
+INFO - 2021-01-01 05:24:19 --> Router Class Initialized
+INFO - 2021-01-01 05:24:19 --> Output Class Initialized
+INFO - 2021-01-01 05:24:19 --> Security Class Initialized
+DEBUG - 2021-01-01 05:24:19 --> Global POST, GET and COOKIE data sanitized
+INFO - 2021-01-01 05:24:19 --> Input Class Initialized
+INFO - 2021-01-01 05:24:19 --> Language Class Initialized
+INFO - 2021-01-01 05:24:20 --> Language Class Initialized
+INFO - 2021-01-01 05:24:20 --> Config Class Initialized
+INFO - 2021-01-01 05:24:20 --> Loader Class Initialized
+INFO - 2021-01-01 05:24:20 --> Helper loaded: url_helper
+INFO - 2021-01-01 05:24:20 --> Helper loaded: html_helper
+INFO - 2021-01-01 05:24:20 --> Helper loaded: file_helper
+INFO - 2021-01-01 05:24:20 --> Helper loaded: form_helper
+INFO - 2021-01-01 05:24:20 --> Helper loaded: security_helper
+INFO - 2021-01-01 05:24:20 --> Helper loaded: xss_helper
+INFO - 2021-01-01 05:24:20 --> Helper loaded: slug_helper
+INFO - 2021-01-01 05:24:20 --> Database Driver Class Initialized
+DEBUG - 2021-01-01 05:24:20 --> Session: "sess_save_path" is empty; using "session.save_path" value from php.ini.
+INFO - 2021-01-01 05:24:20 --> Session: Class initialized using 'files' driver.
+INFO - 2021-01-01 05:24:20 --> Language file loaded: language/english/pagination_lang.php
+INFO - 2021-01-01 05:24:20 --> Pagination Class Initialized
+INFO - 2021-01-01 05:24:20 --> Email Class Initialized
+INFO - 2021-01-01 05:24:20 --> Model "M_konfig" initialized
+INFO - 2021-01-01 05:24:20 --> Model "M_reff" initialized
+INFO - 2021-01-01 05:24:20 --> Model "M_total" initialized
+INFO - 2021-01-01 05:24:20 --> Controller Class Initialized
+DEBUG - 2021-01-01 05:24:20 --> File loaded: D:\xampp72\htdocs\app_grm\application\modules/apengumuman/models/Model.php
+INFO - 2021-01-01 11:24:20 --> Final output sent to browser
+DEBUG - 2021-01-01 11:24:20 --> Total execution time: 1.2615
+INFO - 2021-01-01 05:24:24 --> Config Class Initialized
+INFO - 2021-01-01 05:24:24 --> Hooks Class Initialized
+DEBUG - 2021-01-01 05:24:24 --> UTF-8 Support Enabled
+INFO - 2021-01-01 05:24:24 --> Utf8 Class Initialized
+INFO - 2021-01-01 05:24:24 --> URI Class Initialized
+INFO - 2021-01-01 05:24:24 --> Router Class Initialized
+INFO - 2021-01-01 05:24:24 --> Output Class Initialized
+INFO - 2021-01-01 05:24:24 --> Security Class Initialized
+DEBUG - 2021-01-01 05:24:24 --> Global POST, GET and COOKIE data sanitized
+INFO - 2021-01-01 05:24:24 --> Input Class Initialized
+INFO - 2021-01-01 05:24:24 --> Language Class Initialized
+INFO - 2021-01-01 05:24:24 --> Language Class Initialized
+INFO - 2021-01-01 05:24:25 --> Config Class Initialized
+INFO - 2021-01-01 05:24:25 --> Loader Class Initialized
+INFO - 2021-01-01 05:24:25 --> Helper loaded: url_helper
+INFO - 2021-01-01 05:24:25 --> Helper loaded: html_helper
+INFO - 2021-01-01 05:24:25 --> Helper loaded: file_helper
+INFO - 2021-01-01 05:24:25 --> Helper loaded: form_helper
+INFO - 2021-01-01 05:24:25 --> Helper loaded: security_helper
+INFO - 2021-01-01 05:24:25 --> Helper loaded: xss_helper
+INFO - 2021-01-01 05:24:25 --> Helper loaded: slug_helper
+INFO - 2021-01-01 05:24:25 --> Database Driver Class Initialized
+DEBUG - 2021-01-01 05:24:25 --> Session: "sess_save_path" is empty; using "session.save_path" value from php.ini.
+INFO - 2021-01-01 05:24:25 --> Session: Class initialized using 'files' driver.
+INFO - 2021-01-01 05:24:25 --> Language file loaded: language/english/pagination_lang.php
+INFO - 2021-01-01 05:24:25 --> Pagination Class Initialized
+INFO - 2021-01-01 05:24:25 --> Email Class Initialized
+INFO - 2021-01-01 05:24:25 --> Model "M_konfig" initialized
+INFO - 2021-01-01 05:24:25 --> Model "M_reff" initialized
+INFO - 2021-01-01 05:24:25 --> Model "M_total" initialized
+INFO - 2021-01-01 05:24:25 --> Controller Class Initialized
+DEBUG - 2021-01-01 05:24:25 --> File loaded: D:\xampp72\htdocs\app_grm\application\modules/apengumuman/models/Model.php
+INFO - 2021-01-01 11:24:25 --> Final output sent to browser
+DEBUG - 2021-01-01 11:24:25 --> Total execution time: 1.1570
+INFO - 2021-01-01 05:24:28 --> Config Class Initialized
+INFO - 2021-01-01 05:24:28 --> Hooks Class Initialized
+DEBUG - 2021-01-01 05:24:28 --> UTF-8 Support Enabled
+INFO - 2021-01-01 05:24:28 --> Utf8 Class Initialized
+INFO - 2021-01-01 05:24:28 --> URI Class Initialized
+INFO - 2021-01-01 05:24:28 --> Router Class Initialized
+INFO - 2021-01-01 05:24:28 --> Output Class Initialized
+INFO - 2021-01-01 05:24:28 --> Security Class Initialized
+DEBUG - 2021-01-01 05:24:28 --> Global POST, GET and COOKIE data sanitized
+INFO - 2021-01-01 05:24:28 --> Input Class Initialized
+INFO - 2021-01-01 05:24:28 --> Language Class Initialized
+INFO - 2021-01-01 05:24:28 --> Language Class Initialized
+INFO - 2021-01-01 05:24:28 --> Config Class Initialized
+INFO - 2021-01-01 05:24:28 --> Loader Class Initialized
+INFO - 2021-01-01 05:24:28 --> Helper loaded: url_helper
+INFO - 2021-01-01 05:24:28 --> Helper loaded: html_helper
+INFO - 2021-01-01 05:24:29 --> Helper loaded: file_helper
+INFO - 2021-01-01 05:24:29 --> Helper loaded: form_helper
+INFO - 2021-01-01 05:24:29 --> Helper loaded: security_helper
+INFO - 2021-01-01 05:24:29 --> Helper loaded: xss_helper
+INFO - 2021-01-01 05:24:29 --> Helper loaded: slug_helper
+INFO - 2021-01-01 05:24:29 --> Database Driver Class Initialized
+DEBUG - 2021-01-01 05:24:29 --> Session: "sess_save_path" is empty; using "session.save_path" value from php.ini.
+INFO - 2021-01-01 05:24:29 --> Session: Class initialized using 'files' driver.
+INFO - 2021-01-01 05:24:29 --> Language file loaded: language/english/pagination_lang.php
+INFO - 2021-01-01 05:24:29 --> Pagination Class Initialized
+INFO - 2021-01-01 05:24:29 --> Email Class Initialized
+INFO - 2021-01-01 05:24:29 --> Model "M_konfig" initialized
+INFO - 2021-01-01 05:24:29 --> Model "M_reff" initialized
+INFO - 2021-01-01 05:24:29 --> Model "M_total" initialized
+INFO - 2021-01-01 05:24:29 --> Controller Class Initialized
+DEBUG - 2021-01-01 05:24:29 --> Maps_kri MX_Controller Initialized
+DEBUG - 2021-01-01 05:24:29 --> File loaded: D:\xampp72\htdocs\app_grm\application\modules/maps_kri/models/Model.php
+DEBUG - 2021-01-01 11:24:29 --> File loaded: D:\xampp72\htdocs\app_grm\application\views\temp_maps_kri/head.php
+INFO - 2021-01-01 05:24:29 --> Config Class Initialized
+DEBUG - 2021-01-01 11:24:29 --> File loaded: D:\xampp72\htdocs\app_grm\application\views\temp_maps_kri/navbar.php
+DEBUG - 2021-01-01 11:24:29 --> File loaded: D:\xampp72\htdocs\app_grm\application\views\temp_maps_kri/sidebar_left.php
+DEBUG - 2021-01-01 11:24:29 --> File loaded: D:\xampp72\htdocs\app_grm\application\views\temp_maps_kri/sidebar_right.php
+DEBUG - 2021-01-01 11:24:29 --> File loaded: D:\xampp72\htdocs\app_grm\application\modules/maps_kri/views/index.php
+DEBUG - 2021-01-01 11:24:29 --> File loaded: D:\xampp72\htdocs\app_grm\application\views\temp_maps_kri/quick_bar.php
+DEBUG - 2021-01-01 11:24:29 --> File loaded: D:\xampp72\htdocs\app_grm\application\views\temp_maps_kri/toggle.php
+DEBUG - 2021-01-01 11:24:29 --> File loaded: D:\xampp72\htdocs\app_grm\application\views\temp_maps_kri/konten.php
+DEBUG - 2021-01-01 11:24:29 --> File loaded: D:\xampp72\htdocs\app_grm\application\views\temp_maps_kri/foot.php
+DEBUG - 2021-01-01 11:24:29 --> File loaded: D:\xampp72\htdocs\app_grm\application\views\temp_maps_kri/main.php
+INFO - 2021-01-01 11:24:29 --> Final output sent to browser
+DEBUG - 2021-01-01 11:24:29 --> Total execution time: 1.2504
+INFO - 2021-01-01 05:24:29 --> Hooks Class Initialized
+DEBUG - 2021-01-01 05:24:29 --> UTF-8 Support Enabled
+INFO - 2021-01-01 05:24:29 --> Utf8 Class Initialized
+INFO - 2021-01-01 05:24:29 --> URI Class Initialized
+INFO - 2021-01-01 05:24:29 --> Router Class Initialized
+INFO - 2021-01-01 05:24:30 --> Output Class Initialized
+INFO - 2021-01-01 05:24:30 --> Security Class Initialized
+DEBUG - 2021-01-01 05:24:30 --> Global POST, GET and COOKIE data sanitized
+INFO - 2021-01-01 05:24:30 --> Input Class Initialized
+INFO - 2021-01-01 05:24:30 --> Language Class Initialized
+INFO - 2021-01-01 05:24:30 --> Language Class Initialized
+INFO - 2021-01-01 05:24:30 --> Config Class Initialized
+INFO - 2021-01-01 05:24:30 --> Loader Class Initialized
+INFO - 2021-01-01 05:24:30 --> Helper loaded: url_helper
+INFO - 2021-01-01 05:24:30 --> Helper loaded: html_helper
+INFO - 2021-01-01 05:24:30 --> Helper loaded: file_helper
+INFO - 2021-01-01 05:24:30 --> Helper loaded: form_helper
+INFO - 2021-01-01 05:24:30 --> Helper loaded: security_helper
+INFO - 2021-01-01 05:24:30 --> Helper loaded: xss_helper
+INFO - 2021-01-01 05:24:30 --> Helper loaded: slug_helper
+INFO - 2021-01-01 05:24:30 --> Database Driver Class Initialized
+DEBUG - 2021-01-01 05:24:30 --> Session: "sess_save_path" is empty; using "session.save_path" value from php.ini.
+INFO - 2021-01-01 05:24:31 --> Session: Class initialized using 'files' driver.
+INFO - 2021-01-01 05:24:31 --> Config Class Initialized
+INFO - 2021-01-01 05:24:31 --> Hooks Class Initialized
+DEBUG - 2021-01-01 05:24:31 --> UTF-8 Support Enabled
+INFO - 2021-01-01 05:24:31 --> Utf8 Class Initialized
+INFO - 2021-01-01 05:24:31 --> URI Class Initialized
+INFO - 2021-01-01 05:24:31 --> Router Class Initialized
+INFO - 2021-01-01 05:24:31 --> Output Class Initialized
+INFO - 2021-01-01 05:24:31 --> Security Class Initialized
+DEBUG - 2021-01-01 05:24:31 --> Global POST, GET and COOKIE data sanitized
+INFO - 2021-01-01 05:24:31 --> Input Class Initialized
+INFO - 2021-01-01 05:24:31 --> Language Class Initialized
+INFO - 2021-01-01 05:24:31 --> Language Class Initialized
+INFO - 2021-01-01 05:24:31 --> Config Class Initialized
+INFO - 2021-01-01 05:24:31 --> Loader Class Initialized
+INFO - 2021-01-01 05:24:31 --> Helper loaded: url_helper
+INFO - 2021-01-01 05:24:31 --> Helper loaded: html_helper
+INFO - 2021-01-01 05:24:31 --> Helper loaded: file_helper
+INFO - 2021-01-01 05:24:31 --> Helper loaded: form_helper
+INFO - 2021-01-01 05:24:31 --> Language file loaded: language/english/pagination_lang.php
+INFO - 2021-01-01 05:24:31 --> Pagination Class Initialized
+INFO - 2021-01-01 05:24:31 --> Email Class Initialized
+INFO - 2021-01-01 05:24:31 --> Model "M_konfig" initialized
+INFO - 2021-01-01 05:24:31 --> Model "M_reff" initialized
+INFO - 2021-01-01 05:24:31 --> Model "M_total" initialized
+INFO - 2021-01-01 05:24:31 --> Controller Class Initialized
+DEBUG - 2021-01-01 05:24:31 --> File loaded: D:\xampp72\htdocs\app_grm\application\modules/apengumuman/models/Model.php
+INFO - 2021-01-01 11:24:31 --> Final output sent to browser
+DEBUG - 2021-01-01 11:24:31 --> Total execution time: 1.5149
+INFO - 2021-01-01 05:24:31 --> Helper loaded: security_helper
+INFO - 2021-01-01 05:24:31 --> Helper loaded: xss_helper
+INFO - 2021-01-01 05:24:31 --> Helper loaded: slug_helper
+INFO - 2021-01-01 05:24:31 --> Database Driver Class Initialized
+DEBUG - 2021-01-01 05:24:31 --> Session: "sess_save_path" is empty; using "session.save_path" value from php.ini.
+INFO - 2021-01-01 05:24:31 --> Session: Class initialized using 'files' driver.
+INFO - 2021-01-01 05:24:31 --> Language file loaded: language/english/pagination_lang.php
+INFO - 2021-01-01 05:24:31 --> Pagination Class Initialized
+INFO - 2021-01-01 05:24:31 --> Email Class Initialized
+INFO - 2021-01-01 05:24:31 --> Model "M_konfig" initialized
+INFO - 2021-01-01 05:24:31 --> Model "M_reff" initialized
+INFO - 2021-01-01 05:24:31 --> Model "M_total" initialized
+INFO - 2021-01-01 05:24:31 --> Controller Class Initialized
+DEBUG - 2021-01-01 05:24:31 --> File loaded: D:\xampp72\htdocs\app_grm\application\modules/apengumuman/models/Model.php
+INFO - 2021-01-01 11:24:31 --> Final output sent to browser
+DEBUG - 2021-01-01 11:24:31 --> Total execution time: 0.8138
+INFO - 2021-01-01 05:24:32 --> Config Class Initialized
+INFO - 2021-01-01 05:24:32 --> Hooks Class Initialized
+DEBUG - 2021-01-01 05:24:32 --> UTF-8 Support Enabled
+INFO - 2021-01-01 05:24:32 --> Utf8 Class Initialized
+INFO - 2021-01-01 05:24:32 --> URI Class Initialized
+INFO - 2021-01-01 05:24:32 --> Router Class Initialized
+INFO - 2021-01-01 05:24:32 --> Output Class Initialized
+INFO - 2021-01-01 05:24:32 --> Security Class Initialized
+DEBUG - 2021-01-01 05:24:32 --> Global POST, GET and COOKIE data sanitized
+INFO - 2021-01-01 05:24:32 --> Input Class Initialized
+INFO - 2021-01-01 05:24:32 --> Language Class Initialized
+INFO - 2021-01-01 05:24:32 --> Language Class Initialized
+INFO - 2021-01-01 05:24:32 --> Config Class Initialized
+INFO - 2021-01-01 05:24:32 --> Loader Class Initialized
+INFO - 2021-01-01 05:24:32 --> Helper loaded: url_helper
+INFO - 2021-01-01 05:24:32 --> Helper loaded: html_helper
+INFO - 2021-01-01 05:24:32 --> Helper loaded: file_helper
+INFO - 2021-01-01 05:24:32 --> Helper loaded: form_helper
+INFO - 2021-01-01 05:24:32 --> Helper loaded: security_helper
+INFO - 2021-01-01 05:24:32 --> Helper loaded: xss_helper
+INFO - 2021-01-01 05:24:33 --> Helper loaded: slug_helper
+INFO - 2021-01-01 05:24:33 --> Database Driver Class Initialized
+DEBUG - 2021-01-01 05:24:33 --> Session: "sess_save_path" is empty; using "session.save_path" value from php.ini.
+INFO - 2021-01-01 05:24:33 --> Session: Class initialized using 'files' driver.
+INFO - 2021-01-01 05:24:33 --> Language file loaded: language/english/pagination_lang.php
+INFO - 2021-01-01 05:24:33 --> Pagination Class Initialized
+INFO - 2021-01-01 05:24:33 --> Email Class Initialized
+INFO - 2021-01-01 05:24:33 --> Model "M_konfig" initialized
+INFO - 2021-01-01 05:24:33 --> Model "M_reff" initialized
+INFO - 2021-01-01 05:24:33 --> Model "M_total" initialized
+INFO - 2021-01-01 05:24:33 --> Controller Class Initialized
+DEBUG - 2021-01-01 05:24:33 --> Maps_kri MX_Controller Initialized
+DEBUG - 2021-01-01 05:24:33 --> File loaded: D:\xampp72\htdocs\app_grm\application\modules/maps_kri/models/Model.php
+INFO - 2021-01-01 11:24:33 --> Final output sent to browser
+DEBUG - 2021-01-01 11:24:33 --> Total execution time: 1.4579
+INFO - 2021-01-01 05:24:35 --> Config Class Initialized
+INFO - 2021-01-01 05:24:35 --> Hooks Class Initialized
+INFO - 2021-01-01 05:24:35 --> Config Class Initialized
+INFO - 2021-01-01 05:24:35 --> Hooks Class Initialized
+DEBUG - 2021-01-01 05:24:35 --> UTF-8 Support Enabled
+INFO - 2021-01-01 05:24:35 --> Utf8 Class Initialized
+INFO - 2021-01-01 05:24:35 --> URI Class Initialized
+INFO - 2021-01-01 05:24:35 --> Router Class Initialized
+INFO - 2021-01-01 05:24:35 --> Output Class Initialized
+INFO - 2021-01-01 05:24:35 --> Security Class Initialized
+DEBUG - 2021-01-01 05:24:35 --> Global POST, GET and COOKIE data sanitized
+INFO - 2021-01-01 05:24:35 --> Input Class Initialized
+INFO - 2021-01-01 05:24:35 --> Language Class Initialized
+DEBUG - 2021-01-01 05:24:35 --> UTF-8 Support Enabled
+INFO - 2021-01-01 05:24:35 --> Language Class Initialized
+INFO - 2021-01-01 05:24:35 --> Config Class Initialized
+INFO - 2021-01-01 05:24:35 --> Loader Class Initialized
+INFO - 2021-01-01 05:24:35 --> Helper loaded: url_helper
+INFO - 2021-01-01 05:24:35 --> Helper loaded: html_helper
+INFO - 2021-01-01 05:24:35 --> Helper loaded: file_helper
+INFO - 2021-01-01 05:24:35 --> Helper loaded: form_helper
+INFO - 2021-01-01 05:24:35 --> Helper loaded: security_helper
+INFO - 2021-01-01 05:24:35 --> Helper loaded: xss_helper
+INFO - 2021-01-01 05:24:35 --> Helper loaded: slug_helper
+INFO - 2021-01-01 05:24:35 --> Database Driver Class Initialized
+DEBUG - 2021-01-01 05:24:35 --> Session: "sess_save_path" is empty; using "session.save_path" value from php.ini.
+INFO - 2021-01-01 05:24:35 --> Session: Class initialized using 'files' driver.
+INFO - 2021-01-01 05:24:35 --> Language file loaded: language/english/pagination_lang.php
+INFO - 2021-01-01 05:24:35 --> Pagination Class Initialized
+INFO - 2021-01-01 05:24:35 --> Email Class Initialized
+INFO - 2021-01-01 05:24:35 --> Model "M_konfig" initialized
+INFO - 2021-01-01 05:24:35 --> Utf8 Class Initialized
+INFO - 2021-01-01 05:24:35 --> URI Class Initialized
+INFO - 2021-01-01 05:24:35 --> Router Class Initialized
+INFO - 2021-01-01 05:24:35 --> Output Class Initialized
+INFO - 2021-01-01 05:24:35 --> Security Class Initialized
+DEBUG - 2021-01-01 05:24:35 --> Global POST, GET and COOKIE data sanitized
+INFO - 2021-01-01 05:24:35 --> Input Class Initialized
+INFO - 2021-01-01 05:24:35 --> Language Class Initialized
+INFO - 2021-01-01 05:24:35 --> Language Class Initialized
+INFO - 2021-01-01 05:24:35 --> Config Class Initialized
+INFO - 2021-01-01 05:24:35 --> Loader Class Initialized
+INFO - 2021-01-01 05:24:35 --> Helper loaded: url_helper
+INFO - 2021-01-01 05:24:35 --> Helper loaded: html_helper
+INFO - 2021-01-01 05:24:35 --> Helper loaded: file_helper
+INFO - 2021-01-01 05:24:35 --> Helper loaded: form_helper
+INFO - 2021-01-01 05:24:35 --> Helper loaded: security_helper
+INFO - 2021-01-01 05:24:35 --> Helper loaded: xss_helper
+INFO - 2021-01-01 05:24:35 --> Helper loaded: slug_helper
+INFO - 2021-01-01 05:24:35 --> Database Driver Class Initialized
+INFO - 2021-01-01 05:24:35 --> Model "M_reff" initialized
+INFO - 2021-01-01 05:24:35 --> Model "M_total" initialized
+INFO - 2021-01-01 05:24:35 --> Controller Class Initialized
+DEBUG - 2021-01-01 05:24:35 --> File loaded: D:\xampp72\htdocs\app_grm\application\modules/apengumuman/models/Model.php
+INFO - 2021-01-01 11:24:35 --> Final output sent to browser
+DEBUG - 2021-01-01 11:24:35 --> Total execution time: 0.1297
+DEBUG - 2021-01-01 05:24:35 --> Session: "sess_save_path" is empty; using "session.save_path" value from php.ini.
+INFO - 2021-01-01 05:24:35 --> Session: Class initialized using 'files' driver.
+INFO - 2021-01-01 05:24:35 --> Language file loaded: language/english/pagination_lang.php
+INFO - 2021-01-01 05:24:35 --> Pagination Class Initialized
+INFO - 2021-01-01 05:24:35 --> Email Class Initialized
+INFO - 2021-01-01 05:24:35 --> Model "M_konfig" initialized
+INFO - 2021-01-01 05:24:35 --> Model "M_reff" initialized
+INFO - 2021-01-01 05:24:35 --> Model "M_total" initialized
+INFO - 2021-01-01 05:24:35 --> Controller Class Initialized
+DEBUG - 2021-01-01 05:24:35 --> File loaded: D:\xampp72\htdocs\app_grm\application\modules/apengumuman/models/Model.php
+DEBUG - 2021-01-01 11:24:35 --> File loaded: D:\xampp72\htdocs\app_grm\application\modules/apengumuman/views/pengumuman.php
+INFO - 2021-01-01 11:24:36 --> Final output sent to browser
+DEBUG - 2021-01-01 11:24:36 --> Total execution time: 0.6138
+INFO - 2021-01-01 05:24:36 --> Config Class Initialized
+INFO - 2021-01-01 05:24:36 --> Hooks Class Initialized
+DEBUG - 2021-01-01 05:24:36 --> UTF-8 Support Enabled
+INFO - 2021-01-01 05:24:36 --> Utf8 Class Initialized
+INFO - 2021-01-01 05:24:36 --> URI Class Initialized
+INFO - 2021-01-01 05:24:36 --> Router Class Initialized
+INFO - 2021-01-01 05:24:36 --> Output Class Initialized
+INFO - 2021-01-01 05:24:36 --> Security Class Initialized
+DEBUG - 2021-01-01 05:24:36 --> Global POST, GET and COOKIE data sanitized
+INFO - 2021-01-01 05:24:36 --> Input Class Initialized
+INFO - 2021-01-01 05:24:36 --> Language Class Initialized
+INFO - 2021-01-01 05:24:36 --> Language Class Initialized
+INFO - 2021-01-01 05:24:36 --> Config Class Initialized
+INFO - 2021-01-01 05:24:36 --> Loader Class Initialized
+INFO - 2021-01-01 05:24:36 --> Helper loaded: url_helper
+INFO - 2021-01-01 05:24:36 --> Helper loaded: html_helper
+INFO - 2021-01-01 05:24:36 --> Helper loaded: file_helper
+INFO - 2021-01-01 05:24:36 --> Helper loaded: form_helper
+INFO - 2021-01-01 05:24:36 --> Helper loaded: security_helper
+INFO - 2021-01-01 05:24:36 --> Helper loaded: xss_helper
+INFO - 2021-01-01 05:24:36 --> Helper loaded: slug_helper
+INFO - 2021-01-01 05:24:36 --> Database Driver Class Initialized
+DEBUG - 2021-01-01 05:24:36 --> Session: "sess_save_path" is empty; using "session.save_path" value from php.ini.
+INFO - 2021-01-01 05:24:36 --> Session: Class initialized using 'files' driver.
+INFO - 2021-01-01 05:24:36 --> Language file loaded: language/english/pagination_lang.php
+INFO - 2021-01-01 05:24:36 --> Pagination Class Initialized
+INFO - 2021-01-01 05:24:37 --> Email Class Initialized
+INFO - 2021-01-01 05:24:37 --> Model "M_konfig" initialized
+INFO - 2021-01-01 05:24:37 --> Model "M_reff" initialized
+INFO - 2021-01-01 05:24:37 --> Model "M_total" initialized
+INFO - 2021-01-01 05:24:37 --> Controller Class Initialized
+DEBUG - 2021-01-01 05:24:37 --> File loaded: D:\xampp72\htdocs\app_grm\application\modules/apengumuman/models/Model.php
+INFO - 2021-01-01 11:24:37 --> Final output sent to browser
+DEBUG - 2021-01-01 11:24:37 --> Total execution time: 1.0669
+INFO - 2021-01-01 05:24:40 --> Config Class Initialized
+INFO - 2021-01-01 05:24:40 --> Hooks Class Initialized
+DEBUG - 2021-01-01 05:24:40 --> UTF-8 Support Enabled
+INFO - 2021-01-01 05:24:40 --> Utf8 Class Initialized
+INFO - 2021-01-01 05:24:40 --> URI Class Initialized
+INFO - 2021-01-01 05:24:40 --> Router Class Initialized
+INFO - 2021-01-01 05:24:40 --> Output Class Initialized
+INFO - 2021-01-01 05:24:40 --> Security Class Initialized
+DEBUG - 2021-01-01 05:24:40 --> Global POST, GET and COOKIE data sanitized
+INFO - 2021-01-01 05:24:40 --> Input Class Initialized
+INFO - 2021-01-01 05:24:40 --> Language Class Initialized
+INFO - 2021-01-01 05:24:40 --> Config Class Initialized
+INFO - 2021-01-01 05:24:40 --> Hooks Class Initialized
+DEBUG - 2021-01-01 05:24:40 --> UTF-8 Support Enabled
+INFO - 2021-01-01 05:24:40 --> Utf8 Class Initialized
+INFO - 2021-01-01 05:24:40 --> URI Class Initialized
+INFO - 2021-01-01 05:24:40 --> Router Class Initialized
+INFO - 2021-01-01 05:24:40 --> Output Class Initialized
+INFO - 2021-01-01 05:24:40 --> Security Class Initialized
+DEBUG - 2021-01-01 05:24:40 --> Global POST, GET and COOKIE data sanitized
+INFO - 2021-01-01 05:24:40 --> Input Class Initialized
+INFO - 2021-01-01 05:24:40 --> Language Class Initialized
+INFO - 2021-01-01 05:24:40 --> Language Class Initialized
+INFO - 2021-01-01 05:24:40 --> Config Class Initialized
+INFO - 2021-01-01 05:24:40 --> Loader Class Initialized
+INFO - 2021-01-01 05:24:40 --> Helper loaded: url_helper
+INFO - 2021-01-01 05:24:40 --> Helper loaded: html_helper
+INFO - 2021-01-01 05:24:40 --> Helper loaded: file_helper
+INFO - 2021-01-01 05:24:40 --> Helper loaded: form_helper
+INFO - 2021-01-01 05:24:40 --> Language Class Initialized
+INFO - 2021-01-01 05:24:40 --> Config Class Initialized
+INFO - 2021-01-01 05:24:40 --> Loader Class Initialized
+INFO - 2021-01-01 05:24:40 --> Helper loaded: url_helper
+INFO - 2021-01-01 05:24:40 --> Helper loaded: html_helper
+INFO - 2021-01-01 05:24:40 --> Helper loaded: file_helper
+INFO - 2021-01-01 05:24:40 --> Helper loaded: form_helper
+INFO - 2021-01-01 05:24:40 --> Helper loaded: security_helper
+INFO - 2021-01-01 05:24:40 --> Helper loaded: xss_helper
+INFO - 2021-01-01 05:24:40 --> Helper loaded: slug_helper
+INFO - 2021-01-01 05:24:40 --> Database Driver Class Initialized
+DEBUG - 2021-01-01 05:24:40 --> Session: "sess_save_path" is empty; using "session.save_path" value from php.ini.
+INFO - 2021-01-01 05:24:40 --> Session: Class initialized using 'files' driver.
+INFO - 2021-01-01 05:24:40 --> Language file loaded: language/english/pagination_lang.php
+INFO - 2021-01-01 05:24:40 --> Pagination Class Initialized
+INFO - 2021-01-01 05:24:40 --> Email Class Initialized
+INFO - 2021-01-01 05:24:40 --> Model "M_konfig" initialized
+INFO - 2021-01-01 05:24:40 --> Model "M_reff" initialized
+INFO - 2021-01-01 05:24:40 --> Model "M_total" initialized
+INFO - 2021-01-01 05:24:40 --> Controller Class Initialized
+INFO - 2021-01-01 05:24:40 --> Helper loaded: security_helper
+DEBUG - 2021-01-01 05:24:40 --> File loaded: D:\xampp72\htdocs\app_grm\application\modules/apengumuman/models/Model.php
+DEBUG - 2021-01-01 11:24:40 --> File loaded: D:\xampp72\htdocs\app_grm\application\modules/apengumuman/views/view_pengumuman.php
+INFO - 2021-01-01 11:24:40 --> Final output sent to browser
+DEBUG - 2021-01-01 11:24:40 --> Total execution time: 0.4286
+INFO - 2021-01-01 05:24:40 --> Helper loaded: xss_helper
+INFO - 2021-01-01 05:24:40 --> Helper loaded: slug_helper
+INFO - 2021-01-01 05:24:40 --> Database Driver Class Initialized
+DEBUG - 2021-01-01 05:24:40 --> Session: "sess_save_path" is empty; using "session.save_path" value from php.ini.
+INFO - 2021-01-01 05:24:40 --> Session: Class initialized using 'files' driver.
+INFO - 2021-01-01 05:24:40 --> Language file loaded: language/english/pagination_lang.php
+INFO - 2021-01-01 05:24:40 --> Pagination Class Initialized
+INFO - 2021-01-01 05:24:40 --> Email Class Initialized
+INFO - 2021-01-01 05:24:40 --> Model "M_konfig" initialized
+INFO - 2021-01-01 05:24:40 --> Model "M_reff" initialized
+INFO - 2021-01-01 05:24:40 --> Model "M_total" initialized
+INFO - 2021-01-01 05:24:40 --> Controller Class Initialized
+DEBUG - 2021-01-01 05:24:40 --> File loaded: D:\xampp72\htdocs\app_grm\application\modules/apengumuman/models/Model.php
+INFO - 2021-01-01 11:24:41 --> Final output sent to browser
+DEBUG - 2021-01-01 11:24:41 --> Total execution time: 0.5378
+INFO - 2021-01-01 05:24:43 --> Config Class Initialized
+INFO - 2021-01-01 05:24:43 --> Hooks Class Initialized
+DEBUG - 2021-01-01 05:24:43 --> UTF-8 Support Enabled
+INFO - 2021-01-01 05:24:43 --> Utf8 Class Initialized
+INFO - 2021-01-01 05:24:43 --> URI Class Initialized
+INFO - 2021-01-01 05:24:44 --> Router Class Initialized
+INFO - 2021-01-01 05:24:44 --> Output Class Initialized
+INFO - 2021-01-01 05:24:44 --> Security Class Initialized
+DEBUG - 2021-01-01 05:24:44 --> Global POST, GET and COOKIE data sanitized
+INFO - 2021-01-01 05:24:44 --> Input Class Initialized
+INFO - 2021-01-01 05:24:44 --> Language Class Initialized
+INFO - 2021-01-01 05:24:44 --> Language Class Initialized
+INFO - 2021-01-01 05:24:44 --> Config Class Initialized
+INFO - 2021-01-01 05:24:44 --> Loader Class Initialized
+INFO - 2021-01-01 05:24:44 --> Helper loaded: url_helper
+INFO - 2021-01-01 05:24:44 --> Helper loaded: html_helper
+INFO - 2021-01-01 05:24:44 --> Helper loaded: file_helper
+INFO - 2021-01-01 05:24:44 --> Helper loaded: form_helper
+INFO - 2021-01-01 05:24:44 --> Helper loaded: security_helper
+INFO - 2021-01-01 05:24:44 --> Helper loaded: xss_helper
+INFO - 2021-01-01 05:24:44 --> Helper loaded: slug_helper
+INFO - 2021-01-01 05:24:44 --> Database Driver Class Initialized
+DEBUG - 2021-01-01 05:24:44 --> Session: "sess_save_path" is empty; using "session.save_path" value from php.ini.
+INFO - 2021-01-01 05:24:44 --> Session: Class initialized using 'files' driver.
+INFO - 2021-01-01 05:24:44 --> Language file loaded: language/english/pagination_lang.php
+INFO - 2021-01-01 05:24:44 --> Pagination Class Initialized
+INFO - 2021-01-01 05:24:44 --> Email Class Initialized
+INFO - 2021-01-01 05:24:44 --> Model "M_konfig" initialized
+INFO - 2021-01-01 05:24:44 --> Model "M_reff" initialized
+INFO - 2021-01-01 05:24:44 --> Model "M_total" initialized
+INFO - 2021-01-01 05:24:44 --> Controller Class Initialized
+DEBUG - 2021-01-01 05:24:44 --> File loaded: D:\xampp72\htdocs\app_grm\application\modules/apengumuman/models/Model.php
+DEBUG - 2021-01-01 11:24:44 --> File loaded: D:\xampp72\htdocs\app_grm\application\modules/apengumuman/views/pengumuman.php
+INFO - 2021-01-01 11:24:44 --> Final output sent to browser
+DEBUG - 2021-01-01 11:24:44 --> Total execution time: 1.2638
+INFO - 2021-01-01 05:24:45 --> Config Class Initialized
+INFO - 2021-01-01 05:24:45 --> Hooks Class Initialized
+DEBUG - 2021-01-01 05:24:45 --> UTF-8 Support Enabled
+INFO - 2021-01-01 05:24:45 --> Utf8 Class Initialized
+INFO - 2021-01-01 05:24:45 --> URI Class Initialized
+INFO - 2021-01-01 05:24:45 --> Router Class Initialized
+INFO - 2021-01-01 05:24:45 --> Output Class Initialized
+INFO - 2021-01-01 05:24:45 --> Security Class Initialized
+DEBUG - 2021-01-01 05:24:45 --> Global POST, GET and COOKIE data sanitized
+INFO - 2021-01-01 05:24:45 --> Input Class Initialized
+INFO - 2021-01-01 05:24:45 --> Language Class Initialized
+INFO - 2021-01-01 05:24:45 --> Language Class Initialized
+INFO - 2021-01-01 05:24:45 --> Config Class Initialized
+INFO - 2021-01-01 05:24:45 --> Config Class Initialized
+INFO - 2021-01-01 05:24:45 --> Hooks Class Initialized
+DEBUG - 2021-01-01 05:24:45 --> UTF-8 Support Enabled
+INFO - 2021-01-01 05:24:45 --> Utf8 Class Initialized
+INFO - 2021-01-01 05:24:45 --> URI Class Initialized
+INFO - 2021-01-01 05:24:45 --> Router Class Initialized
+INFO - 2021-01-01 05:24:45 --> Output Class Initialized
+INFO - 2021-01-01 05:24:45 --> Loader Class Initialized
+INFO - 2021-01-01 05:24:45 --> Helper loaded: url_helper
+INFO - 2021-01-01 05:24:45 --> Helper loaded: html_helper
+INFO - 2021-01-01 05:24:45 --> Helper loaded: file_helper
+INFO - 2021-01-01 05:24:45 --> Helper loaded: form_helper
+INFO - 2021-01-01 05:24:45 --> Helper loaded: security_helper
+INFO - 2021-01-01 05:24:45 --> Helper loaded: xss_helper
+INFO - 2021-01-01 05:24:45 --> Helper loaded: slug_helper
+INFO - 2021-01-01 05:24:45 --> Database Driver Class Initialized
+DEBUG - 2021-01-01 05:24:45 --> Session: "sess_save_path" is empty; using "session.save_path" value from php.ini.
+INFO - 2021-01-01 05:24:45 --> Session: Class initialized using 'files' driver.
+INFO - 2021-01-01 05:24:45 --> Language file loaded: language/english/pagination_lang.php
+INFO - 2021-01-01 05:24:45 --> Pagination Class Initialized
+INFO - 2021-01-01 05:24:45 --> Email Class Initialized
+INFO - 2021-01-01 05:24:45 --> Model "M_konfig" initialized
+INFO - 2021-01-01 05:24:45 --> Model "M_reff" initialized
+INFO - 2021-01-01 05:24:45 --> Model "M_total" initialized
+INFO - 2021-01-01 05:24:45 --> Controller Class Initialized
+DEBUG - 2021-01-01 05:24:45 --> File loaded: D:\xampp72\htdocs\app_grm\application\modules/apengumuman/models/Model.php
+INFO - 2021-01-01 11:24:45 --> Final output sent to browser
+DEBUG - 2021-01-01 11:24:45 --> Total execution time: 0.4546
+INFO - 2021-01-01 05:24:45 --> Security Class Initialized
+DEBUG - 2021-01-01 05:24:45 --> Global POST, GET and COOKIE data sanitized
+INFO - 2021-01-01 05:24:45 --> Input Class Initialized
+INFO - 2021-01-01 05:24:45 --> Language Class Initialized
+INFO - 2021-01-01 05:24:45 --> Language Class Initialized
+INFO - 2021-01-01 05:24:45 --> Config Class Initialized
+INFO - 2021-01-01 05:24:45 --> Loader Class Initialized
+INFO - 2021-01-01 05:24:45 --> Helper loaded: url_helper
+INFO - 2021-01-01 05:24:45 --> Helper loaded: html_helper
+INFO - 2021-01-01 05:24:45 --> Helper loaded: file_helper
+INFO - 2021-01-01 05:24:45 --> Helper loaded: form_helper
+INFO - 2021-01-01 05:24:45 --> Helper loaded: security_helper
+INFO - 2021-01-01 05:24:45 --> Helper loaded: xss_helper
+INFO - 2021-01-01 05:24:45 --> Helper loaded: slug_helper
+INFO - 2021-01-01 05:24:46 --> Database Driver Class Initialized
+DEBUG - 2021-01-01 05:24:46 --> Session: "sess_save_path" is empty; using "session.save_path" value from php.ini.
+INFO - 2021-01-01 05:24:46 --> Session: Class initialized using 'files' driver.
+INFO - 2021-01-01 05:24:46 --> Language file loaded: language/english/pagination_lang.php
+INFO - 2021-01-01 05:24:46 --> Pagination Class Initialized
+INFO - 2021-01-01 05:24:46 --> Email Class Initialized
+INFO - 2021-01-01 05:24:46 --> Model "M_konfig" initialized
+INFO - 2021-01-01 05:24:46 --> Model "M_reff" initialized
+INFO - 2021-01-01 05:24:46 --> Model "M_total" initialized
+INFO - 2021-01-01 05:24:46 --> Controller Class Initialized
+DEBUG - 2021-01-01 05:24:46 --> File loaded: D:\xampp72\htdocs\app_grm\application\modules/apengumuman/models/Model.php
+INFO - 2021-01-01 11:24:46 --> Final output sent to browser
+DEBUG - 2021-01-01 11:24:46 --> Total execution time: 0.9168
+INFO - 2021-01-01 05:24:50 --> Config Class Initialized
+INFO - 2021-01-01 05:24:50 --> Hooks Class Initialized
+DEBUG - 2021-01-01 05:24:50 --> UTF-8 Support Enabled
+INFO - 2021-01-01 05:24:50 --> Utf8 Class Initialized
+INFO - 2021-01-01 05:24:50 --> URI Class Initialized
+INFO - 2021-01-01 05:24:50 --> Router Class Initialized
+INFO - 2021-01-01 05:24:50 --> Output Class Initialized
+INFO - 2021-01-01 05:24:50 --> Security Class Initialized
+DEBUG - 2021-01-01 05:24:50 --> Global POST, GET and COOKIE data sanitized
+INFO - 2021-01-01 05:24:50 --> Input Class Initialized
+INFO - 2021-01-01 05:24:50 --> Language Class Initialized
+INFO - 2021-01-01 05:24:50 --> Language Class Initialized
+INFO - 2021-01-01 05:24:50 --> Config Class Initialized
+INFO - 2021-01-01 05:24:50 --> Loader Class Initialized
+INFO - 2021-01-01 05:24:50 --> Helper loaded: url_helper
+INFO - 2021-01-01 05:24:51 --> Helper loaded: html_helper
+INFO - 2021-01-01 05:24:51 --> Helper loaded: file_helper
+INFO - 2021-01-01 05:24:51 --> Helper loaded: form_helper
+INFO - 2021-01-01 05:24:51 --> Helper loaded: security_helper
+INFO - 2021-01-01 05:24:51 --> Helper loaded: xss_helper
+INFO - 2021-01-01 05:24:51 --> Helper loaded: slug_helper
+INFO - 2021-01-01 05:24:51 --> Database Driver Class Initialized
+DEBUG - 2021-01-01 05:24:51 --> Session: "sess_save_path" is empty; using "session.save_path" value from php.ini.
+INFO - 2021-01-01 05:24:51 --> Session: Class initialized using 'files' driver.
+INFO - 2021-01-01 05:24:51 --> Language file loaded: language/english/pagination_lang.php
+INFO - 2021-01-01 05:24:51 --> Pagination Class Initialized
+INFO - 2021-01-01 05:24:51 --> Email Class Initialized
+INFO - 2021-01-01 05:24:51 --> Model "M_konfig" initialized
+INFO - 2021-01-01 05:24:51 --> Model "M_reff" initialized
+INFO - 2021-01-01 05:24:51 --> Model "M_total" initialized
+INFO - 2021-01-01 05:24:51 --> Controller Class Initialized
+DEBUG - 2021-01-01 05:24:51 --> File loaded: D:\xampp72\htdocs\app_grm\application\modules/apengumuman/models/Model.php
+INFO - 2021-01-01 11:24:51 --> Final output sent to browser
+DEBUG - 2021-01-01 11:24:51 --> Total execution time: 1.0958
+INFO - 2021-01-01 05:24:53 --> Config Class Initialized
+INFO - 2021-01-01 05:24:53 --> Hooks Class Initialized
+DEBUG - 2021-01-01 05:24:53 --> UTF-8 Support Enabled
+INFO - 2021-01-01 05:24:53 --> Utf8 Class Initialized
+INFO - 2021-01-01 05:24:53 --> URI Class Initialized
+DEBUG - 2021-01-01 05:24:53 --> No URI present. Default controller set.
+INFO - 2021-01-01 05:24:53 --> Router Class Initialized
+INFO - 2021-01-01 05:24:53 --> Output Class Initialized
+INFO - 2021-01-01 05:24:53 --> Security Class Initialized
+DEBUG - 2021-01-01 05:24:53 --> Global POST, GET and COOKIE data sanitized
+INFO - 2021-01-01 05:24:53 --> Input Class Initialized
+INFO - 2021-01-01 05:24:53 --> Language Class Initialized
+INFO - 2021-01-01 05:24:53 --> Language Class Initialized
+INFO - 2021-01-01 05:24:53 --> Config Class Initialized
+INFO - 2021-01-01 05:24:53 --> Loader Class Initialized
+INFO - 2021-01-01 05:24:53 --> Helper loaded: url_helper
+INFO - 2021-01-01 05:24:53 --> Helper loaded: html_helper
+INFO - 2021-01-01 05:24:53 --> Helper loaded: file_helper
+INFO - 2021-01-01 05:24:53 --> Helper loaded: form_helper
+INFO - 2021-01-01 05:24:53 --> Helper loaded: security_helper
+INFO - 2021-01-01 05:24:53 --> Helper loaded: xss_helper
+INFO - 2021-01-01 05:24:53 --> Helper loaded: slug_helper
+INFO - 2021-01-01 05:24:53 --> Database Driver Class Initialized
+DEBUG - 2021-01-01 05:24:53 --> Session: "sess_save_path" is empty; using "session.save_path" value from php.ini.
+INFO - 2021-01-01 05:24:53 --> Session: Class initialized using 'files' driver.
+INFO - 2021-01-01 05:24:53 --> Language file loaded: language/english/pagination_lang.php
+INFO - 2021-01-01 05:24:54 --> Pagination Class Initialized
+INFO - 2021-01-01 05:24:54 --> Email Class Initialized
+INFO - 2021-01-01 05:24:54 --> Model "M_konfig" initialized
+INFO - 2021-01-01 05:24:54 --> Model "M_reff" initialized
+INFO - 2021-01-01 05:24:54 --> Model "M_total" initialized
+INFO - 2021-01-01 05:24:54 --> Controller Class Initialized
+DEBUG - 2021-01-01 05:24:54 --> File loaded: D:\xampp72\htdocs\app_grm\application\modules/auth/models/M_login.php
+DEBUG - 2021-01-01 11:24:54 --> File loaded: D:\xampp72\htdocs\app_grm\application\views\temp_login/head.php
+DEBUG - 2021-01-01 11:24:54 --> File loaded: D:\xampp72\htdocs\app_grm\application\modules/auth/views/index.php
+DEBUG - 2021-01-01 11:24:54 --> File loaded: D:\xampp72\htdocs\app_grm\application\views\temp_login/konten.php
+DEBUG - 2021-01-01 11:24:54 --> File loaded: D:\xampp72\htdocs\app_grm\application\views\temp_login/footer.php
+DEBUG - 2021-01-01 11:24:54 --> File loaded: D:\xampp72\htdocs\app_grm\application\views\temp_login/main.php
+INFO - 2021-01-01 11:24:54 --> Final output sent to browser
+DEBUG - 2021-01-01 11:24:54 --> Total execution time: 1.4489
+INFO - 2021-01-01 05:24:55 --> Config Class Initialized
+INFO - 2021-01-01 05:24:55 --> Hooks Class Initialized
+DEBUG - 2021-01-01 05:24:55 --> UTF-8 Support Enabled
+INFO - 2021-01-01 05:24:55 --> Utf8 Class Initialized
+INFO - 2021-01-01 05:24:55 --> URI Class Initialized
+INFO - 2021-01-01 05:24:55 --> Router Class Initialized
+INFO - 2021-01-01 05:24:55 --> Output Class Initialized
+INFO - 2021-01-01 05:24:55 --> Security Class Initialized
+DEBUG - 2021-01-01 05:24:55 --> Global POST, GET and COOKIE data sanitized
+INFO - 2021-01-01 05:24:55 --> Input Class Initialized
+INFO - 2021-01-01 05:24:55 --> Config Class Initialized
+INFO - 2021-01-01 05:24:55 --> Hooks Class Initialized
+DEBUG - 2021-01-01 05:24:55 --> UTF-8 Support Enabled
+INFO - 2021-01-01 05:24:55 --> Utf8 Class Initialized
+INFO - 2021-01-01 05:24:55 --> URI Class Initialized
+INFO - 2021-01-01 05:24:55 --> Router Class Initialized
+INFO - 2021-01-01 05:24:55 --> Output Class Initialized
+INFO - 2021-01-01 05:24:55 --> Security Class Initialized
+DEBUG - 2021-01-01 05:24:55 --> Global POST, GET and COOKIE data sanitized
+INFO - 2021-01-01 05:24:55 --> Input Class Initialized
+INFO - 2021-01-01 05:24:55 --> Language Class Initialized
+INFO - 2021-01-01 05:24:55 --> Language Class Initialized
+INFO - 2021-01-01 05:24:55 --> Config Class Initialized
+INFO - 2021-01-01 05:24:55 --> Loader Class Initialized
+INFO - 2021-01-01 05:24:55 --> Helper loaded: url_helper
+INFO - 2021-01-01 05:24:55 --> Helper loaded: html_helper
+INFO - 2021-01-01 05:24:55 --> Helper loaded: file_helper
+INFO - 2021-01-01 05:24:55 --> Helper loaded: form_helper
+INFO - 2021-01-01 05:24:55 --> Helper loaded: security_helper
+INFO - 2021-01-01 05:24:55 --> Helper loaded: xss_helper
+INFO - 2021-01-01 05:24:55 --> Helper loaded: slug_helper
+INFO - 2021-01-01 05:24:55 --> Database Driver Class Initialized
+DEBUG - 2021-01-01 05:24:55 --> Session: "sess_save_path" is empty; using "session.save_path" value from php.ini.
+INFO - 2021-01-01 05:24:55 --> Session: Class initialized using 'files' driver.
+INFO - 2021-01-01 05:24:55 --> Language file loaded: language/english/pagination_lang.php
+INFO - 2021-01-01 05:24:55 --> Pagination Class Initialized
+INFO - 2021-01-01 05:24:55 --> Email Class Initialized
+INFO - 2021-01-01 05:24:55 --> Model "M_konfig" initialized
+INFO - 2021-01-01 05:24:55 --> Model "M_reff" initialized
+INFO - 2021-01-01 05:24:55 --> Model "M_total" initialized
+INFO - 2021-01-01 05:24:55 --> Controller Class Initialized
+INFO - 2021-01-01 05:24:55 --> Language Class Initialized
+DEBUG - 2021-01-01 05:24:55 --> File loaded: D:\xampp72\htdocs\app_grm\application\modules/apengumuman/models/Model.php
+DEBUG - 2021-01-01 11:24:55 --> File loaded: D:\xampp72\htdocs\app_grm\application\modules/apengumuman/views/pengumuman.php
+INFO - 2021-01-01 11:24:55 --> Final output sent to browser
+DEBUG - 2021-01-01 11:24:55 --> Total execution time: 0.0982
+INFO - 2021-01-01 05:24:55 --> Language Class Initialized
+INFO - 2021-01-01 05:24:56 --> Config Class Initialized
+INFO - 2021-01-01 05:24:56 --> Config Class Initialized
+INFO - 2021-01-01 05:24:56 --> Hooks Class Initialized
+DEBUG - 2021-01-01 05:24:56 --> UTF-8 Support Enabled
+INFO - 2021-01-01 05:24:56 --> Utf8 Class Initialized
+INFO - 2021-01-01 05:24:56 --> URI Class Initialized
+INFO - 2021-01-01 05:24:56 --> Router Class Initialized
+INFO - 2021-01-01 05:24:56 --> Output Class Initialized
+INFO - 2021-01-01 05:24:56 --> Security Class Initialized
+DEBUG - 2021-01-01 05:24:56 --> Global POST, GET and COOKIE data sanitized
+INFO - 2021-01-01 05:24:56 --> Input Class Initialized
+INFO - 2021-01-01 05:24:56 --> Language Class Initialized
+INFO - 2021-01-01 05:24:56 --> Language Class Initialized
+INFO - 2021-01-01 05:24:56 --> Config Class Initialized
+INFO - 2021-01-01 05:24:56 --> Loader Class Initialized
+INFO - 2021-01-01 05:24:56 --> Helper loaded: url_helper
+INFO - 2021-01-01 05:24:56 --> Helper loaded: html_helper
+INFO - 2021-01-01 05:24:56 --> Helper loaded: file_helper
+INFO - 2021-01-01 05:24:56 --> Loader Class Initialized
+INFO - 2021-01-01 05:24:56 --> Helper loaded: url_helper
+INFO - 2021-01-01 05:24:56 --> Helper loaded: html_helper
+INFO - 2021-01-01 05:24:56 --> Helper loaded: file_helper
+INFO - 2021-01-01 05:24:56 --> Helper loaded: form_helper
+INFO - 2021-01-01 05:24:56 --> Helper loaded: security_helper
+INFO - 2021-01-01 05:24:56 --> Helper loaded: xss_helper
+INFO - 2021-01-01 05:24:56 --> Helper loaded: slug_helper
+INFO - 2021-01-01 05:24:56 --> Database Driver Class Initialized
+DEBUG - 2021-01-01 05:24:56 --> Session: "sess_save_path" is empty; using "session.save_path" value from php.ini.
+INFO - 2021-01-01 05:24:56 --> Session: Class initialized using 'files' driver.
+INFO - 2021-01-01 05:24:56 --> Language file loaded: language/english/pagination_lang.php
+INFO - 2021-01-01 05:24:56 --> Pagination Class Initialized
+INFO - 2021-01-01 05:24:56 --> Email Class Initialized
+INFO - 2021-01-01 05:24:56 --> Model "M_konfig" initialized
+INFO - 2021-01-01 05:24:56 --> Model "M_reff" initialized
+INFO - 2021-01-01 05:24:56 --> Model "M_total" initialized
+INFO - 2021-01-01 05:24:56 --> Controller Class Initialized
+DEBUG - 2021-01-01 05:24:56 --> File loaded: D:\xampp72\htdocs\app_grm\application\modules/apengumuman/models/Model.php
+INFO - 2021-01-01 11:24:56 --> Final output sent to browser
+INFO - 2021-01-01 05:24:56 --> Helper loaded: form_helper
+INFO - 2021-01-01 05:24:56 --> Helper loaded: security_helper
+INFO - 2021-01-01 05:24:56 --> Helper loaded: xss_helper
+INFO - 2021-01-01 05:24:56 --> Helper loaded: slug_helper
+INFO - 2021-01-01 05:24:56 --> Database Driver Class Initialized
+DEBUG - 2021-01-01 05:24:56 --> Session: "sess_save_path" is empty; using "session.save_path" value from php.ini.
+DEBUG - 2021-01-01 11:24:56 --> Total execution time: 0.6449
+INFO - 2021-01-01 05:24:56 --> Session: Class initialized using 'files' driver.
+INFO - 2021-01-01 05:24:56 --> Language file loaded: language/english/pagination_lang.php
+INFO - 2021-01-01 05:24:56 --> Pagination Class Initialized
+INFO - 2021-01-01 05:24:56 --> Email Class Initialized
+INFO - 2021-01-01 05:24:56 --> Model "M_konfig" initialized
+INFO - 2021-01-01 05:24:56 --> Model "M_reff" initialized
+INFO - 2021-01-01 05:24:56 --> Model "M_total" initialized
+INFO - 2021-01-01 05:24:56 --> Controller Class Initialized
+DEBUG - 2021-01-01 05:24:56 --> File loaded: D:\xampp72\htdocs\app_grm\application\modules/apengumuman/models/Model.php
+INFO - 2021-01-01 11:24:56 --> Final output sent to browser
+DEBUG - 2021-01-01 11:24:56 --> Total execution time: 0.5474
+INFO - 2021-01-01 05:24:57 --> Config Class Initialized
+INFO - 2021-01-01 05:24:57 --> Hooks Class Initialized
+DEBUG - 2021-01-01 05:24:57 --> UTF-8 Support Enabled
+INFO - 2021-01-01 05:24:57 --> Utf8 Class Initialized
+INFO - 2021-01-01 05:24:57 --> URI Class Initialized
+INFO - 2021-01-01 05:24:57 --> Router Class Initialized
+INFO - 2021-01-01 05:24:57 --> Output Class Initialized
+INFO - 2021-01-01 05:24:57 --> Security Class Initialized
+DEBUG - 2021-01-01 05:24:57 --> Global POST, GET and COOKIE data sanitized
+INFO - 2021-01-01 05:24:58 --> Input Class Initialized
+INFO - 2021-01-01 05:24:58 --> Language Class Initialized
+INFO - 2021-01-01 05:24:58 --> Language Class Initialized
+INFO - 2021-01-01 05:24:58 --> Config Class Initialized
+INFO - 2021-01-01 05:24:58 --> Loader Class Initialized
+INFO - 2021-01-01 05:24:58 --> Helper loaded: url_helper
+INFO - 2021-01-01 05:24:58 --> Helper loaded: html_helper
+INFO - 2021-01-01 05:24:58 --> Helper loaded: file_helper
+INFO - 2021-01-01 05:24:58 --> Helper loaded: form_helper
+INFO - 2021-01-01 05:24:58 --> Helper loaded: security_helper
+INFO - 2021-01-01 05:24:58 --> Helper loaded: xss_helper
+INFO - 2021-01-01 05:24:58 --> Helper loaded: slug_helper
+INFO - 2021-01-01 05:24:58 --> Database Driver Class Initialized
+DEBUG - 2021-01-01 05:24:58 --> Session: "sess_save_path" is empty; using "session.save_path" value from php.ini.
+INFO - 2021-01-01 05:24:58 --> Session: Class initialized using 'files' driver.
+INFO - 2021-01-01 05:24:58 --> Language file loaded: language/english/pagination_lang.php
+INFO - 2021-01-01 05:24:58 --> Pagination Class Initialized
+INFO - 2021-01-01 05:24:58 --> Email Class Initialized
+INFO - 2021-01-01 05:24:58 --> Model "M_konfig" initialized
+INFO - 2021-01-01 05:24:58 --> Model "M_reff" initialized
+INFO - 2021-01-01 05:24:58 --> Model "M_total" initialized
+INFO - 2021-01-01 05:24:58 --> Controller Class Initialized
+DEBUG - 2021-01-01 05:24:58 --> File loaded: D:\xampp72\htdocs\app_grm\application\modules/apengumuman/models/Model.php
+DEBUG - 2021-01-01 11:24:58 --> File loaded: D:\xampp72\htdocs\app_grm\application\modules/apengumuman/views/view_pengumuman.php
+INFO - 2021-01-01 11:24:58 --> Final output sent to browser
+DEBUG - 2021-01-01 11:24:58 --> Total execution time: 1.2019
+INFO - 2021-01-01 05:25:00 --> Config Class Initialized
+INFO - 2021-01-01 05:25:00 --> Hooks Class Initialized
+DEBUG - 2021-01-01 05:25:00 --> UTF-8 Support Enabled
+INFO - 2021-01-01 05:25:00 --> Utf8 Class Initialized
+INFO - 2021-01-01 05:25:00 --> URI Class Initialized
+INFO - 2021-01-01 05:25:00 --> Router Class Initialized
+INFO - 2021-01-01 05:25:00 --> Output Class Initialized
+INFO - 2021-01-01 05:25:00 --> Security Class Initialized
+DEBUG - 2021-01-01 05:25:00 --> Global POST, GET and COOKIE data sanitized
+INFO - 2021-01-01 05:25:00 --> Input Class Initialized
+INFO - 2021-01-01 05:25:00 --> Language Class Initialized
+INFO - 2021-01-01 05:25:00 --> Language Class Initialized
+INFO - 2021-01-01 05:25:00 --> Config Class Initialized
+INFO - 2021-01-01 05:25:00 --> Loader Class Initialized
+INFO - 2021-01-01 05:25:00 --> Helper loaded: url_helper
+INFO - 2021-01-01 05:25:01 --> Helper loaded: html_helper
+INFO - 2021-01-01 05:25:01 --> Helper loaded: file_helper
+INFO - 2021-01-01 05:25:01 --> Helper loaded: form_helper
+INFO - 2021-01-01 05:25:01 --> Helper loaded: security_helper
+INFO - 2021-01-01 05:25:01 --> Helper loaded: xss_helper
+INFO - 2021-01-01 05:25:01 --> Helper loaded: slug_helper
+INFO - 2021-01-01 05:25:01 --> Database Driver Class Initialized
+DEBUG - 2021-01-01 05:25:01 --> Session: "sess_save_path" is empty; using "session.save_path" value from php.ini.
+INFO - 2021-01-01 05:25:01 --> Session: Class initialized using 'files' driver.
+INFO - 2021-01-01 05:25:01 --> Language file loaded: language/english/pagination_lang.php
+INFO - 2021-01-01 05:25:01 --> Pagination Class Initialized
+INFO - 2021-01-01 05:25:01 --> Email Class Initialized
+INFO - 2021-01-01 05:25:01 --> Model "M_konfig" initialized
+INFO - 2021-01-01 05:25:01 --> Model "M_reff" initialized
+INFO - 2021-01-01 05:25:01 --> Model "M_total" initialized
+INFO - 2021-01-01 05:25:01 --> Controller Class Initialized
+DEBUG - 2021-01-01 05:25:01 --> File loaded: D:\xampp72\htdocs\app_grm\application\modules/apengumuman/models/Model.php
+INFO - 2021-01-01 11:25:01 --> Final output sent to browser
+DEBUG - 2021-01-01 11:25:01 --> Total execution time: 1.1534
+INFO - 2021-01-01 05:25:05 --> Config Class Initialized
+INFO - 2021-01-01 05:25:05 --> Hooks Class Initialized
+DEBUG - 2021-01-01 05:25:05 --> UTF-8 Support Enabled
+INFO - 2021-01-01 05:25:05 --> Utf8 Class Initialized
+INFO - 2021-01-01 05:25:05 --> URI Class Initialized
+INFO - 2021-01-01 05:25:05 --> Router Class Initialized
+INFO - 2021-01-01 05:25:05 --> Output Class Initialized
+INFO - 2021-01-01 05:25:05 --> Security Class Initialized
+DEBUG - 2021-01-01 05:25:05 --> Global POST, GET and COOKIE data sanitized
+INFO - 2021-01-01 05:25:05 --> Input Class Initialized
+INFO - 2021-01-01 05:25:05 --> Language Class Initialized
+INFO - 2021-01-01 05:25:05 --> Language Class Initialized
+INFO - 2021-01-01 05:25:05 --> Config Class Initialized
+INFO - 2021-01-01 05:25:05 --> Loader Class Initialized
+INFO - 2021-01-01 05:25:05 --> Helper loaded: url_helper
+INFO - 2021-01-01 05:25:05 --> Helper loaded: html_helper
+INFO - 2021-01-01 05:25:06 --> Helper loaded: file_helper
+INFO - 2021-01-01 05:25:06 --> Helper loaded: form_helper
+INFO - 2021-01-01 05:25:06 --> Helper loaded: security_helper
+INFO - 2021-01-01 05:25:06 --> Helper loaded: xss_helper
+INFO - 2021-01-01 05:25:06 --> Helper loaded: slug_helper
+INFO - 2021-01-01 05:25:06 --> Database Driver Class Initialized
+DEBUG - 2021-01-01 05:25:06 --> Session: "sess_save_path" is empty; using "session.save_path" value from php.ini.
+INFO - 2021-01-01 05:25:06 --> Session: Class initialized using 'files' driver.
+INFO - 2021-01-01 05:25:06 --> Language file loaded: language/english/pagination_lang.php
+INFO - 2021-01-01 05:25:06 --> Pagination Class Initialized
+INFO - 2021-01-01 05:25:06 --> Email Class Initialized
+INFO - 2021-01-01 05:25:06 --> Model "M_konfig" initialized
+INFO - 2021-01-01 05:25:06 --> Model "M_reff" initialized
+INFO - 2021-01-01 05:25:06 --> Model "M_total" initialized
+INFO - 2021-01-01 05:25:06 --> Controller Class Initialized
+DEBUG - 2021-01-01 05:25:06 --> File loaded: D:\xampp72\htdocs\app_grm\application\modules/apengumuman/models/Model.php
+INFO - 2021-01-01 11:25:06 --> Final output sent to browser
+DEBUG - 2021-01-01 11:25:06 --> Total execution time: 1.1225
+INFO - 2021-01-01 05:25:10 --> Config Class Initialized
+INFO - 2021-01-01 05:25:10 --> Hooks Class Initialized
+DEBUG - 2021-01-01 05:25:10 --> UTF-8 Support Enabled
+INFO - 2021-01-01 05:25:10 --> Utf8 Class Initialized
+INFO - 2021-01-01 05:25:10 --> URI Class Initialized
+INFO - 2021-01-01 05:25:10 --> Router Class Initialized
+INFO - 2021-01-01 05:25:10 --> Output Class Initialized
+INFO - 2021-01-01 05:25:10 --> Security Class Initialized
+DEBUG - 2021-01-01 05:25:10 --> Global POST, GET and COOKIE data sanitized
+INFO - 2021-01-01 05:25:10 --> Input Class Initialized
+INFO - 2021-01-01 05:25:10 --> Language Class Initialized
+INFO - 2021-01-01 05:25:10 --> Language Class Initialized
+INFO - 2021-01-01 05:25:10 --> Config Class Initialized
+INFO - 2021-01-01 05:25:10 --> Loader Class Initialized
+INFO - 2021-01-01 05:25:11 --> Helper loaded: url_helper
+INFO - 2021-01-01 05:25:11 --> Helper loaded: html_helper
+INFO - 2021-01-01 05:25:11 --> Helper loaded: file_helper
+INFO - 2021-01-01 05:25:11 --> Helper loaded: form_helper
+INFO - 2021-01-01 05:25:11 --> Helper loaded: security_helper
+INFO - 2021-01-01 05:25:11 --> Helper loaded: xss_helper
+INFO - 2021-01-01 05:25:11 --> Helper loaded: slug_helper
+INFO - 2021-01-01 05:25:11 --> Database Driver Class Initialized
+DEBUG - 2021-01-01 05:25:11 --> Session: "sess_save_path" is empty; using "session.save_path" value from php.ini.
+INFO - 2021-01-01 05:25:11 --> Session: Class initialized using 'files' driver.
+INFO - 2021-01-01 05:25:11 --> Language file loaded: language/english/pagination_lang.php
+INFO - 2021-01-01 05:25:11 --> Pagination Class Initialized
+INFO - 2021-01-01 05:25:11 --> Email Class Initialized
+INFO - 2021-01-01 05:25:11 --> Model "M_konfig" initialized
+INFO - 2021-01-01 05:25:11 --> Model "M_reff" initialized
+INFO - 2021-01-01 05:25:11 --> Model "M_total" initialized
+INFO - 2021-01-01 05:25:11 --> Controller Class Initialized
+DEBUG - 2021-01-01 05:25:11 --> File loaded: D:\xampp72\htdocs\app_grm\application\modules/apengumuman/models/Model.php
+INFO - 2021-01-01 11:25:11 --> Final output sent to browser
+DEBUG - 2021-01-01 11:25:11 --> Total execution time: 1.0729
+INFO - 2021-01-01 05:25:15 --> Config Class Initialized
+INFO - 2021-01-01 05:25:15 --> Hooks Class Initialized
+DEBUG - 2021-01-01 05:25:15 --> UTF-8 Support Enabled
+INFO - 2021-01-01 05:25:15 --> Utf8 Class Initialized
+INFO - 2021-01-01 05:25:15 --> URI Class Initialized
+INFO - 2021-01-01 05:25:15 --> Router Class Initialized
+INFO - 2021-01-01 05:25:15 --> Output Class Initialized
+INFO - 2021-01-01 05:25:15 --> Security Class Initialized
+DEBUG - 2021-01-01 05:25:15 --> Global POST, GET and COOKIE data sanitized
+INFO - 2021-01-01 05:25:15 --> Input Class Initialized
+INFO - 2021-01-01 05:25:15 --> Language Class Initialized
+INFO - 2021-01-01 05:25:15 --> Language Class Initialized
+INFO - 2021-01-01 05:25:15 --> Config Class Initialized
+INFO - 2021-01-01 05:25:15 --> Loader Class Initialized
+INFO - 2021-01-01 05:25:15 --> Helper loaded: url_helper
+INFO - 2021-01-01 05:25:16 --> Helper loaded: html_helper
+INFO - 2021-01-01 05:25:16 --> Helper loaded: file_helper
+INFO - 2021-01-01 05:25:16 --> Helper loaded: form_helper
+INFO - 2021-01-01 05:25:16 --> Helper loaded: security_helper
+INFO - 2021-01-01 05:25:16 --> Helper loaded: xss_helper
+INFO - 2021-01-01 05:25:16 --> Helper loaded: slug_helper
+INFO - 2021-01-01 05:25:16 --> Database Driver Class Initialized
+DEBUG - 2021-01-01 05:25:16 --> Session: "sess_save_path" is empty; using "session.save_path" value from php.ini.
+INFO - 2021-01-01 05:25:16 --> Session: Class initialized using 'files' driver.
+INFO - 2021-01-01 05:25:16 --> Language file loaded: language/english/pagination_lang.php
+INFO - 2021-01-01 05:25:16 --> Pagination Class Initialized
+INFO - 2021-01-01 05:25:16 --> Email Class Initialized
+INFO - 2021-01-01 05:25:16 --> Model "M_konfig" initialized
+INFO - 2021-01-01 05:25:16 --> Model "M_reff" initialized
+INFO - 2021-01-01 05:25:16 --> Model "M_total" initialized
+INFO - 2021-01-01 05:25:16 --> Controller Class Initialized
+DEBUG - 2021-01-01 05:25:16 --> File loaded: D:\xampp72\htdocs\app_grm\application\modules/apengumuman/models/Model.php
+INFO - 2021-01-01 11:25:16 --> Final output sent to browser
+DEBUG - 2021-01-01 11:25:16 --> Total execution time: 1.0491
+INFO - 2021-01-01 05:25:20 --> Config Class Initialized
+INFO - 2021-01-01 05:25:20 --> Hooks Class Initialized
+DEBUG - 2021-01-01 05:25:20 --> UTF-8 Support Enabled
+INFO - 2021-01-01 05:25:20 --> Utf8 Class Initialized
+INFO - 2021-01-01 05:25:20 --> URI Class Initialized
+INFO - 2021-01-01 05:25:20 --> Router Class Initialized
+INFO - 2021-01-01 05:25:20 --> Output Class Initialized
+INFO - 2021-01-01 05:25:20 --> Security Class Initialized
+DEBUG - 2021-01-01 05:25:20 --> Global POST, GET and COOKIE data sanitized
+INFO - 2021-01-01 05:25:20 --> Input Class Initialized
+INFO - 2021-01-01 05:25:20 --> Language Class Initialized
+INFO - 2021-01-01 05:25:21 --> Language Class Initialized
+INFO - 2021-01-01 05:25:21 --> Config Class Initialized
+INFO - 2021-01-01 05:25:21 --> Loader Class Initialized
+INFO - 2021-01-01 05:25:21 --> Helper loaded: url_helper
+INFO - 2021-01-01 05:25:21 --> Helper loaded: html_helper
+INFO - 2021-01-01 05:25:21 --> Helper loaded: file_helper
+INFO - 2021-01-01 05:25:21 --> Helper loaded: form_helper
+INFO - 2021-01-01 05:25:21 --> Helper loaded: security_helper
+INFO - 2021-01-01 05:25:21 --> Helper loaded: xss_helper
+INFO - 2021-01-01 05:25:21 --> Helper loaded: slug_helper
+INFO - 2021-01-01 05:25:21 --> Database Driver Class Initialized
+DEBUG - 2021-01-01 05:25:21 --> Session: "sess_save_path" is empty; using "session.save_path" value from php.ini.
+INFO - 2021-01-01 05:25:21 --> Session: Class initialized using 'files' driver.
+INFO - 2021-01-01 05:25:21 --> Language file loaded: language/english/pagination_lang.php
+INFO - 2021-01-01 05:25:21 --> Pagination Class Initialized
+INFO - 2021-01-01 05:25:21 --> Email Class Initialized
+INFO - 2021-01-01 05:25:21 --> Model "M_konfig" initialized
+INFO - 2021-01-01 05:25:21 --> Model "M_reff" initialized
+INFO - 2021-01-01 05:25:21 --> Model "M_total" initialized
+INFO - 2021-01-01 05:25:21 --> Controller Class Initialized
+DEBUG - 2021-01-01 05:25:21 --> File loaded: D:\xampp72\htdocs\app_grm\application\modules/apengumuman/models/Model.php
+INFO - 2021-01-01 11:25:21 --> Final output sent to browser
+DEBUG - 2021-01-01 11:25:21 --> Total execution time: 1.3632
+INFO - 2021-01-01 05:25:25 --> Config Class Initialized
+INFO - 2021-01-01 05:25:25 --> Hooks Class Initialized
+DEBUG - 2021-01-01 05:25:25 --> UTF-8 Support Enabled
+INFO - 2021-01-01 05:25:25 --> Utf8 Class Initialized
+INFO - 2021-01-01 05:25:25 --> URI Class Initialized
+INFO - 2021-01-01 05:25:25 --> Router Class Initialized
+INFO - 2021-01-01 05:25:25 --> Output Class Initialized
+INFO - 2021-01-01 05:25:25 --> Security Class Initialized
+DEBUG - 2021-01-01 05:25:25 --> Global POST, GET and COOKIE data sanitized
+INFO - 2021-01-01 05:25:25 --> Input Class Initialized
+INFO - 2021-01-01 05:25:25 --> Language Class Initialized
+INFO - 2021-01-01 05:25:25 --> Language Class Initialized
+INFO - 2021-01-01 05:25:25 --> Config Class Initialized
+INFO - 2021-01-01 05:25:25 --> Loader Class Initialized
+INFO - 2021-01-01 05:25:26 --> Helper loaded: url_helper
+INFO - 2021-01-01 05:25:26 --> Helper loaded: html_helper
+INFO - 2021-01-01 05:25:26 --> Helper loaded: file_helper
+INFO - 2021-01-01 05:25:26 --> Helper loaded: form_helper
+INFO - 2021-01-01 05:25:26 --> Helper loaded: security_helper
+INFO - 2021-01-01 05:25:26 --> Helper loaded: xss_helper
+INFO - 2021-01-01 05:25:26 --> Helper loaded: slug_helper
+INFO - 2021-01-01 05:25:26 --> Database Driver Class Initialized
+DEBUG - 2021-01-01 05:25:26 --> Session: "sess_save_path" is empty; using "session.save_path" value from php.ini.
+INFO - 2021-01-01 05:25:26 --> Session: Class initialized using 'files' driver.
+INFO - 2021-01-01 05:25:26 --> Language file loaded: language/english/pagination_lang.php
+INFO - 2021-01-01 05:25:26 --> Pagination Class Initialized
+INFO - 2021-01-01 05:25:26 --> Email Class Initialized
+INFO - 2021-01-01 05:25:26 --> Model "M_konfig" initialized
+INFO - 2021-01-01 05:25:26 --> Model "M_reff" initialized
+INFO - 2021-01-01 05:25:26 --> Model "M_total" initialized
+INFO - 2021-01-01 05:25:26 --> Controller Class Initialized
+DEBUG - 2021-01-01 05:25:26 --> File loaded: D:\xampp72\htdocs\app_grm\application\modules/apengumuman/models/Model.php
+INFO - 2021-01-01 11:25:26 --> Final output sent to browser
+DEBUG - 2021-01-01 11:25:26 --> Total execution time: 1.0467

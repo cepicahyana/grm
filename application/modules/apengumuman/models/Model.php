@@ -138,8 +138,6 @@ class Model extends ci_Model
 		$var['table']=true;
 		return $var;
 	}
-
-
 	function update_viewer()
 	{
 		$var=array();
@@ -158,6 +156,23 @@ class Model extends ci_Model
 		}
 		//$var['table']=true;
 		return $var;
+	}
+	function count_pengumuman()
+	{
+		//$id=$this->input->post("id");
+		$total=$this->db->get_where($this->tbl,array('sts'=>'Publish'))->num_rows();
+		$totalRow=isset($total)?($total):'0';
+
+		$idsession=$this->session->userdata("id");
+		$this->db->from($this->tbl);
+		$this->db->like('viewer', $idsession);
+		$this->db->where('sts','Publish');
+		$query = $this->db->get();
+		$rowread=$query->num_rows();
+
+		$hasil=$totalRow-$rowread;
+
+		return $hasil;
 	}
 	
 	

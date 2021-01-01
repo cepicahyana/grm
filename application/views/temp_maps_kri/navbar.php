@@ -78,7 +78,7 @@ $headername=$this->m_konfig->konfigurasi(14);
 						
 						<li class="nav-item">
 							<a href="#" class="nav-link menuclick" url="<?php echo site_url('pengumuman')?>" title="PENGUMUMAN">
-								<i class="fa fa-bullhorn"></i><span class="notification">1</span>
+								<i class="fa fa-bullhorn"></i><span class="notification"><span class="amount_a"></span></span>
 							</a>
 						</li>
 						<li class="nav-item dropdown hidden-caret">
