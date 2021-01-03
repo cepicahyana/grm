@@ -53,6 +53,7 @@ class Apengumuman extends CI_Controller {
 			$judul=isset($dataDB->judul)?($dataDB->judul):'';
 			$sts=isset($dataDB->sts)?($dataDB->sts):'';
 			$isi=isset($dataDB->isi)?($dataDB->isi):'';
+			$tanggal=isset($dataDB->_ctime)?($dataDB->_ctime):'';
 			$viewer=isset($dataDB->viewer)?($dataDB->viewer):'0';
 
 			$arraysatu=explode(",",$viewer); //potong
@@ -88,6 +89,7 @@ class Apengumuman extends CI_Controller {
 				$img_1=''.base_url().'theme/images/no-image.png';
 			}*/
 			
+			if($tanggal!=''){$tanggal_=$this->tanggal->inddatetime($tanggal," ");}else{$tanggal_="";}
 			
 			$tombol='
 					<button type="button" onclick="edit(`'.$id.'`)" class="btn bg-info btn-sm">EDIT</button>
@@ -97,6 +99,7 @@ class Apengumuman extends CI_Controller {
 			$row[] = "";
 			$row[] = $id;	
 			$row[] = "<span class='size' >".$no++."</span>";	
+			$row[] = "<span class='size' >".$tanggal_."</span>";
 			$row[] = "<span class='size' ><a href='#' onclick='priview(".$id.")'>".$judul."</a></span>";
 			$row[] = "<span class='size' >".$sts."</span>";
 			$row[] = "<span class='size' ><a href='#' onclick='viewer(".$id.")'>Viewer (".$jmlrowsatu.")</a></span>";
@@ -195,6 +198,7 @@ class Apengumuman extends CI_Controller {
 			$isi=isset($dataDB->isi)?($dataDB->isi):'';
 			$viewer=isset($dataDB->viewer)?($dataDB->viewer):'0';
 			$idsession=$this->session->userdata('id');
+			$tanggal=isset($dataDB->_ctime)?($dataDB->_ctime):'';
 
 			$arraysatu=explode(",",$viewer); //potong
 			$d = "";
@@ -216,6 +220,8 @@ class Apengumuman extends CI_Controller {
 			}else{
 				$colRow='no';
 			}
+
+			if($tanggal!=''){$tanggal_=$this->tanggal->inddatetime($tanggal," ");}else{$tanggal_="";}
 			
 			//$tombol='
 					//<button type="button" onclick="edit(`'.$id.'`)" class="btn bg-info btn-sm">EDIT</button>
@@ -224,7 +230,8 @@ class Apengumuman extends CI_Controller {
 			$row = array();
 			$row[] = $colRow;
 			$row[] = "<span class='size' >".$no++."</span>";	
-			$row[] = "<span class='size' ><a href='#' onclick='detail(".$id.")'>".$judul."</a></span>";
+			$row[] = "<span class='size' ><a href='#' onclick='detail(".$id.")'>".$judul."</a>
+			<br><i class='text-muted text-sm'>".$tanggal_."</i></span>";
 			$row[] = "<span class='size text-muted' ><i>".$colRow."</i></span>";
 			//$row[] = $tombol ;
  

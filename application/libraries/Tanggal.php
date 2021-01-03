@@ -22,7 +22,7 @@ class tanggal
 		$timetamp = $splitTimeStamp[1];
 		
 		$date = date('d-m-Y',strtotime($datetamp));
-		$time = date('H:i:s',strtotime($timetamp));
+		$time = date('H:i',strtotime($timetamp));
 		return $date.$di.$time;
 	}
 	function rangeindo($tgl,$ambil) //unuk database

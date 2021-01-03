@@ -40,6 +40,7 @@
 												<th class='thead' >&nbsp;</th>
 												<th class='thead' style="width:2px">ID</th>			
 												<th class='thead' style="width:2px">&nbsp;NO</th>
+												<th class='thead' style="min-width:10px">DIBUAT</th>
 												<th class='thead' style="min-width:100px">JUDUL</th>
 												<th class='thead' style="min-width:50px">STATUS</th>
 												<th class='thead' style="min-width:50px">VIEWER</th>

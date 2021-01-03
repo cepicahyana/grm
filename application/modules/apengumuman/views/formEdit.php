@@ -5,7 +5,9 @@ $img=isset($data->img)?($data->img):'';
 $judul=isset($data->judul)?($data->judul):'';			
 $isi=isset($data->isi)?($data->isi):'';	
 $sts=isset($data->sts)?($data->sts):'';	
-/*$tanggal=isset($data->tanggal)?($data->tanggal):'';
+$tanggal=isset($data->_ctime)?($data->_ctime):'';
+if($tanggal!=''){$tanggal_=$this->tanggal->inddatetime($tanggal," ");}else{$tanggal_="";}
+/*
 $tgl=$this->tanggal->ind($tanggal,0);
 $waktu=isset($data->waktu)?($data->waktu):'';
 if($waktu!=''){
@@ -78,7 +80,12 @@ if($img!=''){
 						</div>
 					</div>
 				</div-->
-
+				<div class="form-group">
+					<label class="black control-label">Dibuat Tanggal</label>
+					<div>
+						<i class="text-muted"><?php echo $tanggal_ ?></i>
+					</div>
+				</div>
 				<div class="form-group">
 					<label class="black control-label">Status</label>
 					<div>
