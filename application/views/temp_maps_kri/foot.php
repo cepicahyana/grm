@@ -45,6 +45,8 @@
 	<!-- Atlantis JS -->
 	<script src="<?php echo base_url(); ?>theme/atlantis/js/atlantis.min.js"></script>
 
+	
+
 	<!-- Atlantis DEMO methods, don't include it in your project! -->
 	<script src="<?php echo base_url(); ?>theme/atlantis/js/setting-demo.js"></script>
 	<script src="<?php echo base_url(); ?>theme/atlantis/js/demo.js"></script>
@@ -72,7 +74,7 @@ $(window).on('load', function(){
   })
 </script>
 <script>
-	setInterval(function(){ count(); }, 5000);
+	setInterval(function(){ count(); }, 30000);
 	function count(){
 		$.ajax({
 		  type: "GET",

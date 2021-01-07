@@ -1,4 +1,4 @@
-		
+<input type="hidden" value="n" id="modaltype">
 											<div class="row">
 												<div class="col-md-4 info-invoice">
 													<h5 class="sub">Update Terakhir  </h5>
@@ -9,7 +9,7 @@
 													<p>80</p>
 												</div>-->
 												<div class="col-md-4 info-invoice">
-													<h5 class="sub"><?php echo $this->tanggal->hariLengkapJam($data->_ctime,"/");?> </h5>
+													<h5 class="sub" style="min-width:300px"><?php echo $this->tanggal->hariLengkapJam($data->_ctime,"/");?> </h5>
 													<p class="fw-bold"><?php echo $data->kondisi;?></p>
 												</div>
 											</div>
@@ -28,10 +28,10 @@
 																	<thead>
 																		<tr>
 																			<th class="text-center" style="width:10%"><strong>No</strong></tthd>
-																			<th class="text-center" style="width:50%"><strong>Jenis bahan bakar</strong></td>
+																			<th class="text-center" style="width:40%"><strong>Jenis bahan bakar</strong></td>
 																			<th class="text-center" style="width:15%"><strong>Jumlah</strong></th>
 																			<th class="text-center" style="width:15%"><strong>  Minimal</strong></th>
-																			<th class="text-center" style="width:15%"><strong>Kondisi</strong></th>
+																			<th class="text-center" style="min-width:100px"><strong>Kondisi</strong></th>
 																			<th class="text-center" style="width:15%"><strong>Keterangan</strong></th>
 																		</tr>
 																	</thead>

@@ -1,4 +1,4 @@
-
+<input type="hidden" value="n" id="modaltype">
 <?php 
 $id=isset($data->id)?($data->id):'';
 $img=isset($data->img)?($data->img):'';	
@@ -18,38 +18,41 @@ $sts=isset($data->sts)?($data->sts):'';
 	</div>
 	</div>
 </div>
-<div class="row">
-	<div class="col-md-8">
-		<?php 
-			if($img!=''){
-				$img_1=''.base_url().'theme/images/pengumuman/'.$img.'';
-			}else{
-				$img_1=''.base_url().'theme/images/no-image.png';
-			} 
-		?>
-		
-		<img class="card-img-top rounded img-responsive" src="<?php echo $img_1?>" class="img-fluid">
-	</div>
-</div>
+<hr>
 <div class="row">
 	<div class="col-md-12">
-			<div class="form-group">
-				<label class="black control-label">Judul</label>
-				<div class="">
-					<?php echo $judul ?>
-				</div>
+		<div class="form-group">
+			<h3 class="text-bold text-center">
+				<?php echo $judul ?>
+			</h3>
+		</div>
+		<hr>
+		<div class="row">
+			<div class="col-md-2 col-xs-12">
+				<?php 
+					if($img!=''){
+						$img_1='<a href="'.base_url().'theme/images/pengumuman/'.$img.'" download>
+						<img style="vertical-align: text-top;" class="card-img-top rounded img-responsive" src="'.base_url().'theme/images/pengumuman/'.$img.'" class="img-fluid">
+						</a>';
+						
+						
+					}else{
+						$img_1='<img style="vertical-align: text-top;" class="card-img-top rounded img-responsive" 
+						src="'.base_url().'theme/images/no-image.png" class="img-fluid">';
+					} 
+				?>
+				<?php echo $img_1 ?>
 			</div>
-			<hr>
-			<div class="form-group">
-				<label class="black control-label">Isi</label>
-				<div class="">
-				<?php echo $isi ?>
-				</div>
-			</div>
-
+			<div class="col-md-10  col-xs-12">
 		
+			<?php echo $isi ?>
+			
+			</div>
+		</div>
 	</div>
 </div>
+
+
 		
 			
 			

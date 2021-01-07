@@ -25,6 +25,39 @@ class tanggal
 		$time = date('H:i',strtotime($timetamp));
 		return $date.$di.$time;
 	}
+	function engdatetime($id,$di)
+	{
+		$splitTimeStamp = explode(" ",$id);
+		if(count($splitTimeStamp)<2)
+		{
+		return false;
+		}
+		$datetamp = $splitTimeStamp[0];
+		$timetamp = $splitTimeStamp[1];
+		
+		$date = date('Y-m-d',strtotime($datetamp));
+		$time = date('H:i:s',strtotime($timetamp));
+		return $date.$di.$time;
+	}
+	function hitungMenit($awal,$akhir) //english full waktu
+	{
+		$awal  = strtotime($awal); //waktu awal
+		$akhir = strtotime($akhir); //waktu akhir
+		$diff  = $akhir - $awal;
+		$jam   = floor($diff / (60 * 60));
+		$menit = $diff - $jam * (60 * 60);		
+		$menit = floor( $menit / 60 );
+		if($jam==0 and $menit==0)
+		{
+			return 0;
+		}
+		elseif($jam==0)
+		{
+			return   $menit;
+		}else{
+			return ($jam*60)+$menit;
+		}
+	}
 	function rangeindo($tgl,$ambil) //unuk database
 	{
 		//30/03/2016 - 23/05/2016

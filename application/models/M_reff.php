@@ -149,6 +149,13 @@ class M_reff extends ci_Model
 		}
 		
 	}
+
+	function acak($jml=2)
+	{
+		$karakter = '123456789123456789123456789123456789123456789123456789123456789123456789123456789123456789123456789123456789';
+		$shuffle  = substr(str_shuffle($karakter),0,$jml);
+		return $shuffle;
+	}
 	
 	function hapus_file($nama_file) //full path
 	{

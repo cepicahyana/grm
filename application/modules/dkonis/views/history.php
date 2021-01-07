@@ -1,9 +1,10 @@
+<input type="hidden" value="n" id="modaltype">
 <div class="card">
 	<div class="card-header" style="padding:2px 8px 2px 2px">
 		<div class="row align-items-center">
 			<div class="col">
 				<p class="mt-1 ml-2 text-muted">
-					HISTORY</p>
+					<b>History update</b></p>
 			</div>
 			<div class="col-auto">
 				<a href="javascript:back()" class="btn btn-light btn-border btn-sm">
@@ -20,7 +21,7 @@
 					<thead  class='sadow bg-teal'>	
 						<th class='thead' style="width:2px">&nbsp;NO</th>
 						<th class='thead' style="min-width:200px">TANGGAL</th>
-						<th class='thead' style="min-width:60px">JAM </th>
+						<th class='thead' style="min-width:60px">PUKUL </th>
 						<th class='thead' style="min-width:60px">KONDISI </th>
 						<!--th class='thead' style="min-width:100px">AKSI</th-->
 					</thead>
@@ -63,7 +64,7 @@
                 action: function ( e, dt, node, config ) {
                    downloadXL();
                 }
-            },*/
+            }, 
 			{
                 text: '<span class="fas fa-sync-alt"></span> Refresh',
 				className :"btn btn-default btn-sm",
@@ -100,16 +101,16 @@
 				//data.f1 = $('#f1').val();
 			 },
 			beforeSend: function() {
-				$('#area_lod').addClass('loading_area');
+				loading('area_lod');
             },
 			complete: function() {
-				$('#area_lod').removeClass('loading_area');
+				unblock('area_lod');
             },
         },
         //Set column definition initialisation properties.
         "columnDefs": [
         { 
-          "targets": [ -1,-2,-3], //last column
+          "targets": [ 0,-1,-2,-3], //last column
           "orderable": false, //set not orderable
         },
         ],

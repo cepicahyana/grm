@@ -1,4 +1,5 @@
-					<div class="row">
+<input type="hidden" value="n" id="modaltype">
+					<div class="row" id="loadingKonis">
 						<div class="col-12">
 							<div class="row align-items-center mb-3">
 								<div class="col">
@@ -9,10 +10,10 @@
 								</div>
 								<div class="col-auto">
 									<a href="javascript:history()" class="btn btn-light btn-border btn-sm">
-										<i class="fas fa-clock"></i> History
+										<i class="fas fa-clock"></i> Historys
 									</a>
 									<a href="javascript:import_data()" class="btn btn-primary btn-sm">
-										<i class="fas fa-download"></i> Import Data
+										<i class="fas fa-download"></i> Update Data
 									</a>
 								</div>
 							</div>
@@ -41,13 +42,13 @@
 													<div class="form-group row">
 														<label class="black col-md-3 control-label">Download Data Terakhir</label>
 														<div class="col-md-9">
-														<a class="sound" href="<?php echo base_url('doc/data_konis.xlsx')?>">Data_konis.xlsx</a>
+														<a class="sound" href="<?php echo base_url('dkonis/getKonisFile')?>">Download</a>
 														</div>
 													</div>
 													<div class="form-group row">
 														<label class="black col-md-3 control-label">Cari File</label>
 														<div class="col-md-6">
-															<input type="file" accept="xlsx" class="form-control input-sm" name="file" required/>
+															<input type="file" accept=".xlsx" class="form-control input-sm" name="file" required/>
 														</div>
 														<div class="col-md-3">
 															<button  title="Save" id="formSubmitImport" onclick="submitForm('formSubmitImport')" class="btn btn-sm btn-primary"><i id="msg_formSubmitImport"></i>&nbsp;&nbsp;<i class='fa fa-upload'></i> Upload</button>
@@ -66,79 +67,16 @@
 							<div class="row">
 								<div class="col-md-12">
 								<div id="area_lod">
-									<div class="card">
+									<div class=" ">
 										<div class="card-body">
 										
-											
-											<div class="row">
-												<div class="col-md-4 info-invoice">
-													<h5 class="sub">Update Terakhir</h5>
-													<p>18/12/2020 10:15</p>
-												</div>
-												<div class="col-md-4 info-invoice">
-													<h5 class="sub">Nilai rata-rata</h5>
-													<p>80</p>
-												</div>
-												<div class="col-md-4 info-invoice">
-													<h5 class="sub">Kondisi</h5>
-													<p class="fw-bold">BAIK</p>
-												</div>
-											</div>
-											<div class="row">
-												<div class="col-md-12">
-													<div class="separator-solid  mb-3"></div>
-													<div class="invoice-detail">
-														<div class="invoice-top">
-															<h3 class="title"><strong>Details</strong></h3>
-														</div>
-														<div class="invoice-item">
-															<div class="tborder">
-																<table>
-																	<thead>
-																		<tr>
-																			<th class="text-center" style="width:10%"><strong>No</strong></tthd>
-																			<th class="text-center" style="width:60%"><strong>Nama Peralatan</strong></td>
-																			<th class="text-center" style="width:20%"><strong>Keterangan</strong></th>
-																			<th class="text-center" style="width:30%"><strong>Nilai (%)</strong></th>
-																		</tr>
-																	</thead>
-																	<tbody>
-																		<tr>
-																			<td class="text-center">1</td>
-																			<td class="text-center">Pistol</td>
-																			<td class="text-center">baru</td>
-																			<td class="text-right">80</td>
-																		</tr>
-																		<tr>
-																			<td class="text-center">2</td>
-																			<td class="text-center">Granat</td>
-																			<td class="text-center">baru</td>
-																			<td class="text-right">80</td>
-																		</tr>
-																		<tr>
-																			<td class="text-right" colspan="3"><strong>Total</strong></td>
-																			<td class="text-right"><strong>160</strong></td>
-																		</tr>
-																		<tr>
-																			<td class="text-right" colspan="3"><strong>Nilai rata-rata</strong></td>
-																			<td class="text-right"><strong>80</strong></td>
-																		</tr>
-																	</tbody>
-																</table>
-															</div>
-														</div>
-													</div>	
-													<div class="separator-solid  mb-3"></div>
-													<h6 class="text-uppercase mt-4 mb-3 fw-bold">
-														*Notes
-													</h6>
-													<p class="text-muted text-sm mb-0">
-														Nilai 0-60 (TIDAK SIAP)<br>
-														Nilai 60-80 (SIAP TERBATAS)<br>
-														Nilai 80-100 (SIAP)
-													</p>
-												</div>	
-											</div>
+										
+															<div id="jsData"></div>
+															
+
+
+
+
 										</div>
 										
 									</div>
@@ -152,25 +90,40 @@
 
 
 <script>
+	setTimeout(function(){ jsData(); }, 500);
+function reload_content(){
+	jsData();
+	cancel_area_import();
+}
+	function jsData(){
+		loading("loadingKonis");
+		$.post("<?php echo base_url()?>dkonis/jsData",function(data){
+				$("#jsData").html(data);
+				unblock("loadingKonis");
+		});
+	}
 function history()
 { 
-	$("#area_lod").html('<center>Please wait..</center>');
+	cancel_area_import();
+	loading("area_lod");
+	//$("#area_lod").html('<center>Please wait..</center>');
 	$.post("<?php echo site_url("dkonis/history"); ?>",function(data){
 		$("#area_lod").html(data);
+		unblock("area_lod");
 	});	
 }
 function back(){
-	$("#area_lod").html('<center>Please wait..</center>');
-	$.post("<?php echo site_url("dkonis/page_index"); ?>",function(data){
-		$("#area_lod").html(data);
-	});	
+		$("#area_lod").html('<center>Please wait..</center>');
+		$.post("<?php echo base_url()?>dkonis/jsData",function(data){
+				$("#area_lod").html(data); 
+		}); 
 }
 
 function import_data() 
 { 	
     $("#formSubmitImport")[0].reset();
 	$("#area_import").show();
-	$("#formSubmitImport").attr("url","<?php echo base_url()?>dbrigif/import_data");
+	$("#formSubmitImport").attr("url","<?php echo base_url()?>dkonis/import_data");
 }
 function cancel_area_import() 
 { 	

@@ -44,9 +44,12 @@
 	</div>
 </div>
 <!-- End Sidebar -->
-<script>
+<!-- datepicker -->
+<script type="text/javascript" src="<?php echo base_url()?>theme/plugin/bootstrap-daterangepicker/moment.min.js"></script>
+<script type="text/javascript" src="<?php echo base_url()?>theme/plugin/bootstrap-daterangepicker/daterangepicker.js"></script>
+<script type="text/javascript" src="<?php echo base_url()?>theme/plugin/bootstrap-datepicker/js/bootstrap-datepicker.min.js"></script>
+<script type="text/javascript" src="<?php echo base_url()?>theme/plugin/bootstrap-timepicker/js/bootstrap-timepicker.min.js"></script>
 
-</script>
 <script>
 	var date = new Date();
 	$('#date_1').daterangepicker({

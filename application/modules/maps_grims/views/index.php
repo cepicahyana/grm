@@ -20,6 +20,18 @@
     right:10px;
 
 }
+#m_tom_ais{
+    position: absolute;
+    z-index: 1;
+    top:10px;
+    right:258px;
+}
+#m_tom_chat{
+    position: absolute;
+    z-index: 1;
+    top:10px;
+    right:120px;
+}
 #m_tom_range{
     position: absolute;
     z-index: 1;
@@ -30,7 +42,7 @@
     position: absolute;
     z-index: 1;
     top:10px;
-    right:120px;
+    right:175px;
 }
 #m_tom_back{
     position: absolute;
@@ -92,6 +104,16 @@ $img_1='';
 
 <div id="m_logo">
     <img src="<?php echo $img_1; ?>">
+</div>
+<div id="m_tom_ais">
+    <button type="button" class="btn btn-icon btn-black btn-border" onclick="tab_ais()" title="AIS">
+        AIS
+    </button>
+</div>
+<div id="m_tom_chat">
+    <button type="button" class="btn btn-icon btnmaps" onclick="open_chat()" title="CHAT">
+        <i class="icon-speech"></i>
+    </button>
 </div>
 <div id="m_tom_logout">
     <button type="button" class="btn btn-icon btnmaps" onclick="logout()" title="Logout">
@@ -206,6 +228,9 @@ function logout() {
 function back() {
     window.location.href = '<?php echo site_url('dashboard')?>';
 }
+function tab_ais() {
+    window.open('https://universe.fleetmon.com/explorer/location/4.36/119.35138/0.79159?baseLayer=fm-sat', '_blank '); 
+}
 </script>
 
 <script>
@@ -236,19 +261,21 @@ function closeFullscreen() {
 }
 </script>
 
+
 <script>
-function defaultMarker(){
+function loadMarker1(){
     var fm = $('#customCheck1:checked').map(function(_, el) {
         return $(el).val();
     }).get();
 
     var course = [];
     $(".fm").each(function(){
-        if ($('#customCheck1').is(":checked")) {
+        if ($(this).is(":checked")) {
             course.push($(this).val());
         }
     });
     course = course.toString();
+
     var url = base_url+'maps_grims/get_fm';
     if(true == $('#customCheck1').prop("checked")){ 
         $.ajax({
@@ -260,251 +287,266 @@ function defaultMarker(){
                 showMarker(markersOnMap);
             }
         });
+    }else{
+        hideMarkersOfType(3);
+        closeOtherInfo();
+    }
+}
+function loadMarker2(){
+    var fm = $('#customCheck2:checked').map(function(_, el) {
+        return $(el).val();
+    }).get();
+
+    var course = [];
+    $(".fm").each(function(){
+        if ($(this).is(":checked")) {
+            course.push($(this).val());
+        }
+    });
+    course = course.toString();
+
+    var url = base_url+'maps_grims/get_fm';
+    if(true == $('#customCheck2').prop("checked")){ 
+        $.ajax({
+            url: url,
+            data: "fm="+fm+"&ak="+course,
+            type: 'POST',
+            dataType: 'JSON',
+            success: function(markersOnMap){
+                showMarker(markersOnMap);
+            }
+        });
+    }else{
+        hideMarkersOfType(4);
+        closeOtherInfo();
+    }
+}
+function loadMarker3(){
+    var fm = $('#customCheck3:checked').map(function(_, el) {
+        return $(el).val();
+    }).get();
+
+    var course = [];
+    $(".fm").each(function(){
+        if ($(this).is(":checked")) {
+            course.push($(this).val());
+        }
+    });
+    course = course.toString();
+
+    var url = base_url+'maps_grims/get_fm';
+    if(true == $('#customCheck3').prop("checked")){ 
+        $.ajax({
+            url: url,
+            data: "fm="+fm+"&ak="+course,
+            type: 'POST',
+            dataType: 'JSON',
+            success: function(markersOnMap){
+                showMarker(markersOnMap);
+            }
+        });
+    }else{
+        hideMarkersOfType(5);
+        closeOtherInfo();
+    }
+}
+function loadMarker4(){
+    var fm = $('#customCheck4:checked').map(function(_, el) {
+        return $(el).val();
+    }).get();
+
+    var course = [];
+    $(".fm").each(function(){
+        if ($(this).is(":checked")) {
+            course.push($(this).val());
+        }
+    });
+    course = course.toString();
+
+    var url = base_url+'maps_grims/get_fm';
+    if(true == $('#customCheck4').prop("checked")){ 
+        $.ajax({
+            url: url,
+            data: "fm="+fm+"&ak="+course,
+            type: 'POST',
+            dataType: 'JSON',
+            success: function(markersOnMap){
+                showMarker(markersOnMap);
+            }
+        });
+    }else{
+        hideMarkersOfType(6);
+        closeOtherInfo();
+    }
+}
+function loadMarker5(){
+    var fm = $('#customCheck5:checked').map(function(_, el) {
+        return $(el).val();
+    }).get();
+
+    var course = [];
+    $(".fm").each(function(){
+        if ($(this).is(":checked")) {
+            course.push($(this).val());
+        }
+    });
+    course = course.toString();
+
+    var url = base_url+'maps_grims/get_fm';
+    if(true == $('#customCheck5').prop("checked")){ 
+        $.ajax({
+            url: url,
+            data: "fm="+fm+"&ak="+course,
+            type: 'POST',
+            dataType: 'JSON',
+            success: function(markersOnMap){
+                showMarker(markersOnMap);
+            }
+        });
+    }else{
+        hideMarkersOfType(7);
+        closeOtherInfo();
+    }
+}
+function loadMarker6(){
+    var fm = $('#customCheck6:checked').map(function(_, el) {
+        return $(el).val();
+    }).get();
+
+    var course = [];
+    $(".fm").each(function(){
+        if ($(this).is(":checked")) {
+            course.push($(this).val());
+        }
+    });
+    course = course.toString();
+
+    var url = base_url+'maps_grims/get_fm';
+    if(true == $('#customCheck6').prop("checked")){ 
+        $.ajax({
+            url: url,
+            data: "fm="+fm+"&ak="+course,
+            type: 'POST',
+            dataType: 'JSON',
+            success: function(markersOnMap){
+                showMarker(markersOnMap);
+            }
+        });
+    }else{
+        hideMarkersOfType(8);
+        closeOtherInfo();
+    }
+}
+function loadMarker7(){
+    var fm = $('#customCheck7:checked').map(function(_, el) {
+        return $(el).val();
+    }).get();
+
+    var course = [];
+    $(".fm").each(function(){
+        if ($(this).is(":checked")) {
+            course.push($(this).val());
+        }
+    });
+    course = course.toString();
+
+    var url = base_url+'maps_grims/get_fm';
+    if(true == $('#customCheck7').prop("checked")){ 
+        $.ajax({
+            url: url,
+            data: "fm="+fm+"&ak="+course,
+            type: 'POST',
+            dataType: 'JSON',
+            success: function(markersOnMap){
+                showMarker(markersOnMap);
+            }
+        });
+    }else{
+        hideMarkersOfType(9);
+        closeOtherInfo();
+    }
+}
+function loadMarker8(){
+    var fm = $('#customCheck8:checked').map(function(_, el) {
+        return $(el).val();
+    }).get();
+
+    var course = [];
+    $(".fm").each(function(){
+        if ($(this).is(":checked")) {
+            course.push($(this).val());
+        }
+    });
+    course = course.toString();
+
+    var url = base_url+'maps_grims/get_fm';
+    if(true == $('#customCheck8').prop("checked")){ 
+        $.ajax({
+            url: url,
+            data: "fm="+fm+"&ak="+course,
+            type: 'POST',
+            dataType: 'JSON',
+            success: function(markersOnMap){
+                showMarker(markersOnMap);
+            }
+        });
+    }else{
+        hideMarkersOfType(10);
+        closeOtherInfo();
+    }
+}
+function loadMarker9(){
+    var fm = $('#customCheck9:checked').map(function(_, el) {
+        return $(el).val();
+    }).get();
+
+    var url = base_url+'maps_grims/get_object';
+    if(true == $('#customCheck9').prop("checked")){ 
+        $.ajax({
+            url: url,
+            data: "fm="+fm,
+            type: 'POST',
+            dataType: 'JSON',
+            success: function(markersOnMap){
+                showMarker(markersOnMap);
+            }
+        });
+    }else{
+        hideMarkersOfType('object');
+        closeOtherInfo();
     }
 }
 
 </script>
+
 <script type="text/javascript">
-$(document).ready(function(){
-    
+$(document).ready(function(){    
     $('#customCheck1').change(function() { 
-        var fm = $('#customCheck1:checked').map(function(_, el) {
-            return $(el).val();
-        }).get();
-
-        var course = [];
-        $(".fm").each(function(){
-            if ($(this).is(":checked")) {
-                course.push($(this).val());
-            }
-        });
-        course = course.toString();
-
-        var url = base_url+'maps_grims/get_fm';
-        if(true == $(this).prop("checked")){ 
-            $.ajax({
-                url: url,
-                data: "fm="+fm+"&ak="+course,
-                type: 'POST',
-                dataType: 'JSON',
-                success: function(markersOnMap){
-                    showMarker(markersOnMap);
-                }
-            });
-        }else{
-            hideMarkersOfType(3);
-            closeOtherInfo();
-        }
+        loadMarker1();
     });	
-
     $('#customCheck2').change(function() { 
-        var fm = $('#customCheck2:checked').map(function(_, el) {
-            return $(el).val();
-        }).get();
-
-        var course = [];
-        $(".fm").each(function(){
-            if ($(this).is(":checked")) {
-                course.push($(this).val());
-            }
-        });
-        course = course.toString();
-
-        var url = base_url+'maps_grims/get_fm';
-        if(true == $(this).prop("checked")){ 
-            $.ajax({
-                url: url,
-                data: "fm="+fm+"&ak="+course,
-                type: 'POST',
-                dataType: 'JSON',
-                success: function(markersOnMap){
-                    showMarker(markersOnMap);
-                }
-            });
-        }else{
-            hideMarkersOfType(4);
-            closeOtherInfo();
-        }
+        loadMarker2();
     });
-
 	$('#customCheck3').change(function() { 
-        var fm = $('#customCheck3:checked').map(function(_, el) {
-            return $(el).val();
-        }).get();
-
-        var course = [];
-        $(".fm").each(function(){
-            if ($(this).is(":checked")) {
-                course.push($(this).val());
-            }
-        });
-        course = course.toString();
-
-        var url = base_url+'maps_grims/get_fm';
-        if(true == $(this).prop("checked")){ 
-            $.ajax({
-                url: url,
-                data: "fm="+fm+"&ak="+course,
-                type: 'POST',
-                dataType: 'JSON',
-                success: function(markersOnMap){
-                    showMarker(markersOnMap);
-                }
-            });
-        }else{
-            hideMarkersOfType(5);
-            closeOtherInfo();
-        }
+        loadMarker3();
     });
-
 	$('#customCheck4').change(function() { 
-        var fm = $('#customCheck4:checked').map(function(_, el) {
-            return $(el).val();
-        }).get();
-
-        var course = [];
-        $(".fm").each(function(){
-            if ($(this).is(":checked")) {
-                course.push($(this).val());
-            }
-        });
-        course = course.toString();
-
-        var url = base_url+'maps_grims/get_fm';
-        if(true == $(this).prop("checked")){ 
-            $.ajax({
-                url: url,
-                data: "fm="+fm+"&ak="+course,
-                type: 'POST',
-                dataType: 'JSON',
-                success: function(markersOnMap){
-                    showMarker(markersOnMap);
-                }
-            });
-        }else{
-            hideMarkersOfType(6);
-            closeOtherInfo();
-        }
+        loadMarker4();
     });
-
 	$('#customCheck5').change(function() { 
-        var fm = $('#customCheck5:checked').map(function(_, el) {
-            return $(el).val();
-        }).get();
-
-        var course = [];
-        $(".fm").each(function(){
-            if ($(this).is(":checked")) {
-                course.push($(this).val());
-            }
-        });
-        course = course.toString();
-
-        var url = base_url+'maps_grims/get_fm';
-        if(true == $(this).prop("checked")){ 
-            $.ajax({
-                url: url,
-                data: "fm="+fm+"&ak="+course,
-                type: 'POST',
-                dataType: 'JSON',
-                success: function(markersOnMap){
-                    showMarker(markersOnMap);
-                }
-            });
-        }else{
-            hideMarkersOfType(7);
-            closeOtherInfo();
-        }
-    });
-	
+        loadMarker5();
+    });	
 	$('#customCheck6').change(function() { 
-        var fm = $('#customCheck6:checked').map(function(_, el) {
-            return $(el).val();
-        }).get();
-
-        var course = [];
-        $(".fm").each(function(){
-            if ($(this).is(":checked")) {
-                course.push($(this).val());
-            }
-        });
-        course = course.toString();
-
-        var url = base_url+'maps_grims/get_fm';
-        if(true == $(this).prop("checked")){ 
-            $.ajax({
-                url: url,
-                data: "fm="+fm+"&ak="+course,
-                type: 'POST',
-                dataType: 'JSON',
-                success: function(markersOnMap){
-                    showMarker(markersOnMap);
-                }
-            });
-        }else{
-            hideMarkersOfType(8);
-            closeOtherInfo();
-        }
-    });
-	
+        loadMarker6();
+    });	
 	$('#customCheck7').change(function() { 
-        var fm = $('#customCheck7:checked').map(function(_, el) {
-            return $(el).val();
-        }).get();
-
-        var course = [];
-        $(".fm").each(function(){
-            if ($(this).is(":checked")) {
-                course.push($(this).val());
-            }
-        });
-        course = course.toString();
-
-        var url = base_url+'maps_grims/get_fm';
-        if(true == $(this).prop("checked")){ 
-            $.ajax({
-                url: url,
-                data: "fm="+fm+"&ak="+course,
-                type: 'POST',
-                dataType: 'JSON',
-                success: function(markersOnMap){
-                    showMarker(markersOnMap);
-                }
-            });
-        }else{
-            hideMarkersOfType(9);
-            closeOtherInfo();
-        }
-    });
-	
+        loadMarker7();
+    });	
 	$('#customCheck8').change(function() { 
-        var fm = $('#customCheck8:checked').map(function(_, el) {
-            return $(el).val();
-        }).get();
-
-        var course = [];
-        $(".fm").each(function(){
-            if ($(this).is(":checked")) {
-                course.push($(this).val());
-            }
-        });
-        course = course.toString();
-
-        var url = base_url+'maps_grims/get_fm';
-        if(true == $(this).prop("checked")){ 
-            $.ajax({
-                url: url,
-                data: "fm="+fm+"&ak="+course,
-                type: 'POST',
-                dataType: 'JSON',
-                success: function(markersOnMap){
-                    showMarker(markersOnMap);
-                }
-            });
-        }else{
-            hideMarkersOfType(10);
-            closeOtherInfo();
-        }
+        loadMarker8();
+    });
+    $('#customCheck9').change(function() { 
+        loadMarker9();
     });
 
 
@@ -512,8 +554,7 @@ $(document).ready(function(){
         resetMarker();
         removeLine();
         removeGone();
-    });
-   
+    });   
 });
 </script>
 <script>
@@ -537,7 +578,7 @@ $(document).ready(function(){
                 showPline(markersOnMap);
                 }else{
                     //alert('No history');
-                    toastr['info']("No History this day");
+                    toastr['warning']("No History this day");
                 }
             }
         });
@@ -577,10 +618,47 @@ $(document).ready(function(){
     var gone = [];
 
     window.onload = function () {
+        refreshall();
+    };
+    function refreshall(){
         initMap();
         $('#customCheck1').prop("checked", true);
-        defaultMarker();
-    };
+        $('#customCheck9').prop("checked", true);
+        loadMarker1();
+        loadMarker9();
+        $(".fm").each(function(){
+            if ($(this).is(":checked")) {
+                var valcheckbox = $(this).val();
+                if(valcheckbox==1){
+                    loadMarker1();
+                }
+                if(valcheckbox==2){
+                    loadMarker2();
+                }
+                if(valcheckbox==3){
+                    loadMarker3();
+                }
+                if(valcheckbox==4){
+                    loadMarker4();
+                }
+                if(valcheckbox==5){
+                    loadMarker5();
+                }
+                if(valcheckbox==6){
+                    loadMarker6();
+                }
+                if(valcheckbox==7){
+                    loadMarker7();
+                }
+                if(valcheckbox==8){
+                    loadMarker8();
+                }
+                if(valcheckbox==9){
+                    loadMarker9();
+                }
+            }
+        }); 
+    }
     function CenterControl(controlDiv, map) {
         // Set CSS for the control border.
         const controlUI = document.createElement("div");
@@ -917,13 +995,13 @@ $(document).ready(function(e) {
 });
 </script>
 
-<script>
+<!--script>
 function update_tracking_kri(){
     var track_lat = '-4.187608945390835';
     var track_lng = '110.14316333842572';
     alert(track_lat+','+track_lng);
     $.ajax({
-        url:'<?php echo site_url("maps_grims/update_tracking_kri"); ?>',
+        url:'<.?php echo site_url("maps_grims/update_tracking_kri"); ?>',
         data: 'track_lat='+track_lat+'&track_lng='+track_lng,
         method:"POST",
         //dataType:"JSON",
@@ -937,7 +1015,7 @@ function update_tracking_kri(){
         }		
     });
 }
-</script>
+</script-->
 
 <script>
 function konlog(){ 
@@ -946,12 +1024,7 @@ function konlog(){
 	$("#konlog_page").html('<center>Please wait..</center>');
 	$.post(base_url+"maps_grims/page_konlog",function(data){
 		$("#konlog_page").html(data);
-		//$("#formSubmit_page")[0].reset();
-		//$("#inputpreview_img").attr("src", '<.?php echo base_url()?>theme/images/user/img_not.png');
 	});	
-}
-function close_modal(){
-	$('.nav-item').removeClass('active');
 }
 
 function history_konlog()
@@ -1016,12 +1089,7 @@ function konis(){
 	$("#konis_page").html('<center>Please wait..</center>');
 	$.post(base_url+"maps_grims/page_konis",function(data){
 		$("#konis_page").html(data);
-		//$("#formSubmit_page")[0].reset();
-		//$("#inputpreview_img").attr("src", '<.?php echo base_url()?>theme/images/user/img_not.png');
 	});	
-}
-function close_modal(){
-	$('.nav-item').removeClass('active');
 }
 
 function history_konis()
@@ -1068,6 +1136,108 @@ function back_konis(){
 	<div class="modal-footer justify-content-between">
 	  <button type="button" onclick="close_modal()" class="btn btn-default" data-dismiss="modal">Close</button>
 	  <!--button  title="Save" id="submit" onclick="submitForm('formSubmit_page')" class="btn btn-primary"><i id="msg_formSubmit_page"></i>&nbsp;&nbsp;<i class='fa fa-save'></i> Save changes</button-->
+	</div>
+	</form>
+  </div>
+  <!-- /.modal-content -->
+</div>
+<!-- /.modal-dialog -->
+</div>
+<!-- /.modal -->
+
+
+<!----------------------------object----------------------------->
+<script>
+function edit_object(id){ 
+	$("#title_mdl_editobject").html("EDIT OBJECT");
+	$("#mdl_formSubmit_editobject").modal({backdrop: 'static', keyboard: false});
+    $("#editobject_page").html('<center>Please wait..</center>');
+    $("#formSubmit_editobject").attr("url","<?php echo base_url("areport/update_data");?>");
+	$.post(base_url+"areport/edit_data",{id:id},function(data){
+        $("#editobject_page").html(data);
+        $("#formSubmit_editobject")[0].reset();
+	    $("#inputpreview_img").attr("src", '<?php echo base_url()?>theme/images/no-image.png');
+	});	
+}
+function close_modal(){
+    $('.nav-item').removeClass('active');   
+}
+function history_object(kd,nm){ 
+	$("#title_mdl_historyobject").html("HISTORY OBJECT "+nm+"");
+	$("#mdl_formSubmit_historyobject").modal({backdrop: 'static', keyboard: false});
+    $("#historyobject_page").html('<center>Please wait..</center>');
+	$.post(base_url+"areport/history_data",{kd:kd},function(data){
+        $("#historyobject_page").html(data);
+	});	
+}
+function del_object(id,name){
+   alertify.confirm("Delete","<center>Delete data <b>Name : "+name+"</b>?</center>",function(){
+		$.ajax({
+			url:'<?php echo site_url("areport/delete_item"); ?>',
+			data: 'id='+id,
+			method:"POST",
+		 	dataType:"JSON",
+			beforeSend: function() {
+				$('#area_lod').addClass('loading_area');
+			},
+			success: function(data)
+			{ 	   	
+				$('#area_lod').removeClass('loading_area');   
+				if(data["object"]==true){
+					toastr['success']("Successfully delete");
+					window.location.reload();
+				}else{
+                    toastr['danger']("Delete Failed!!");
+				}
+			}		
+		})
+   }, function(){ });
+}
+</script>
+<!-- modal -->
+<div class="modal fade" id="mdl_formSubmit_editobject">
+<div class="modal-dialog modal-lg" id="area_formSubmit_editobject"> 
+  <div class="modal-content">
+	<div class="modal-header">
+	  <h4 class="modal-title" id="title_mdl_editobject">Default Modal</h4>
+	  <button type="button" onclick="close_modal()" class="close" data-dismiss="modal" aria-label="Close">
+		<span aria-hidden="true">&times;</span>
+	  </button>
+	</div>
+	<form class="form-horizontal" id="formSubmit_editobject" action="javascript:submitForm('formSubmit_editobject')" method="post">
+	<div class="modal-body">
+        <div id="editobject_page"></div>
+	</div>
+    <div class="modal-footer justify-content-between">
+        <button type="button" onclick="close_modal()" class="btn btn-default mr-2" data-dismiss="modal">Close</button>
+	    <button  title="Save" id="submit" onclick="submitForm('formSubmit_editobject')" class="btn btn-primary"><i id="msg_formSubmit_editobject"></i>&nbsp;&nbsp;<i class='fa fa-save'></i> Save changes</button>
+	</div>
+	</form>
+  </div>
+  <!-- /.modal-content -->
+</div>
+<!-- /.modal-dialog -->
+</div>
+<!-- /.modal -->
+
+
+<!-- modal -->
+<div class="modal fade" id="mdl_formSubmit_historyobject">
+<div class="modal-dialog modal-lg" id="area_formSubmit_historyobject"> 
+  <div class="modal-content">
+	<div class="modal-header">
+	  <h4 class="modal-title" id="title_mdl_historyobject">Default Modal</h4>
+	  <button type="button" onclick="close_modal()" class="close" data-dismiss="modal" aria-label="Close">
+		<span aria-hidden="true">&times;</span>
+	  </button>
+	</div>
+	<form class="form-horizontal" id="formSubmit_historyobject" action="javascript:submitForm('formSubmit_historyobject')" method="post">
+	<div class="modal-body">
+        <div id="historyobject_page"></div>
+	</div>
+    <div class="modal-footer justify-content-between">
+        <button type="button" onclick="close_modal()" class="btn btn-default mr-2" data-dismiss="modal">Close</button>
+	    <!--button  title="Save" id="submit" onclick="submitForm('formSubmit_historyobject')" class="btn btn-primary"><i id="msg_formSubmit_historyobject"></i>&nbsp;&nbsp;<i class='fa fa-save'></i> Save changes</button-->
 	</div>
 	</form>
   </div>

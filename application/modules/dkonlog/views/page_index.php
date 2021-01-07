@@ -1,3 +1,4 @@
+<input type="hidden" value="n" id="modaltype">
 									<div class="card">
 										<div class="card-body">
 

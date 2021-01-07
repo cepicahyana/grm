@@ -1,3 +1,4 @@
+<input type="hidden" value="n" id="modaltype">
 									<div class="card">
 										<div class="card-body">
 
@@ -28,31 +29,38 @@
 																	<thead>
 																		<tr>
 																			<th class="text-center" style="width:10%"><strong>No</strong></tthd>
-																			<th class="text-center" style="width:60%"><strong>Nama Peralatan</strong></td>
-																			<th class="text-center" style="width:20%"><strong>Keterangan</strong></th>
-																			<th class="text-center" style="width:30%"><strong>Nilai (%)</strong></th>
+																			<th class="text-center" style="width:50%"><strong>Jenis bahan bakar</strong></td>
+																			<th class="text-center" style="width:15%"><strong>Jumlah</strong></th>
+																			<th class="text-center" style="width:15%"><strong>Batas Minimal</strong></th>
+																			<th class="text-center" style="width:15%"><strong>Keterangan</strong></th>
+																			<th class="text-center" style="width:15%"><strong>Persentase</strong></th>
 																		</tr>
 																	</thead>
 																	<tbody>
+																	 
 																		<tr>
 																			<td class="text-center">1</td>
-																			<td class="text-center">Pistol</td>
-																			<td class="text-center">baru</td>
-																			<td class="text-right">80</td>
+																			<td class="text-center"></td>
+																			<td class="text-center"></td>
+																			<td class="text-center"></td>
+																			<td class="text-center"></td>
+																			<td class="text-right"></td>
 																		</tr>
 																		<tr>
 																			<td class="text-center">2</td>
-																			<td class="text-center">Granat</td>
-																			<td class="text-center">baru</td>
-																			<td class="text-right">80</td>
+																			<td class="text-center"></td>
+																			<td class="text-center"></td>
+																			<td class="text-center"></td>
+																			<td class="text-center"></td>
+																			<td class="text-right"></td>
 																		</tr>
 																		<tr>
-																			<td class="text-right" colspan="3"><strong>Total</strong></td>
-																			<td class="text-right"><strong>160</strong></td>
+																			<td class="text-right" colspan="5"><strong>Total</strong></td>
+																			<td class="text-right"><strong></strong></td>
 																		</tr>
 																		<tr>
-																			<td class="text-right" colspan="3"><strong>Nilai rata-rata</strong></td>
-																			<td class="text-right"><strong>80</strong></td>
+																			<td class="text-right" colspan="5"><strong>Nilai rata-rata</strong></td>
+																			<td class="text-right"><strong></strong></td>
 																		</tr>
 																	</tbody>
 																</table>

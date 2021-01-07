@@ -31,7 +31,8 @@ class Model extends ci_Model
                 ->group_end();
 				  
 			}*/
-		$this->db->order_by("id","asc"); 
+		$this->db->order_by("id","DESC"); 
+		$this->db->group_by("tanggal"); 
 		$query=$this->db->from($this->tbl);
 		return $query;
 	
@@ -66,6 +67,11 @@ class Model extends ci_Model
 		}
 		
 	}
+	function cekKonis($jml,$min){
+		 if($jml>$min){
+			 return "Siap";
+		 }	return "Tidak siap";
+	}
 	function importFile($file_form)
 	{		
 		$this->load->library("PHPExcel");
@@ -78,87 +84,70 @@ class Model extends ci_Model
 			    $load = PHPExcel_IOFactory::load($tmp);
                 $sheets = $load->getActiveSheet()->toArray(null,true,true,true);
 				$i=1;$no=0;
-				    	 //$kode_korwil=$this->input->get_post("f[kode_korwil]");
+						 //$kode_korwil=$this->input->get_post("f[kode_korwil]");
+				$nilai=""; $data=array();
 				foreach ($sheets as $sheet) {
+				
 				if ($i > 1) 
 				{
-    				     //$nis=$this->mdl->innis(); 
-						  //$tanggal_lahir = PHPExcel_Style_NumberFormat::toFormattedString($sheet[4],  'YYYY-MM-DD');
-						 $namadata=isset($sheet[1])?($sheet[1]):"";
-    				     $descdata=isset($sheet[2])?($sheet[2]):"";
-    				     $lat=isset($sheet[3])?($sheet[3]):"";
-    				     $lng=isset($sheet[4])?($sheet[4]):"";
+    				     $peralatan	=	isset($sheet[1])?($sheet[1]):"";
+    				     $nilai		=	isset($sheet[2])?($sheet[2]):"";
+						 $nilai		=	str_replace("%","",$nilai);
+						 $ket		=	isset($sheet[3])?($sheet[3]):"";
 						 
-						//$tgl=str_replace("/","-",$tanggal_lahir);
-						/*$pecah=explode("/",$tanggal_lahir);
-						$y=isset($pecah[2])?($pecah[2]):'';
-						$m=isset($pecah[1])?($pecah[1]):'';
-						$d=isset($pecah[0])?($pecah[0]):'';
-						$tgl_lahir=$y.'-'.$m.'-'.$d;
-
-						$kelasDB=$this->db->where("kelas",$kelas);
-						$kelasDB=$this->db->get("tm_kelas")->row();
-						$kd_kelas=isset($kelasDB->kode)?($kelasDB->kode):'';
-
-						 //$tgl_berlaku=$this->tanggal->format($tgl_berlaku); 
-						 //$tgl_kadaluarsa=$this->tanggal->addBulan($tgl_berlaku,36);
-						 /*$cek_ktp=$this->db->query("select * from data_kartu where ktp='$ktp' ")->num_rows();
-						 if($cek_ktp)
-						 {
-                			  $var["info"]="KTP ada yang sama di nomor urut :".($i-1);
-                			  $var["gagal"]=false;
-								return $var;
-						 }*/
-
-				   
-							if($namadata)
-							{
-							//	 $kode_gardu=isset($sheet[$no++])?($sheet[$no]):"";
-							//	 $kode_gardu=str_replace("`","",$kode_gardu);
-							//	 $kode_gardu=str_replace("'","",$kode_gardu);
-							//	 $kode_gardu=sprintf("%03s", $kode_gardu);
-							
-								$cek1=$this->db->get_where($this->tbl,array("namadata"=>$namadata))->num_rows();
-								if($cek1){	
-									$dataray=array(
-										"namadata"=>$namadata,
-										"descdata"=>$descdata,
-										"lat"=>$lat,
-										"lng"=>$lng,
-										"_uid"=>$this->m_reff->idu(),
-										"_utime"=>date("Y-m-d H:i:s")
-									);
-									$this->update_dataExcel($dataray);
-									$edit++;
-									//$this->qr($noida);
-								}else{
-									$dataray=array(
-										"namadata"=>$namadata,
-										"descdata"=>$descdata,
-										"lat"=>$lat,
-										"lng"=>$lng,
-										"_cid"=>$this->m_reff->idu(),
-										"_ctime"=>date("Y-m-d H:i:s")
-										);
-										//if($nis){
-									$this->insert_dataExcel($dataray);
+						 
+						 $data[]=array(
+							 "peralatan"	=>	$peralatan,
+							 "nilai"		=>	$nilai, 
+							 "ket"			=>	$ket
+						 );	
+						$nilai+=$nilai;
 									$insert++;
-									//$this->qr($noida);
-										//}
-								}
-							}
-					
+									  
+					 } //end if
+					 $i++;
+				} //end foreach
+
+				if(isset($data)){
+ 
+
+				$t_nilai=($nilai/$insert);
+				if($t_nilai>80){
+					$kondisi="Siap";
+				}else//if($t_nilai>60){
+					{
+					$kondisi="Tidak siap";
 				}
+				 
+					$ray=array(
+						"tgl"=>date('Y-m-d H:i:s'),
+						"data"=>$data
+					);
+
+					$data	= json_encode($ray);
+					$dataray=array(
+						"id_kri"=>$this->mdl->idu(),
+						"tanggal"=>date('Y-m-d H:i:s'),
+						"data"=>$data,
+						"kondisi"=>$kondisi,
+						"jml_peralatan"=>$insert,
+						"t_nilai"=>$t_nilai,
+						"_cid"=>$this->m_reff->idu(),
+						"_ctime"=>date("Y-m-d H:i:s")
+						);
+					 
+					$this->db->insert("data_konis",$dataray);
+				}
+ 
 				$i++;
-                }
+             
 		}else{
 			 $var["file"]=false;
 			 $var["type_file"]="xlsx";
 		}
-		$var["import_data"]=true;
+		//$var["import_data"]=true;
 		$var["data_insert"]=$insert;
-		$var["data_gagal"]=$gagal;
-		$var["data_edit"]=$edit;
+	 
 		$var["validasi"]=$validasi;
 		return $var;
 	}
@@ -171,7 +160,87 @@ class Model extends ci_Model
 	{
 		return	$this->db->insert($this->tbl,$dataray);
 	}
-	
+	function idu(){
+		return $this->session->userdata("id");
+	}
+	function getLastKonis(){
+		$this->db->order_by("_ctime","desc");
+		$this->db->where("id_kri",$this->idu());
+		$this->db->limit(1);
+		return $this->db->get("data_konis")->row();
+	}
+	function getKonisFile(){ 
+		$this->db->order_by("_ctime","desc");
+		$this->db->where("id_kri",$this->idu());
+		$this->db->limit(1);
+		$data=$this->db->get("data_konis")->row();
+		   
+        $objPHPExcel = new PHPExcel();
+ 
+        $style = array(
+            
+            'fill' => array(
+                'type' => PHPExcel_Style_Fill::FILL_SOLID,
+                'color' => array('rgb' => '6CCECB')
+            ),
+            'borders' =>
+            array('allborders' =>
+                array('style' => PHPExcel_Style_Border::BORDER_THIN, 'color' => array('argb' => '00000000'),
+                ),
+            ),
+        );
+		
+		  
+        		
+			    $objPHPExcel->getActiveSheet(0)->setCellValue('A1',"NO");
+			    $objPHPExcel->getActiveSheet(0)->setCellValue('B1',"PERALATAN");
+			    $objPHPExcel->getActiveSheet(0)->setCellValue('C1',"NILAI (%)"); 
+			    $objPHPExcel->getActiveSheet(0)->setCellValue('D1',"KETERANGAN");
+			   
+			 
+			    $objPHPExcel->getActiveSheet(0)->getColumnDimension("A")->setAutoSize(true);
+			    $objPHPExcel->getActiveSheet(0)->getColumnDimension("B")->setAutoSize(true);
+			    $objPHPExcel->getActiveSheet(0)->getColumnDimension("C")->setAutoSize(true);
+			    $objPHPExcel->getActiveSheet(0)->getColumnDimension("D")->setAutoSize(true);
+			    
+ 
+				$objPHPExcel->getActiveSheet(0)->getStyle("A1:D1")->applyFromArray($style);
+		$dataray=	isset($data->data)?($data->data):"";
+		$data	=	json_decode($dataray,TRUE);
+		$data	=	isset($data["data"])?($data["data"]):"";
+		 
+		if($data){
+	  
+				$no=1;   $start=2;$r=0;
+				foreach($data as $key=>$val)
+				{ 
+					 
+					$objPHPExcel->getActiveSheet(0)->setCellValue("A".$start, $no++);
+					$objPHPExcel->getActiveSheet(0)->setCellValue("B".$start, $val['peralatan']);
+					$objPHPExcel->getActiveSheet(0)->setCellValue("C".$start, $val['nilai']);
+					$objPHPExcel->getActiveSheet(0)->setCellValue("D".$start, $val['ket']);
+				 
+					$start++;
+				 	$r++;
+				}
+			 
+
+		}
+		$nama_file="Data_konis";  
+        $objPHPExcel->getActiveSheet(0)->setTitle($nama_file);
+		
+						
+//<!-------------------------------------------------------------------------------  --->		
+		//$nama_file=$this->m_reff->goField("data_acara","perihal","where kode='".$kode_acara."' ");
+        $objPHPExcel->setActiveSheetIndex(0);
+
+        header('Content-type: application/vnd.openxmlformats-officedocument.spreadsheetml.sheet');
+        header('Content-Disposition: attachment;filename="'.$nama_file.'.xlsx"');
+        header('Cache-Control: max-age=0');
+
+        $objWriter = PHPExcel_IOFactory::createWriter($objPHPExcel, 'Excel2007');
+        $objWriter->save('php://output');
+	}
 
 }
 

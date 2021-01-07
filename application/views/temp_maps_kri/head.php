@@ -77,11 +77,11 @@ var load_maps = '<div id="loading_maps_area"><div class="loading_maps"><h1>LOADI
 <script type="text/javascript" src="<?php echo base_url()?>theme/plugin/datatables/font.js"></script>
 <script type="text/javascript" src="<?php echo base_url()?>theme/plugin/datatables/datatable.js"></script>
 <script type="text/javascript" src="<?php echo base_url()?>theme/plugin/datatables/js/dataTables.checkboxes.min.js"></script> 
-<!-- datepicker -->
-<script type="text/javascript" src="<?php echo base_url()?>theme/plugin/bootstrap-daterangepicker/moment.min.js"></script>
-<script type="text/javascript" src="<?php echo base_url()?>theme/plugin/bootstrap-daterangepicker/daterangepicker.js"></script>
-<script type="text/javascript" src="<?php echo base_url()?>theme/plugin/bootstrap-datepicker/js/bootstrap-datepicker.min.js"></script>
-<script type="text/javascript" src="<?php echo base_url()?>theme/plugin/bootstrap-timepicker/js/bootstrap-timepicker.min.js"></script>
+
+<!-- Moment JS -->
+<script src="<?php echo base_url(); ?>theme/atlantis/js/plugin/moment/moment.min.js"></script>
+<!-- DateTimePicker -->
+<script src="<?php echo base_url(); ?>theme/atlantis/js/plugin/datepicker/bootstrap-datetimepicker.min.js"></script>
 <!-- Select2 -->
 <script type="text/javascript" src="<?php echo base_url()?>theme/plugin/select2/select2.full.min.js"></script>
 <!-- InputMask -->

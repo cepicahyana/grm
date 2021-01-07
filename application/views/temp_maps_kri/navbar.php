@@ -128,8 +128,9 @@ $headername=$this->m_konfig->konfigurasi(14);
 							</a>
 						</li>				
 						<li class="nav-item">
-							<a href="#" class="nav-link quick-sidebar-toggler">
+							<a href="javascript:open_chat()" class="nav-link">
 								<i class="fa fa-comments"></i>
+							<span class="notification"><span class="amount_a"></span></span>
 							</a>
 						</li>
 						<li class="nav-item dropdown hidden-caret">

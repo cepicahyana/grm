@@ -9,6 +9,7 @@ class Model extends ci_Model
 	var $data_brigif="data_brigif";
 	var $data_posal="data_posal";
 	var $data_satrad="data_satrad";
+	var $data_object="data_object";
 
 	var $tm_iconmarker="tm_iconmarker";
 
@@ -63,11 +64,18 @@ class Model extends ci_Model
 		$this->db->from($this->data_lantamal);
 	 	return $this->db->get()->result();
 	}
+	public function get_fm9()
+	{
+		$this->db->from($this->data_object);
+		$this->db->where('status_data!=','trash');
+		$this->db->where('status_data!=','delete');
+	 	return $this->db->get()->result();
+	}
 	
 
 
 	
-	/*----------tracking kri -----------*/
+	/*----------tracking kri -----------
 	function update_tracking_kri()
 	{
 		$var=array();
@@ -75,7 +83,7 @@ class Model extends ci_Model
 		/*$idu=$this->session->userdata("id");
 		$id=$this->input->post("id");
 		$input=$this->input->post("f");
-		$datainputan=$this->security->xss_clean($input);*/
+		$datainputan=$this->security->xss_clean($input);*
 		
 		$lat=$this->input->post('track_lat');
 		$lng=$this->input->post('track_lng');
@@ -96,7 +104,7 @@ class Model extends ci_Model
 		$this->db->update($this->tracking_kri);
 		$var['table']=true;
 		return $var;
-	}
+	}*/
 
 	function history_range_kri()
 	{

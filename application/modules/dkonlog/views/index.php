@@ -1,3 +1,4 @@
+<input type="hidden" value="n" id="modaltype">
 					<div class="row" id="loadingKonlog">
 						<div class="col-12">
 							<div class="row align-items-center mb-3">
@@ -112,10 +113,10 @@ function history()
 	});	
 }
 function back(){
-	$("#area_lod").html('<center>Please wait..</center>');
-	$.post("<?php echo site_url("dkonlog/page_index"); ?>",function(data){
-		$("#area_lod").html(data);
-	});	
+		$("#area_lod").html('<center>Please wait..</center>');
+		$.post("<?php echo base_url()?>dkonlog/jsData",function(data){
+				$("#area_lod").html(data); 
+		}); 
 }
 
 function import_data() 

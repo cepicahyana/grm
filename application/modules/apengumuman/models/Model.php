@@ -72,7 +72,7 @@ class Model extends ci_Model
 		//$kode_sistem=$this->mdl->kode_sistem(); 
 		//$this->db->set("tanggal_selesai",$tgl_selesai);
 
-		$img=$this->m_reff->upload_file("img","theme/images/pengumuman/","file","JPG,JPEG,PNG","100000",null);
+		$img=$this->m_reff->upload_file("img","theme/images/pengumuman/","file","JPG,JPEG,PNG","1000000",null);
 		if($img['validasi']==true){
 			$this->db->set("img",$img['name']);
 		}
@@ -124,7 +124,7 @@ class Model extends ci_Model
 		}
 
 		$utime=date("Y-m-d H:i:s"); 
-		$img=$this->m_reff->upload_file("img","theme/images/pengumuman/","file","JPG,JPEG,PNG","100000",$img_b);
+		$img=$this->m_reff->upload_file("img","theme/images/pengumuman/","file","JPG,JPEG,PNG","1000000",$img_b);
 		if($img['validasi']==true){
 			$this->db->set("img",$img['name']);
 		}

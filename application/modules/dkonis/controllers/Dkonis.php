@@ -15,15 +15,24 @@ class Dkonis extends CI_Controller {
 	{
 		$this->load->view('temp_maps_kri/main',$data);	
 	}
-	 
+	function getKonisFile()
+	{
+		$this->mdl->getKonisFile();
+	}
+	function jsData(){
+		$data['data']=$this->mdl->getLastKonis();
+		$this->load->view("jsData",$data);
+	}
 	public function index()
 	{	
 		$ajax=$this->input->get_post("ajax");
 		if($ajax=="yes")
 		{
-			echo $this->load->view("index");
+			$data['data']=$this->mdl->getLastKonis();
+			echo $this->load->view("index",$data);
 		}else{
 			$data['konten']="index";
+			$data['data']=$this->mdl->getLastKonis();
 			$this->_template($data);
 		}
 		
@@ -60,9 +69,9 @@ class Dkonis extends CI_Controller {
 			';
 			$row = array();
 			$row[] = "<span class='size' >".$no++."</span>";	
-			$row[] = "<span class='size' ></span>";
-			$row[] = "<span class='size' ></span>";
-			$row[] = "<span class='size' ></span>";
+			$row[] = "<span class='size' ><a href='#' onclick='detailKonis(`".$dataDB->id."`)'>".$this->tanggal->hariLengkap($dataDB->tanggal,"-")."</a></span>";
+			$row[] = "<span class='size' >".substr($dataDB->_ctime,10,10)."</span>";
+			$row[] = "<span class='size' >".$dataDB->kondisi."</span>";
 			//$row[] = $tombol ;
 			 
 			  
@@ -88,7 +97,7 @@ class Dkonis extends CI_Controller {
 		$data=$this->mdl->import_Data();
 	 	echo json_encode($data);
 	}
-	
+	 
 
 	
 }

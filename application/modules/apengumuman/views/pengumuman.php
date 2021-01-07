@@ -1,5 +1,5 @@
 
-
+<input type="hidden" value="n" id="modaltype">
 					<div class="row">
 						<div class="col-md-12">
 

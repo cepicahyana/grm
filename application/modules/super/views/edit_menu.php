@@ -9,7 +9,7 @@ $role=isset($data->hak_akses)?($data->hak_akses):'';
 $link=isset($data->link)?($data->link):'';
 $target=isset($data->target)?($data->target):'';		
 //countmain
-$countmain=$this->db->query("SELECT COUNT(id_main) AS a FROM MAIN_MENU WHERE level='2' AND id_main='".$id."'")->row();
+$countmain=$this->db->query("SELECT COUNT(id_main) AS a FROM main_menu WHERE level='2' AND id_main='".$id."'")->row();
 $cmain=$countmain->a;					
 ?>
 			<input name="id_menu" type="hidden" value="<?php echo $id ?>">

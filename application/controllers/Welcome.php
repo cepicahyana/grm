@@ -22,4 +22,9 @@ class Welcome extends CI_Controller {
 	{
 		$this->load->view('welcome_message');
 	}
+	function api(){
+		$id_kri	=	$this->input->get_post("id_kri");
+		$lat	=	$this->input->get_post("lat");
+		$lng	=	$this->input->get_post("lng");
+	}
 }

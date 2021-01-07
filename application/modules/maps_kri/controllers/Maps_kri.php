@@ -108,7 +108,7 @@ class Maps_kri extends MX_Controller
 				<tr valign='top'>
 					<td style='width:45%'><img style='width:95%;margin:0 auto;' class='card-img-top rounded' src='".$img_1."'></td>
 					<td style='width:25%;padding-right:6px;'>
-						<button class='btn btn-success btn-block btn-sm'>CHAT</button>
+						<button class='btn btn-success btn-block btn-sm' onclick='chat(`".$id."`,`".$id."`,`".$namadata."`)'>CHAT</button>
 						<button class='btn btn-success btn-block btn-sm'>VICALL</button>
 					</td>
 					<td style='width:25%'>
@@ -142,7 +142,7 @@ class Maps_kri extends MX_Controller
 				</tr>
 				</table>
 
-				<table style='width:100%;margin-top:5px;'>
+				<!--table style='width:100%;margin-top:5px;'>
 				<tr valign='top'>
 					<td><button class='btn btn-success btn-block btn-sm'>VOIP</button>
 						<button class='btn btn-success btn-block btn-sm'>ROIP</button></td>
@@ -151,7 +151,7 @@ class Maps_kri extends MX_Controller
 						<button class='btn btn-success btn-block btn-sm'>CHAT</button>
 					</td>
 				</tr>
-				</table>
+				</table-->
 
 				</div>";
 			}else{
@@ -170,7 +170,7 @@ class Maps_kri extends MX_Controller
 				</tr>
 				</table>
 
-				<table style='width:100%;margin-top:5px;'>
+				<!--table style='width:100%;margin-top:5px;'>
 				<tr valign='top'>
 					<td><button class='btn btn-success btn-block btn-sm'>VOIP</button>
 						<button class='btn btn-success btn-block btn-sm'>ROIP</button></td>
@@ -179,7 +179,7 @@ class Maps_kri extends MX_Controller
 						<button class='btn btn-success btn-block btn-sm'>CHAT</button>
 					</td>
 				</tr>
-				</table>
+				</table-->
 
 				</div>";
 			}
@@ -199,12 +199,191 @@ class Maps_kri extends MX_Controller
 		echo json_encode($row);
 	}
 
-	public function update_tracking_kri(){
+	function get_object(){
+		$fm=$this->input->post('fm');
+		$list ='';
+
+		if($fm==9){//object
+			$list = $this->mdl->get_fm9();
+		}
+		
+		foreach ($list as $dataDB) {
+			$id=isset($dataDB->id)?($dataDB->id):'';
+			$code_object=isset($dataDB->code_object)?($dataDB->code_object):'';
+			$name_object=isset($dataDB->name_object)?($dataDB->name_object):'';
+			$no_object=isset($dataDB->no_object)?($dataDB->no_object):'';
+			$date_detected=isset($dataDB->date_detected)?($dataDB->date_detected):'';
+			$imgobject=isset($dataDB->imgobject)?($dataDB->imgobject):'';
+			$sts_object=isset($dataDB->sts_object)?($dataDB->sts_object):'';
+			$type_object=isset($dataDB->type_object)?($dataDB->type_object):'';
+			$nasionality=isset($dataDB->nasionality)?($dataDB->nasionality):'';
+			$_cid=isset($dataDB->_cid)?($dataDB->_cid):'';
+			$_ctime=isset($dataDB->_ctime)?($dataDB->_ctime):'';
+			$kategori=isset($dataDB->kategori)?($dataDB->kategori):'';
+			$lat=isset($dataDB->lat)?($dataDB->lat):'';
+			$lng=isset($dataDB->lng)?($dataDB->lng):'';
+
+			$user_detected=$this->m_konfig->goField('data_kri','profilename','id='.$_cid.'');
+			$taggal_deteksi=$this->tanggal->inddatetime($date_detected,' ');
+			$taggal_input=$this->tanggal->inddatetime($_ctime,' ');
+
+			$dbicon=$this->db->get_where('tm_kategoriobject',array('kode'=>$kategori))->row();
+			$icon=isset($dbicon->icon)?($dbicon->icon):'';
+			$kategoriobject=isset($dbicon->kategori)?($dbicon->kategori):'';
+
+			if($icon!=''){
+				$icon_1=''.base_url().'theme/images/marker_object/'.$icon.'';
+			}else{
+				$icon_1='';
+			}
+
+			if($imgobject!=''){
+				$img_1=''.base_url().'theme/images/object/'.$imgobject.'';
+			}else{
+				$img_1=''.base_url().'theme/images/no-image.png';
+			} 
+			$infomarker='';
+
+			if($dbicon->kode!='3'){
+				$infomarker.="<div style='min-height:230px;padding:18px;'>
+				<h3 class='text-white'>".strval($kategoriobject)."</h3>
+				<div class='tborder_2'>
+				<table style='width:100%;color:#fff;'>
+				<tr valign='top'>
+					<td style='width:30%'>OBJECT</td>
+					<td style='width:5%'>:</td>
+					<td style='width:65%'>".$kategoriobject."</td>
+				</tr>
+				<tr valign='top'>
+					<td>NO OBJECT</td>
+					<td>:</td>
+					<td>".$no_object."</td>
+				</tr>
+				<tr valign='top'>
+					<td>NAME</td>
+					<td>:</td>
+					<td>".$name_object."</td>
+				</tr>
+				<tr valign='top'>
+					<td>DETECTED</td>
+					<td>:</td>
+					<td>BY ".$user_detected." ".$taggal_deteksi."</td>
+				</tr>
+				<tr valign='top'>
+					<td>INPUTED</td>
+					<td>:</td>
+					<td>BY ".$user_detected." ".$taggal_input."</td>
+				</tr>
+				<tr valign='top'>
+					<td>STATUS</td>
+					<td>:</td>
+					<td>".$sts_object."</td>
+				</tr>
+				<tr valign='top'>
+					<td>LATLONG</td>
+					<td>:</td>
+					<td>".$lat.", ".$lng."</td>
+				</tr>
+				</table>
+				</div>
+				<table style='width:100%' class='mt-2'>
+				<tr valign='top'>
+					<td style='width:45%'><img style='max-height:120px;width:95%;margin:0 auto;' class='card-img-top rounded' src='".$img_1."'></td>
+					<td style='width:25%;padding-right:6px;'>
+						<button class='btn btn-warning btn-block btn-sm' onclick='history_object(`".$code_object."`,`".$name_object."`)'>HISTORY</button>
+						<button class='btn btn-success btn-block btn-sm' onclick='edit_object(`".$id."`)'>UPDATE</button>
+						<button class='btn btn-danger btn-block btn-sm' onclick='del_object(`".$id."`,`".$name_object."`)'>DELETE</button>
+					</td>
+					<td style='width:25%'>&nbsp;</td>
+				</tr>
+				</table>
+				</div>";
+			}else{
+				$infomarker.="<div style='min-height:230px;padding:18px;'>
+				<h3 class='text-white'>".strval($kategoriobject)."</h3>
+				<div class='tborder_2'>
+				<table style='width:100%;color:#fff;'>
+				<tr valign='top'>
+					<td style='width:30%'>OBJECT</td>
+					<td style='width:5%'>:</td>
+					<td style='width:65%'>".$kategoriobject."</td>
+				</tr>
+				<tr valign='top'>
+					<td>NO OBJECT</td>
+					<td>:</td>
+					<td>".$no_object."</td>
+				</tr>
+				<tr valign='top'>
+					<td>DETECTED</td>
+					<td>:</td>
+					<td>BY ".$user_detected." ".$taggal_deteksi."</td>
+				</tr>
+				<tr valign='top'>
+					<td>INPUTED</td>
+					<td>:</td>
+					<td>BY ".$user_detected." ".$taggal_input."</td>
+				</tr>
+				<tr valign='top'>
+					<td colspan='3'>BY RADAR & VISUAL or FLIR/LONG RANGE/ AI CAMERA :</td>
+				</tr>
+				<tr valign='top'>
+					<td>NAME</td>
+					<td>:</td>
+					<td>".$name_object."</td>
+				</tr>
+				<tr valign='top'>
+					<td>TYPE</td>
+					<td>:</td>
+					<td>".$type_object."</td>
+				</tr>
+				<tr valign='top'>
+					<td>NASIONALITY</td>
+					<td>:</td>
+					<td>".$nasionality."</td>
+				</tr>
+				<tr valign='top'>
+					<td>LATLONG</td>
+					<td>:</td>
+					<td>".$lat.", ".$lng."</td>
+				</tr>
+				</table>
+				</div>
+				<table style='width:100%' class='mt-2'>
+				<tr valign='top'>
+					<td style='width:45%'><img style='max-height:120px;width:95%;margin:0 auto;' class='card-img-top rounded' src='".$img_1."'></td>
+					<td style='width:25%;padding-right:6px;'>
+						<button class='btn btn-info btn-block btn-sm'>DETAILS</button>
+						<button class='btn btn-warning btn-block btn-sm' onclick='history_object(`".$code_object."`,`".$name_object."`)'>HISTORY</button>
+					</td>
+					<td style='width:25%'>
+						<button class='btn btn-success btn-block btn-sm' onclick='edit_object(`".$id."`)'>UPDATE</button>
+						<button class='btn btn-danger btn-block btn-sm' onclick='del_object(`".$id."`,`".$name_object."`)'>DELETE</button>
+					</td>
+				</tr>
+				</table>
+				</div>";
+			}
+
+			$row[] = array(
+				"placeName" => strval($name_object),
+				"infoMarker" => $infomarker,
+				"level" => "object",
+				"icons" => $icon_1,
+				"LatLng" => array(
+					"lat" => $lat,
+					"lng" => $lng
+				),
+			);	 
+		}
+		echo json_encode($row);
+	}
+
+	/*public function update_tracking_kri(){
 		
 		$data=$this->mdl->update_tracking_kri();
 		echo json_encode($data);
 
-	}
+	}*/
 
 	public function history_track_kri(){
 		$list=$this->mdl->history_track_kri();

@@ -1,3 +1,4 @@
+<input type="hidden" value="n" id="modaltype">
 				<div class="page-inner">
 					<h4 class="page-title">Set New Password</h4>
 					<div id="area_lod" class="row">

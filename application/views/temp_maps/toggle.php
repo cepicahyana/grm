@@ -2,11 +2,14 @@
 		<div class="custom-template">
 			<div class="title" style="background:#6893B3;">
 				<div class="row">
-					<div class="col-8">
+					<div class="col-6">
 					Layer
 					</div>
-					<div class="col-4">
+					<div class="col-6">
 					<div class="float-right d-sm-inline-block">
+					<button class="btn btn-light btn-xs" onclick="refreshall()">
+						 Refresh
+					</button>
 					<button class="btn btn-info btn-xs resAll">
 						 Reset
 					</button>
@@ -55,16 +58,22 @@
 									<label class="custom-control-label" for="customCheck6"><img src="<?php echo base_url('theme/images/marker/filemarker_14122020102017.png')?>">&nbsp; SATRAD [<?php echo $this->m_total->ttl_fm6();?>]</label>
 								</div>
 							</li>
-							<li class="list-group-item list-group-item-warning">
+							<li class="list-group-item list-group-item-secondary">
 								<div class="custom-control custom-checkbox">
 									<input type="checkbox" value="7" name="fm[]" class="custom-control-input fm" id="customCheck7">
 									<label class="custom-control-label" for="customCheck7">DISTRESS SAR</label>
 								</div>
 							</li>
-							<li class="list-group-item list-group-item-warning">
+							<!--li class="list-group-item list-group-item-warning">
 								<div class="custom-control custom-checkbox">
 									<input type="checkbox" value="8" name="fm[]" class="custom-control-input fm" id="customCheck8">
 									<label class="custom-control-label" for="customCheck8">AIS</label>
+								</div>
+							</li-->
+							<li class="list-group-item">
+								<div class="custom-control custom-checkbox">
+									<input type="checkbox" value="9" name="fm[]" class="custom-control-input fm" id="customCheck9">
+									<label class="custom-control-label" for="customCheck9">OBJECT</label>
 								</div>
 							</li>
 						</ul>

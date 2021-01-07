@@ -1,3 +1,4 @@
+<input type="hidden" value="n" id="modaltype">	
 <?php 
 $username=isset($data->username)?($data->username):'';
 $gender=isset($data->gender)?($data->gender):'';

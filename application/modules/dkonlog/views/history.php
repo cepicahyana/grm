@@ -1,3 +1,4 @@
+<input type="hidden" value="n" id="modaltype">
 <div class="card">
 	<div class="card-header" style="padding:2px 8px 2px 2px">
 		<div class="row align-items-center">

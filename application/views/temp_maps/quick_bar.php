@@ -1,398 +1,409 @@
-<div class="quick-sidebar">
-			<a href="#" class="close-quick-sidebar">
+<style>
+.datez{
+	color:#DCDCDC;
+	font-size:9px;
+}.datezr{
+	color:#808080;
+	font-size:9px;
+ 
+}
+</style>
+<a href="#" style='display:none' id="chatKri" class="nav-link quick-sidebar-toggler">
+ <i class="fa fa-comments"></i>
+</a>
+
+
+<script>
+var open;
+var posisi;
+var vcall_id;
+var waiting;
+ var i; 
+ function vicall(id,namakapal){
+	 i=0;
+						$("#receiver_vc").html(namakapal);
+						$(".modal-dialog").removeClass("modal-dialog-full");
+						$(".modal-content").removeClass("modal-content-full");
+						  // $("#type_modal_vicall").removeClass("modal-sm");
+						 $("#type_modal_vicall").removeClass("modal-lg");
+						 $("#type_modal_vicall").addClass("modal-sm");
+						 
+	 $("#tmbEndVc").html("Batalkan");
+	 $("#mdl_vicall").modal({backdrop: 'static', keyboard: false});
+	 $("#vicallReceiver").html(namakapal); 
+	   $("#areaVicall").html("caling . . . . ."); 
+	 $.ajax({
+		 url:"<?php echo site_url("chat/getVicall"); ?>", 
+		 method:"POST", 
+		 data:{id_receiver:id,topik:namakapal},
+		 beforeSend: function() {
+			 
+		},
+		 success: function(data)
+				{ 	
+					waiting =  setInterval( waitingVicall, 4000);  
+				}		
+		}); 
+	 
+	 
+ }
+
+ function waitingVicall(){
+	
+	  $.ajax({
+		 url:"<?php echo site_url("chat/cekWaiting"); ?>", 
+		 method:"POST", 
+		 dataType:"JSON",
+		 success: function(data)
+				{ 	 
+				if(i!=0){
+					  clearInterval(waiting);
+				}
+					  if(data.sts=="1"){
+						 i=1;
+						  $("#tmbEndVc").html("Akhiri");
+						    clearInterval(waiting);
+						   $(".modal-dialog").addClass("modal-dialog-full");
+						   $(".modal-content").addClass("modal-content-full");
+						  // $("#type_modal_vicall").removeClass("modal-sm");
+						 $("#type_modal_vicall").addClass("modal-lg");
+						  $("#areaVicall").html(data.frame); 
+						//   $("#areaVicall").html('<button class="btn-block btn btn-danger" type="button" onclick="endVicall()">Akhiri panggil</button>'); 
+						//	  window.open(data.link, '_blank','width=600,height=400,left=200');
+					  //$("#tmbEndVc").hide();
+					  } 
+				}		
+		}); 
+ }
+ 
+ function endVicall(){ 
+ $("#mdl_vicall").modal("hide");
+	 $.ajax({
+		 url:"<?php echo site_url("chat/endVicall"); ?>", 
+		 method:"POST", 
+		 success: function(data)
+				{ 	
+					   
+				}		
+		}); 
+ }
+ 
+ function open_chat(){
+	 posisi="kontak";
+	 var link = document.getElementById("btnClose");
+	 link.setAttribute('href', "#");
+	  open=true;
+		$.ajax({
+		 url:"<?php echo site_url("chat/getRecent"); ?>", 
+		 method:"POST", 
+		 beforeSend: function() {
+			 $("#messages").removeClass("tab-chat tab-pane fade show active show-chat"); 
+			  $("#chat_namaKapal").html("Chatting");
+		},
+		 success: function(data)
+				{ 	
+					     document.getElementById("chatKri").click();
+					 	 $("#chatRecent").html(data);
+					 	 $("#isiChat").html("");
+					 	
+					 	 scroll();
+						
+						 //tab-chat tab-pane fade show active show-chat
+				}		
+		}); 
+		
+ }
+  
+   function type_teks(e)
+    { 
+		  
+	var inField=$("#type_teks").val();
+        var charCode;
+        if (e && e.which) {
+            charCode = e.which;
+        } else if (window.event) {
+            e = window.event;
+            charCode = e.keyCode;
+        }
+		
+		 
+        if (charCode == 13 && inField) {
+				 
+            sendChat(inField);
+        }
+
+    }
+	 
+	</script>
+	
+	
+<script>
+var id_sender;
+function chat(val,idsender=null,namakapal=null){
+	   document.getElementById("chatKri").click();
+var link = document.getElementById("btnClose");
+	 link.setAttribute('href', "javascript:open_chat()");
+	if(idsender){
+		id_sender = idsender;
+	}else{
+		id_sender = val.id_sender;
+	}
+	if(namakapal){
+		var nama_sender = namakapal;
+	}else{
+		var nama_sender = val.nama_sender;
+	}
+		if(open==false){
+		document.getElementById("chatKri").click();
+		}
+		
+		//open=true;	 
+		$("#chat_namaKapal").html(nama_sender);
+		$("#newChat").html("");
+		 
+		$.ajax({
+		 url:"<?php echo site_url("chat/getChat"); ?>",
+		 data:{id:id_sender},
+		 method:"POST",
+		 dataType:"JSON",
+		 beforeSend: function() {
+			 	$("#messages").addClass("tab-chat tab-pane fade show active show-chat"); 	
+		},
+		 success: function(data)
+				{ 	 
+						$("#isiChat").html(data.isi);
+						 scroll();
+				}		
+		}); 
+		 
+}
+ 
+ function scroll(){
+	  var element = document.getElementById("scrolmsg");
+	 element.scrollTop = element.scrollHeight;
+ }
+ function chatReplay(){ 
+	 var id = id_sender;
+	  $.ajax({
+		 url:"<?php echo site_url("chat/chatReplay"); ?>",
+		 data:{id_sender:id},
+		 method:"POST",
+		 dataType:"JSON",
+		 beforeSend: function() {
+			 
+		},
+		 success: function(data)
+				{ 		
+					if(data.isi){
+						$("#isiChat").append(data.isi); 
+						scroll(); 
+					}
+				}		
+		}); 
+ } 
+  
+ function callChat(){  
+	  $.ajax({
+		 url:"<?php echo site_url("chat/callChat"); ?>",  
+		 dataType:"JSON",
+		 beforeSend: function() {
+			 
+		},
+		 success: function(data)
+				{ 		
+				
+					if(data.isi){
+					$("#messages").addClass("tab-chat tab-pane fade show active show-chat"); 						
+						if(id_sender!=data.id_sender && open==true && posisi=="chat")
+						{//s	alert(open);
+							//document.getElementById("chatKri").click(); 
+						$("#newChat").html('<br><button onclick="open_chat()"  class="btn  btn-primary btn-border btn-round"> <i class="fa fa-envelope"></i> Anda memili pesan baru </button>');
+						
+						}else{
+							
+								posisi="chat"
+								open=true;
+								document.getElementById("chatKri").click();
+								chat(data);
+								chatReplay(); 
+							}
+						}
+				}		
+		}); 
+ }
+ 
+  $( document ).ready(function() { 
+    set_aktif();  
+//$("#messages").removeClass("show-chat"); 
+ setInterval(function(){ callChat(); }, 4000);
+ setInterval(function(){ set_aktif(); }, 12000); //120000
+});
+	
+</script>
+
+
+<script>
+ 
+ function set_aktif(){ 
+	 $.ajax({
+		 url:"<?php echo site_url("chat/set_aktif"); ?>", 
+		 method:"POST",
+		 dataType:"JSON", 
+		 success: function(data)
+				{ 		
+				 
+				}		
+		}); 
+ }
+ function sendChat(text){
+	  posisi="chat";
+	  open=true;
+	 $.ajax({
+		 url:"<?php echo site_url("chat/saveChat"); ?>",
+		 data:{id_sender:id_sender,msg:text},
+		 method:"POST",
+		 dataType:"JSON",
+		 beforeSend: function() {
+			 
+		},
+		 success: function(data)
+				{ 		
+				$("#isiChat").append(data.isi);
+				$("#type_teks").val(""); 
+				 	  scroll();
+						  
+				}		
+		}); 
+ }
+</script>
+ 
+				
+				 <div class="quick-sidebar">
+			<a id="btnClose" href="javascript:open_chat()" class="close-quick-sidebar">
 				<i class="flaticon-cross"></i>
 			</a>
 			<div class="quick-sidebar-wrapper">
 				<ul class="nav nav-tabs nav-line nav-color-secondary" role="tablist">
-					<li class="nav-item"> <a class="nav-link active show" data-toggle="tab" href="#messages" role="tab" aria-selected="true">Messages</a> </li>
-					<li class="nav-item"> <a class="nav-link" data-toggle="tab" href="#tasks" role="tab" aria-selected="false">Tasks</a> </li>
-					<li class="nav-item"> <a class="nav-link" data-toggle="tab" href="#settings" role="tab" aria-selected="false">Settings</a> </li>
+					<li class="nav-item"> <a class="nav-link active show" data-toggle="tab" href="#messages" role="tab" aria-selected="true"><span id="chat_namaKapal">KRI 20</span></a> </li>
 				</ul>
 				<div class="tab-content mt-3">
-					<div class="tab-chat tab-pane fade show active" id="messages" role="tabpanel">
-						<div class="messages-contact">
-							<div class="quick-wrapper">
-								<div class="quick-scroll scrollbar-outer">
-									<div class="quick-content contact-content">
-										<span class="category-title mt-0">Contacts</span>
-										<div class="avatar-group">
-											<div class="avatar">
-												<img src="../assets/img/jm_denis.jpg" alt="..." class="avatar-img rounded-circle border border-white">
+					<div class="tab-chat tab-pane fade show active show-chat"  id="messages" role="tabpanel"> 
+					
+					<div id="chatRecent">
+					</div>
+					
+						<div class="messages-wrapper"> 
+							<div  id="scrolmsg" class="messages-body messages-scroll scrollbar-outer"  >
+							
+							
+										<div class="message-content-wrapper">
+												<div class="message message-in" style='visibility:hidden'>
+													<div class="avatar avatar-sm">
+														<img src="<?php echo base_url()?>theme/atlantis/img/chadengle.jpg" alt="..." class="avatar-img rounded-circle border border-white">
+													</div>
+													<div class="message-body">
+														<div class="message-content">
+															<div class="name">Chad</div>
+															<div class="content">Hello, Rian</div>
+														</div> 
+														<div class="date">12.31</div>
+													</div>
+												</div>
 											</div>
-											<div class="avatar">
-												<img src="../assets/img/chadengle.jpg" alt="..." class="avatar-img rounded-circle border border-white">
-											</div>
-											<div class="avatar">
-												<img src="../assets/img/mlane.jpg" alt="..." class="avatar-img rounded-circle border border-white">
-											</div>
-											<div class="avatar">
-												<img src="../assets/img/talha.jpg" alt="..." class="avatar-img rounded-circle border border-white">
-											</div>
-											<div class="avatar">
-												<span class="avatar-title rounded-circle border border-white">+</span>
-											</div>
-										</div>
-										<span class="category-title">Recent</span>
-										<div class="contact-list contact-list-recent">
-											<div class="user">
-												<a href="#">
-													<div class="avatar avatar-online">
-														<img src="../assets/img/jm_denis.jpg" alt="..." class="avatar-img rounded-circle border border-white">
+											<div class="message-content-wrapper"  style='visibility:hidden'>
+													<div class="message message-out">
+														<div class="message-body">
+															<div class="message-content">
+																<div class="content">
+																	Hello, Chad
+																</div>
+															</div>
+															<div class="message-content">
+																<div class="content">
+																	What's up?
+																</div>
+															</div>
+															<div class="date">12.35</div>
+														</div>
 													</div>
-													<div class="user-data">
-														<span class="name">Jimmy Denis</span>
-														<span class="message">How are you ?</span>
-													</div>
-												</a>
-											</div>
-											<div class="user">
-												<a href="#">
-													<div class="avatar avatar-offline">
-														<img src="../assets/img/chadengle.jpg" alt="..." class="avatar-img rounded-circle border border-white">
-													</div>
-													<div class="user-data">
-														<span class="name">Chad</span>
-														<span class="message">Ok, Thanks !</span>
-													</div>
-												</a>
-											</div>
-											<div class="user">
-												<a href="#">
-													<div class="avatar avatar-offline">
-														<img src="../assets/img/mlane.jpg" alt="..." class="avatar-img rounded-circle border border-white">
-													</div>
-													<div class="user-data">
-														<span class="name">John Doe</span>
-														<span class="message">Ready for the meeting today with...</span>
-													</div>
-												</a>
-											</div>
-										</div>
-										<span class="category-title">Other Contacts</span>
-										<div class="contact-list">
-											<div class="user">
-												<a href="#">
-													<div class="avatar avatar-online">
-														<img src="../assets/img/jm_denis.jpg" alt="..." class="avatar-img rounded-circle border border-white">
-													</div>
-													<div class="user-data2">
-														<span class="name">Jimmy Denis</span>
-														<span class="status">Online</span>
-													</div>
-												</a>
-											</div>
-											<div class="user">
-												<a href="#">
-													<div class="avatar avatar-offline">
-														<img src="../assets/img/chadengle.jpg" alt="..." class="avatar-img rounded-circle border border-white">
-													</div>
-													<div class="user-data2">
-														<span class="name">Chad</span>
-														<span class="status">Active 2h ago</span>
-													</div>
-												</a>
-											</div>
-											<div class="user">
-												<a href="#">
-													<div class="avatar avatar-away">
-														<img src="../assets/img/talha.jpg" alt="..." class="avatar-img rounded-circle border border-white">
-													</div>
-													<div class="user-data2">
-														<span class="name">Talha</span>
-														<span class="status">Away</span>
-													</div>
-												</a>
-											</div>
-										</div>
-									</div>
-								</div>
+												</div>
+								
+					 <div id="isiChat">
+						<span id="chat_group_sender"></span>
+					 </div>
+							 
+								 
 							</div>
-						</div>
-						<div class="messages-wrapper">
-							<div class="messages-title">
-								<div class="user">
-									<div class="avatar avatar-offline float-right ml-2">
-										<img src="../assets/img/chadengle.jpg" alt="..." class="avatar-img rounded-circle border border-white">
-									</div>
-									<span class="name">Chad</span>
-									<span class="last-active">Active 2h ago</span>
-								</div>
-								<button class="return">
-									<i class="flaticon-left-arrow-3"></i>
-								</button>
-							</div>
-							<div class="messages-body messages-scroll scrollbar-outer">
-								<div class="message-content-wrapper">
-									<div class="message message-in">
-										<div class="avatar avatar-sm">
-											<img src="../assets/img/chadengle.jpg" alt="..." class="avatar-img rounded-circle border border-white">
-										</div>
-										<div class="message-body">
-											<div class="message-content">
-												<div class="name">Chad</div>
-												<div class="content">Hello, Rian</div>
-											</div>
-											<div class="date">12.31</div>
-										</div>
-									</div>
-								</div>
-								<div class="message-content-wrapper">
-									<div class="message message-out">
-										<div class="message-body">
-											<div class="message-content">
-												<div class="content">
-													Hello, Chad
-												</div>
-											</div>
-											<div class="message-content">
-												<div class="content">
-													What's up?
-												</div>
-											</div>
-											<div class="date">12.35</div>
-										</div>
-									</div>
-								</div>
-								<div class="message-content-wrapper">
-									<div class="message message-in">
-										<div class="avatar avatar-sm">
-											<img src="../assets/img/chadengle.jpg" alt="..." class="avatar-img rounded-circle border border-white">
-										</div>
-										<div class="message-body">
-											<div class="message-content">
-												<div class="name">Chad</div>
-												<div class="content">
-													Thanks
-												</div>
-											</div>
-											<div class="message-content">
-												<div class="content">
-													When is the deadline of the project we are working on ?
-												</div>
-											</div>
-											<div class="date">13.00</div>
-										</div>
-									</div>
-								</div>
-								<div class="message-content-wrapper">
-									<div class="message message-out">
-										<div class="message-body">
-											<div class="message-content">
-												<div class="content">
-													The deadline is about 2 months away
-												</div>
-											</div>
-											<div class="date">13.10</div>
-										</div>
-									</div>
-								</div>
-								<div class="message-content-wrapper">
-									<div class="message message-in">
-										<div class="avatar avatar-sm">
-											<img src="../assets/img/chadengle.jpg" alt="..." class="avatar-img rounded-circle border border-white">
-										</div>
-										<div class="message-body">
-											<div class="message-content">
-												<div class="name">Chad</div>
-												<div class="content">
-													Ok, Thanks !
-												</div>
-											</div>
-											<div class="date">13.15</div>
-										</div>
-									</div>
-								</div>
-							</div>
+						 
 							<div class="messages-form">
 								<div class="messages-form-control">
-									<input type="text" placeholder="Type here" class="form-control input-pill input-solid message-input">
+									<input onkeyup="type_teks()" id="type_teks" type="text" placeholder="Type here" class="form-control input-pill input-solid message-input">
 								</div>
-								<div class="messages-form-tool">
+							<!--	<div class="messages-form-tool">
 									<a href="#" class="attachment">
 										<i class="flaticon-file"></i>
 									</a>
-								</div>
+								</div>--> 
+								
 							</div>
+							<div id="newChat"></div>
 						</div>
 					</div>
-					<div class="tab-pane fade" id="tasks" role="tabpanel">
-						<div class="quick-wrapper tasks-wrapper">
-							<div class="tasks-scroll scrollbar-outer">
-								<div class="tasks-content">
-									<span class="category-title mt-0">Today</span>
-									<ul class="tasks-list">
-										<li>
-											<label class="custom-checkbox custom-control checkbox-secondary">
-												<input type="checkbox" checked="" class="custom-control-input"><span class="custom-control-label">Planning new project structure</span>
-												<span class="task-action">
-													<a href="#" class="link text-danger">
-														<i class="flaticon-interface-5"></i>
-													</a>
-												</span>
-											</label>
-										</li>
-										<li>
-											<label class="custom-checkbox custom-control checkbox-secondary">
-												<input type="checkbox" class="custom-control-input"><span class="custom-control-label">Create the main structure							</span>
-												<span class="task-action">
-													<a href="#" class="link text-danger">
-														<i class="flaticon-interface-5"></i>
-													</a>
-												</span>
-											</label>
-										</li>
-										<li>
-											<label class="custom-checkbox custom-control checkbox-secondary">
-												<input type="checkbox" class="custom-control-input"><span class="custom-control-label">Add new Post</span>
-												<span class="task-action">
-													<a href="#" class="link text-danger">
-														<i class="flaticon-interface-5"></i>
-													</a>
-												</span>
-											</label>
-										</li>
-										<li>
-											<label class="custom-checkbox custom-control checkbox-secondary">
-												<input type="checkbox" class="custom-control-input"><span class="custom-control-label">Finalise the design proposal</span>
-												<span class="task-action">
-													<a href="#" class="link text-danger">
-														<i class="flaticon-interface-5"></i>
-													</a>
-												</span>
-											</label>
-										</li>
-									</ul>
-
-									<span class="category-title">Tomorrow</span>
-									<ul class="tasks-list">
-										<li>
-											<label class="custom-checkbox custom-control checkbox-secondary">
-												<input type="checkbox" class="custom-control-input"><span class="custom-control-label">Initialize the project							</span>
-												<span class="task-action">
-													<a href="#" class="link text-danger">
-														<i class="flaticon-interface-5"></i>
-													</a>
-												</span>
-											</label>
-										</li>
-										<li>
-											<label class="custom-checkbox custom-control checkbox-secondary">
-												<input type="checkbox" class="custom-control-input"><span class="custom-control-label">Create the main structure							</span>
-												<span class="task-action">
-													<a href="#" class="link text-danger">
-														<i class="flaticon-interface-5"></i>
-													</a>
-												</span>
-											</label>
-										</li>
-										<li>
-											<label class="custom-checkbox custom-control checkbox-secondary">
-												<input type="checkbox" class="custom-control-input"><span class="custom-control-label">Updates changes to GitHub							</span>
-												<span class="task-action">
-													<a href="#" class="link text-danger">
-														<i class="flaticon-interface-5"></i>
-													</a>
-												</span>
-											</label>
-										</li>
-										<li>
-											<label class="custom-checkbox custom-control checkbox-secondary">
-												<input type="checkbox" class="custom-control-input"><span title="This task is too long to be displayed in a normal space!" class="custom-control-label">This task is too long to be displayed in a normal space!				</span>
-												<span class="task-action">
-													<a href="#" class="link text-danger">
-														<i class="flaticon-interface-5"></i>
-													</a>
-												</span>
-											</label>
-										</li>
-									</ul>
-
-									<div class="mt-3">
-										<div class="btn btn-primary btn-rounded btn-sm">
-											<span class="btn-label">
-												<i class="fa fa-plus"></i>
-											</span>
-											Add Task
-										</div>
-									</div>
-								</div>
-							</div>
-						</div>
-					</div>
-					<div class="tab-pane fade" id="settings" role="tabpanel">
-						<div class="quick-wrapper settings-wrapper">
-							<div class="quick-scroll scrollbar-outer">
-								<div class="quick-content settings-content">
-
-									<span class="category-title mt-0">General Settings</span>
-									<ul class="settings-list">
-										<li>
-											<span class="item-label">Enable Notifications</span>
-											<div class="item-control">
-												<input type="checkbox" checked data-toggle="toggle" data-onstyle="primary" data-style="btn-round">
-											</div>
-										</li>
-										<li>
-											<span class="item-label">Signin with social media</span>
-											<div class="item-control">
-												<input type="checkbox" data-toggle="toggle" data-onstyle="primary" data-style="btn-round">
-											</div>
-										</li>
-										<li>
-											<span class="item-label">Backup storage</span>
-											<div class="item-control">
-												<input type="checkbox" data-toggle="toggle" data-onstyle="primary" data-style="btn-round">
-											</div>
-										</li>
-										<li>
-											<span class="item-label">SMS Alert</span>
-											<div class="item-control">
-												<input type="checkbox" checked data-toggle="toggle" data-onstyle="primary" data-style="btn-round">
-											</div>
-										</li>
-									</ul>
-
-									<span class="category-title mt-0">Notifications</span>
-									<ul class="settings-list">
-										<li>
-											<span class="item-label">Email Notifications</span>
-											<div class="item-control">
-												<input type="checkbox" checked data-toggle="toggle" data-onstyle="primary" data-style="btn-round">
-											</div>
-										</li>
-										<li>
-											<span class="item-label">New Comments</span>
-											<div class="item-control">
-												<input type="checkbox" checked data-toggle="toggle" data-onstyle="primary" data-style="btn-round">
-											</div>
-										</li>
-										<li>
-											<span class="item-label">Chat Messages</span>
-											<div class="item-control">
-												<input type="checkbox" checked data-toggle="toggle" data-onstyle="primary" data-style="btn-round">
-											</div>
-										</li>
-										<li>
-											<span class="item-label">Project Updates</span>
-											<div class="item-control">
-												<input type="checkbox" data-toggle="toggle" data-onstyle="primary" data-style="btn-round">
-											</div>
-										</li>
-										<li>
-											<span class="item-label">New Tasks</span>
-											<div class="item-control">
-												<input type="checkbox" checked data-toggle="toggle" data-onstyle="primary" data-style="btn-round">
-											</div>
-										</li>
-									</ul>
-								</div>
-							</div>
-						</div>
-					</div>
+					
 				</div>
 			</div>
 		</div>
 
-    
-               
-				
+
+
+
+
+
+
+
+
+
+
+
+<style>
+.modal-dialog-full {
+  min-width: 90%;
+  min-height: 90%;
+  margin-left:5%;
+  margin-top:2%;
+  padding: 0;
+  background-color:white;
+}
+
+.modal-content-full {
+  height: auto;
+  min-height: 90%;
+  border-radius: 0;
+   background-color:white;
+}
+</style>
+
+<!-- modal -->
+<div class="modal fade" id="mdl_vicall" >
+<div class="modal-dialog"   id="type_modal_vicall"> 
+  <div class="modal-content" >
+	<div class="modal-header">
+	  <h4 class="modal-title" id="receiver_vc">  </h4>
+	  <button id="tmbEndVc" class="btn btn-danger btn-sm" type="button" onclick="endVicall()"  >
+	 	Akhiri
+	  </button>
+	</div>
+	 <div class="modal-body" id="areaVicall">
+     <center>  <div id="vicallReceiver" style="font-weight:bold"></div>
+	<br>
+	<i>sedang menyambungkan.....</i>
+	
+	</center>
+	</div>
+	  
+  </div>
+  <!-- /.modal-content -->
+</div>
+<!-- /.modal-dialog -->
+</div>
+<!-- /.modal -->

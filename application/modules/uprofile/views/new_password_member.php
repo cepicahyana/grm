@@ -1,4 +1,4 @@
-
+<input type="hidden" value="n" id="modaltype">
 					<div id="area_lod" class="row">
 						<div class="col-md-12">
 							<div class="card">
