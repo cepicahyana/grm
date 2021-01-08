@@ -129,6 +129,7 @@ class Model extends ci_Model
 		$id_sender		=	$this->idu();
 		$topik			=	$this->m_reff->acak(20);
 		$this->db->set("id_sender",$id_sender);
+		$this->db->set("sts",0);
 		$this->db->set("id_receiver",$id_receiver);
 		$this->db->set("topik","https://meet.jit.si/".$topik);
 		$this->db->set("tgl",date('Y-m-d H:i:s'));

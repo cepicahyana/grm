@@ -26,8 +26,13 @@ class Chat extends CI_Controller {
 							<iframe allow="camera; microphone; fullscreen; display-capture" src="'.$topik.'" style="height: 500px; width: 100%; border: 0px;"></iframe>
 							 ';
 		
-		$var["sts"]		= 	isset($data->sts)?($data->sts):0;
+		$var["sts"]		= 	$sts=isset($data->sts)?($data->sts):0;
 		$var["frame"] 	=   $topik;
+		if($sts==1){
+			$this->db->set("sts",2);
+			$this->db->where("id",$data->id);
+			$this->db->update("data_vicall");
+		}
 		echo json_encode($var);
 	}
 	function cekVcKri(){

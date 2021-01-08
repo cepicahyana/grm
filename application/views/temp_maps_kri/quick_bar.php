@@ -295,10 +295,12 @@ function cekVc(){
 		 dataType:"JSON", 
 		 success: function(data)
 				{ 		
-				
+				if(!data.nama_sender){
+					 $("#mdl_vicall").modal("hide");
+				}
 					 if(data.sts==0 && data.nama_sender){
 						$("#mdl_vicall").modal({backdrop: 'static', keyboard: false});
-						 
+						
 							$("#receiver_vc").html(data.nama_sender+" menghubungi anda...");
 							$(".modal-dialog").removeClass("modal-dialog-full");
 							$(".modal-content").removeClass("modal-content-full");
@@ -309,7 +311,7 @@ function cekVc(){
 								 $("#mdl_vicall").modal({backdrop: 'static', keyboard: false});
 								 $("#vicallReceiver").html(data.nama_sender); 
 								 $("#areaVicall").html("<button onclick='terima_vc(`"+data.nama_sender+"`,`"+data.frame+"`,`"+data.link+"`)' class='btn-block btn btn-primary'><i class='fa fa-video'></i> Terima</button>"); 
-						 
+								bel();
 					 }
 				 
 				}		
@@ -351,6 +353,13 @@ function endVicall(){
 				}		
 		}); 
  }
+ 
+ function bel(){    
+		 var audio = new Audio("<?php echo base_url()?>sound/bel.mp3");
+	 	audio.oncanplaythrough = function() { };
+		audio.onended = function ( ) { };
+		  audio.play(); 
+};
 </script>
 
 

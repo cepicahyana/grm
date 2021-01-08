@@ -60,6 +60,7 @@ var waiting;
 					  clearInterval(waiting);
 				}
 					  if(data.sts=="1"){
+						  update_vicall();
 						 i=1;
 						  $("#tmbEndVc").html("Akhiri");
 						    clearInterval(waiting);
